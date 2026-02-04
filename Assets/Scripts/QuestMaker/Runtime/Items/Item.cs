@@ -1,11 +1,18 @@
+using System;
 using UnityEngine;
+using UnityEditor;
 
 namespace QuestMaker.Runtime
 {
-    public class Item
+    [CreateAssetMenu(menuName = "QuestMaker/Item")]
+
+    public class Item : ScriptableObject
     {
         public string ID { get; private set; }
         public string Name { get; private set; }
+
+        [SerializeField] private string id;
+        [SerializeField] private string itemName;
 
         public Item(string id, string name)
         {

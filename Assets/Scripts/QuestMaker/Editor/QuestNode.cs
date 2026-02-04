@@ -151,7 +151,7 @@ namespace QuestMaker.Editor.Nodes
         {
 
             context.AddOption(PREREQUISITE_TYPE_OPTION, typeof(PrerequisiteType))
-                .WithDisplayName("Acquisition Method")
+                .WithDisplayName("Prerequisite")
                 .WithDefaultValue(PrerequisiteType.None)
                 .WithTooltip("The type of Prerequisite for acquiring the quest")
                 .Build();
@@ -245,7 +245,7 @@ namespace QuestMaker.Editor.Nodes
         {
 
             context.AddOption(QUEST_OBJECTIVE_OPTION, typeof(QuestObjective))
-                .WithDisplayName("Acquisition Method")
+                .WithDisplayName("Quest Objective")
                 .WithDefaultValue(QuestObjective.Slay)
                 .WithTooltip("The Objective of the quest")
                 .Build();
@@ -349,6 +349,7 @@ namespace QuestMaker.Editor.Nodes
         private const string EXP_INPUT = "ExpReward";
         private const string CURRENCY_INPUT = "CurrencyReward";
         private const string ITEM_ID_INPUT = "ItemID";
+        private const string ITEM_INPUT = "Item";
         private const string SKILL_ID_INPUT = "SkillID";
         public enum RewardType
         {
@@ -362,10 +363,11 @@ namespace QuestMaker.Editor.Nodes
         {
 
             context.AddOption(REWARD_TYPE_OPTION, typeof(RewardType))
-                .WithDisplayName("Acquisition Method")
+                .WithDisplayName("Reward Type")
                 .WithDefaultValue(RewardType.Exp)
                 .WithTooltip("The type of the reward.")
                 .Build();
+
         }
 
         protected override void OnDefinePorts(IPortDefinitionContext context)
@@ -398,10 +400,10 @@ namespace QuestMaker.Editor.Nodes
 
                 case RewardType.Item:
 
-                    context.AddInputPort(ITEM_ID_INPUT)
-                        .WithDataType(typeof(string))
-                        .WithDefaultValue(default)
-                        .WithDisplayName("Item ID")
+                    context.AddInputPort(ITEM_INPUT)
+                        .WithDataType(typeof(Item))
+                        .WithDefaultValue(null)
+                        .WithDisplayName("Item")
                         .WithConnectorUI(PortConnectorUI.Circle)
                         .Build();
 
