@@ -5,7 +5,7 @@ using UnityEditor;
 namespace QuestMaker.Runtime
 {
     [CreateAssetMenu(menuName = "QuestMaker/Item")]
-
+    [Serializable]
     public class Item : ScriptableObject
     {
         public string ID { get; private set; }

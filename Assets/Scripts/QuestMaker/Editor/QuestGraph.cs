@@ -9,7 +9,7 @@ namespace QuestMaker.Editor.Graphs
     [Graph(AssetExtension)]
     public class QuestGraph : Graph
     {
-        public const string AssetExtension = "questgraph";
+        public const string AssetExtension = "qmkgraph";
 
         [MenuItem("Assets/Create/QuestToolkit/Quest Graph", false)]
         private static void CreateAssetFile()
