@@ -1,11 +1,12 @@
 ﻿using QuestMaker.Runtime.Data;
 using System;
-namespace QuestMaker.Editor.QuestCompiler
+namespace QuestMaker.Editor.Compiler
 {
+    [Serializable]
     internal class QuestCompilationContext
     {
         private QuestData data;
-        public QuestData QuestData { get { return data; } }
+        public QuestData QuestData { get => data; } 
 
         public QuestCompilationContext() 
         {

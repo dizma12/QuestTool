@@ -28,7 +28,7 @@ namespace QuestMaker.Editor.Nodes
         {
             context.AddOutputPort(OUTPUT_PORT)
                 .WithDataType(typeof(QMFlowHelper))
-                .WithDisplayName(INPUT_PORT)
+                .WithDisplayName(OUTPUT_PORT)
                 .WithConnectorUI(PortConnectorUI.Arrowhead)
                 .Build();
         }
