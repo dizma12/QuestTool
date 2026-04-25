@@ -6,19 +6,20 @@ using System;
 
 namespace QuestMaker.Editor.Nodes
 {
-    internal class QMPrerequisiteItemNode : QMBaseOptionNode<PrerequisiteData>
+    internal class QMPrerequisiteItemNode : QMBaseOptionNode
     {
         public Item Item = null;
 
         public override Type PortType => typeof(PrerequisiteData);
 
 
-        public override PrerequisiteData Compose(QuestCompilationContext cntx)
+        public override void Compose(QuestCompilationContext cntx)
         {
-            return new ItemPrerequisiteData
+            var preq = new ItemPrerequisiteData
             {
                 Item = this.Item
             };
+            cntx.AddQuestPrerequisite(preq);
         }
 
         protected override void OnDefineOptions(IOptionDefinitionContext context)

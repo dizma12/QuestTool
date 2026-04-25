@@ -5,14 +5,14 @@ using Unity.GraphToolkit.Editor;
 
 namespace QuestMaker.Editor.Nodes
 {
-    internal abstract class QMBaseOptionNode<T> : QMBaseNode , IComposableNode<T>
+    internal abstract class QMBaseOptionNode : QMBaseNode , IComposableNode
     {
         public const string OPTION_NODE_FLOW_INPUT_PORT = "Option_Flow_Input";
         public const string OPTION_NODE_PORT = "Option_Input";  
         
         public virtual string OPTION_NODE_INPUT_DISPLAY_NAME { get => QMBaseNode.INPUT_PORT; }
 
-        public abstract T Compose(QuestCompilationContext cntx);
+        public abstract void Compose(QuestCompilationContext cntx);
 
 
         protected override void OnDefinePorts(IPortDefinitionContext context)

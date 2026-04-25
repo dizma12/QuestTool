@@ -1,5 +1,6 @@
 ﻿using QuestMaker.Runtime.Data;
 using System;
+using UnityEngine;
 namespace QuestMaker.Editor.Compiler
 {
     [Serializable]
@@ -25,7 +26,10 @@ namespace QuestMaker.Editor.Compiler
         }
 
         public void AddQuestPrerequisite(PrerequisiteData prereq)
-            => data.Prerequisites.Add(prereq);
+        {
+            data.Prerequisites.Add(prereq);
+            Debug.Log($"Added prerecquisite of type {prereq.GetType()}");
+        }
 
         public void AddQuestReward(RewardData reward)
             => data.Rewards.Add(reward);

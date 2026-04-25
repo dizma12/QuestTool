@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace QuestMaker.Editor.Compiler
 {
-    internal interface IComposableNode<out T>
+    internal interface IComposableNode
     {
-        T Compose(QuestCompilationContext cntx);
+        void Compose(QuestCompilationContext cntx);
     }
 }

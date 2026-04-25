@@ -1,19 +1,20 @@
-﻿using UnityEngine;
+﻿using NUnit.Framework;
 using QuestMaker.Editor.Graph;
 using QuestMaker.Editor.Nodes;
-using System.Linq;
 using System.Collections;
-using NUnit.Framework;
-using Unity.GraphToolkit.Editor;
 using System.Collections.Generic;
+using System.Linq;
+using Unity.GraphToolkit.Editor;
+using UnityEditor.Experimental.GraphView;
+using UnityEngine;
 
 namespace QuestMaker.Editor.Compiler
 {
-    
-    public class QuestCompiler 
+
+    public class QuestCompiler
     {
         public QMGraph Graph { get; set; } = null;
-
+        private QuestCompilationContext context = new();
 
         public QuestCompiler(QMGraph graph)
         {
@@ -22,35 +23,61 @@ namespace QuestMaker.Editor.Compiler
 
         public void CompileQuestGraph()
         {
-            var x = Graph.GetNodes();
+            IEnumerable<INode> graphNodes = Graph.GetNodes();
 
-            if (x.Count() <= 0) return;
-            
-            var startNode = x.FirstOrDefault(node => node is QMStartingNode);
+            if (graphNodes.Count() <= 0) return;
 
-            if(startNode != null)
-            {
-                Debug.Log($"Found starting node {startNode.GetType()}"); 
-            }
+            INode startNode = LocateStartingNode(graphNodes);
 
-           var prt = startNode.GetOutputPortByName(QMBaseNode.OUTPUT_PORT);
+            IPort flowPort = startNode.GetOutputPortByName(QMBaseNode.OUTPUT_PORT);
+
             List<IPort> connectedPorts = new();
+            flowPort.GetConnectedPorts(connectedPorts);
+            Debug.Log($"Connected ports: {connectedPorts.Count}");
 
-            prt.GetConnectedPorts(connectedPorts);
-
-            foreach( var port in connectedPorts )
+            foreach (var port in connectedPorts)
             {
                 INode portOwnerNode = port.GetNode();
-                
-                var p = portOwnerNode.GetType();
-                Debug.Log(p);
-                if(portOwnerNode.OutputPortCount > 0 )
+                if (portOwnerNode == null) Debug.Log("Node is null");
+                else Debug.Log($"Found node of type {portOwnerNode.GetType()}");
+
+                if (portOwnerNode is QMBaseHubNode hub)
                 {
-                    prt = portOwnerNode.GetOutputPortByName(QMBaseHubNode.HUB_OUTPUT_PORT);
+                    IPort hubOutputPort = hub.GetOutputPortByName(QMBaseHubNode.HUB_OUTPUT_PORT);
+
+                    List<IPort> optionPorts = new();
+                    hubOutputPort.GetConnectedPorts(optionPorts);
+
+                    IEnumerable<IComposableNode> composableNodes = optionPorts
+                        .Select(n => n.GetNode())
+                        .OfType<IComposableNode>();
+
+                    foreach (var composable in composableNodes) 
+                    {
+                        composable.Compose(context);
+                    }
 
                 }
-                
+
+                //var p = portOwnerNode.GetType();
+                //Debug.Log(p);
+                //if(portOwnerNode.OutputPortCount > 0 )
+                //{
+                //    prt = portOwnerNode.GetOutputPortByName(QMBaseHubNode.HUB_OUTPUT_PORT);
+
+                //}
+
             }
+        }
+        private INode LocateStartingNode(IEnumerable<INode> nodes)
+        {
+            INode startNode = nodes.FirstOrDefault(node => node is QMStartingNode);
+
+            if (startNode != null)
+                Debug.Log($"Found starting node {startNode.GetType()}");
+            
+            return startNode;
         }
     }
 }
+
