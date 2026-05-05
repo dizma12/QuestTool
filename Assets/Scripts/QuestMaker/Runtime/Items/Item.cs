@@ -13,7 +13,7 @@ namespace QuestMaker.Runtime
 
         [SerializeField] private string id;
         [SerializeField] private string itemName;
-
+        public string ItemName => itemName;
         public Item(string id, string name)
         {
             ID = id;

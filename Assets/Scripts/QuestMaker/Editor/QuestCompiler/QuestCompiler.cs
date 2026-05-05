@@ -1,7 +1,6 @@
-﻿using Codice.CM.Common.Tree.Partial;
+﻿using QuestMaker.Editor.Compiler.CompilationModules;
 using QuestMaker.Editor.Graph;
 using QuestMaker.Editor.Nodes;
-using QuestMaker.Editor.Utility;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -15,6 +14,7 @@ namespace QuestMaker.Editor.Compiler
     {
         public QMGraph Graph { get; set; } = null;
         private QuestCompilationContext context = new();
+        private QuestModuleContext cntx = new();
         private HashSet<Type> proccessedHubs = new();
         public QuestCompiler(QMGraph graph)
         {
@@ -47,9 +47,9 @@ namespace QuestMaker.Editor.Compiler
                         proccessedHubs.Add(portOwnerNodeType);
                     else return;
 
-                    var interfaceType = QMGraphUtility.GetTypeFromGenericInterface(portOwnerNodeType, typeof(IHubNodeCollector<>));
+                    //var interfaceType = QMGraphUtility.GetTypeFromGenericInterface(portOwnerNodeType, typeof(IHubNodeCollector<>));
 
-                    Debug.Log($"The type of interace is: {interfaceType}");
+                    //Debug.Log($"The type of interace is: {interfaceType}");
 
                     IPort hubOutputPort = portOwnerNode.GetOutputPortByName(QMBaseHubNode.HUB_OUTPUT_PORT);
 
@@ -62,10 +62,8 @@ namespace QuestMaker.Editor.Compiler
 
                     foreach (var composable in composableNodes)
                     {
-                        composable.Compose(context);
+                        composable.Compose(cntx);
                     }
-
-                
 
                 //var p = portOwnerNode.GetType();
                 //Debug.Log(p);
@@ -77,6 +75,13 @@ namespace QuestMaker.Editor.Compiler
 
             }
 
+            var q = cntx.Build();
+
+
+            Debug.Log($"Level Prereq= {q.LevelPrereq}");
+
+            if(q.ItemPrereq != null)
+                Debug.Log($"Item Prereq= {q.ItemPrereq.First().ItemName}");
 
         }
         private INode LocateStartingNode(IEnumerable<INode> nodes)
@@ -91,18 +96,19 @@ namespace QuestMaker.Editor.Compiler
 
         private bool CanProccessTypeOfHubNode(INode hub)
         {
+            Type hubType = hub.GetType();
             if(hub is not QMBaseHubNode)
             {
-                Debug.LogWarning($"Invalid type {hub}");
+                Debug.LogWarning($"Invalid type {hubType}");
                 return false;
             }
-            if(proccessedHubs.Contains(hub.GetType()))
+            if(proccessedHubs.Contains(hubType))
             {
 
-                Debug.LogWarning($"Already proccessed a hub of type {hub}");
+                Debug.LogWarning($"Already proccessed a hub of type {hubType}");
                 return false;
             }
-            Debug.LogWarning($"Proccessing hub of type {hub}");
+            Debug.LogWarning($"Proccessing hub of type {hubType}");
             return true;
         }
     }

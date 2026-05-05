@@ -1,8 +1,8 @@
-﻿using QuestMaker.Editor.Compiler;
+﻿using QuestMaker.Editor.Compiler.CompilationModules;
 using QuestMaker.Runtime.Data;
-using QuestMaker.Runtime.Data.QuestPrerequisites;
 using System;
-
+using Unity.GraphToolkit.Editor;
+using UnityEngine;
 namespace QuestMaker.Editor.Nodes
 {
     [Serializable]
@@ -12,15 +12,24 @@ namespace QuestMaker.Editor.Nodes
 
         public override Type PortType { get => typeof(PrerequisiteData); }
 
-        public override void Compose(QuestCompilationContext cntx)
+        public override void Compose(QuestModuleContext cntx)
         {
-            var preq = new LevelPrerequisiteData
-            {
-                Level = this.Level
-            };
-            cntx.AddQuestPrerequisite(preq);
 
+            Level = ReadNodeOption<int>();
+
+            Debug.Log($"Composing From Node= {GetType().Name}");
+            cntx.GetModule<PrerequisiteModule>().SetLevelPrerequisite(Level);
         }
+
+        //public override void Compose(QuestCompilationContext cntx)
+        //{
+        //    var preq = new LevelPrerequisiteData
+        //    {
+        //        Level = this.Level
+        //    };
+        //    cntx.AddQuestPrerequisite(preq);
+
+        //}
 
         protected override void OnDefineOptions(IOptionDefinitionContext context)
         {

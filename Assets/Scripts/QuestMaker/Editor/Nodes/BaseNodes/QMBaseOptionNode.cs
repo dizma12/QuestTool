@@ -3,6 +3,7 @@ using QuestMaker.Editor.Compiler;
 using System;
 using Unity.GraphToolkit.Editor;
 using QuestMaker.Runtime.Data;
+using QuestMaker.Editor.Compiler.CompilationModules;
 
 namespace QuestMaker.Editor.Nodes
 {
@@ -14,7 +15,7 @@ namespace QuestMaker.Editor.Nodes
         
         public virtual string OPTION_NODE_INPUT_DISPLAY_NAME { get => QMBaseNode.INPUT_PORT; }
 
-        public abstract void Compose(QuestCompilationContext cntx);
+        public abstract void Compose(QuestModuleContext cntx);
 
         
         protected override void OnDefinePorts(IPortDefinitionContext context)
@@ -25,6 +26,14 @@ namespace QuestMaker.Editor.Nodes
                 .WithConnectorUI(PortConnectorUI.Arrowhead)
                 .WithDefaultValue(default)
                 .Build();
+        }
+
+        protected T ReadNodeOption<T>(string optionName = OPTION_NODE_PORT)
+        {
+            INodeOption option = GetNodeOptionByName(optionName);
+
+            option.TryGetValue(out T val);
+            return val;
         }
     }
 }

@@ -1,4 +1,5 @@
 ﻿using QuestMaker.Editor.Compiler;
+using QuestMaker.Editor.Compiler.CompilationModules;
 using QuestMaker.Runtime;
 using QuestMaker.Runtime.Data;
 using QuestMaker.Runtime.Data.QuestPrerequisites;
@@ -13,15 +14,21 @@ namespace QuestMaker.Editor.Nodes
 
         public override Type PortType => typeof(PrerequisiteData);
 
-
-        public override void Compose(QuestCompilationContext cntx)
+        public override void Compose(QuestModuleContext cntx)
         {
-            var preq = new ItemPrerequisiteData
-            {
-                Item = this.Item
-            };
-            cntx.AddQuestPrerequisite(preq);
+            Item = ReadNodeOption<Item>();
+            cntx.GetModule<PrerequisiteModule>().SetItemPrerequisite(Item);
         }
+
+
+        //public override void Compose(QuestCompilationContext cntx)
+        //{
+        //    var preq = new ItemPrerequisiteData
+        //    {
+        //        Item = this.Item
+        //    };
+        //    cntx.AddQuestPrerequisite(preq);
+        //}
 
         protected override void OnDefineOptions(IOptionDefinitionContext context)
         {
