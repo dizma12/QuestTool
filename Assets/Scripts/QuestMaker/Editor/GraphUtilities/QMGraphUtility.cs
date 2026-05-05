@@ -2,6 +2,9 @@
 using UnityEngine;
 using Unity.GraphToolkit.Editor;
 using UnityEditor;
+using System;
+using System.Linq;
+using QuestMaker.Editor.Nodes;
 
 namespace QuestMaker.Editor.Utility
 {
@@ -24,6 +27,17 @@ namespace QuestMaker.Editor.Utility
             }
             Debug.Log($"Loaded Graph from asset {asset.name}");
             return graph;
+        }
+
+
+        public static Type GetTypeFromGenericInterface(Type lookUpType, Type interfaceToLookfor)
+        {
+            return lookUpType
+                .GetInterfaces()
+                .Where(i => i.IsGenericType)
+                .Where(i => i.GetGenericTypeDefinition() == interfaceToLookfor)
+                .Select(i => i.GetGenericArguments().First())
+                .FirstOrDefault();
         }
     }
 }

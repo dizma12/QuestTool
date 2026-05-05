@@ -5,9 +5,9 @@ using Unity.GraphToolkit.Editor;
 
 namespace QuestMaker.Editor.Nodes
 {
+    [Serializable]
     internal class QMPrerequisitesHubNode : QMBaseHubNode
     {
-        public const string PREREQ_OUTPUT_PORT = "Prereq_Output_Port";
         public override Type PortType { get => typeof(PrerequisiteData); }
 
     }

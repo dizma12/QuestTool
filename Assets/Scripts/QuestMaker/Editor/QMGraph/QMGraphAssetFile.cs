@@ -7,6 +7,7 @@ namespace QuestMaker.Editor.Graph
     {
         [SerializeField] private string guid = string.Empty;
 
+
         public string Guid { get => guid; }
 
         public void SetTargetGUID(string guid)

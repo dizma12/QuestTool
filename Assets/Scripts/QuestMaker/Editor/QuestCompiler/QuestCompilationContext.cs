@@ -6,15 +6,15 @@ namespace QuestMaker.Editor.Compiler
     [Serializable]
     internal class QuestCompilationContext
     {
-        private QuestData data;
-        public QuestData QuestData { get => data; } 
+        private QuestInfo data;
+        public QuestInfo QuestData { get => data; } 
 
         public QuestCompilationContext() 
         {
             data = new();
         }
 
-        public QuestCompilationContext(QuestData data)
+        public QuestCompilationContext(QuestInfo data)
         {
             this.data = data;
         }

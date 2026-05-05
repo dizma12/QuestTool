@@ -5,6 +5,7 @@ using System;
 
 namespace QuestMaker.Editor.Nodes
 {
+    [Serializable]
     internal class QMPrerequisiteLevelOptionNode : QMBaseOptionNode
     {
         public int Level = 0;

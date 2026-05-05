@@ -6,6 +6,7 @@ using System;
 
 namespace QuestMaker.Editor.Nodes
 {
+    [Serializable]
     internal class QMPrerequisiteItemNode : QMBaseOptionNode
     {
         public Item Item = null;

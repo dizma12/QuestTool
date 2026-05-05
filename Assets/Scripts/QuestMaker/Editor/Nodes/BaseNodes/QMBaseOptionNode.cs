@@ -2,9 +2,11 @@
 using QuestMaker.Editor.Compiler;
 using System;
 using Unity.GraphToolkit.Editor;
+using QuestMaker.Runtime.Data;
 
 namespace QuestMaker.Editor.Nodes
 {
+    [Serializable]
     internal abstract class QMBaseOptionNode : QMBaseNode , IComposableNode
     {
         public const string OPTION_NODE_FLOW_INPUT_PORT = "Option_Flow_Input";
@@ -14,7 +16,7 @@ namespace QuestMaker.Editor.Nodes
 
         public abstract void Compose(QuestCompilationContext cntx);
 
-
+        
         protected override void OnDefinePorts(IPortDefinitionContext context)
         {
             context.AddInputPort(OPTION_NODE_FLOW_INPUT_PORT)

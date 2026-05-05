@@ -2,6 +2,7 @@
 using Unity.GraphToolkit.Editor;
 namespace QuestMaker.Editor.Nodes
 {
+    [Serializable]
     internal class QMStartingNode : QMBaseNode
     {
         public const string QUEST_ID_PORT = "Quest_id";

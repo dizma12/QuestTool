@@ -3,7 +3,7 @@ using System;
 namespace QuestMaker.Runtime.Data
 {
     [Serializable]
-    public abstract class RewardData
+    public abstract class RewardData : QuestData
     {
 
     }

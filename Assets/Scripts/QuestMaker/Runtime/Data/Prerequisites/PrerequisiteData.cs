@@ -3,6 +3,9 @@
 namespace QuestMaker.Runtime.Data
 {
     [Serializable]
-    public abstract class PrerequisiteData { }
+    public abstract class PrerequisiteData : QuestData 
+    {
+
+    }
 
 }

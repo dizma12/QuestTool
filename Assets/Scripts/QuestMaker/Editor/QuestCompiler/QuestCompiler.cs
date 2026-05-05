@@ -1,11 +1,11 @@
-﻿using NUnit.Framework;
+﻿using Codice.CM.Common.Tree.Partial;
 using QuestMaker.Editor.Graph;
 using QuestMaker.Editor.Nodes;
-using System.Collections;
+using QuestMaker.Editor.Utility;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using Unity.GraphToolkit.Editor;
-using UnityEditor.Experimental.GraphView;
 using UnityEngine;
 
 namespace QuestMaker.Editor.Compiler
@@ -15,7 +15,7 @@ namespace QuestMaker.Editor.Compiler
     {
         public QMGraph Graph { get; set; } = null;
         private QuestCompilationContext context = new();
-
+        private HashSet<Type> proccessedHubs = new();
         public QuestCompiler(QMGraph graph)
         {
             Graph = graph;
@@ -38,12 +38,20 @@ namespace QuestMaker.Editor.Compiler
             foreach (var port in connectedPorts)
             {
                 INode portOwnerNode = port.GetNode();
+                Type portOwnerNodeType = portOwnerNode.GetType();
                 if (portOwnerNode == null) Debug.Log("Node is null");
-                else Debug.Log($"Found node of type {portOwnerNode.GetType()}");
+                else Debug.Log($"Found node of type {portOwnerNodeType}");
 
-                if (portOwnerNode is QMBaseHubNode hub)
-                {
-                    IPort hubOutputPort = hub.GetOutputPortByName(QMBaseHubNode.HUB_OUTPUT_PORT);
+
+                    if(CanProccessTypeOfHubNode(portOwnerNode))
+                        proccessedHubs.Add(portOwnerNodeType);
+                    else return;
+
+                    var interfaceType = QMGraphUtility.GetTypeFromGenericInterface(portOwnerNodeType, typeof(IHubNodeCollector<>));
+
+                    Debug.Log($"The type of interace is: {interfaceType}");
+
+                    IPort hubOutputPort = portOwnerNode.GetOutputPortByName(QMBaseHubNode.HUB_OUTPUT_PORT);
 
                     List<IPort> optionPorts = new();
                     hubOutputPort.GetConnectedPorts(optionPorts);
@@ -52,12 +60,12 @@ namespace QuestMaker.Editor.Compiler
                         .Select(n => n.GetNode())
                         .OfType<IComposableNode>();
 
-                    foreach (var composable in composableNodes) 
+                    foreach (var composable in composableNodes)
                     {
                         composable.Compose(context);
                     }
 
-                }
+                
 
                 //var p = portOwnerNode.GetType();
                 //Debug.Log(p);
@@ -68,6 +76,8 @@ namespace QuestMaker.Editor.Compiler
                 //}
 
             }
+
+
         }
         private INode LocateStartingNode(IEnumerable<INode> nodes)
         {
@@ -75,8 +85,25 @@ namespace QuestMaker.Editor.Compiler
 
             if (startNode != null)
                 Debug.Log($"Found starting node {startNode.GetType()}");
-            
+
             return startNode;
+        }
+
+        private bool CanProccessTypeOfHubNode(INode hub)
+        {
+            if(hub is not QMBaseHubNode)
+            {
+                Debug.LogWarning($"Invalid type {hub}");
+                return false;
+            }
+            if(proccessedHubs.Contains(hub.GetType()))
+            {
+
+                Debug.LogWarning($"Already proccessed a hub of type {hub}");
+                return false;
+            }
+            Debug.LogWarning($"Proccessing hub of type {hub}");
+            return true;
         }
     }
 }

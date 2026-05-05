@@ -36,7 +36,7 @@ namespace QuestMaker.Editor.Window
                 root.style.paddingLeft = 2;
                 root.style.paddingRight = 2;
             }
-            Label title = new("Ship Composer");
+            Label title = new("Quest Compiler");
             {
 
                 title.style.unityTextAlign = TextAnchor.MiddleCenter;
@@ -52,10 +52,17 @@ namespace QuestMaker.Editor.Window
                 objectType = typeof(QMGraphAssetFile), // GraphAssetFile is a serialized object wrapper for Lookup in unity
                 allowSceneObjects = false
             };
-
-
             root.Add(graphField);
 
+            IntegerField nodeCountField = new("Node count")
+            {
+                isReadOnly = true
+
+            };
+            nodeCountField.SetEnabled(false);
+            nodeCountField.value = 0;
+            root.Add(nodeCountField);
+            
             //Button saveAssetBtn = new(() => { prefExporter.ExportShip(builder.GetShipRoot()); }) { text = "Save as prefab" };
             //{
 
@@ -75,6 +82,7 @@ namespace QuestMaker.Editor.Window
                 if (assetFile == null)
                 {
                     Debug.Log("Asset is null");
+                    nodeCountField.value = 0;
                     return;
                 }
 
@@ -85,6 +93,8 @@ namespace QuestMaker.Editor.Window
                 else compiler.Graph = graph;
 
                 compiler.CompileQuestGraph();
+
+                nodeCountField.value = graph.NodeCount;
 
             });
             #endregion

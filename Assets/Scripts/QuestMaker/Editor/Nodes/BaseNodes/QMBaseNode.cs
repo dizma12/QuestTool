@@ -8,6 +8,7 @@ using Unity.GraphToolkit.Editor;
 
 namespace QuestMaker.Editor.Nodes
 {
+    [Serializable]
     internal abstract class QMBaseNode : Node
     {
         /// <summary>
