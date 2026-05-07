@@ -14,7 +14,7 @@ namespace QuestMaker.Editor.Compiler
     {
         public QMGraph Graph { get; set; } = null;
         private QuestCompilationContext context = new();
-        private QuestModuleContext cntx = new();
+        private QuestModuleBuilder cntx = new();
         private HashSet<Type> proccessedHubs = new();
         public QuestCompiler(QMGraph graph)
         {
@@ -86,16 +86,16 @@ namespace QuestMaker.Editor.Compiler
         }
         private INode LocateStartingNode(IEnumerable<INode> nodes)
         {
-            INode startNode = nodes.FirstOrDefault(node => node is QMStartingNode);
+            INode startNode = nodes.FirstOrDefault(node => node is QMStartingNode) 
+                ?? throw new NullReferenceException($"[{GetType().Name}] Starting Node Is null");
 
-            if (startNode != null)
-                Debug.Log($"Found starting node {startNode.GetType()}");
+            Debug.Log($"Found starting node {startNode.GetType()}");
 
             return startNode;
         }
 
         private bool CanProccessTypeOfHubNode(INode hub)
-        {
+        { 
             Type hubType = hub.GetType();
             if(hub is not QMBaseHubNode)
             {

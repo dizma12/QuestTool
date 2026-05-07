@@ -11,6 +11,6 @@ namespace QuestMaker.Editor.Nodes
     [Serializable]
     internal class QMRewardHubNode : QMBaseHubNode
     {
-        public override Type PortType => typeof(RewardData);
+        public override Type PortType => typeof(IRewardOptionNode);
     }
 }

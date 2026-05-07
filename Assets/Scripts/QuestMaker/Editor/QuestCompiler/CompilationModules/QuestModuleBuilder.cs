@@ -4,7 +4,7 @@ using UnityEngine;
 
 namespace QuestMaker.Editor.Compiler.CompilationModules
 {
-    internal class QuestModuleContext
+    internal class QuestModuleBuilder
     {
         private Dictionary<Type, IQuestBuildingModule> modules = new();
 

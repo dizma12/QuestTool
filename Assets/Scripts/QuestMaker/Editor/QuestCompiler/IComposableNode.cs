@@ -5,6 +5,6 @@ namespace QuestMaker.Editor.Compiler
 {
     internal interface IComposableNode
     {
-        void Compose(QuestModuleContext cntx);
+        void Compose(QuestModuleBuilder cntx);
     }
 }

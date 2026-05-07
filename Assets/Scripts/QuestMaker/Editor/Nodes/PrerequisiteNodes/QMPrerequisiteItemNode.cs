@@ -2,7 +2,6 @@
 using QuestMaker.Editor.Compiler.CompilationModules;
 using QuestMaker.Runtime;
 using QuestMaker.Runtime.Data;
-using QuestMaker.Runtime.Data.QuestPrerequisites;
 using System;
 
 namespace QuestMaker.Editor.Nodes
@@ -12,9 +11,9 @@ namespace QuestMaker.Editor.Nodes
     {
         public Item Item = null;
 
-        public override Type PortType => typeof(PrerequisiteData);
+        public override Type PortType => typeof(IPrerequisiteOptionNode);
 
-        public override void Compose(QuestModuleContext cntx)
+        public override void Compose(QuestModuleBuilder cntx)
         {
             Item = ReadNodeOption<Item>();
             cntx.GetModule<PrerequisiteModule>().SetItemPrerequisite(Item);

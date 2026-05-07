@@ -10,9 +10,9 @@ namespace QuestMaker.Editor.Nodes
     {
         public int Level = 0;
 
-        public override Type PortType { get => typeof(PrerequisiteData); }
+        public override Type PortType { get => typeof(IPrerequisiteOptionNode); }
 
-        public override void Compose(QuestModuleContext cntx)
+        public override void Compose(QuestModuleBuilder cntx)
         {
 
             Level = ReadNodeOption<int>();

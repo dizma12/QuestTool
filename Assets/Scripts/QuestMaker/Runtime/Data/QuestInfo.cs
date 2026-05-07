@@ -11,15 +11,15 @@ namespace QuestMaker.Runtime.Data
     {
         public QuestInfo()
         {
-            Prerequisites = new();
-            Rewards = new();
+            //Prerequisites = new();
+            //Rewards = new();
         }
 
         public string QuestID {get; set;} = string.Empty;
         public string QuestName { get; set; } = string.Empty;
 
 
-        public List<PrerequisiteData> Prerequisites;
-        public List<RewardData> Rewards;
+        //public List<PrerequisiteData> Prerequisites;
+        //public List<RewardData> Rewards;
     }
 }

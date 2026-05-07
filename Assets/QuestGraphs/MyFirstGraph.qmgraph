@@ -19,17 +19,17 @@ MonoBehaviour:
     RefIds:
     - rid: -2
       type: {class: , ns: , asm: }
-    - rid: 376271695765569606
+    - rid: 376271723881562181
       type: {class: UserNodeModelImp, ns: Unity.GraphToolkit.Editor.Implementation, asm: UnityEditor.GraphToolkitModule}
       data:
         m_Guid:
-          m_Value0: 5026059282364853849
-          m_Value1: 13648262282464998314
+          m_Value0: 4591962930007044148
+          m_Value1: 10076246663183424916
         m_HashGuid:
           serializedVersion: 2
-          Hash: 596e69c14926c045aa33b0fb3b5e68bd
+          Hash: 34f0d4a0f4edb93f945d4334f404d68b
         m_Version: 2
-        m_Position: {x: 500.07257, y: 134.98746}
+        m_Position: {x: 477.60004, y: -27.450031}
         m_Title: 
         m_Tooltip: 
         m_NodePreviewModel:
@@ -39,7 +39,7 @@ MonoBehaviour:
           m_KeyList:
           - FlowIn
           m_ValueList:
-          - rid: 376271695765569608
+          - rid: 376271723881562183
         m_InputPortInfos:
           expandedPortsById:
             m_KeyList: []
@@ -54,16 +54,16 @@ MonoBehaviour:
           m_Color: {r: 0, g: 0, b: 0, a: 0}
           m_HasUserColor: 0
         m_Node:
-          rid: 376271695765569609
-    - rid: 376271695765569607
+          rid: 376271723881562184
+    - rid: 376271723881562182
       type: {class: WireModel, ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
       data:
         m_Guid:
-          m_Value0: 9070779483957533213
-          m_Value1: 13228865564274322560
+          m_Value0: 8314597177683788899
+          m_Value1: 16890473918423464935
         m_HashGuid:
           serializedVersion: 2
-          Hash: 1d9a30b1e1e1e17d80ecf723245f96b7
+          Hash: 63c44e9a14626373e77ba10b8a0467ea
         m_Version: 2
         m_FromPortReference:
           m_NodeModelGuid:
@@ -78,32 +78,32 @@ MonoBehaviour:
           m_Title: FlowOut
         m_ToPortReference:
           m_NodeModelGuid:
-            m_Value0: 5026059282364853849
-            m_Value1: 13648262282464998314
+            m_Value0: 4591962930007044148
+            m_Value1: 10076246663183424916
           m_NodeModelHashGuid:
             serializedVersion: 2
-            Hash: 596e69c14926c045aa33b0fb3b5e68bd
+            Hash: 34f0d4a0f4edb93f945d4334f404d68b
           m_UniqueId: FlowIn
           m_PortDirection: 1
           m_PortOrientation: 0
           m_Title: FlowIn
-    - rid: 376271695765569608
+    - rid: 376271723881562183
       type: {class: 'Constant`1[[QuestMaker.Editor.Nodes.QMFlowHelper, Assembly-CSharp-Editor]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
       data: 
-    - rid: 376271695765569609
-      type: {class: QMRewardHubNode, ns: QuestMaker.Editor.Nodes, asm: Assembly-CSharp-Editor}
+    - rid: 376271723881562184
+      type: {class: QMPrerequisitesHubNode, ns: QuestMaker.Editor.Nodes, asm: Assembly-CSharp-Editor}
       data: 
-    - rid: 376271695765569627
+    - rid: 376271723881562185
       type: {class: UserNodeModelImp, ns: Unity.GraphToolkit.Editor.Implementation, asm: UnityEditor.GraphToolkitModule}
       data:
         m_Guid:
-          m_Value0: 12797798096348364533
-          m_Value1: 14244960896518306596
+          m_Value0: 782033812724610739
+          m_Value1: 8928743546598575024
         m_HashGuid:
           serializedVersion: 2
-          Hash: f5be032090e99ab124bb4d5c7644b0c5
+          Hash: b376cbf99b57da0ab0cb91f9f244e97b
         m_Version: 2
-        m_Position: {x: 907.235, y: 47.609966}
+        m_Position: {x: 845, y: -93.65}
         m_Title: 
         m_Tooltip: 
         m_NodePreviewModel:
@@ -114,8 +114,8 @@ MonoBehaviour:
           - __option_Option_Input
           - Option_Flow_Input
           m_ValueList:
-          - rid: 376271695765569628
-          - rid: 376271695765569629
+          - rid: 376271723881562187
+          - rid: 376271723881562188
         m_InputPortInfos:
           expandedPortsById:
             m_KeyList: []
@@ -130,61 +130,216 @@ MonoBehaviour:
           m_Color: {r: 0, g: 0, b: 0, a: 0}
           m_HasUserColor: 0
         m_Node:
-          rid: 376271695765569630
-    - rid: 376271695765569628
-      type: {class: 'Constant`1[[QuestMaker.Runtime.Item, Assembly-CSharp]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
-      data:
-        m_Value: {fileID: 11400000, guid: 188f0e41ec8b71a4ba3c7d320bd857a0, type: 2}
-    - rid: 376271695765569629
-      type: {class: 'Constant`1[[QuestMaker.Runtime.Data.PrerequisiteData, Assembly-CSharp]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
-      data: 
-    - rid: 376271695765569630
-      type: {class: QMPrerequisiteItemNode, ns: QuestMaker.Editor.Nodes, asm: Assembly-CSharp-Editor}
-      data:
-        Item: {fileID: 0}
-    - rid: 376271695765569631
+          rid: 376271723881562189
+    - rid: 376271723881562186
       type: {class: WireModel, ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
       data:
         m_Guid:
-          m_Value0: 7244417441449063746
-          m_Value1: 8289146213742288884
+          m_Value0: 11946390830944184651
+          m_Value1: 10094910439425334328
         m_HashGuid:
           serializedVersion: 2
-          Hash: 423537ca47578964f41f624990f60873
+          Hash: 4b6969822a1bcaa5385c543d8f53188c
         m_Version: 2
         m_FromPortReference:
           m_NodeModelGuid:
-            m_Value0: 988718019876248916
-            m_Value1: 8319325105256016117
+            m_Value0: 4591962930007044148
+            m_Value1: 10076246663183424916
           m_NodeModelHashGuid:
             serializedVersion: 2
-            Hash: 545dc0f5cca1b80df528c6051b2e7473
+            Hash: 34f0d4a0f4edb93f945d4334f404d68b
           m_UniqueId: Hub_Output
           m_PortDirection: 2
           m_PortOrientation: 0
           m_Title: Options
         m_ToPortReference:
           m_NodeModelGuid:
-            m_Value0: 12797798096348364533
-            m_Value1: 14244960896518306596
+            m_Value0: 782033812724610739
+            m_Value1: 8928743546598575024
           m_NodeModelHashGuid:
             serializedVersion: 2
-            Hash: f5be032090e99ab124bb4d5c7644b0c5
+            Hash: b376cbf99b57da0ab0cb91f9f244e97b
           m_UniqueId: Option_Flow_Input
           m_PortDirection: 1
           m_PortOrientation: 0
           m_Title: FlowIn
-    - rid: 376271695765569645
+    - rid: 376271723881562187
+      type: {class: 'Constant`1[[QuestMaker.Runtime.Item, Assembly-CSharp]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
+      data:
+        m_Value: {fileID: 11400000, guid: 188f0e41ec8b71a4ba3c7d320bd857a0, type: 2}
+    - rid: 376271723881562188
+      type: {class: 'Constant`1[[QuestMaker.Editor.Nodes.IPrerequisiteOptionNode, Assembly-CSharp-Editor]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
+      data: 
+    - rid: 376271723881562189
+      type: {class: QMPrerequisiteItemNode, ns: QuestMaker.Editor.Nodes, asm: Assembly-CSharp-Editor}
+      data:
+        Item: {fileID: 11400000, guid: 188f0e41ec8b71a4ba3c7d320bd857a0, type: 2}
+    - rid: 376271723881562190
       type: {class: UserNodeModelImp, ns: Unity.GraphToolkit.Editor.Implementation, asm: UnityEditor.GraphToolkitModule}
       data:
         m_Guid:
-          m_Value0: 4794628443169877544
-          m_Value1: 12361791016308173792
+          m_Value0: 16788943523604161600
+          m_Value1: 11532184437483482704
         m_HashGuid:
           serializedVersion: 2
-          Hash: 28ee1f812af18942e0eba90a6fe78dab
+          Hash: 406485de2e4ffee850ae7d50a58c0aa0
         m_Version: 2
-        m_Position: {x: 907.71265, y: 230.20755}
+        m_Position: {x: 845.14996, y: 39.750008}
+        m_Title: 
+        m_Tooltip: 
+        m_NodePreviewModel:
+          rid: -2
+        m_State: 0
+        m_InputConstantsById:
+          m_KeyList:
+          - __option_Option_Input
+          - Option_Flow_Input
+          m_ValueList:
+          - rid: 376271723881562192
+          - rid: 376271723881562193
+        m_InputPortInfos:
+          expandedPortsById:
+            m_KeyList: []
+            m_ValueList: 
+        m_OutputPortInfos:
+          expandedPortsById:
+            m_KeyList: []
+            m_ValueList: 
+        m_Collapsed: 0
+        m_CurrentModeIndex: 0
+        m_ElementColor:
+          m_Color: {r: 0, g: 0, b: 0, a: 0}
+          m_HasUserColor: 0
+        m_Node:
+          rid: 376271723881562194
+    - rid: 376271723881562191
+      type: {class: WireModel, ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
+      data:
+        m_Guid:
+          m_Value0: 1841359346792703540
+          m_Value1: 8349347621101101990
+        m_HashGuid:
+          serializedVersion: 2
+          Hash: 34a66ce991d28d19a6e3fbb56cd7de73
+        m_Version: 2
+        m_FromPortReference:
+          m_NodeModelGuid:
+            m_Value0: 4591962930007044148
+            m_Value1: 10076246663183424916
+          m_NodeModelHashGuid:
+            serializedVersion: 2
+            Hash: 34f0d4a0f4edb93f945d4334f404d68b
+          m_UniqueId: Hub_Output
+          m_PortDirection: 2
+          m_PortOrientation: 0
+          m_Title: Options
+        m_ToPortReference:
+          m_NodeModelGuid:
+            m_Value0: 16788943523604161600
+            m_Value1: 11532184437483482704
+          m_NodeModelHashGuid:
+            serializedVersion: 2
+            Hash: 406485de2e4ffee850ae7d50a58c0aa0
+          m_UniqueId: Option_Flow_Input
+          m_PortDirection: 1
+          m_PortOrientation: 0
+          m_Title: FlowIn
+    - rid: 376271723881562192
+      type: {class: 'Constant`1[[System.Int32, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
+      data:
+        m_Value: 5
+    - rid: 376271723881562193
+      type: {class: 'Constant`1[[QuestMaker.Editor.Nodes.IPrerequisiteOptionNode, Assembly-CSharp-Editor]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
+      data: 
+    - rid: 376271723881562194
+      type: {class: QMPrerequisiteLevelOptionNode, ns: QuestMaker.Editor.Nodes, asm: Assembly-CSharp-Editor}
+      data:
+        Level: 5
+    - rid: 376271723881562202
+      type: {class: UserNodeModelImp, ns: Unity.GraphToolkit.Editor.Implementation, asm: UnityEditor.GraphToolkitModule}
+      data:
+        m_Guid:
+          m_Value0: 3243617547352501883
+          m_Value1: 16537622475209369497
+        m_HashGuid:
+          serializedVersion: 2
+          Hash: 7b6e2b51f9a4032d99e75e68057081e5
+        m_Version: 2
+        m_Position: {x: 472, y: 153.09999}
+        m_Title: 
+        m_Tooltip: 
+        m_NodePreviewModel:
+          rid: -2
+        m_State: 0
+        m_InputConstantsById:
+          m_KeyList:
+          - FlowIn
+          m_ValueList:
+          - rid: 376271723881562204
+        m_InputPortInfos:
+          expandedPortsById:
+            m_KeyList: []
+            m_ValueList: 
+        m_OutputPortInfos:
+          expandedPortsById:
+            m_KeyList: []
+            m_ValueList: 
+        m_Collapsed: 0
+        m_CurrentModeIndex: 0
+        m_ElementColor:
+          m_Color: {r: 0, g: 0, b: 0, a: 0}
+          m_HasUserColor: 0
+        m_Node:
+          rid: 376271723881562205
+    - rid: 376271723881562203
+      type: {class: WireModel, ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
+      data:
+        m_Guid:
+          m_Value0: 6060397937165158328
+          m_Value1: 17631663342919177841
+        m_HashGuid:
+          serializedVersion: 2
+          Hash: b8473d82d0db1a547156f9d16440b0f4
+        m_Version: 2
+        m_FromPortReference:
+          m_NodeModelGuid:
+            m_Value0: 7186268291500019285
+            m_Value1: 7287991220811619378
+          m_NodeModelHashGuid:
+            serializedVersion: 2
+            Hash: 550e83c7efc0ba63325ca4e266252465
+          m_UniqueId: FlowOut
+          m_PortDirection: 2
+          m_PortOrientation: 0
+          m_Title: FlowOut
+        m_ToPortReference:
+          m_NodeModelGuid:
+            m_Value0: 3243617547352501883
+            m_Value1: 16537622475209369497
+          m_NodeModelHashGuid:
+            serializedVersion: 2
+            Hash: 7b6e2b51f9a4032d99e75e68057081e5
+          m_UniqueId: FlowIn
+          m_PortDirection: 1
+          m_PortOrientation: 0
+          m_Title: FlowIn
+    - rid: 376271723881562204
+      type: {class: 'Constant`1[[QuestMaker.Editor.Nodes.QMFlowHelper, Assembly-CSharp-Editor]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
+      data: 
+    - rid: 376271723881562205
+      type: {class: QMRewardHubNode, ns: QuestMaker.Editor.Nodes, asm: Assembly-CSharp-Editor}
+      data: 
+    - rid: 376271723881562210
+      type: {class: UserNodeModelImp, ns: Unity.GraphToolkit.Editor.Implementation, asm: UnityEditor.GraphToolkitModule}
+      data:
+        m_Guid:
+          m_Value0: 8957049686364697073
+          m_Value1: 1485600231930285966
+        m_HashGuid:
+          serializedVersion: 2
+          Hash: f1b14ab73bd54d7c8e4f71368ae99d14
+        m_Version: 2
+        m_Position: {x: 815.39996, y: 203.69998}
         m_Title: 
         m_Tooltip: 
         m_NodePreviewModel:
@@ -194,7 +349,7 @@ MonoBehaviour:
           m_KeyList:
           - Option_Flow_Input
           m_ValueList:
-          - rid: 376271695765569647
+          - rid: 376271723881562212
         m_InputPortInfos:
           expandedPortsById:
             m_KeyList: []
@@ -209,44 +364,44 @@ MonoBehaviour:
           m_Color: {r: 0, g: 0, b: 0, a: 0}
           m_HasUserColor: 0
         m_Node:
-          rid: 376271695765569648
-    - rid: 376271695765569646
+          rid: 376271723881562213
+    - rid: 376271723881562211
       type: {class: WireModel, ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
       data:
         m_Guid:
-          m_Value0: 4973974133867890552
-          m_Value1: 2436966733580507680
+          m_Value0: 6854217144783744695
+          m_Value1: 17090274802155951406
         m_HashGuid:
           serializedVersion: 2
-          Hash: 78472d1b1f1b0745209a822455d8d121
+          Hash: b72e3a902d121f5f2e95506862da2ced
         m_Version: 2
         m_FromPortReference:
           m_NodeModelGuid:
-            m_Value0: 5026059282364853849
-            m_Value1: 13648262282464998314
+            m_Value0: 3243617547352501883
+            m_Value1: 16537622475209369497
           m_NodeModelHashGuid:
             serializedVersion: 2
-            Hash: 596e69c14926c045aa33b0fb3b5e68bd
+            Hash: 7b6e2b51f9a4032d99e75e68057081e5
           m_UniqueId: Hub_Output
           m_PortDirection: 2
           m_PortOrientation: 0
           m_Title: Options
         m_ToPortReference:
           m_NodeModelGuid:
-            m_Value0: 4794628443169877544
-            m_Value1: 12361791016308173792
+            m_Value0: 8957049686364697073
+            m_Value1: 1485600231930285966
           m_NodeModelHashGuid:
             serializedVersion: 2
-            Hash: 28ee1f812af18942e0eba90a6fe78dab
+            Hash: f1b14ab73bd54d7c8e4f71368ae99d14
           m_UniqueId: Option_Flow_Input
           m_PortDirection: 1
           m_PortOrientation: 0
           m_Title: FlowIn
-    - rid: 376271695765569647
-      type: {class: 'Constant`1[[QuestMaker.Runtime.Data.RewardData, Assembly-CSharp]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
+    - rid: 376271723881562212
+      type: {class: 'Constant`1[[QuestMaker.Editor.Nodes.IOptionNode, Assembly-CSharp-Editor]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
       data: 
-    - rid: 376271695765569648
-      type: {class: CurrencyRewardOptionNode, ns: QuestMaker.Editor.Nodes, asm: Assembly-CSharp-Editor}
+    - rid: 376271723881562213
+      type: {class: ExpRewardOptionNode, ns: QuestMaker.Editor.Nodes, asm: Assembly-CSharp-Editor}
       data: 
     - rid: 6501209285574524993
       type: {class: GraphModelImp, ns: Unity.GraphToolkit.Editor.Implementation, asm: UnityEditor.GraphToolkitModule}
@@ -260,17 +415,17 @@ MonoBehaviour:
         m_Name: 
         m_GraphNodeModels:
         - rid: 6501209285574524996
-        - rid: 6501209285574525000
-        - rid: 6501209285574525004
-        - rid: 376271695765569606
-        - rid: 376271695765569627
-        - rid: 376271695765569645
+        - rid: 376271723881562181
+        - rid: 376271723881562185
+        - rid: 376271723881562190
+        - rid: 376271723881562202
+        - rid: 376271723881562210
         m_GraphWireModels:
-        - rid: 6501209285574525001
-        - rid: 6501209285574525005
-        - rid: 376271695765569607
-        - rid: 376271695765569631
-        - rid: 376271695765569646
+        - rid: 376271723881562182
+        - rid: 376271723881562186
+        - rid: 376271723881562191
+        - rid: 376271723881562203
+        - rid: 376271723881562211
         m_GraphStickyNoteModels: []
         m_GraphPlacematModels: []
         m_GraphVariableModels: []
@@ -280,10 +435,10 @@ MonoBehaviour:
         m_LocalSubgraphs: []
         m_LastKnownBounds:
           serializedVersion: 2
-          x: 196
-          y: -107
-          width: 979
-          height: 424
+          x: 184
+          y: -94
+          width: 930
+          height: 385
         m_GraphElementMetaData:
         - m_Guid:
             m_Value0: 7186268291500019285
@@ -294,83 +449,83 @@ MonoBehaviour:
           m_Category: 0
           m_Index: 0
         - m_Guid:
-            m_Value0: 988718019876248916
-            m_Value1: 8319325105256016117
+            m_Value0: 4591962930007044148
+            m_Value1: 10076246663183424916
           m_HashGuid:
             serializedVersion: 2
-            Hash: 545dc0f5cca1b80df528c6051b2e7473
+            Hash: 34f0d4a0f4edb93f945d4334f404d68b
           m_Category: 0
           m_Index: 1
         - m_Guid:
-            m_Value0: 15461982412760386157
-            m_Value1: 15416407793070594202
+            m_Value0: 8314597177683788899
+            m_Value1: 16890473918423464935
           m_HashGuid:
             serializedVersion: 2
-            Hash: 6d8aeb5315ff93d69a58894a3515f2d5
+            Hash: 63c44e9a14626373e77ba10b8a0467ea
           m_Category: 2
           m_Index: 0
         - m_Guid:
-            m_Value0: 1362729879331897368
-            m_Value1: 12563940768240634120
+            m_Value0: 782033812724610739
+            m_Value1: 8928743546598575024
           m_HashGuid:
             serializedVersion: 2
-            Hash: 188063ee9a63e912080908e68f155cae
+            Hash: b376cbf99b57da0ab0cb91f9f244e97b
           m_Category: 0
           m_Index: 2
         - m_Guid:
-            m_Value0: 13669909203160562086
-            m_Value1: 17076495348726350030
+            m_Value0: 11946390830944184651
+            m_Value1: 10094910439425334328
           m_HashGuid:
             serializedVersion: 2
-            Hash: a6793a76fe45b5bdcec071650be6fbec
+            Hash: 4b6969822a1bcaa5385c543d8f53188c
           m_Category: 2
           m_Index: 1
         - m_Guid:
-            m_Value0: 5026059282364853849
-            m_Value1: 13648262282464998314
+            m_Value0: 16788943523604161600
+            m_Value1: 11532184437483482704
           m_HashGuid:
             serializedVersion: 2
-            Hash: 596e69c14926c045aa33b0fb3b5e68bd
+            Hash: 406485de2e4ffee850ae7d50a58c0aa0
           m_Category: 0
           m_Index: 3
         - m_Guid:
-            m_Value0: 9070779483957533213
-            m_Value1: 13228865564274322560
+            m_Value0: 1841359346792703540
+            m_Value1: 8349347621101101990
           m_HashGuid:
             serializedVersion: 2
-            Hash: 1d9a30b1e1e1e17d80ecf723245f96b7
+            Hash: 34a66ce991d28d19a6e3fbb56cd7de73
           m_Category: 2
           m_Index: 2
         - m_Guid:
-            m_Value0: 12797798096348364533
-            m_Value1: 14244960896518306596
+            m_Value0: 3243617547352501883
+            m_Value1: 16537622475209369497
           m_HashGuid:
             serializedVersion: 2
-            Hash: f5be032090e99ab124bb4d5c7644b0c5
+            Hash: 7b6e2b51f9a4032d99e75e68057081e5
           m_Category: 0
           m_Index: 4
         - m_Guid:
-            m_Value0: 7244417441449063746
-            m_Value1: 8289146213742288884
+            m_Value0: 6060397937165158328
+            m_Value1: 17631663342919177841
           m_HashGuid:
             serializedVersion: 2
-            Hash: 423537ca47578964f41f624990f60873
+            Hash: b8473d82d0db1a547156f9d16440b0f4
           m_Category: 2
           m_Index: 3
         - m_Guid:
-            m_Value0: 4794628443169877544
-            m_Value1: 12361791016308173792
+            m_Value0: 8957049686364697073
+            m_Value1: 1485600231930285966
           m_HashGuid:
             serializedVersion: 2
-            Hash: 28ee1f812af18942e0eba90a6fe78dab
+            Hash: f1b14ab73bd54d7c8e4f71368ae99d14
           m_Category: 0
           m_Index: 5
         - m_Guid:
-            m_Value0: 4973974133867890552
-            m_Value1: 2436966733580507680
+            m_Value0: 6854217144783744695
+            m_Value1: 17090274802155951406
           m_HashGuid:
             serializedVersion: 2
-            Hash: 78472d1b1f1b0745209a822455d8d121
+            Hash: b72e3a902d121f5f2e95506862da2ced
           m_Category: 2
           m_Index: 4
         m_EntryPoint:
@@ -399,7 +554,7 @@ MonoBehaviour:
           serializedVersion: 2
           Hash: 550e83c7efc0ba63325ca4e266252465
         m_Version: 2
-        m_Position: {x: 196.27324, y: 53.534508}
+        m_Position: {x: 183.62321, y: -21.215492}
         m_Title: 
         m_Tooltip: 
         m_NodePreviewModel:
@@ -438,161 +593,6 @@ MonoBehaviour:
     - rid: 6501209285574524999
       type: {class: QMStartingNode, ns: QuestMaker.Editor.Nodes, asm: Assembly-CSharp-Editor}
       data: 
-    - rid: 6501209285574525000
-      type: {class: UserNodeModelImp, ns: Unity.GraphToolkit.Editor.Implementation, asm: UnityEditor.GraphToolkitModule}
-      data:
-        m_Guid:
-          m_Value0: 988718019876248916
-          m_Value1: 8319325105256016117
-        m_HashGuid:
-          serializedVersion: 2
-          Hash: 545dc0f5cca1b80df528c6051b2e7473
-        m_Version: 2
-        m_Position: {x: 487.7389, y: -40.250942}
-        m_Title: 
-        m_Tooltip: 
-        m_NodePreviewModel:
-          rid: -2
-        m_State: 0
-        m_InputConstantsById:
-          m_KeyList:
-          - FlowIn
-          m_ValueList:
-          - rid: 6501209285574525002
-        m_InputPortInfos:
-          expandedPortsById:
-            m_KeyList: []
-            m_ValueList: 
-        m_OutputPortInfos:
-          expandedPortsById:
-            m_KeyList: []
-            m_ValueList: 
-        m_Collapsed: 0
-        m_CurrentModeIndex: 0
-        m_ElementColor:
-          m_Color: {r: 0, g: 0, b: 0, a: 0}
-          m_HasUserColor: 0
-        m_Node:
-          rid: 6501209285574525003
-    - rid: 6501209285574525001
-      type: {class: WireModel, ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
-      data:
-        m_Guid:
-          m_Value0: 15461982412760386157
-          m_Value1: 15416407793070594202
-        m_HashGuid:
-          serializedVersion: 2
-          Hash: 6d8aeb5315ff93d69a58894a3515f2d5
-        m_Version: 2
-        m_FromPortReference:
-          m_NodeModelGuid:
-            m_Value0: 7186268291500019285
-            m_Value1: 7287991220811619378
-          m_NodeModelHashGuid:
-            serializedVersion: 2
-            Hash: 550e83c7efc0ba63325ca4e266252465
-          m_UniqueId: FlowOut
-          m_PortDirection: 2
-          m_PortOrientation: 0
-          m_Title: FlowIn
-        m_ToPortReference:
-          m_NodeModelGuid:
-            m_Value0: 988718019876248916
-            m_Value1: 8319325105256016117
-          m_NodeModelHashGuid:
-            serializedVersion: 2
-            Hash: 545dc0f5cca1b80df528c6051b2e7473
-          m_UniqueId: FlowIn
-          m_PortDirection: 1
-          m_PortOrientation: 0
-          m_Title: FlowIn
-    - rid: 6501209285574525002
-      type: {class: 'Constant`1[[QuestMaker.Editor.Nodes.QMFlowHelper, Assembly-CSharp-Editor]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
-      data: 
-    - rid: 6501209285574525003
-      type: {class: QMPrerequisitesHubNode, ns: QuestMaker.Editor.Nodes, asm: Assembly-CSharp-Editor}
-      data: 
-    - rid: 6501209285574525004
-      type: {class: UserNodeModelImp, ns: Unity.GraphToolkit.Editor.Implementation, asm: UnityEditor.GraphToolkitModule}
-      data:
-        m_Guid:
-          m_Value0: 1362729879331897368
-          m_Value1: 12563940768240634120
-        m_HashGuid:
-          serializedVersion: 2
-          Hash: 188063ee9a63e912080908e68f155cae
-        m_Version: 2
-        m_Position: {x: 905.541, y: -106.669205}
-        m_Title: 
-        m_Tooltip: 
-        m_NodePreviewModel:
-          rid: -2
-        m_State: 0
-        m_InputConstantsById:
-          m_KeyList:
-          - __option_Option_Input
-          - Option_Flow_Input
-          m_ValueList:
-          - rid: 6501209285574525006
-          - rid: 6501209285574525007
-        m_InputPortInfos:
-          expandedPortsById:
-            m_KeyList: []
-            m_ValueList: 
-        m_OutputPortInfos:
-          expandedPortsById:
-            m_KeyList: []
-            m_ValueList: 
-        m_Collapsed: 0
-        m_CurrentModeIndex: 0
-        m_ElementColor:
-          m_Color: {r: 0, g: 0, b: 0, a: 0}
-          m_HasUserColor: 0
-        m_Node:
-          rid: 6501209285574525008
-    - rid: 6501209285574525005
-      type: {class: WireModel, ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
-      data:
-        m_Guid:
-          m_Value0: 13669909203160562086
-          m_Value1: 17076495348726350030
-        m_HashGuid:
-          serializedVersion: 2
-          Hash: a6793a76fe45b5bdcec071650be6fbec
-        m_Version: 2
-        m_FromPortReference:
-          m_NodeModelGuid:
-            m_Value0: 988718019876248916
-            m_Value1: 8319325105256016117
-          m_NodeModelHashGuid:
-            serializedVersion: 2
-            Hash: 545dc0f5cca1b80df528c6051b2e7473
-          m_UniqueId: Hub_Output
-          m_PortDirection: 2
-          m_PortOrientation: 0
-          m_Title: Options
-        m_ToPortReference:
-          m_NodeModelGuid:
-            m_Value0: 1362729879331897368
-            m_Value1: 12563940768240634120
-          m_NodeModelHashGuid:
-            serializedVersion: 2
-            Hash: 188063ee9a63e912080908e68f155cae
-          m_UniqueId: Option_Flow_Input
-          m_PortDirection: 1
-          m_PortOrientation: 0
-          m_Title: FlowIn
-    - rid: 6501209285574525006
-      type: {class: 'Constant`1[[System.Int32, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
-      data:
-        m_Value: 3
-    - rid: 6501209285574525007
-      type: {class: 'Constant`1[[QuestMaker.Runtime.Data.PrerequisiteData, Assembly-CSharp]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
-      data: 
-    - rid: 6501209285574525008
-      type: {class: QMPrerequisiteLevelOptionNode, ns: QuestMaker.Editor.Nodes, asm: Assembly-CSharp-Editor}
-      data:
-        Level: 3
     - rid: 6501209419264032833
       type: {class: QMGraph, ns: QuestMaker.Editor.Graph, asm: Assembly-CSharp-Editor}
       data: 

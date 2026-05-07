@@ -14,10 +14,10 @@ public class QuestSO : ScriptableObject
     public List<QuestSO> QuestPrereq = new();
 
 
-    [SerializeReference]
-    public List<PrerequisiteData> Prerequisites = null;
+    //[SerializeReference]
+    //public List<PrerequisiteData> Prerequisites = null;
 
-    [SerializeReference]
-    public List<RewardData> Rewards = null;
+    //[SerializeReference]
+    //public List<RewardData> Rewards = null;
 
 }

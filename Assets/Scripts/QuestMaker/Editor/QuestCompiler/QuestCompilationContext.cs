@@ -25,13 +25,13 @@ namespace QuestMaker.Editor.Compiler
             data.QuestName = questName;
         }
 
-        public void AddQuestPrerequisite(PrerequisiteData prereq)
-        {
-            data.Prerequisites.Add(prereq);
-            Debug.Log($"Added prerecquisite of type {prereq.GetType()}");
-        }
+        //public void AddQuestPrerequisite(PrerequisiteData prereq)
+        //{
+        //    data.Prerequisites.Add(prereq);
+        //    Debug.Log($"Added prerecquisite of type {prereq.GetType()}");
+        //}
 
-        public void AddQuestReward(RewardData reward)
-            => data.Rewards.Add(reward);
+        //public void AddQuestReward(RewardData reward)
+        //    => data.Rewards.Add(reward);
     }
 }

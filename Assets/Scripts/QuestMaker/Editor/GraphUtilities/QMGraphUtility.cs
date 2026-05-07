@@ -5,6 +5,7 @@ using UnityEditor;
 using System;
 using System.Linq;
 using QuestMaker.Editor.Nodes;
+using Unity.Properties;
 
 namespace QuestMaker.Editor.Utility
 {
@@ -19,12 +20,12 @@ namespace QuestMaker.Editor.Utility
                 Debug.LogError($"Unable to Find asset path for asset {asset.name}");
             }
 
-            QMGraph graph = GraphDatabase.LoadGraph<QMGraph>(relativePath);
-
-            if (graph == null)
-            {
-                Debug.LogError($"Unable to Load Graph from asset {asset.name}");
-            }
+            QMGraph graph = GraphDatabase.LoadGraph<QMGraph>(relativePath)
+                          ?? throw new InvalidPathException(relativePath);  
+            //if (graph == null)
+            //{
+            //    Debug.LogError($"Unable to Load Graph from asset {asset.name}");
+            //}
             Debug.Log($"Loaded Graph from asset {asset.name}");
             return graph;
         }

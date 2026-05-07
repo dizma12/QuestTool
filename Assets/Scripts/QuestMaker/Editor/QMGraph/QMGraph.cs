@@ -6,7 +6,7 @@ using UnityEngine;
 
 namespace QuestMaker.Editor.Graph
 {
-    [Graph(AssetExtension)]
+    [Graph(AssetExtension , GraphOptions.SupportsSubgraphs)]
     [Serializable]
     public class QMGraph : Unity.GraphToolkit.Editor.Graph
     {
