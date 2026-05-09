@@ -13,10 +13,9 @@ namespace QuestMaker.Editor.Nodes
 
         public override Type PortType => typeof(IPrerequisiteOptionNode);
 
-        public override void Compose(QuestModuleBuilder cntx)
+        public override void Compose(ModuleRegistry cntx)
         {
-            Item = ReadNodeOption<Item>();
-            cntx.GetModule<PrerequisiteModule>().SetItemPrerequisite(Item);
+            throw new NotImplementedException();
         }
 
 

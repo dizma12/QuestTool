@@ -10,7 +10,7 @@ namespace QuestMaker.Editor.Nodes
     {
         public override Type PortType => typeof(IOptionNode);
 
-        public override void Compose(QuestModuleBuilder cntx)
+        public override void Compose(ModuleRegistry cntx)
         {
             throw new NotImplementedException();
         }

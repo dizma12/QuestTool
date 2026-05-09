@@ -3,7 +3,7 @@ using System;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace Game.Runtime.Managers
+namespace  QuestMaker.Runtime.Game.Events
 {
     [DefaultExecutionOrder(-19)]
     public class GameEventManager : MonoBehaviour, IGameReference

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 using UnityEngine;
 
-namespace Game.Runtime.Managers
+namespace QuestMaker.Runtime.Game
 {
     [DefaultExecutionOrder(-20)]
     public class ReferenceManager : MonoBehaviour

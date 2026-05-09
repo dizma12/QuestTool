@@ -1,6 +1,6 @@
 using UnityEngine;
 using System;
-namespace Game.Runtime.Managers
+namespace QuestMaker.Runtime.Game
 {
     public interface IGameReference
     {

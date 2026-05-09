@@ -6,8 +6,20 @@ using UnityEngine;
 
 
 namespace QuestMaker.Editor.Compiler.CompilationModules
-{ 
-    internal class PrerequisiteModule : IQuestBuildingModule
+{
+    [Serializable]
+    public struct PrerequisiteData
+    {
+        public int Level { get; private set; }
+         
+        [SerializeReference]
+        public List<Item> Items;
+
+        [SerializeReference]
+        public List<QuestSO> Quests;
+    }
+
+    internal class PrerequisiteModule : IQuestModuleBuilder, IItemModule, ILevelModule
     {
         private int _levelPrereq = 0;
 
@@ -15,13 +27,15 @@ namespace QuestMaker.Editor.Compiler.CompilationModules
 
         private readonly List<Item> _itemPrereq = new();
 
-
+        private PrerequisiteData _prerequisiteData;
         public void SetLevelPrerequisite(int lvl) => _levelPrereq = lvl;
         public void SetQuestPrerequisite(QuestSO quest)
         {
             if (quest == null) throw new NullReferenceException($"[{GetType().Name}] Cannot add quest coz its null");
 
             _questPrereq.Add(quest);
+
+            _prerequisiteData.Quests.Add(quest);
 
             Debug.Log("Added level prereq= " + _levelPrereq);
         }
@@ -32,6 +46,7 @@ namespace QuestMaker.Editor.Compiler.CompilationModules
 
                 _itemPrereq.Add(item);
             }
+            
         }
 
         public void Build(QuestSO quest)
@@ -39,6 +54,17 @@ namespace QuestMaker.Editor.Compiler.CompilationModules
             quest.LevelPrereq = _levelPrereq;
             quest.QuestPrereq = _questPrereq;
             quest.ItemPrereq = _itemPrereq;
+        }
+
+        public void SetItem(Item item)
+        {
+            _itemPrereq.Add(item);
+        }
+
+        public void SetLevel(int level)
+        {
+            
+            Debug.Log($"Level Prereq was set to {level}");
         }
     }
 }

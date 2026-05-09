@@ -6,6 +6,7 @@ using System;
 using System.Linq;
 using QuestMaker.Editor.Nodes;
 using Unity.Properties;
+using System.Collections.Generic;
 
 namespace QuestMaker.Editor.Utility
 {

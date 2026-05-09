@@ -1,4 +1,6 @@
-﻿using Game.Runtime.Managers;
+﻿
+using QuestMaker.Runtime.Game;
+using QuestMaker.Runtime.Game.Events;
 using UnityEngine;
 
 namespace Game.Runtime.Events.Handlers

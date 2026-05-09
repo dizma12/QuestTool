@@ -14,9 +14,9 @@ namespace QuestMaker.Editor.Nodes
         public const string OPTION_NODE_FLOW_INPUT_PORT = "Option_Flow_Input";
         public const string OPTION_NODE_PORT = "Option_Input";
 
-        public virtual string OPTION_NODE_INPUT_DISPLAY_NAME { get => QMBaseNode.INPUT_PORT; }
+        public virtual string OPTION_NODE_INPUT_DISPLAY_NAME { get => QMBaseOptionNode.INPUT_PORT; }
 
-        public abstract void Compose(QuestModuleBuilder cntx);
+        public abstract void Compose(ModuleRegistry cntx);
 
 
         protected override void OnDefinePorts(IPortDefinitionContext context)
