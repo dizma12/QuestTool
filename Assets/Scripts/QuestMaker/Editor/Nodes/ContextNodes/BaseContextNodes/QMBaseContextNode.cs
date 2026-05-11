@@ -1,4 +1,5 @@
 ﻿using QuestMaker.Editor.Compiler;
+using QuestMaker.Editor.Compiler.CompilationModules;
 using System;
 using System.Diagnostics;
 using System.Linq;
@@ -23,7 +24,7 @@ namespace QuestMaker.Editor.Nodes
 
         protected override void OnDefinePorts(IPortDefinitionContext context)
         {
-            
+
             context.AddInputPort(INPUT_PORT)
                 .WithDataType(typeof(QMFlowHelper))
                 .WithDefaultValue(default)
@@ -38,18 +39,25 @@ namespace QuestMaker.Editor.Nodes
                 .Build();
         }
 
-
-        public virtual bool ProcessBlockNodes()
+        /// <summary>
+        /// Locates all block nodes of the context block.
+        /// </summary>
+        /// <param name="cntx"></param>
+        /// <returns>IComposable Array or Null if doesnt find any.</returns>
+        public virtual IComposableNode[] GetBlockNodes()
         {
             var blocks = BlockNodes.OfType<IComposableNode>().ToArray();
             if (blocks.Length <= 0)
             {
                 UnityEngine.Debug.LogWarning($"Failed to find any valid blocks of type IComposableNode");
-                return false;
+
+                return null;
             }
 
-
-            return true;
+            return blocks;
         }
+        public abstract bool ProccessNodes(ModuleBuilderRegistry reg);
+
+        public abstract Type GetBuilder();
     }
 }

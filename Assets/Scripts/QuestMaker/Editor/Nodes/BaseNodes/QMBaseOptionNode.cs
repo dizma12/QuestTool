@@ -16,7 +16,7 @@ namespace QuestMaker.Editor.Nodes
 
         public virtual string OPTION_NODE_INPUT_DISPLAY_NAME { get => QMBaseOptionNode.INPUT_PORT; }
 
-        public abstract void Compose(ModuleRegistry cntx);
+        public abstract void Compose(ModuleBuilderRegistry cntx);
 
 
         protected override void OnDefinePorts(IPortDefinitionContext context)
@@ -35,12 +35,15 @@ namespace QuestMaker.Editor.Nodes
         /// <typeparam name="T"></typeparam>
         /// <param name="optionName"></param>
         /// <returns></returns>
-        protected T ReadNodeOption<T>(string optionName = OPTION_NODE_PORT)
+        protected T RetrieveNodeOption<T>(string optionName = OPTION_NODE_PORT)
         {
             INodeOption option = GetNodeOptionByName(optionName);
 
             option.TryGetValue(out T val);
             return val;
         }
+
+        public abstract void Compose<T>(T bldr, ModuleBuilderRegistry cntx) where T: class, IQuestModuleBuilder, new();
+
     }
 }

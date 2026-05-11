@@ -12,7 +12,7 @@ namespace QuestMaker.Editor.Compiler.CompilationModules
     internal interface IQuestModule { }
     internal interface IItemModule : IQuestModule
     {
-        void SetItem(Item item);
+        void SetItem(Item item, int amount = 1);
     }
     internal interface ILevelModule : IQuestModule
     {

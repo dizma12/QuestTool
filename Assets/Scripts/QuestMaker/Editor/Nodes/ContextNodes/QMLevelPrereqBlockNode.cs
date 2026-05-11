@@ -2,6 +2,7 @@
 using QuestMaker.Editor.Compiler.CompilationModules;
 using System;
 using Unity.GraphToolkit.Editor;
+using UnityEngine;
 
 namespace QuestMaker.Editor.Nodes
 {
@@ -11,9 +12,18 @@ namespace QuestMaker.Editor.Nodes
     {
         int Level;
 
-        public override void Compose(ModuleRegistry cntx)
+        public override void Compose<T>(T bldr, ModuleBuilderRegistry cntx)
         {
-            throw new NotImplementedException();
+            Level = RetrieveBlockValue<int>();
+            ILevelModule module = cntx.GetModule<T, ILevelModule>();
+
+            if (module != null)
+            {
+
+                module.SetLevel(Level);
+                Debug.Log($"Successfuly set the Prerequisite Level to= {Level}");
+            }
+            else Debug.Log($"Failed set the Prerequisite Level");
         }
 
         protected override void OnDefineOptions(IOptionDefinitionContext context)

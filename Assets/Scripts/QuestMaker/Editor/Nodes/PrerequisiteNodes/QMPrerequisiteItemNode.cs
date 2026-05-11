@@ -3,6 +3,7 @@ using QuestMaker.Editor.Compiler.CompilationModules;
 using QuestMaker.Runtime;
 using QuestMaker.Runtime.Data;
 using System;
+using UnityEngine;
 
 namespace QuestMaker.Editor.Nodes
 {
@@ -11,11 +12,19 @@ namespace QuestMaker.Editor.Nodes
     {
         public Item Item = null;
 
-        public override Type PortType => typeof(IPrerequisiteOptionNode);
+        public override Type PortType => typeof(IOptionNode);
 
-        public override void Compose(ModuleRegistry cntx)
+        public override void Compose(ModuleBuilderRegistry cntx)
         {
-            throw new NotImplementedException();
+            Debug.Log($"[{GetType()}]");
+        }
+
+        public override void Compose<T>(T bldr, ModuleBuilderRegistry cntx)
+        {
+            Item = RetrieveNodeOption<Item>();
+            IItemModule module = cntx.GetModule<T, IItemModule>();
+            module?.SetItem(Item);
+
         }
 
 

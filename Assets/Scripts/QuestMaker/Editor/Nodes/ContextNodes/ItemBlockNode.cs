@@ -6,16 +6,33 @@ using UnityEngine;
 
 namespace QuestMaker.Editor.Nodes
 {
-    [UseWithContext(typeof(QMBaseBlockNode))]
+    [UseWithContext(typeof(QMBaseContextNode))]
+    [Serializable]
     internal class ItemBlockNode : QMBaseBlockNode
     {
         Item item = null;
-        public override void Compose(ModuleRegistry cntx)
+        int amount = 1;
+        public const string AMOUNT_OPTION = "AMOUNT_OPTION";
+        protected override void OnDefineOptions(IOptionDefinitionContext context)
+        {
+            context.AddOption(BLOCK_NODE_OPTION, typeof(Item))
+                .WithDefaultValue(null)
+                .WithDisplayName("Item")
+                .Build();
+
+            context.AddOption(AMOUNT_OPTION, typeof(int))
+                .WithDefaultValue(1)
+                .WithDisplayName("Amount")
+                .Build();
+        }
+        public override void Compose<T>(T bldr, ModuleBuilderRegistry cntx)
         {
             item = RetrieveBlockValue<Item>();
-            if (item == null)
-                Debug.LogError($"[{ContextNode}][ItemBlockNode] Item is Null");
+            amount = RetrieveBlockValue<int>(AMOUNT_OPTION);
 
+            IItemModule module = cntx.GetModule<T, IItemModule>();
+
+            module?.SetItem(item, amount);
         }
     }
 }

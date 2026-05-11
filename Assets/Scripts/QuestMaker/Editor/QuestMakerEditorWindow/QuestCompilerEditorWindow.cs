@@ -90,7 +90,7 @@ namespace QuestMaker.Editor.Window
                 Debug.Log($"Loaded graph with name {graph.Name} and node count {graph.NodeCount} ");
                 if (compiler == null)
                     compiler = new(graph);
-                else compiler.Graph = graph;
+                else compiler.SetGraph(graph);
 
                 compiler.CompileQuestGraph();
 

@@ -22,15 +22,15 @@ namespace QuestMaker.Editor.Nodes.Steps
 
         }
 
-        public override void Compose(ModuleRegistry cntx)
+        public override void Compose(ModuleBuilderRegistry cntx)
         {
             UnityEngine.Debug.LogError("Not Implemented");
         }
-    }
-    internal class QMStepViewNode : GraphElement
-    {
-        
-    
+
+        public override void Compose<T>(T bldr, ModuleBuilderRegistry cntx)
+        {
+            throw new NotImplementedException();
+        }
     }
 
 }

@@ -1,3 +1,4 @@
+using QuestMaker.Generic.QuestData;
 using QuestMaker.Runtime;
 using QuestMaker.Runtime.Data;
 using System.Collections.Generic;
@@ -12,8 +13,12 @@ public class QuestSO : ScriptableObject
     public int LevelPrereq = 0;
     public List<Item> ItemPrereq = new();
     public List<QuestSO> QuestPrereq = new();
-
-
+    public PrerequisiteData Prerequisites;
+    public void AddPrerequisites(PrerequisiteData data)
+    {
+        Prerequisites = data;
+        Debug.Log($"[QuestSO] Prerequisite Level= {Prerequisites.Level}");
+    }
     //[SerializeReference]
     //public List<PrerequisiteData> Prerequisites = null;
 

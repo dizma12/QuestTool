@@ -10,15 +10,24 @@ namespace QuestMaker.Editor.Nodes
     {
         public int Level = 0;
 
-        public override Type PortType { get => typeof(IPrerequisiteOptionNode); }
+        public override Type PortType { get => typeof(IOptionNode); }
 
-        public override void Compose(ModuleRegistry cntx)
+        public override void Compose(ModuleBuilderRegistry cntx)
         {
 
             //Level = ReadNodeOption<int>();
 
             //Debug.Log($"Composing From Node= {GetType().Name}");
             //cntx.GetModule<PrerequisiteModule>().SetLevelPrerequisite(Level);
+        }
+
+        public override void Compose<T>(T bldr, ModuleBuilderRegistry cntx)
+        {
+            Level = RetrieveNodeOption<int>();
+
+            ILevelModule module = cntx.GetModule<T, ILevelModule>();
+            module?.SetLevel(Level);
+
         }
 
         //public override void Compose(QuestCompilationContext cntx)
