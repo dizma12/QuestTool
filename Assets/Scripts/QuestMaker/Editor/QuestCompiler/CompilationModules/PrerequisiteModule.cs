@@ -9,13 +9,13 @@ namespace QuestMaker.Editor.Compiler.CompilationModules
 {
     internal class PrerequisiteModule : IQuestModuleBuilder, IItemModule, ILevelModule
     {
-        private int level = 0;
+        private int _level = 0;
         private int itemAmount = 0;
         private readonly List<QuestSO> quests = new();
 
         private readonly List<Item> items = new();
 
-        private PrerequisiteData data;
+        
 
         public void SetQuestPrerequisite(QuestSO quest)
         {
@@ -23,7 +23,7 @@ namespace QuestMaker.Editor.Compiler.CompilationModules
 
             quests.Add(quest);
 
-            Debug.Log("Added level prereq= " + level);
+            Debug.Log("Added level prereq= " + _level);
         }
         public void SetItemPrerequisite(Item item)
         {
@@ -34,18 +34,15 @@ namespace QuestMaker.Editor.Compiler.CompilationModules
 
         public void Build(QuestSO quest)
         {
-            data = new PrerequisiteData(items, quests, level);
+            PrerequisiteData data = new (items, quests, _level);
             quest.AddPrerequisites(data);
-            Debug.Log($"[PrereqModule] Set the data");
         }
 
         public void SetLevel(int level)
         {
-            if(level < 1) this.level = 1;
+            if(level < 1) _level = 1;
 
-            this.level = level;
-
-            Debug.Log($"Level Prereq was set to {level}");
+            _level = level;
         }
 
         public void SetItem(Item item, int amount = 1)

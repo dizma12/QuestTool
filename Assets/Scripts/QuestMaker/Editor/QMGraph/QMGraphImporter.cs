@@ -20,7 +20,7 @@ public class QMGraphImporter : ScriptedImporter
         QMGraphAssetFile assetFile = ScriptableObject.CreateInstance<QMGraphAssetFile>();
         assetFile.name = "metadata";
         assetFile.SetTargetGUID(guid);
-        Debug.Log("Created new AssetFile");
+        Debug.Log("Asset Saved!");
 
         ctx.AddObjectToAsset("metadata", assetFile);
 

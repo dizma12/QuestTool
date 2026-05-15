@@ -58,6 +58,5 @@ namespace QuestMaker.Editor.Nodes
         }
         public abstract bool ProccessNodes(ModuleBuilderRegistry reg);
 
-        public abstract Type GetBuilder();
     }
 }

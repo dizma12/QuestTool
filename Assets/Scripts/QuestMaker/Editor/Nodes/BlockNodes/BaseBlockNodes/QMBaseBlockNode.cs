@@ -9,6 +9,7 @@ using Unity.GraphToolkit.Editor;
 
 namespace QuestMaker.Editor.Nodes
 {
+
     [Serializable]
     internal abstract class QMBaseBlockNode : BlockNode, IComposableNode
     {
@@ -22,7 +23,7 @@ namespace QuestMaker.Editor.Nodes
             return val;
         }
 
-        public abstract void Compose<TBuilder>(TBuilder bldr, ModuleBuilderRegistry cntx) where TBuilder : class, IQuestModuleBuilder, new();
+        public abstract void Compose<TBuilder>(TBuilder bldr, ModuleBuilderRegistry reg) where TBuilder : class, IQuestModuleBuilder, new();
 
 
     }

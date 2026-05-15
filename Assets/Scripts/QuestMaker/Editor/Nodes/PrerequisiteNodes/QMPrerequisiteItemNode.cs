@@ -14,10 +14,6 @@ namespace QuestMaker.Editor.Nodes
 
         public override Type PortType => typeof(IOptionNode);
 
-        public override void Compose(ModuleBuilderRegistry cntx)
-        {
-            Debug.Log($"[{GetType()}]");
-        }
 
         public override void Compose<T>(T bldr, ModuleBuilderRegistry cntx)
         {
@@ -26,16 +22,6 @@ namespace QuestMaker.Editor.Nodes
             module?.SetItem(Item);
 
         }
-
-
-        //public override void Compose(QuestCompilationContext cntx)
-        //{
-        //    var preq = new ItemPrerequisiteData
-        //    {
-        //        Item = this.Item
-        //    };
-        //    cntx.AddQuestPrerequisite(preq);
-        //}
 
         protected override void OnDefineOptions(IOptionDefinitionContext context)
         {

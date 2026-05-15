@@ -18,7 +18,7 @@ namespace QuestMaker.Editor.Compiler.CompilationModules
         {
             get
             {
-                if (!modules.Any())
+                if (modules == null || !modules.Any())
                 {
                     return null;
                 }

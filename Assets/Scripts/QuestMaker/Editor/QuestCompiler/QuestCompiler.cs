@@ -52,6 +52,7 @@ namespace QuestMaker.Editor.Compiler
             }
             QuestSO quest = BuildQuest();
             Debug.Log(quest.Prerequisites.Level);
+            Debug.Log(quest.Rewards.Exp);
 
         }
 

@@ -21,12 +21,6 @@ namespace QuestMaker.Editor.Nodes.Steps
                    .Build();
 
         }
-
-        public override void Compose(ModuleBuilderRegistry cntx)
-        {
-            UnityEngine.Debug.LogError("Not Implemented");
-        }
-
         public override void Compose<T>(T bldr, ModuleBuilderRegistry cntx)
         {
             throw new NotImplementedException();

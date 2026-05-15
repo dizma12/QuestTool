@@ -12,10 +12,10 @@ namespace QuestMaker.Editor.Nodes
     {
         int Level;
 
-        public override void Compose<T>(T bldr, ModuleBuilderRegistry cntx)
+        public override void Compose<TBuilder>(TBuilder bldr, ModuleBuilderRegistry cntx)
         {
             Level = RetrieveBlockValue<int>();
-            ILevelModule module = cntx.GetModule<T, ILevelModule>();
+            ILevelModule module = cntx.GetModule<TBuilder, ILevelModule>();
 
             if (module != null)
             {

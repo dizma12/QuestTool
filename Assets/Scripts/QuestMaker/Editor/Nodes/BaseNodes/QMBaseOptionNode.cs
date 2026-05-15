@@ -16,9 +16,6 @@ namespace QuestMaker.Editor.Nodes
 
         public virtual string OPTION_NODE_INPUT_DISPLAY_NAME { get => QMBaseOptionNode.INPUT_PORT; }
 
-        public abstract void Compose(ModuleBuilderRegistry cntx);
-
-
         protected override void OnDefinePorts(IPortDefinitionContext context)
         {
             context.AddInputPort(OPTION_NODE_FLOW_INPUT_PORT)

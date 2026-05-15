@@ -24,4 +24,9 @@ namespace QuestMaker.Editor.Compiler.CompilationModules
         int ID { get; protected set; }
         void SetNpcID(int id) => ID = id;
     }
+
+    internal interface IExpModule : IQuestModule
+    {
+        void SetExp(int amount);
+    }
 }
