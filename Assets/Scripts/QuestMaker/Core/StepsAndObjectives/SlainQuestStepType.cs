@@ -1,5 +1,5 @@
 using UnityEngine;
-
+using QuestMaker.Data;
 
 namespace QuestMaker.Runtime.StepsAndObjectives
 {

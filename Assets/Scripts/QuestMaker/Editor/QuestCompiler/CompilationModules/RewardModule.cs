@@ -1,11 +1,7 @@
-﻿using QuestMaker.Runtime;
-using QuestMaker.Runtime.Data;
+﻿using QuestMaker.Data;
 using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using UnityEngine;
+
 
 namespace QuestMaker.Editor.Compiler.CompilationModules
 {
@@ -21,6 +17,8 @@ namespace QuestMaker.Editor.Compiler.CompilationModules
             quest.AddRewards(data);
         }
 
+
+
         public void SetExp(int amount)
         {
             if (amount < 1 || _exp >= amount) return;
@@ -35,5 +33,7 @@ namespace QuestMaker.Editor.Compiler.CompilationModules
             _item = item;
             _itemAmount = amount;
         }
+
+
     }
 }

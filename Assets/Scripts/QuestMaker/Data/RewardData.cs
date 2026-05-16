@@ -2,21 +2,26 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace QuestMaker.Runtime.Data
+namespace QuestMaker.Data
 {
     [Serializable]
     public struct RewardData
     {
-        public int Exp { get; private set;}
+        public readonly int Exp => _exp;
 
-        public readonly IReadOnlyList<Item> Items => _items; 
+        [SerializeField]
+        private int _exp;
+
+        public readonly IReadOnlyList<Item> Items => _items;
 
         [SerializeReference]
         List<Item> _items;
 
+   
+
         public RewardData(int exp, List<Item> items)
         {
-            Exp = exp;
+            _exp = exp;
             _items = items;
         }
     }

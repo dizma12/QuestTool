@@ -20,10 +20,4 @@ namespace QuestMaker.Runtime.StepsAndObjectives
         }
     }
 
-    public abstract class QuestStepTypeSO : ScriptableObject
-    {
-
-
-    }
-
 }

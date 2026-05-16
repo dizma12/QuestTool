@@ -1,10 +1,13 @@
-﻿using QuestMaker.Editor.Compiler.CompilationModules;
+﻿using QuestMaker.Data;
+using QuestMaker.Editor.Compiler.CompilationModules;
 using QuestMaker.Editor.Graph;
 using QuestMaker.Editor.Nodes;
 using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using Unity.GraphToolkit.Editor;
+using UnityEditor;
 using UnityEngine;
 
 namespace QuestMaker.Editor.Compiler
@@ -15,6 +18,7 @@ namespace QuestMaker.Editor.Compiler
         private QMGraph graph = null;
         private readonly ModuleBuilderRegistry reg = null;
         private readonly HashSet<Type> proccessedNodes = null;
+        private QuestSO quest = null;
         public QuestCompiler(QMGraph graph)
         {
             this.graph = graph;
@@ -37,6 +41,8 @@ namespace QuestMaker.Editor.Compiler
 
             if (!connectedPorts.Any()) return;
 
+
+
             Debug.Log($"Connected ports: {connectedPorts.Count}");
 
             foreach (var port in connectedPorts)
@@ -50,16 +56,36 @@ namespace QuestMaker.Editor.Compiler
                     proccessedNodes.Add(portOwnerNode.GetType());
 
             }
-            QuestSO quest = BuildQuest();
+            quest = BuildQuest();
+
+            QMStartingNode start = (QMStartingNode)startNode;
+            start.Build(quest);
+
+            Debug.Log(quest.QuestName);
             Debug.Log(quest.Prerequisites.Level);
             Debug.Log(quest.Rewards.Exp);
 
         }
+        public void SaveQuestAsset()
+        {
+            // path is Folder -> QuestName/Questname.asset
+            string path = $"Assets/Resources/Quests/{quest.QuestName}";
+            //creates directory of path
+            Directory.CreateDirectory(path);
 
+            //combine path with .asset for asset creation
+            path = Path.Combine(path, $"{quest.QuestName}.asset");
+            AssetDatabase.CreateAsset(quest, path);
+
+            // ping on project files
+            Selection.activeObject = quest;
+            EditorGUIUtility.PingObject(Selection.activeObject);
+        }
         public void SetGraph(QMGraph newGraph)
         {
             proccessedNodes.Clear();
             reg.Clear(true);
+            quest = null;
             graph = newGraph;
         }
 

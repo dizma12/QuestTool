@@ -1,9 +1,8 @@
 ﻿using System;
-using QuestMaker.Runtime.StepsAndObjectives;
+using QuestMaker.Data;
 using QuestMaker.Editor.Compiler.CompilationModules;
-using UnityEditor.Experimental.GraphView;
-using System.Diagnostics;
-using UnityEngine;
+
+
 namespace QuestMaker.Editor.Nodes.Steps
 {
     [Serializable]

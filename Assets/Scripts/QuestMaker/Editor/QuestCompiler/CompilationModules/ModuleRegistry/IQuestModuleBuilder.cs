@@ -1,4 +1,5 @@
 ﻿
+using QuestMaker.Data;
 using QuestMaker.Runtime;
 
 namespace QuestMaker.Editor.Compiler.CompilationModules

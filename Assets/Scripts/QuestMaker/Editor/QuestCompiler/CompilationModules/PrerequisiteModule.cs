@@ -1,5 +1,4 @@
-﻿using QuestMaker.Generic.QuestData;
-using QuestMaker.Runtime;
+﻿using QuestMaker.Data;
 using System;
 using System.Collections.Generic;
 using UnityEngine;

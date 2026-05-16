@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using UnityEngine;
-
+using QuestMaker.Core.Extensions;
 namespace QuestMaker.Editor.Compiler.CompilationModules
 {
     internal class ModuleBuilderRegistry

@@ -6,7 +6,7 @@ using UnityEditor.AssetImporters;
 using UnityEngine;
 
 [ScriptedImporter(1, "qmgraph")]
-public class QMGraphImporter : ScriptedImporter
+public partial class QMGraphImporter : ScriptedImporter
 {
     public override void OnImportAsset(AssetImportContext ctx)
     {
@@ -26,26 +26,5 @@ public class QMGraphImporter : ScriptedImporter
 
         ctx.SetMainObject(assetFile);
 
-    }
-
-    [CustomEditor(typeof(QMGraphAssetFile))]
-    internal class QMGraphMetadataEditor : Editor
-    {
-        public override void OnInspectorGUI()
-        {
-            var meta = (QMGraphAssetFile)target;
-
-            EditorGUILayout.LabelField("QM Graph Metadata", EditorStyles.boldLabel);
-            EditorGUILayout.Space();
-
-            using (new EditorGUI.DisabledScope(true))
-            {
-                EditorGUILayout.TextField("GUID", meta.Guid);
-            }
-
-
-            //if (GUI.changed)
-            //    EditorUtility.SetDirty(meta);
-        }
     }
 }

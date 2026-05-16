@@ -62,19 +62,19 @@ namespace QuestMaker.Editor.Window
             nodeCountField.SetEnabled(false);
             nodeCountField.value = 0;
             root.Add(nodeCountField);
-            
-            //Button saveAssetBtn = new(() => { prefExporter.ExportShip(builder.GetShipRoot()); }) { text = "Save as prefab" };
-            //{
 
-            //    //saveAssetBtn.style.marginLeft = buttonOffset;
-            //    //saveAssetBtn.style.marginRight = buttonOffset;
-            //    saveAssetBtn.style.marginTop = 15;
-            //    saveAssetBtn.style.flexDirection = FlexDirection.Row;
-            //    saveAssetBtn.style.flexGrow = 0;
-            //    saveAssetBtn.style.maxWidth = position.width * 1.3f;
-            //    saveAssetBtn.SetEnabled(false);
-            //    root.Add(saveAssetBtn);
-            //}
+            Button saveAssetBtn = new(() => { compiler.SaveQuestAsset(); }) { text = "Save as prefab" };
+            {
+
+                //saveAssetBtn.style.marginLeft = buttonOffset;
+                //saveAssetBtn.style.marginRight = buttonOffset;
+                saveAssetBtn.style.marginTop = 15;
+                saveAssetBtn.style.flexDirection = FlexDirection.Row;
+                saveAssetBtn.style.flexGrow = 0;
+                saveAssetBtn.style.maxWidth = position.width * 1.3f;
+                saveAssetBtn.SetEnabled(false);
+                root.Add(saveAssetBtn);
+            }
             graphField.RegisterValueChangedCallback(evt =>
             {
                 assetFile = evt.newValue as QMGraphAssetFile;
@@ -83,6 +83,7 @@ namespace QuestMaker.Editor.Window
                 {
                     Debug.Log("Asset is null");
                     nodeCountField.value = 0;
+                    saveAssetBtn.SetEnabled(false);
                     return;
                 }
 
@@ -93,7 +94,7 @@ namespace QuestMaker.Editor.Window
                 else compiler.SetGraph(graph);
 
                 compiler.CompileQuestGraph();
-
+                saveAssetBtn.SetEnabled(true);
                 nodeCountField.value = graph.NodeCount;
 
             });

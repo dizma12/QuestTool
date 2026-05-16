@@ -1,5 +1,5 @@
 ﻿using QuestMaker.Editor.Compiler.CompilationModules;
-using QuestMaker.Runtime;
+using QuestMaker.Data;
 using System;
 using Unity.GraphToolkit.Editor;
 using UnityEngine;
