@@ -15,7 +15,7 @@ namespace QuestMaker.Data
             get => questName;
             set
             {
-                if (!questName.Equals(string.Empty))
+                if (questName.Equals(string.Empty))
                     questName = value;
                 else return;
             }

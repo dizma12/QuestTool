@@ -14,11 +14,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: QuestMaker.Data::QuestMaker.Data.QuestSO
   questName: BestQuest
   prerequisites:
-    level: 3
+    level: 5
     items:
     - {fileID: 11400000, guid: 188f0e41ec8b71a4ba3c7d320bd857a0, type: 2}
     quests: []
   rewards:
-    _exp: 200
+    _exp: 250
     _items:
     - {fileID: 0}

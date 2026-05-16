@@ -191,7 +191,7 @@ MonoBehaviour:
           serializedVersion: 2
           Hash: 137c39d075238942ec938521f1a82c3a
         m_Version: 2
-        m_Position: {x: -340.67603, y: -617.4752}
+        m_Position: {x: -340.67603, y: -512.9977}
         m_Title: 
         m_Tooltip: 
         m_NodePreviewModel:
@@ -590,7 +590,7 @@ MonoBehaviour:
     - rid: 376271947541250137
       type: {class: 'Constant`1[[System.Int32, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
       data:
-        m_Value: 3
+        m_Value: 5
     - rid: 376271947541250138
       type: {class: QMLevelPrereqBlockNode, ns: QuestMaker.Editor.Nodes, asm: QuestMakerEditor}
       data: 
@@ -766,7 +766,7 @@ MonoBehaviour:
     - rid: 376271951421243466
       type: {class: 'Constant`1[[System.Int32, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
       data:
-        m_Value: 200
+        m_Value: 250
     - rid: 376271951421243467
       type: {class: QMExpRewardBlockNode, ns: QuestMaker.Editor.Nodes, asm: QuestMakerEditor}
       data: 
