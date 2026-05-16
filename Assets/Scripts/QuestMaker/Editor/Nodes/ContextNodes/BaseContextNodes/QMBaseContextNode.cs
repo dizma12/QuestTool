@@ -1,7 +1,6 @@
 ﻿using QuestMaker.Editor.Compiler;
 using QuestMaker.Editor.Compiler.CompilationModules;
 using System;
-using System.Diagnostics;
 using System.Linq;
 using Unity.GraphToolkit.Editor;
 using UnityEngine;
@@ -20,8 +19,9 @@ namespace QuestMaker.Editor.Nodes
         /// </summary>
         public const string OUTPUT_PORT = "FlowOut";
 
+        public abstract bool AllowMultipleContextNodesOfSameType { get; }
         public abstract Type PortType { get; }
-
+        
         protected override void OnDefinePorts(IPortDefinitionContext context)
         {
 
@@ -53,10 +53,11 @@ namespace QuestMaker.Editor.Nodes
 
                 return null;
             }
-
+            
             return blocks;
         }
-        public abstract bool ProccessNodes(ModuleBuilderRegistry reg);
 
+        public abstract bool ProccessNodes(ModuleBuilderRegistry reg);
+        
     }
 }

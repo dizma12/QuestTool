@@ -1,6 +1,8 @@
 ﻿using QuestMaker.Editor.Compiler;
 using QuestMaker.Editor.Compiler.CompilationModules;
 using System;
+using Unity.VisualScripting;
+using UnityEngine;
 
 namespace QuestMaker.Editor.Nodes
 {
@@ -8,6 +10,7 @@ namespace QuestMaker.Editor.Nodes
     internal class QMRewardContextNode : QMBaseContextNode
     {
         public override Type PortType => typeof(IOptionNode);
+        public override bool AllowMultipleContextNodesOfSameType { get => false; }
 
         public override bool ProccessNodes(ModuleBuilderRegistry reg)
         {
@@ -22,5 +25,7 @@ namespace QuestMaker.Editor.Nodes
             }
             return true;
         }
+
+        
     }
 }
