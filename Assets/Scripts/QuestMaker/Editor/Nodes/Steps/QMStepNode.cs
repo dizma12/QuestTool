@@ -1,0 +1,29 @@
+﻿using System;
+using QuestMaker.Data;
+using QuestMaker.Editor.Compiler.CompilationModules;
+
+
+namespace QuestMaker.Editor.Nodes.Steps
+{
+    [Serializable]
+    internal class QMStepNode : QMBaseOptionNode
+    {
+        public override Type PortType => typeof(IOptionNode);
+
+        public QuestStepTypeSO stepType = null;
+
+        protected override void OnDefineOptions(IOptionDefinitionContext context)
+        {
+            context.AddOption(OPTION_NODE_PORT, typeof(QuestStepTypeSO))
+                   .WithDefaultValue(null)
+                   .WithDisplayName("Quest Type")
+                   .Build();
+
+        }
+        public override void Compose<T>(T bldr, ModuleBuilderRegistry cntx)
+        {
+            throw new NotImplementedException();
+        }
+    }
+
+}

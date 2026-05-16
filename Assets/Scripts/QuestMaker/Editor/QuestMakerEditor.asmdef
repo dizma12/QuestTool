@@ -1,0 +1,19 @@
+{
+    "name": "QuestMakerEditor",
+    "rootNamespace": "QuestMaker.Editor",
+    "references": [
+        "GUID:4031c6cd209f025479b7039b4e14162b",
+        "GUID:0defac7bc216a5944b18bf937bd9b269"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
