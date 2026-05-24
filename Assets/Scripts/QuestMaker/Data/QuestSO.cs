@@ -1,5 +1,6 @@
 using QuestMaker.Data;
 using QuestMaker.Data.Objectives;
+using QuestMaker.Data.SpecialEvents;
 using QuestMaker.Data.Steps;
 using System.Collections.Generic;
 using UnityEditor;
@@ -24,7 +25,6 @@ namespace QuestMaker.Data
         }
         public string QuestDescription { get; set; } = string.Empty;
 
-
         public PrerequisiteData Prerequisites { get => prerequisites; set => prerequisites = value; }
         public RewardData Rewards { get => rewards; set => rewards = value; }
         public IReadOnlyList<ObjectiveData> Objectives => objectives;
@@ -39,6 +39,15 @@ namespace QuestMaker.Data
 
         [SerializeReference]
         private List<ObjectiveData> objectives;
+
+        [SerializeField]
+        private List<SpecialEventData> specialEvents = new();
+
+        public void AddSpecialEvent(SpecialEventData data)
+        {
+            if(specialEvents.Contains(data)) return;
+            specialEvents.Add(data);
+        }
 
         public void AddPrerequisites(PrerequisiteData data)
         {

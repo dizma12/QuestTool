@@ -1,4 +1,4 @@
-﻿namespace Game.Runtime.Events.Handlers
+﻿namespace QuestMaker.Runtime.Events.Handlers
 {
     public class ResourcesEventHandler : CustomEventHandler, IGameEventHandler
     {

@@ -26,17 +26,13 @@ namespace QuestMaker.Editor.Nodes
         {
 
             context.AddInputPort(INPUT_PORT)
-                .WithDataType(typeof(QMFlowHelper))
+                .WithDataType(PortType)
                 .WithDefaultValue(default)
                 .WithDisplayName(INPUT_PORT)
                 .WithConnectorUI(PortConnectorUI.Arrowhead)
                 .Build();
 
-            context.AddOutputPort(OUTPUT_PORT)
-                .WithDataType(typeof(QMFlowHelper))
-                .WithDisplayName(OUTPUT_PORT)
-                .WithConnectorUI(PortConnectorUI.Arrowhead)
-                .Build();
+
         }
 
         /// <summary>

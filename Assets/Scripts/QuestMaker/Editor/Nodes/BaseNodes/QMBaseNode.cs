@@ -1,4 +1,6 @@
-﻿using System;
+﻿using QuestMaker.Editor.Compiler;
+using QuestMaker.Editor.Compiler.CompilationModules;
+using System;
 using Unity.GraphToolkit.Editor;
 
 namespace QuestMaker.Editor.Nodes
@@ -21,17 +23,12 @@ namespace QuestMaker.Editor.Nodes
         protected override void OnDefinePorts(IPortDefinitionContext context)
         {
             context.AddInputPort(INPUT_PORT)
-                .WithDataType(typeof(QMFlowHelper))
+                .WithDataType(PortType)
                 .WithDefaultValue(default)
                 .WithDisplayName(INPUT_PORT)
                 .WithConnectorUI(PortConnectorUI.Arrowhead)
                 .Build();
 
-            context.AddOutputPort(OUTPUT_PORT)
-                .WithDataType(typeof(QMFlowHelper))
-                .WithDisplayName(OUTPUT_PORT)
-                .WithConnectorUI(PortConnectorUI.Arrowhead)
-                .Build();
         }
     }
 

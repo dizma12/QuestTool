@@ -11,7 +11,10 @@ namespace QuestMaker.Editor.Nodes
         public const string QUEST_ID_PORT = "Quest_id";
         public const string QUEST_NAME_PORT = "Quest_name";
 
-        public override Type PortType => GetType();
+        public const string SPECIAL_EVENT_PORT = "OnStart";
+
+
+        public override Type PortType => typeof(QMFlowHelper);
 
         public void Build(QuestSO quest)
         {
@@ -41,6 +44,12 @@ namespace QuestMaker.Editor.Nodes
 
         protected override void OnDefinePorts(IPortDefinitionContext context)
         {
+            context.AddOutputPort(SPECIAL_EVENT_PORT)
+                .WithDataType(typeof(ISpecialEventNode))
+                .WithDisplayName("Special Event")
+                .WithConnectorUI(PortConnectorUI.Circle)
+                .Build();
+
             context.AddOutputPort(OUTPUT_PORT)
                 .WithDataType(typeof(QMFlowHelper))
                 .WithDisplayName(OUTPUT_PORT)
