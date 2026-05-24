@@ -1,4 +1,6 @@
 using QuestMaker.Data;
+using QuestMaker.Data.Objectives;
+using QuestMaker.Data.Steps;
 using System.Collections.Generic;
 using UnityEditor;
 using UnityEngine;
@@ -22,16 +24,21 @@ namespace QuestMaker.Data
         }
         public string QuestDescription { get; set; } = string.Empty;
 
-        [SerializeField, HideInInspector] string questName = string.Empty;
 
         public PrerequisiteData Prerequisites { get => prerequisites; set => prerequisites = value; }
         public RewardData Rewards { get => rewards; set => rewards = value; }
+        public IReadOnlyList<ObjectiveData> Objectives => objectives;
+
+        [SerializeField, HideInInspector] string questName = string.Empty;
 
         [SerializeField]
         private PrerequisiteData prerequisites;
 
         [SerializeField]
         private RewardData rewards;
+
+        [SerializeReference]
+        private List<ObjectiveData> objectives;
 
         public void AddPrerequisites(PrerequisiteData data)
         {
@@ -42,6 +49,16 @@ namespace QuestMaker.Data
         {
             rewards = data;
             Debug.Log("[QuestSO] Added Rewards!");
+        }
+
+        public void AddObjective(ObjectiveData obj )
+        {
+            objectives ??= new();
+
+            if (obj == null || objectives.Contains(obj)) return;
+
+            objectives.Add(obj);
+            Debug.Log($"[QuestSO] Objective {obj.ID} added!");
         }
     }
 

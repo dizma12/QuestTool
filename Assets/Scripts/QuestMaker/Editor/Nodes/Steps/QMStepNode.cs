@@ -1,5 +1,5 @@
 ﻿using System;
-using QuestMaker.Data;
+using QuestMaker.Data.StepsAndObjectives;
 using QuestMaker.Editor.Compiler.CompilationModules;
 
 
@@ -10,11 +10,11 @@ namespace QuestMaker.Editor.Nodes.Steps
     {
         public override Type PortType => typeof(IOptionNode);
 
-        public QuestStepTypeSO stepType = null;
+        public QuestStepSO stepType = null;
 
         protected override void OnDefineOptions(IOptionDefinitionContext context)
         {
-            context.AddOption(OPTION_NODE_PORT, typeof(QuestStepTypeSO))
+            context.AddOption(OPTION_NODE_PORT, typeof(QuestStepSO))
                    .WithDefaultValue(null)
                    .WithDisplayName("Quest Type")
                    .Build();

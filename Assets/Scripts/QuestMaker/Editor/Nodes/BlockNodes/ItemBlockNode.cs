@@ -30,7 +30,7 @@ namespace QuestMaker.Editor.Nodes
             item = RetrieveBlockValue<Item>();
             amount = RetrieveBlockValue<int>(AMOUNT_OPTION);
 
-            IItemModule module = cntx.GetModule<T, IItemModule>();
+            IItemModule module = cntx.RequestModule<T, IItemModule>();
 
             module?.SetItem(item, amount);
         }

@@ -16,7 +16,7 @@ namespace QuestMaker.Editor.Nodes
         public override void Compose<T>(T bldr, ModuleBuilderRegistry cntx)
         {
             Item = RetrieveNodeOption<Item>();
-            IItemModule module = cntx.GetModule<T, IItemModule>();
+            IItemModule module = cntx.RequestModule<T, IItemModule>();
             module?.SetItem(Item);
 
         }

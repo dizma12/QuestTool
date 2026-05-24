@@ -18,7 +18,7 @@ namespace QuestMaker.Editor.Compiler
         private QMGraph graph = null;
         private readonly ModuleBuilderRegistry reg = null;
         private readonly HashSet<Type> proccessedNodes = null;
-        private QuestSO quest = null;
+        public QuestSO Quest { get; private set; } = null;
         public QuestCompiler(QMGraph graph)
         {
             this.graph = graph;
@@ -56,36 +56,37 @@ namespace QuestMaker.Editor.Compiler
                     proccessedNodes.Add(portOwnerNode.GetType());
 
             }
-            quest = BuildQuest();
+            Quest = BuildQuest();
 
             QMStartingNode start = (QMStartingNode)startNode;
-            start.Build(quest);
+            start.Build(Quest);
 
-            Debug.Log(quest.QuestName);
-            Debug.Log(quest.Prerequisites.Level);
-            Debug.Log(quest.Rewards.Exp);
+            Debug.Log($"The name of the quest is: {Quest.QuestName}");
+            Debug.Log($"The Level prerequisite for the quest is: {Quest.Prerequisites.Level}");
+            Debug.Log($"The exp reward for the quest is: {Quest.Rewards.Exp}");
+            Debug.Log($"The type of the first step is: {Quest.Objectives.First().Steps.First().StepType}");
 
         }
         public void SaveQuestAsset()
         {
             // path is Folder -> QuestName/Questname.asset
-            string path = $"Assets/Resources/Quests/{quest.QuestName}";
+            string path = $"Assets/Resources/Quests/{Quest.QuestName}";
             //creates directory of path
             Directory.CreateDirectory(path);
 
             //combine path with .asset for asset creation
-            path = Path.Combine(path, $"{quest.QuestName}.asset");
-            AssetDatabase.CreateAsset(quest, path);
+            path = Path.Combine(path, $"{Quest.QuestName}.asset");
+            AssetDatabase.CreateAsset(Quest, path);
 
             // ping on project files
-            Selection.activeObject = quest;
+            Selection.activeObject = Quest;
             EditorGUIUtility.PingObject(Selection.activeObject);
         }
         public void SetGraph(QMGraph newGraph)
         {
             proccessedNodes.Clear();
             reg.Clear(true);
-            quest = null;
+            Quest = null;
             graph = newGraph;
         }
 
@@ -118,6 +119,12 @@ namespace QuestMaker.Editor.Compiler
             {
                 module.Build(quest);
             }
+
+            foreach (var module in reg.ObjectiveModules)
+            {
+                module.Build(quest);
+            }
+
             return quest;
         }
 

@@ -65,7 +65,6 @@ namespace  QuestMaker.Runtime.Game.Events
             }
             return false;
         }
-
         public T CreateEventHandler<T>() where T : CustomEventHandler, new()
         {
             Type type = typeof(T);
@@ -78,7 +77,6 @@ namespace  QuestMaker.Runtime.Game.Events
 
             return handler;
         }
-
         public T GetEventHandler<T>() where T : CustomEventHandler
         {
             Type type = typeof(T);
@@ -91,6 +89,7 @@ namespace  QuestMaker.Runtime.Game.Events
             return default;
             
         }
+
         public void EvetCryOut()
         {
             Debug.Log("[GameEventManager] Executing from external call");

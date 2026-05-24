@@ -16,7 +16,7 @@ namespace QuestMaker.Editor.Nodes
         {
             Level = RetrieveNodeOption<int>();
 
-            ILevelModule module = cntx.GetModule<T, ILevelModule>();
+            ILevelModule module = cntx.RequestModule<T, ILevelModule>();
             module?.SetLevel(Level);
 
         }

@@ -21,4 +21,29 @@ MonoBehaviour:
   rewards:
     _exp: 250
     _items:
-    - {fileID: 0}
+    - {fileID: 11400000, guid: 188f0e41ec8b71a4ba3c7d320bd857a0, type: 2}
+  objectives:
+  - rid: 376272125114450051
+  references:
+    version: 2
+    RefIds:
+    - rid: 376272125114450051
+      type: {class: ObjectiveData, ns: QuestMaker.Data.Objectives, asm: QuestMaker.Data}
+      data:
+        id: 
+        desc: 
+        steps:
+        - rid: 376272125114450052
+        - rid: 376272125114450053
+    - rid: 376272125114450052
+      type: {class: SlayStepData, ns: QuestMaker.Data.Steps, asm: QuestMaker.Data}
+      data:
+        stepId: Slay_[Human Thief]_10
+        enemyID: Human Thief
+        amount: 10
+    - rid: 376272125114450053
+      type: {class: LootStepData, ns: QuestMaker.Data, asm: QuestMaker.Data}
+      data:
+        stepId: Loot_[thunderfury blessed blade of the windseeker]_34
+        item: {fileID: 11400000, guid: 188f0e41ec8b71a4ba3c7d320bd857a0, type: 2}
+        amount: 34

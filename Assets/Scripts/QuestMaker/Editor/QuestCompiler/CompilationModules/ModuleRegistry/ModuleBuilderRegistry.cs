@@ -11,8 +11,26 @@ namespace QuestMaker.Editor.Compiler.CompilationModules
 
         private readonly Dictionary<Type, IQuestModuleBuilder> modules = new();
 
+        private readonly List<IQuestModuleBuilder> objectiveModules = new();
+
         /// <summary>
-        /// Array of all active IQuestModuleBuilders
+        /// Array of all active Objective IQuestModuleBuilders
+        /// </summary>
+        public IQuestModuleBuilder[] ObjectiveModules
+        {
+            get
+            {
+                if (objectiveModules == null || !objectiveModules.Any())
+                {
+                    return null;
+                }
+
+                return objectiveModules.ToArray();
+            }
+        }
+
+        /// <summary>
+        /// Array of all active IQuestModuleBuilders (Objective Modules NOT included).
         /// </summary>
         public IQuestModuleBuilder[] Modules
         {
@@ -35,7 +53,7 @@ namespace QuestMaker.Editor.Compiler.CompilationModules
         /// <typeparam name="TBuilder">class that implements the IQuestModuleBuilder</typeparam>
         /// <typeparam name="TModule">Specific module to retrieve from IQuestModule</typeparam>
         /// <returns>Builder instance as TModule</returns>
-        public TModule GetModule<TBuilder, TModule>()
+        public TModule RequestModule<TBuilder, TModule>()
             where TBuilder : class, IQuestModuleBuilder, new()
             where TModule : class, IQuestModule
         {
@@ -57,12 +75,23 @@ namespace QuestMaker.Editor.Compiler.CompilationModules
             return builder as TModule;
 
         }
-        public IQuestModuleBuilder GetBuilderByType(Type type)
-        {
-            modules.TryGetValue(type, out IQuestModuleBuilder builder);
 
-            return builder;
+
+        public void AddObjectiveModule(ObjectiveModule module)
+        {
+            // VisualStudio did my 18 line ifs into 1 liner KEKW T_T
+            if (module is not IQuestModuleBuilder bldr || objectiveModules.Contains(bldr)) return;
+
+            objectiveModules.Add(bldr);
         }
+        public TBuilder RequestNewObjectiveModule<TBuilder>() where TBuilder: ObjectiveModule, IQuestModuleBuilder, new()
+        {
+            ObjectiveModule module = new();
+            objectiveModules.Add(module);
+
+            return module as TBuilder;
+        }
+
         public TBuilder GetBuilder<TBuilder>() where TBuilder : class, IQuestModuleBuilder, new()
         {
             Type builderType = typeof(TBuilder);
@@ -75,6 +104,7 @@ namespace QuestMaker.Editor.Compiler.CompilationModules
 
             return builder as TBuilder;
         }
+
         public TModule GetModuleByType<TModule>(Type builderType) where TModule : class, IQuestModule, new()
         {
             if(!reg.ContainsKey(builderType))
@@ -88,6 +118,7 @@ namespace QuestMaker.Editor.Compiler.CompilationModules
 
             return builder as TModule;
         }
+
         public TModule GetModuleByBuilder<TBuilder, TModule>(TBuilder builder)
             where TBuilder : class, IQuestModuleBuilder, new()
             where TModule : class, IQuestModule
@@ -185,6 +216,7 @@ namespace QuestMaker.Editor.Compiler.CompilationModules
 
             modules.Clear();
             reg.Clear();
+            objectiveModules.Clear();
         }
     }
 }

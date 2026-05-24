@@ -15,7 +15,7 @@ namespace QuestMaker.Editor.Nodes
         public override void Compose<TBuilder>(TBuilder bldr, ModuleBuilderRegistry cntx)
         {
             Level = RetrieveBlockValue<int>();
-            ILevelModule module = cntx.GetModule<TBuilder, ILevelModule>();
+            ILevelModule module = cntx.RequestModule<TBuilder, ILevelModule>();
 
             if (module != null)
             {
