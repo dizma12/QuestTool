@@ -1,19 +1,16 @@
-﻿using QuestMaker.Data.Steps;
+﻿
 using System;
 using UnityEngine;
 
 namespace QuestMaker.Data.Steps
 {
     [Serializable]
-    public class LootStepData : QuestStepData
+    public class CraftStepData : QuestStepData
     {
-        public override QuestStepType StepType => QuestStepType.Loot;
-        public string StepID => stepId;
-  
+        public override QuestStepType StepType => QuestStepType.Craft;
 
-        [SerializeField, HideInInspector] 
-        private string stepId = string.Empty;
 
+        [SerializeField] private Item item;
         public Item Item
         {
             get => item;
@@ -27,6 +24,7 @@ namespace QuestMaker.Data.Steps
             }
         }
 
+        [SerializeField] private int amount = 0;
         public int Amount
         {
             get => amount;
@@ -40,13 +38,16 @@ namespace QuestMaker.Data.Steps
             }
         }
 
-        [SerializeField] private Item item;
-        [SerializeField] private int amount = 0;
+
+
+        [SerializeField, HideInInspector]
+        private string stepId = string.Empty;
+        public string StepID => stepId;
+
 
         private void SetStepID()
         {
             stepId = $"{StepType}_[{item.ItemName}]_{amount}";
         }
-
     }
 }

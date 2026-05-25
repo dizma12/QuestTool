@@ -1,7 +1,6 @@
 ﻿using QuestMaker.Data.Steps;
 using QuestMaker.Editor.Compiler.CompilationModules;
 using QuestMaker.Editor.Nodes.ContextNodes;
-using System;
 using Unity.GraphToolkit.Editor;
 using UnityEngine;
 
@@ -9,8 +8,8 @@ using UnityEngine;
 namespace QuestMaker.Editor.Nodes.BlockNodes
 {
     [UseWithContext(typeof(QMObjectiveContextNode))]
-    [Serializable]
-    internal class QMSlayStepBlockNode : QMBaseStepBlockNode
+    [System.Serializable]
+    internal class SlayStepBlockNode : QMBaseStepBlockNode
     {
         public const string ENEMY_ID_OPTION = "EnemyID_Option";
         public const string AMOUNT_OPTION = "Amount_Option";

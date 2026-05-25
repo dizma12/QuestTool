@@ -34,7 +34,7 @@ namespace QuestMaker.Editor.Compiler.CompilationModules
         public void Build(QuestSO quest)
         {
             PrerequisiteData data = new (items, quests, _level);
-            quest.AddPrerequisites(data);
+            quest.Prerequisites = data;
         }
 
         public void SetLevel(int level)

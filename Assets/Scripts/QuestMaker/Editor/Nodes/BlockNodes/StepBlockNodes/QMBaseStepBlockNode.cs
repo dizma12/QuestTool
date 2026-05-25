@@ -1,13 +1,11 @@
 ﻿using QuestMaker.Editor.Compiler.CompilationModules;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using QuestMaker.Editor.Nodes.ContextNodes;
+using Unity.GraphToolkit.Editor;
 
 namespace QuestMaker.Editor.Nodes.BlockNodes
 {
-    [Serializable]
+    [UseWithContext(typeof(QMObjectiveContextNode))]
+    [System.Serializable]
     internal abstract class QMBaseStepBlockNode : QMBaseBlockNode
     {
         public override void Compose<TBuilder>(TBuilder bldr, ModuleBuilderRegistry reg)

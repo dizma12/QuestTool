@@ -5,20 +5,18 @@ using QuestMaker.Data.Steps;
 using System.Collections.Generic;
 using UnityEditor;
 using UnityEngine;
-using static UnityEngine.GraphicsBuffer;
-
 
 namespace QuestMaker.Data
 {
     public class QuestSO : ScriptableObject
     {
-        public string QuestID { get; set; } = string.Empty;
-        public string QuestName
+        public string QuestID { get => name; }
+        public virtual string QuestName
         {
             get => questName;
             set
             {
-                if (questName.Equals(string.Empty))
+                if (string.IsNullOrEmpty(questName))
                     questName = value;
                 else return;
             }
@@ -29,35 +27,24 @@ namespace QuestMaker.Data
         public RewardData Rewards { get => rewards; set => rewards = value; }
         public IReadOnlyList<ObjectiveData> Objectives => objectives;
 
-        [SerializeField, HideInInspector] string questName = string.Empty;
+        [SerializeField, HideInInspector] protected string questName = string.Empty;
 
         [SerializeField]
-        private PrerequisiteData prerequisites;
+        protected PrerequisiteData prerequisites;
 
         [SerializeField]
-        private RewardData rewards;
+        protected RewardData rewards;
 
         [SerializeReference]
-        private List<ObjectiveData> objectives;
+        protected List<ObjectiveData> objectives;
 
         [SerializeField]
-        private List<SpecialEventData> specialEvents = new();
+        protected List<SpecialEventData> specialEvents = new();
 
         public void AddSpecialEvent(SpecialEventData data)
         {
             if(specialEvents.Contains(data)) return;
             specialEvents.Add(data);
-        }
-
-        public void AddPrerequisites(PrerequisiteData data)
-        {
-            prerequisites = data;
-            Debug.Log($"[QuestSO] Added Prerequisites");
-        }
-        public void AddRewards(RewardData data)
-        {
-            rewards = data;
-            Debug.Log("[QuestSO] Added Rewards!");
         }
 
         public void AddObjective(ObjectiveData obj )

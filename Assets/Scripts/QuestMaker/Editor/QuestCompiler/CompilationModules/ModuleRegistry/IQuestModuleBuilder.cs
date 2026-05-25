@@ -1,6 +1,7 @@
 ﻿
 using QuestMaker.Data;
 using QuestMaker.Runtime;
+using System.Security.Cryptography;
 
 namespace QuestMaker.Editor.Compiler.CompilationModules
 {
@@ -13,21 +14,31 @@ namespace QuestMaker.Editor.Compiler.CompilationModules
     internal interface IQuestModule { }
     internal interface IItemModule : IQuestModule
     {
-        void SetItem(Item item, int amount = 1);
+        public void SetItem(Item item, int amount = 1);
     }
     internal interface ILevelModule : IQuestModule
     {
-        void SetLevel(int level);
+        public void SetLevel(int level);
     }
 
     internal interface INpcModule : IQuestModule
     {
-        int ID { get; protected set; }
-        void SetNpcID(int id) => ID = id;
+        public int ID { get; protected set; }
+        public void SetNpcID(int id) => ID = id;
     }
 
     internal interface IExpModule : IQuestModule
     {
-        void SetExp(int amount);
+        public void SetExp(int amount);
+    }
+    internal interface IReputationModule : IQuestModule
+    {
+        public void SetReputation(int amount);
+    }
+    internal interface IQuestInfoModule : IQuestModule
+    {
+        public void SetQuestName(string name);
+        public void SetQuestDescription(string desc);
+
     }
 }

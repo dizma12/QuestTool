@@ -14,7 +14,7 @@ namespace QuestMaker.Editor.Compiler.CompilationModules
         public void Build(QuestSO quest)
         {
             RewardData data = new(_exp, new List<Item> { _item});
-            quest.AddRewards(data);
+            quest.Rewards = data;
         }
 
 

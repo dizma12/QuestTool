@@ -6,6 +6,9 @@
         Slay,
         Loot,
         Craft,
-        Interact
+        Interact,
+        Explore,
+        Collect,
+        Talk,
     }
 }

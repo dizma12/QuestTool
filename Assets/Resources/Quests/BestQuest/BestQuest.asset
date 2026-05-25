@@ -16,34 +16,35 @@ MonoBehaviour:
   prerequisites:
     level: 5
     items:
-    - {fileID: 11400000, guid: 188f0e41ec8b71a4ba3c7d320bd857a0, type: 2}
+    - {fileID: 11400000, guid: 63d1115c0dbabc0499a96426019b4a1b, type: 2}
     quests: []
   rewards:
     _exp: 250
     _items:
     - {fileID: 11400000, guid: 188f0e41ec8b71a4ba3c7d320bd857a0, type: 2}
   objectives:
-  - rid: 376272125114450051
+  - rid: 376272149933981795
+  specialEvents: []
   references:
     version: 2
     RefIds:
-    - rid: 376272125114450051
+    - rid: 376272149933981795
       type: {class: ObjectiveData, ns: QuestMaker.Data.Objectives, asm: QuestMaker.Data}
       data:
         id: 
         desc: 
         steps:
-        - rid: 376272125114450052
-        - rid: 376272125114450053
-    - rid: 376272125114450052
+        - rid: 376272149933981796
+        - rid: 376272149933981797
+    - rid: 376272149933981796
       type: {class: SlayStepData, ns: QuestMaker.Data.Steps, asm: QuestMaker.Data}
       data:
         stepId: Slay_[Human Thief]_10
         enemyID: Human Thief
         amount: 10
-    - rid: 376272125114450053
+    - rid: 376272149933981797
       type: {class: LootStepData, ns: QuestMaker.Data, asm: QuestMaker.Data}
       data:
-        stepId: Loot_[thunderfury blessed blade of the windseeker]_34
-        item: {fileID: 11400000, guid: 188f0e41ec8b71a4ba3c7d320bd857a0, type: 2}
+        stepId: Loot_[Copper Helm]_34
+        item: {fileID: 11400000, guid: 8abb4220609f04249a48cab9c892109f, type: 2}
         amount: 34

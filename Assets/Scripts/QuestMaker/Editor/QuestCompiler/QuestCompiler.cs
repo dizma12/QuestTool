@@ -25,32 +25,33 @@ namespace QuestMaker.Editor.Compiler
             reg = new();
             proccessedNodes = new();
         }
-
+        private QMStartingNode startingNode = null;
         public void CompileQuestGraph()
         {
             IEnumerable<INode> graphNodes = graph.GetNodes();
 
-            if (graphNodes.Count() <= 0) return;
+            if (!graphNodes.Any()) return;
 
             INode startNode = LocateStartingNode(graphNodes);
 
             IPort flowPort = startNode.GetOutputPortByName(QMBaseOptionNode.OUTPUT_PORT);
 
+            if (!flowPort.IsConnected)
+                throw new Exception("[Quest Compiler] Flow port of Starting node is not connected to any ports");
+
             List<IPort> connectedPorts = new();
             flowPort.GetConnectedPorts(connectedPorts);
 
-            if (!connectedPorts.Any()) return;
-
-
+            startingNode.ProcessNode(reg);
 
             Debug.Log($"Connected ports: {connectedPorts.Count}");
 
             foreach (var port in connectedPorts)
             {
                 INode portOwnerNode = port.GetNode();
-                Type portOwnerNodeType = portOwnerNode.GetType();
+
                 if (portOwnerNode == null) Debug.Log("Node is null");
-                else Debug.Log($"Found node of type {portOwnerNodeType}");
+                
 
                 if (TryProcessNode(portOwnerNode))
                     proccessedNodes.Add(portOwnerNode.GetType());
@@ -58,13 +59,10 @@ namespace QuestMaker.Editor.Compiler
             }
             Quest = BuildQuest();
 
-            QMStartingNode start = (QMStartingNode)startNode;
-            start.Build(Quest);
-
-            Debug.Log($"The name of the quest is: {Quest.QuestName}");
-            Debug.Log($"The Level prerequisite for the quest is: {Quest.Prerequisites.Level}");
-            Debug.Log($"The exp reward for the quest is: {Quest.Rewards.Exp}");
-            Debug.Log($"The type of the first step is: {Quest.Objectives.First().Steps.First().StepType}");
+            //Debug.Log($"The name of the quest is: {Quest.QuestName}");
+            //Debug.Log($"The Level prerequisite for the quest is: {Quest.Prerequisites.Level}");
+            //Debug.Log($"The exp reward for the quest is: {Quest.Rewards.Exp}");
+            //Debug.Log($"The type of the first step is: {Quest.Objectives.First().Steps.First().StepType}");
 
         }
         public void SaveQuestAsset()
@@ -88,6 +86,7 @@ namespace QuestMaker.Editor.Compiler
             reg.Clear(true);
             Quest = null;
             graph = newGraph;
+            startingNode = null;
         }
 
         private bool TryProcessNode(INode portOwnerNode)
@@ -115,6 +114,9 @@ namespace QuestMaker.Editor.Compiler
             if (!reg.Modules.Any()) return null;
 
             QuestSO quest = ScriptableObject.CreateInstance<QuestSO>();
+
+            
+
             foreach (var module in reg.Modules)
             {
                 module.Build(quest);
@@ -138,7 +140,7 @@ namespace QuestMaker.Editor.Compiler
             INode startNode = nodes.FirstOrDefault(node => node is QMStartingNode)
                 ?? throw new NullReferenceException($"[{GetType().Name}] Starting Node Is null");
 
-            Debug.Log($"Found starting node {startNode.GetType()}");
+            startingNode = startNode as QMStartingNode;
 
             return startNode;
         }

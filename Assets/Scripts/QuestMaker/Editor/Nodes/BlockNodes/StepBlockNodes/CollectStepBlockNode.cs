@@ -1,15 +1,14 @@
 ﻿using QuestMaker.Data;
+using QuestMaker.Data.Steps;
 using QuestMaker.Editor.Compiler.CompilationModules;
 using QuestMaker.Editor.Nodes.ContextNodes;
-using System;
 using Unity.GraphToolkit.Editor;
-
 
 namespace QuestMaker.Editor.Nodes.BlockNodes
 {
     [UseWithContext(typeof(QMObjectiveContextNode))]
-    [Serializable]
-    internal class LootStepBlockNode : QMBaseStepBlockNode
+    [System.Serializable]
+    internal class CollectStepBlockNode : QMBaseStepBlockNode
     {
         public const string ITEM_OPTION = "Item_Option";
         public const string AMOUNT_OPTION = "Amount_Option";

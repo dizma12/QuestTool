@@ -1,4 +1,5 @@
 ﻿using QuestMaker.Data.SpecialEvents;
+using QuestMaker.Editor.Compiler;
 using QuestMaker.Editor.Compiler.CompilationModules;
 using QuestMaker.Editor.Nodes;
 using System;
@@ -6,7 +7,7 @@ using System;
 namespace QuestMaker.Editor.Assets.Scripts.QuestMaker.Editor.Nodes.SpecialEventNodes
 {
     [Serializable]
-    internal class QMSpecialEventNode : QMBaseNode
+    internal class QMSpecialEventNode : QMBaseNode, IComposableNode
     {
         public override Type PortType => typeof(ISpecialEventNode);
         public const string SPECIAL_EVENT_TRIGGER_PORT = "Special_Event_Trigger_Port";
@@ -38,5 +39,9 @@ namespace QuestMaker.Editor.Assets.Scripts.QuestMaker.Editor.Nodes.SpecialEventN
                 .Build();
         }
 
+        public void Compose<TBuilder>(TBuilder moduleBuilder, ModuleBuilderRegistry reg) where TBuilder : class, IQuestModuleBuilder, new()
+        {
+            throw new NotImplementedException();
+        }
     }
 }

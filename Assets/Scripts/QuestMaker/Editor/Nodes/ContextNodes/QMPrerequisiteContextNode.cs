@@ -12,7 +12,7 @@ namespace QuestMaker.Editor.Nodes
     internal class QMPrerequisiteContextNode : QMBaseContextNode
     {
 
-        public override Type PortType => typeof(IOptionNode);
+        public override Type PortType => typeof(QMFlowHelper);
 
         public override bool AllowMultipleContextNodesOfSameType => false;
 

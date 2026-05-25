@@ -1,0 +1,178 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12501, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: LOTR_Plot_graph
+  m_EditorClassIdentifier: UnityEditor.dll::Unity.GraphToolkit.Editor.Implementation.GraphObjectImp
+  m_GraphModel:
+    rid: 376272149933981798
+  references:
+    version: 2
+    RefIds:
+    - rid: -2
+      type: {class: , ns: , asm: }
+    - rid: 376272149933981798
+      type: {class: GraphModelImp, ns: Unity.GraphToolkit.Editor.Implementation, asm: UnityEditor.GraphToolkitModule}
+      data:
+        m_Guid:
+          m_Value0: 12978010370811106897
+          m_Value1: 3634234761320099519
+        m_HashGuid:
+          serializedVersion: 2
+          Hash: 511688fbab271bb4bf6edcaa42656f32
+        m_Name: 
+        m_GraphNodeModels:
+        - rid: 376272149933981801
+        - rid: 376272149933981805
+        m_GraphWireModels: []
+        m_GraphStickyNoteModels: []
+        m_GraphPlacematModels: []
+        m_GraphVariableModels: []
+        m_GraphPortalModels: []
+        m_SectionModels:
+        - rid: 376272149933981799
+        m_LocalSubgraphs: []
+        m_LastKnownBounds:
+          serializedVersion: 2
+          x: 237
+          y: 159
+          width: 560
+          height: 211
+        m_GraphElementMetaData:
+        - m_Guid:
+            m_Value0: 2872355714644305201
+            m_Value1: 10853904328839615410
+          m_HashGuid:
+            serializedVersion: 2
+            Hash: 31e5efd74da8dc27b2538f0a7bd0a096
+          m_Category: 0
+          m_Index: 0
+        - m_Guid:
+            m_Value0: 15097782938617137397
+            m_Value1: 3950889263116935729
+          m_HashGuid:
+            serializedVersion: 2
+            Hash: f5483a58971986d13162fd22da60d436
+          m_Category: 4
+          m_Index: 1
+        m_EntryPoint:
+          rid: 376272149933981801
+        m_Graph:
+          rid: 376272149933981800
+    - rid: 376272149933981799
+      type: {class: SectionModel, ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
+      data:
+        m_Guid:
+          m_Value0: 18247510752313261018
+          m_Value1: 7636991932253107268
+        m_HashGuid:
+          serializedVersion: 2
+          Hash: dabbc08a592e3cfd4474782ab30bfc69
+        m_Version: 2
+        m_Items: []
+        m_Title: 
+    - rid: 376272149933981800
+      type: {class: QMGraph, ns: QuestMaker.Editor.Graph, asm: QuestMakerEditor}
+      data: 
+    - rid: 376272149933981801
+      type: {class: UserNodeModelImp, ns: Unity.GraphToolkit.Editor.Implementation, asm: UnityEditor.GraphToolkitModule}
+      data:
+        m_Guid:
+          m_Value0: 2872355714644305201
+          m_Value1: 10853904328839615410
+        m_HashGuid:
+          serializedVersion: 2
+          Hash: 31e5efd74da8dc27b2538f0a7bd0a096
+        m_Version: 2
+        m_Position: {x: 236.62982, y: 199.3315}
+        m_Title: 
+        m_Tooltip: 
+        m_NodePreviewModel:
+          rid: -2
+        m_State: 0
+        m_InputConstantsById:
+          m_KeyList:
+          - __option_Quest_name
+          - __option_Quest_id
+          m_ValueList:
+          - rid: 376272149933981802
+          - rid: 376272149933981803
+        m_InputPortInfos:
+          expandedPortsById:
+            m_KeyList: []
+            m_ValueList: 
+        m_OutputPortInfos:
+          expandedPortsById:
+            m_KeyList: []
+            m_ValueList: 
+        m_Collapsed: 0
+        m_CurrentModeIndex: 0
+        m_ElementColor:
+          m_Color: {r: 0, g: 0, b: 0, a: 0}
+          m_HasUserColor: 0
+        m_Node:
+          rid: 376272149933981804
+    - rid: 376272149933981802
+      type: {class: 'Constant`1[[System.String, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
+      data:
+        m_Value: Destroy_The_Ring
+    - rid: 376272149933981803
+      type: {class: 'Constant`1[[System.String, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
+      data:
+        m_Value: You must find and destroy the ring Fodum
+    - rid: 376272149933981804
+      type: {class: QMStartingNode, ns: QuestMaker.Editor.Nodes, asm: QuestMakerEditor}
+      data: 
+    - rid: 376272149933981805
+      type: {class: UserContextNodeModelImp, ns: Unity.GraphToolkit.Editor.Implementation, asm: UnityEditor.GraphToolkitModule}
+      data:
+        m_Guid:
+          m_Value0: 15097782938617137397
+          m_Value1: 3950889263116935729
+        m_HashGuid:
+          serializedVersion: 2
+          Hash: f5483a58971986d13162fd22da60d436
+        m_Version: 2
+        m_Position: {x: 536.3701, y: 158.80113}
+        m_Title: 
+        m_Tooltip: 
+        m_NodePreviewModel:
+          rid: -2
+        m_State: 0
+        m_InputConstantsById:
+          m_KeyList:
+          - FlowIn
+          m_ValueList:
+          - rid: 376272149933981806
+        m_InputPortInfos:
+          expandedPortsById:
+            m_KeyList: []
+            m_ValueList: 
+        m_OutputPortInfos:
+          expandedPortsById:
+            m_KeyList: []
+            m_ValueList: 
+        m_Collapsed: 0
+        m_CurrentModeIndex: 0
+        m_ElementColor:
+          m_Color: {r: 0, g: 0, b: 0, a: 0}
+          m_HasUserColor: 0
+        m_Blocks: []
+        m_BlockGuids: []
+        m_Subtitle: 
+        m_Node:
+          rid: 376272149933981807
+    - rid: 376272149933981806
+      type: {class: 'Constant`1[[QuestMaker.Editor.Nodes.IOptionNode, QuestMakerEditor]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
+      data: 
+    - rid: 376272149933981807
+      type: {class: QMPrerequisiteContextNode, ns: QuestMaker.Editor.Nodes, asm: QuestMakerEditor}
+      data: 

@@ -24,15 +24,12 @@ namespace QuestMaker.Editor.Nodes
         
         protected override void OnDefinePorts(IPortDefinitionContext context)
         {
-
             context.AddInputPort(INPUT_PORT)
                 .WithDataType(PortType)
                 .WithDefaultValue(default)
                 .WithDisplayName(INPUT_PORT)
                 .WithConnectorUI(PortConnectorUI.Arrowhead)
                 .Build();
-
-
         }
 
         /// <summary>
