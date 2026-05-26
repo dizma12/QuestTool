@@ -1,14 +1,16 @@
-﻿
-using System;
-using UnityEngine;
+﻿using UnityEngine;
 
 namespace QuestMaker.Data.Steps
 {
-    [Serializable]
+    [System.Serializable]
     public class CraftStepData : QuestStepData
     {
         public override QuestStepType StepType => QuestStepType.Craft;
 
+
+        [SerializeField, HideInInspector]
+        private string stepId = string.Empty;
+        public string StepID => stepId;
 
         [SerializeField] private Item item;
         public Item Item
@@ -37,13 +39,6 @@ namespace QuestMaker.Data.Steps
                 }
             }
         }
-
-
-
-        [SerializeField, HideInInspector]
-        private string stepId = string.Empty;
-        public string StepID => stepId;
-
 
         private void SetStepID()
         {

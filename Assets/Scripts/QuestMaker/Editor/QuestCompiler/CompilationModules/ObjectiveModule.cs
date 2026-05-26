@@ -13,9 +13,8 @@ namespace QuestMaker.Editor.Compiler.CompilationModules
         private string objectiveID = string.Empty;
         private string description = string.Empty;
 
-        public void SetMeta(string id, string desc)
+        public void SetDescription(string desc)
         {
-            objectiveID = id;
             description = desc;
         }
 
@@ -28,14 +27,14 @@ namespace QuestMaker.Editor.Compiler.CompilationModules
 
         public void Build(QuestSO quest)
         {
-            quest.AddObjective(new ObjectiveData
+            ObjectiveData data = new ObjectiveData
             {
-                ID = objectiveID,
                 Description = description,
                 Steps = new List<QuestStepData>(steps)
-            });
+            };
+            quest.AddObjective(data);
 
-            Debug.Log($"Building Objective module with step count: {steps.Count}");
+            Debug.Log($"Building Objective module with step count: {steps.Count} and id: {data.ID}");
         }
     }
 }

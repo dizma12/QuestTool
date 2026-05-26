@@ -1,10 +1,10 @@
 ﻿using QuestMaker.Data.Steps;
-using System;
+
 using UnityEngine;
 
 namespace QuestMaker.Data.Steps
 {
-    [Serializable]
+    [System.Serializable]
     public class LootStepData : QuestStepData
     {
         public override QuestStepType StepType => QuestStepType.Loot;

@@ -12,7 +12,9 @@ namespace QuestMaker.Editor.Nodes
         public const string QUEST_NAME_PORT = "Quest_name";
 
         public const string SPECIAL_EVENT_PORT = "Special_Event_Port";
-        public override Type PortType => typeof(QMFlowHelper);
+        public const string OBJECTIVE_FLOW_PORT = "Objective_Flow_Port";
+        public const string CONTEXT_FLOW_PORT = "Context_Flow_Port";
+        public override Type PortType => typeof(IContextFlowHelper);
         protected override void OnDefineOptions(IOptionDefinitionContext context)
         {
             context.AddOption(QUEST_NAME_PORT, typeof(string))
@@ -36,9 +38,15 @@ namespace QuestMaker.Editor.Nodes
                 .WithConnectorUI(PortConnectorUI.Circle)
                 .Build();
 
-            context.AddOutputPort(OUTPUT_PORT)
-                .WithDataType(typeof(QMFlowHelper))
-                .WithDisplayName(OUTPUT_PORT)
+            context.AddOutputPort(CONTEXT_FLOW_PORT)
+                .WithDataType(PortType)
+                .WithDisplayName("Context")
+                .WithConnectorUI(PortConnectorUI.Arrowhead)
+                .Build();
+
+            context.AddOutputPort(OBJECTIVE_FLOW_PORT)
+                .WithDataType(typeof(IObjectiveFlowHelper))
+                .WithDisplayName("OBjectives")
                 .WithConnectorUI(PortConnectorUI.Arrowhead)
                 .Build();
         }

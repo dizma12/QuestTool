@@ -5,19 +5,24 @@ using System.Collections.Generic;
 
 namespace QuestMaker.Editor.Compiler.CompilationModules
 {
-    internal class RewardModule : IQuestModuleBuilder, IExpModule, IItemModule
+    internal class RewardModule : IQuestModuleBuilder, IExpModule, IItemModule, IAbilityModule
     {
         private int _exp = 0;
-        private int _itemAmount = 0;
-        private Item _item = null;
-
+        private readonly List<ItemAmount> _items = new();
+        private readonly List<string> _abilities = new ();
         public void Build(QuestSO quest)
         {
-            RewardData data = new(_exp, new List<Item> { _item});
+            RewardData data = new(_exp, _items.ToArray() , _abilities.ToArray());
             quest.Rewards = data;
         }
 
+        public void SetAbility(string abilityId)
+        {
+            if(string.IsNullOrEmpty(abilityId))
+                return;
 
+            _abilities.Add(abilityId);
+        }
 
         public void SetExp(int amount)
         {
@@ -30,8 +35,7 @@ namespace QuestMaker.Editor.Compiler.CompilationModules
             if (item == null) throw new NullReferenceException($"[{GetType().Name}] Cannot add Item coz its null");
             if (amount < 1) return;
 
-            _item = item;
-            _itemAmount = amount;
+            _items.Add(new() { Item = item, Amount = amount });
         }
 
 

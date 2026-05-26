@@ -11,7 +11,6 @@ namespace QuestMaker.Editor.Nodes.BlockNodes
     {
         public const string NPC_ID = "NPC_Option";
 
-
         protected override void OnDefineOptions(IOptionDefinitionContext context)
         {
             context.AddOption(NPC_ID, typeof(string))

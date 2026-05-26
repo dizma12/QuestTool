@@ -3,25 +3,22 @@ using QuestMaker.Editor.Compiler.CompilationModules;
 using System;
 using System.Linq;
 using Unity.GraphToolkit.Editor;
-using UnityEngine;
 namespace QuestMaker.Editor.Nodes
 {
+    /// <summary>
+    /// Class that all context nodes derive from (closed).
+    /// </summary>
     [Serializable]
-    internal abstract class QMBaseContextNode : ContextNode
+    internal abstract class QMContextNode : ContextNode
     {
+        public abstract bool AllowMultipleContextNodesOfSameType { get; }
+        public abstract Type PortType { get; }
+
         /// <summary>
         /// Input port for Graph Flow
         /// </summary>
         public const string INPUT_PORT = "FlowIn";
 
-        /// <summary>
-        /// Output port for Graph Flow
-        /// </summary>
-        public const string OUTPUT_PORT = "FlowOut";
-
-        public abstract bool AllowMultipleContextNodesOfSameType { get; }
-        public abstract Type PortType { get; }
-        
         protected override void OnDefinePorts(IPortDefinitionContext context)
         {
             context.AddInputPort(INPUT_PORT)
@@ -33,7 +30,7 @@ namespace QuestMaker.Editor.Nodes
         }
 
         /// <summary>
-        /// Locates all block nodes of the context block.
+        /// Locates all blocks of the context Node.
         /// </summary>
         /// <param name="cntx"></param>
         /// <returns>IComposable Array or Null if doesnt find any.</returns>
@@ -46,11 +43,30 @@ namespace QuestMaker.Editor.Nodes
 
                 return null;
             }
-            
+
             return blocks;
         }
 
-        public abstract bool ProccessNodes(ModuleBuilderRegistry reg);
-        
+        public abstract bool ProcessNode(ModuleBuilderRegistry reg);
+
+
+        protected virtual T RetrieveOptionValue<T>(string optionName)
+        {
+            INodeOption option = GetNodeOptionByName(optionName);
+
+            option.TryGetValue(out T val);
+            return val;
+        }
     }
+
+
+    /// <summary>
+    /// Base Class that all non-objective context nodes should derive from.
+    /// </summary>
+    [Serializable]
+    internal abstract class QMBaseContextNode : QMContextNode 
+    { 
+        public override Type PortType => typeof(IContextFlowHelper); 
+    };
 }
+

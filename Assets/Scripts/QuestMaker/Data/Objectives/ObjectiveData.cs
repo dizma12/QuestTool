@@ -12,12 +12,19 @@ namespace QuestMaker.Data.Objectives
 
         public string ID
         {
-            get => id;
-            set
+            get
             {
                 if (string.IsNullOrEmpty(id))
-                    id = value;
+                {
+                    if (steps != null && steps.Count > 0)
+                    {
+                        var x = steps.Select(s => s.StepType.ToString());
+                        id = string.Join("_", x) + $"_{steps.Count}";
+                    }
+                }
+                return id;
             }
+
         }
         public string Description
         {
@@ -29,7 +36,7 @@ namespace QuestMaker.Data.Objectives
             }
         }
 
-        [SerializeField] private string id = string.Empty;
+        [SerializeField, HideInInspector] private string id = string.Empty;
         [SerializeField] private string desc = string.Empty;
 
         [SerializeReference]
@@ -40,7 +47,7 @@ namespace QuestMaker.Data.Objectives
             get => steps;
             set
             {
-                if ( (steps == null || !steps.Any()) && value != null)
+                if ((steps == null || !steps.Any()) && value != null)
                     steps = value.ToList();
             }
         }
@@ -54,7 +61,7 @@ namespace QuestMaker.Data.Objectives
         {
             steps ??= new();
 
-            if(step == null || steps.Contains(step)) return;
+            if (step == null || steps.Contains(step)) return;
 
             steps.Add(step);
         }

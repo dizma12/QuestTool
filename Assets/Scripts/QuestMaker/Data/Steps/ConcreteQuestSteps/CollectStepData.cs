@@ -1,20 +1,16 @@
-﻿using QuestMaker.Data.Steps;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿
 using UnityEngine;
 
 namespace QuestMaker.Data.Steps
 {
-    internal class CollectStepData : QuestStepData
+    [System.Serializable]
+    public class CollectStepData : QuestStepData
     {
         public override QuestStepType StepType => QuestStepType.Collect;
+        public string StepID => stepId;
 
         [SerializeField, HideInInspector]
         private string stepId = string.Empty;
-        public string StepID => stepId;
 
         [SerializeField] private Item item;
         public Item Item

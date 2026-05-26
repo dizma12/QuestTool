@@ -1,15 +1,14 @@
-using System;
 using UnityEngine;
 
 namespace QuestMaker.Data.Steps
 {
-    [Serializable]
+    [System.Serializable]
     public class SlayStepData : QuestStepData
     {
         public override QuestStepType StepType => QuestStepType.Slay;
+        public string StepID => stepId;
 
         [SerializeField, HideInInspector] private string stepId = string.Empty;
-        public string StepID => stepId;
 
         public string EnemyID
         {

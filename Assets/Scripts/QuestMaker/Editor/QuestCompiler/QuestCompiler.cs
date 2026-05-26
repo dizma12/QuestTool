@@ -2,12 +2,14 @@
 using QuestMaker.Editor.Compiler.CompilationModules;
 using QuestMaker.Editor.Graph;
 using QuestMaker.Editor.Nodes;
+using QuestMaker.Editor.Nodes.ContextNodes;
 using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using Unity.GraphToolkit.Editor;
 using UnityEditor;
+using UnityEditor.Experimental.GraphView;
 using UnityEngine;
 
 namespace QuestMaker.Editor.Compiler
@@ -34,15 +36,31 @@ namespace QuestMaker.Editor.Compiler
 
             INode startNode = LocateStartingNode(graphNodes);
 
-            IPort flowPort = startNode.GetOutputPortByName(QMBaseOptionNode.OUTPUT_PORT);
+            ProcessStartingNodeByPort(startNode, QMStartingNode.CONTEXT_FLOW_PORT);
+            ProcessStartingNodeByPort(startNode, QMStartingNode.OBJECTIVE_FLOW_PORT);
 
-            if (!flowPort.IsConnected)
-                throw new Exception("[Quest Compiler] Flow port of Starting node is not connected to any ports");
-
-            List<IPort> connectedPorts = new();
-            flowPort.GetConnectedPorts(connectedPorts);
 
             startingNode.ProcessNode(reg);
+            Quest = BuildQuest();
+
+            //Debug.Log($"The name of the quest is: {Quest.QuestName}");
+            //Debug.Log($"The Level prerequisite for the quest is: {Quest.Prerequisites.Level}");
+            //Debug.Log($"The exp reward for the quest is: {Quest.Rewards.Exp}");
+            //Debug.Log($"The type of the first step is: {Quest.Objectives.First().Steps.First().StepType}");
+
+        }
+        private void ProcessStartingNodeByPort(INode startingNode, string portName)
+        {
+            IPort contextFlowPort = startingNode.GetOutputPortByName(portName);
+
+            if(contextFlowPort == null) return;
+
+            if (!contextFlowPort.IsConnected)
+                throw new Exception("[Quest Compiler] Context Flow port of Starting node is not connected to any ports");
+
+            List<IPort> connectedPorts = new();
+
+            contextFlowPort.GetConnectedPorts(connectedPorts);
 
             Debug.Log($"Connected ports: {connectedPorts.Count}");
 
@@ -51,19 +69,12 @@ namespace QuestMaker.Editor.Compiler
                 INode portOwnerNode = port.GetNode();
 
                 if (portOwnerNode == null) Debug.Log("Node is null");
-                
+
 
                 if (TryProcessNode(portOwnerNode))
                     proccessedNodes.Add(portOwnerNode.GetType());
 
             }
-            Quest = BuildQuest();
-
-            //Debug.Log($"The name of the quest is: {Quest.QuestName}");
-            //Debug.Log($"The Level prerequisite for the quest is: {Quest.Prerequisites.Level}");
-            //Debug.Log($"The exp reward for the quest is: {Quest.Rewards.Exp}");
-            //Debug.Log($"The type of the first step is: {Quest.Objectives.First().Steps.First().StepType}");
-
         }
         public void SaveQuestAsset()
         {
@@ -99,7 +110,7 @@ namespace QuestMaker.Editor.Compiler
             {
                 return ProccesHubNode(hub);
             }
-            else if (IsContextNode(portOwnerNode, out QMBaseContextNode context))
+            else if (IsContextNode(portOwnerNode, out QMContextNode context))
             {
                 return ProccessContextNode(context);
 
@@ -130,11 +141,14 @@ namespace QuestMaker.Editor.Compiler
             return quest;
         }
 
-        private bool ProccessContextNode(QMBaseContextNode contextNode)
+        private bool ProccessContextNode(QMContextNode node)
         {
-            return contextNode.ProccessNodes(reg);
+            return node.ProcessNode(reg);
         }
+        //private bool ProcessObjectiveNode(QMObjectiveContextNode node)
+        //{
 
+        //}
         private INode LocateStartingNode(IEnumerable<INode> nodes)
         {
             INode startNode = nodes.FirstOrDefault(node => node is QMStartingNode)
@@ -145,14 +159,14 @@ namespace QuestMaker.Editor.Compiler
             return startNode;
         }
 
-        private bool IsContextNode(INode node, out QMBaseContextNode contextNode)
+        private bool IsContextNode(INode node, out QMContextNode contextNode)
         {
             if (node == null) throw new NullReferenceException($"[QuestCompiler].AsContextNode() node is null");
             contextNode = null;
 
-            if (node is QMBaseContextNode)
+            if (node is QMContextNode)
             {
-                contextNode = node as QMBaseContextNode;
+                contextNode = node as QMContextNode;
                 return true;
             }
 

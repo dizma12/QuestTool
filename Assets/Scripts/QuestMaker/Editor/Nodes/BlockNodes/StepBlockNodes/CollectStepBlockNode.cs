@@ -31,7 +31,7 @@ namespace QuestMaker.Editor.Nodes.BlockNodes
             Item item = RetrieveBlockValue<Item>(ITEM_OPTION);
             int amount = RetrieveBlockValue<int>(AMOUNT_OPTION);
 
-            module.AddStep(new LootStepData
+            module.AddStep(new CollectStepData
             {
                 Item = item,
                 Amount = amount

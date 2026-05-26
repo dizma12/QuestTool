@@ -32,11 +32,4 @@ namespace QuestMaker.Editor.Nodes
         }
     }
 
-
-    /// <summary>
-    /// This is an empty class used to controll the flow of the Graph.
-    /// HOLDS NO DATA OR LOGIC.
-    /// </summary>
-    internal class QMFlowHelper { }
-
 }

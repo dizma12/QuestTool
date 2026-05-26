@@ -170,9 +170,9 @@ namespace QuestMaker.Editor.Window
                 {
                     ObjectField field = new($"Item Requirment [{i}]")
                     {
-                        objectType = typeof(Item), 
+                        objectType = typeof(Item),
                         allowSceneObjects = false,
-                        value = Itemprepreq[i]
+                        value = Itemprepreq[i].Item
                     };
                     field.SetEnabled(false);
                     prerequisites.Add(field);

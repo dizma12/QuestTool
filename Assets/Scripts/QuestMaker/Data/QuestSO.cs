@@ -24,17 +24,20 @@ namespace QuestMaker.Data
         public string QuestDescription { get; set; } = string.Empty;
 
         public PrerequisiteData Prerequisites { get => prerequisites; set => prerequisites = value; }
+
         public RewardData Rewards { get => rewards; set => rewards = value; }
         public IReadOnlyList<ObjectiveData> Objectives => objectives;
 
         [SerializeField, HideInInspector] protected string questName = string.Empty;
 
+        [Header("Info")]
         [SerializeField]
         protected PrerequisiteData prerequisites;
 
         [SerializeField]
         protected RewardData rewards;
 
+        [Header("Goals")]
         [SerializeReference]
         protected List<ObjectiveData> objectives;
 
