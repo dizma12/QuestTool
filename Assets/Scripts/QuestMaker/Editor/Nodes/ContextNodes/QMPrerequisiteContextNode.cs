@@ -11,12 +11,9 @@ namespace QuestMaker.Editor.Nodes
     [Serializable]
     internal class QMPrerequisiteContextNode : QMBaseContextNode
     {
-
-        public override Type PortType => typeof(IOptionNode);
-
         public override bool AllowMultipleContextNodesOfSameType => false;
 
-        public override bool ProccessNodes(ModuleBuilderRegistry reg)
+        public override bool ProcessNode(ModuleBuilderRegistry reg)
         {
             var builder = reg.GetBuilder<PrerequisiteModule>();
             if(builder == null) return false;

@@ -23,7 +23,7 @@ namespace QuestMaker.Editor.Nodes
         public override void Compose<TBuilder>(TBuilder bldr, ModuleBuilderRegistry reg)
         {
             _exp = RetrieveBlockValue<int>();
-            IExpModule module = reg.GetModule<TBuilder, IExpModule>();
+            IExpModule module = reg.RequestModule<TBuilder, IExpModule>();
 
             if (module != null )
             {

@@ -2,12 +2,14 @@
 using QuestMaker.Editor.Compiler.CompilationModules;
 using QuestMaker.Editor.Graph;
 using QuestMaker.Editor.Nodes;
+using QuestMaker.Editor.Nodes.ContextNodes;
 using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using Unity.GraphToolkit.Editor;
 using UnityEditor;
+using UnityEditor.Experimental.GraphView;
 using UnityEngine;
 
 namespace QuestMaker.Editor.Compiler
@@ -18,75 +20,84 @@ namespace QuestMaker.Editor.Compiler
         private QMGraph graph = null;
         private readonly ModuleBuilderRegistry reg = null;
         private readonly HashSet<Type> proccessedNodes = null;
-        private QuestSO quest = null;
+        public QuestSO Quest { get; private set; } = null;
         public QuestCompiler(QMGraph graph)
         {
             this.graph = graph;
             reg = new();
             proccessedNodes = new();
         }
-
+        private QMStartingNode startingNode = null;
         public void CompileQuestGraph()
         {
             IEnumerable<INode> graphNodes = graph.GetNodes();
 
-            if (graphNodes.Count() <= 0) return;
+            if (!graphNodes.Any()) return;
 
             INode startNode = LocateStartingNode(graphNodes);
 
-            IPort flowPort = startNode.GetOutputPortByName(QMBaseOptionNode.OUTPUT_PORT);
+            ProcessStartingNodeByPort(startNode, QMStartingNode.CONTEXT_FLOW_PORT);
+            ProcessStartingNodeByPort(startNode, QMStartingNode.OBJECTIVE_FLOW_PORT);
+
+
+            startingNode.ProcessNode(reg);
+            Quest = BuildQuest();
+
+            //Debug.Log($"The name of the quest is: {Quest.QuestName}");
+            //Debug.Log($"The Level prerequisite for the quest is: {Quest.Prerequisites.Level}");
+            //Debug.Log($"The exp reward for the quest is: {Quest.Rewards.Exp}");
+            //Debug.Log($"The type of the first step is: {Quest.Objectives.First().Steps.First().StepType}");
+
+        }
+        private void ProcessStartingNodeByPort(INode startingNode, string portName)
+        {
+            IPort contextFlowPort = startingNode.GetOutputPortByName(portName);
+
+            if(contextFlowPort == null) return;
+
+            if (!contextFlowPort.IsConnected)
+                throw new Exception("[Quest Compiler] Context Flow port of Starting node is not connected to any ports");
 
             List<IPort> connectedPorts = new();
-            flowPort.GetConnectedPorts(connectedPorts);
 
-            if (!connectedPorts.Any()) return;
-
-
+            contextFlowPort.GetConnectedPorts(connectedPorts);
 
             Debug.Log($"Connected ports: {connectedPorts.Count}");
 
             foreach (var port in connectedPorts)
             {
                 INode portOwnerNode = port.GetNode();
-                Type portOwnerNodeType = portOwnerNode.GetType();
+
                 if (portOwnerNode == null) Debug.Log("Node is null");
-                else Debug.Log($"Found node of type {portOwnerNodeType}");
+
 
                 if (TryProcessNode(portOwnerNode))
                     proccessedNodes.Add(portOwnerNode.GetType());
 
             }
-            quest = BuildQuest();
-
-            QMStartingNode start = (QMStartingNode)startNode;
-            start.Build(quest);
-
-            Debug.Log(quest.QuestName);
-            Debug.Log(quest.Prerequisites.Level);
-            Debug.Log(quest.Rewards.Exp);
-
         }
         public void SaveQuestAsset()
         {
             // path is Folder -> QuestName/Questname.asset
-            string path = $"Assets/Resources/Quests/{quest.QuestName}";
+            string path = $"Assets/Resources/Quests/{Quest.QuestName}";
             //creates directory of path
             Directory.CreateDirectory(path);
 
             //combine path with .asset for asset creation
-            path = Path.Combine(path, $"{quest.QuestName}.asset");
-            AssetDatabase.CreateAsset(quest, path);
+            path = Path.Combine(path, $"{Quest.QuestName}.asset");
+            AssetDatabase.CreateAsset(Quest, path);
 
             // ping on project files
-            Selection.activeObject = quest;
+            Selection.activeObject = Quest;
             EditorGUIUtility.PingObject(Selection.activeObject);
         }
         public void SetGraph(QMGraph newGraph)
         {
             proccessedNodes.Clear();
             reg.Clear(true);
-            quest = null;
+            Quest = null;
             graph = newGraph;
+            startingNode = null;
         }
 
         private bool TryProcessNode(INode portOwnerNode)
@@ -99,7 +110,7 @@ namespace QuestMaker.Editor.Compiler
             {
                 return ProccesHubNode(hub);
             }
-            else if (IsContextNode(portOwnerNode, out QMBaseContextNode context))
+            else if (IsContextNode(portOwnerNode, out QMContextNode context))
             {
                 return ProccessContextNode(context);
 
@@ -114,36 +125,48 @@ namespace QuestMaker.Editor.Compiler
             if (!reg.Modules.Any()) return null;
 
             QuestSO quest = ScriptableObject.CreateInstance<QuestSO>();
+
+            
+
             foreach (var module in reg.Modules)
             {
                 module.Build(quest);
             }
+
+            foreach (var module in reg.ObjectiveModules)
+            {
+                module.Build(quest);
+            }
+
             return quest;
         }
 
-        private bool ProccessContextNode(QMBaseContextNode contextNode)
+        private bool ProccessContextNode(QMContextNode node)
         {
-            return contextNode.ProccessNodes(reg);
+            return node.ProcessNode(reg);
         }
+        //private bool ProcessObjectiveNode(QMObjectiveContextNode node)
+        //{
 
+        //}
         private INode LocateStartingNode(IEnumerable<INode> nodes)
         {
             INode startNode = nodes.FirstOrDefault(node => node is QMStartingNode)
                 ?? throw new NullReferenceException($"[{GetType().Name}] Starting Node Is null");
 
-            Debug.Log($"Found starting node {startNode.GetType()}");
+            startingNode = startNode as QMStartingNode;
 
             return startNode;
         }
 
-        private bool IsContextNode(INode node, out QMBaseContextNode contextNode)
+        private bool IsContextNode(INode node, out QMContextNode contextNode)
         {
             if (node == null) throw new NullReferenceException($"[QuestCompiler].AsContextNode() node is null");
             contextNode = null;
 
-            if (node is QMBaseContextNode)
+            if (node is QMContextNode)
             {
-                contextNode = node as QMBaseContextNode;
+                contextNode = node as QMContextNode;
                 return true;
             }
 

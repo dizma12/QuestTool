@@ -1,47 +1,63 @@
 using QuestMaker.Data;
+using QuestMaker.Data.Objectives;
+using QuestMaker.Data.SpecialEvents;
+using QuestMaker.Data.Steps;
 using System.Collections.Generic;
 using UnityEditor;
 using UnityEngine;
-using static UnityEngine.GraphicsBuffer;
-
 
 namespace QuestMaker.Data
 {
     public class QuestSO : ScriptableObject
     {
-        public string QuestID { get; set; } = string.Empty;
-        public string QuestName
+        public string QuestID { get => name; }
+        public virtual string QuestName
         {
             get => questName;
             set
             {
-                if (questName.Equals(string.Empty))
+                if (string.IsNullOrEmpty(questName))
                     questName = value;
                 else return;
             }
         }
         public string QuestDescription { get; set; } = string.Empty;
 
-        [SerializeField, HideInInspector] string questName = string.Empty;
-
         public PrerequisiteData Prerequisites { get => prerequisites; set => prerequisites = value; }
+
         public RewardData Rewards { get => rewards; set => rewards = value; }
+        public IReadOnlyList<ObjectiveData> Objectives => objectives;
+
+        [SerializeField, HideInInspector] protected string questName = string.Empty;
+
+        [Header("Info")]
+        [SerializeField]
+        protected PrerequisiteData prerequisites;
 
         [SerializeField]
-        private PrerequisiteData prerequisites;
+        protected RewardData rewards;
+
+        [Header("Goals")]
+        [SerializeReference]
+        protected List<ObjectiveData> objectives;
 
         [SerializeField]
-        private RewardData rewards;
+        protected List<SpecialEventData> specialEvents = new();
 
-        public void AddPrerequisites(PrerequisiteData data)
+        public void AddSpecialEvent(SpecialEventData data)
         {
-            prerequisites = data;
-            Debug.Log($"[QuestSO] Added Prerequisites");
+            if(specialEvents.Contains(data)) return;
+            specialEvents.Add(data);
         }
-        public void AddRewards(RewardData data)
+
+        public void AddObjective(ObjectiveData obj )
         {
-            rewards = data;
-            Debug.Log("[QuestSO] Added Rewards!");
+            objectives ??= new();
+
+            if (obj == null || objectives.Contains(obj)) return;
+
+            objectives.Add(obj);
+            Debug.Log($"[QuestSO] Objective {obj.ID} added!");
         }
     }
 

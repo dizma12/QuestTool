@@ -3,7 +3,7 @@ using QuestMaker.Runtime.Game;
 using QuestMaker.Runtime.Game.Events;
 using UnityEngine;
 
-namespace Game.Runtime.Events.Handlers
+namespace QuestMaker.Runtime.Events.Handlers
 {
     public abstract class CustomEventHandler
     {

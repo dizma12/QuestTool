@@ -1,3 +1,4 @@
+using QuestMaker.Runtime.Events.Handlers;
 using QuestMaker.Runtime.Game;
 using QuestMaker.Runtime.Game.Events;
 using UnityEngine;
@@ -14,7 +15,7 @@ namespace QuestMaker.Runtime.StepsAndObjectives
 
             ReferenceManager.Instance.GetReference<GameEventManager>()
                                      .GetEventHandler<QuestEventHandler>()
-                                     .QuestStepFinished(this);
+                                     .FireOnQuestStepFinished(this);
 
             isFinished = true;
         }

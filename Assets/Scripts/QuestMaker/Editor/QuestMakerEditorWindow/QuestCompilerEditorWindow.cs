@@ -5,6 +5,8 @@ using UnityEngine;
 using UnityEngine.UIElements;
 using QuestMaker.Editor.Utility;
 using QuestMaker.Editor.Compiler;
+using System.Linq;
+using QuestMaker.Data;
 namespace QuestMaker.Editor.Window
 {
     public class QuestCompilerEditorWindow : EditorWindow
@@ -69,9 +71,12 @@ namespace QuestMaker.Editor.Window
                 //saveAssetBtn.style.marginLeft = buttonOffset;
                 //saveAssetBtn.style.marginRight = buttonOffset;
                 saveAssetBtn.style.marginTop = 15;
+                saveAssetBtn.style.marginLeft = 5;
+                saveAssetBtn.style.marginRight = 5;
                 saveAssetBtn.style.flexDirection = FlexDirection.Row;
                 saveAssetBtn.style.flexGrow = 0;
-                saveAssetBtn.style.maxWidth = position.width * 1.3f;
+                saveAssetBtn.style.maxWidth = Screen.width * 0.75f;//* 1.3f;
+
                 saveAssetBtn.SetEnabled(false);
                 root.Add(saveAssetBtn);
             }
@@ -94,6 +99,7 @@ namespace QuestMaker.Editor.Window
                 else compiler.SetGraph(graph);
 
                 compiler.CompileQuestGraph();
+                root.Add(DrawPrerequisites());
                 saveAssetBtn.SetEnabled(true);
                 nodeCountField.value = graph.NodeCount;
 
@@ -105,6 +111,75 @@ namespace QuestMaker.Editor.Window
 
             #endregion
 
+        }
+
+        private VisualElement DrawPrerequisites()
+        {
+            VisualElement prerequisites = new();
+            Label title = new("Prerequisites");
+            {
+
+                title.style.unityTextAlign = TextAnchor.MiddleCenter;
+                title.style.fontSize = 10;
+                title.style.unityFontStyleAndWeight = FontStyle.Bold;
+                title.style.marginTop = 10;
+                title.style.marginBottom = 10;
+
+                prerequisites.Add(title);
+            }
+
+            IntegerField Level = new()
+            {
+                isReadOnly = true,
+                value = compiler.Quest.Prerequisites.Level
+
+            };
+            //Level.SetEnabled(false);
+
+            prerequisites.Add(Level);
+            Label questLabel = new("Prerequisites");
+            {
+
+
+                questLabel.style.fontSize = 10;
+                questLabel.style.unityFontStyleAndWeight = FontStyle.Bold;
+                questLabel.style.marginBottom = 10;
+
+                prerequisites.Add(questLabel);
+            }
+            if (compiler.Quest.Prerequisites.Quests.Any())
+            {
+                var Qprepreq = compiler.Quest.Prerequisites.Quests;
+                for (int i = 0; i < Qprepreq.Count; i++)
+                {
+                    ObjectField field = new($"Quest Requirment [{i}]")
+                    {
+                        objectType = typeof(QuestSO), 
+                        allowSceneObjects = false,
+                        value = Qprepreq[i]
+                    };
+                    field.SetEnabled(false);
+                    prerequisites.Add(field);
+                }
+            }
+
+            if (compiler.Quest.Prerequisites.Items.Any())
+            {
+                var Itemprepreq = compiler.Quest.Prerequisites.Items;
+                for (int i = 0; i < Itemprepreq.Count; i++)
+                {
+                    ObjectField field = new($"Item Requirment [{i}]")
+                    {
+                        objectType = typeof(Item),
+                        allowSceneObjects = false,
+                        value = Itemprepreq[i].Item
+                    };
+                    field.SetEnabled(false);
+                    prerequisites.Add(field);
+                }
+            }
+
+            return prerequisites;
         }
     }
 }

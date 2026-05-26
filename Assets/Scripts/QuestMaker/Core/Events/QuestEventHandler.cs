@@ -1,13 +1,24 @@
-﻿using Game.Runtime.Events.Handlers;
-using QuestMaker.Runtime.StepsAndObjectives;
+﻿using QuestMaker.Runtime.StepsAndObjectives;
 using System;
 
-namespace QuestMaker.Runtime.Game.Events
+namespace QuestMaker.Runtime.Events.Handlers
 {
     public class QuestEventHandler : CustomEventHandler
     {
-        public event Action<QuestStep> OnQuestStepFinished;
-        
-        public void QuestStepFinished(QuestStep step) => OnQuestStepFinished?.Invoke(step);
+        public event Action<QuestStep> QuestStepFinished;
+        public event Action<string> SpecialQuestEvent;
+
+        public void FireOnQuestStepFinished(QuestStep step)
+        {
+            if(step == null) return;
+
+            QuestStepFinished?.Invoke(step);
+        }
+        public void FireOnPecialQuestEvent(string eventID)
+        {
+            if(string.IsNullOrEmpty(eventID)) return;
+
+            SpecialQuestEvent?.Invoke(eventID);
+        }
     }
 }

@@ -9,10 +9,9 @@ namespace QuestMaker.Editor.Nodes
     [Serializable]
     internal class QMRewardContextNode : QMBaseContextNode
     {
-        public override Type PortType => typeof(IOptionNode);
         public override bool AllowMultipleContextNodesOfSameType { get => false; }
 
-        public override bool ProccessNodes(ModuleBuilderRegistry reg)
+        public override bool ProcessNode(ModuleBuilderRegistry reg)
         {
             RewardModule builder = reg.GetBuilder<RewardModule>(); 
 
