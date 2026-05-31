@@ -4,27 +4,36 @@ namespace QuestMaker.Editor.Compiler.CompilationModules
 {
     internal class QuestInfoModule : IQuestModuleBuilder, IQuestInfoModule
     {
-        private string questname = string.Empty;
-        private string questdesc = string.Empty;
+        private string _qName = string.Empty;
+        private string _qDesc = string.Empty;
+        private QuestType _qType = QuestType.Hidden;
 
         public void Build(QuestSO quest)
         {
-            quest.QuestName = questname;
-            quest.QuestDescription = questdesc;
+            quest.QuestName = _qName;
+            quest.Description = _qDesc;
+            quest.QuestType = _qType;
         }
 
         public void SetQuestDescription(string desc)
         {
             if (string.IsNullOrEmpty(desc)) return;
 
-            questdesc = desc;
+            _qDesc = desc;
         }
 
         public void SetQuestName(string name)
         {
             if (string.IsNullOrEmpty(name)) return;
 
-            questname = name;
+            _qName = name;
+        }
+
+        public void SetQuestType(QuestType type)
+        {
+            if(_qType == type) return;
+            _qType = type;
+            UnityEngine.Debug.Log($"Quest type was set to= {type}");
         }
     }
 }

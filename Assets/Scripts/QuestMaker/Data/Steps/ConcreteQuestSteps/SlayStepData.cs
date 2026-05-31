@@ -5,7 +5,7 @@ namespace QuestMaker.Data.Steps
     [System.Serializable]
     public class SlayStepData : QuestStepData
     {
-        public override QuestStepType StepType => QuestStepType.Slay;
+        public override StepCategory StepType => StepCategory.Slay;
         public string StepID => stepId;
 
         [SerializeField, HideInInspector] private string stepId = string.Empty;

@@ -6,7 +6,7 @@ using Unity.GraphToolkit.Editor;
 
 namespace QuestMaker.Editor.Nodes.BlockNodes
 {
-    [UseWithContext(typeof(QMObjectiveContextNode))]
+    [UseWithContext(typeof(ObjectiveNode))]
     [System.Serializable]
     internal class CraftBlockNode : QMBaseStepBlockNode
     {

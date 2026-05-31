@@ -6,7 +6,7 @@ using UnityEngine;
 
 namespace QuestMaker.Editor.Nodes
 {
-    [UseWithContext(typeof(QMPrerequisiteContextNode))]
+    [UseWithContext(typeof(PrerequisiteNode))]
     [Serializable]
     internal class QMLevelPrereqBlockNode : QMBaseBlockNode, IComposableNode
     {

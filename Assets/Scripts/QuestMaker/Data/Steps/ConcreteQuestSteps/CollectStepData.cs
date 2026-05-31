@@ -6,7 +6,7 @@ namespace QuestMaker.Data.Steps
     [System.Serializable]
     public class CollectStepData : QuestStepData
     {
-        public override QuestStepType StepType => QuestStepType.Collect;
+        public override StepCategory StepType => StepCategory.Collect;
         public string StepID => stepId;
 
         [SerializeField, HideInInspector]

@@ -7,7 +7,7 @@ using UnityEngine;
 
 namespace QuestMaker.Editor.Nodes.BlockNodes
 {
-    [UseWithContext(typeof(QMObjectiveContextNode))]
+    [UseWithContext(typeof(ObjectiveNode))]
     [System.Serializable]
     internal class SlayStepBlockNode : QMBaseStepBlockNode
     {

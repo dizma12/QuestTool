@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca184911a1cf05c41a8bccbc419e7cf6, type: 3}
+  m_Name: Collect_Crystals
+  m_EditorClassIdentifier: QuestMaker.Data::QuestMaker.Data.QuestSO
+  _qName: Collect_Crystals
+  _qType: 0
+  _prerequisites:
+    _level: 2
+    _items: []
+    _quests: []
+  _rewards:
+    _exp: 200
+    _items:
+    - _item: {fileID: 11400000, guid: 8abb4220609f04249a48cab9c892109f, type: 2}
+      _amount: 1
+    _abilities: []
+  _objectives:
+  - rid: 376272241207804107
+  _specialEvents: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 376272241207804107
+      type: {class: ObjectiveData, ns: QuestMaker.Data.Objectives, asm: QuestMaker.Data}
+      data:
+        id: Talk_Collect_2
+        desc: Collect Crystalls
+        steps:
+        - rid: 376272241207804108
+        - rid: 376272241207804109
+    - rid: 376272241207804108
+      type: {class: TalkStepData, ns: QuestMaker.Data.Steps, asm: QuestMaker.Data}
+      data:
+        stepId: 'Talk_[George]'
+        npc: George
+    - rid: 376272241207804109
+      type: {class: CollectStepData, ns: QuestMaker.Data.Steps, asm: QuestMaker.Data}
+      data:
+        stepId: Collect_[Purple Crystal]_10
+        item: {fileID: 11400000, guid: cc3e240f8f8232a4e8ce26ed419b02b1, type: 2}
+        amount: 10

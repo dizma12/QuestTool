@@ -5,7 +5,7 @@ namespace QuestMaker.Data.Steps
     [System.Serializable]
     public class TalkStepData : QuestStepData
     {
-        public override QuestStepType StepType => QuestStepType.Talk;
+        public override StepCategory StepType => StepCategory.Talk;
         public string StepID => stepId;
 
 

@@ -7,7 +7,7 @@ using UnityEngine;
 
 namespace QuestMaker.Editor.Nodes
 {
-    [UseWithContext(typeof(QMRewardContextNode))]
+    [UseWithContext(typeof(RewardNode))]
     [Serializable]
     internal class QMExpRewardBlockNode : QMBaseBlockNode
     {

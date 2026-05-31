@@ -39,6 +39,7 @@ namespace QuestMaker.Editor.Compiler.CompilationModules
     {
         public void SetQuestName(string name);
         public void SetQuestDescription(string desc);
+        public void SetQuestType(QuestType type);
 
     }
     internal interface IAbilityModule : IQuestModule

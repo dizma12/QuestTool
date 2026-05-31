@@ -5,7 +5,7 @@ namespace QuestMaker.Data.Steps
     [System.Serializable]
     public class CraftStepData : QuestStepData
     {
-        public override QuestStepType StepType => QuestStepType.Craft;
+        public override StepCategory StepType => StepCategory.Craft;
 
 
         [SerializeField, HideInInspector]

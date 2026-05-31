@@ -3,7 +3,7 @@ using Unity.GraphToolkit.Editor;
 
 namespace QuestMaker.Editor.Nodes.BlockNodes
 {
-    [UseWithContext(typeof(QMRewardContextNode))]
+    [UseWithContext(typeof(RewardNode))]
     [System.Serializable]
     internal class AbilityBlockNode : QMBaseBlockNode
     {

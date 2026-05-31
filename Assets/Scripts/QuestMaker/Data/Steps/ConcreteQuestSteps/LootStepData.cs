@@ -7,7 +7,7 @@ namespace QuestMaker.Data.Steps
     [System.Serializable]
     public class LootStepData : QuestStepData
     {
-        public override QuestStepType StepType => QuestStepType.Loot;
+        public override StepCategory StepType => StepCategory.Loot;
         public string StepID => stepId;
   
 
@@ -47,6 +47,5 @@ namespace QuestMaker.Data.Steps
         {
             stepId = $"{StepType}_[{item.ItemName}]_{amount}";
         }
-
     }
 }
