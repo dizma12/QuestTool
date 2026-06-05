@@ -12,32 +12,37 @@ namespace QuestMaker.Data
     public struct RewardData
     {
         public readonly int Exp => _exp;
-
+        public readonly IReadOnlyList<ItemAmount> Items => _items;
+        public readonly IReadOnlyList<string> AbilityIDs => _abilities;
+        public readonly IReadOnlyList<ReputationFaction> Reputation => _reps;
         [SerializeField]
         private int _exp;
 
-        public readonly IReadOnlyList<ItemAmount> Items => _items;
 
         [SerializeField]
         private ItemAmount[] _items;
 
-        public readonly IReadOnlyList<string> AbilityIDs => _abilities;
 
         [SerializeField]
         private string[] _abilities;
+
+        [SerializeField]
+        private ReputationFaction[] _reps;
 
         //public readonly string[] AbilityIDs => _abilities;
 
         //[SerializeField]
         //private string[] _abilities;
 
-        public RewardData(int exp, ItemAmount[] items, string[] abilities)
+        public RewardData(int exp, ItemAmount[] items, string[] abilities, ReputationFaction[] rep)
         {
             _exp = exp > 0 ? exp : 0;
 
             _items = items == null || items.Any(i => i.Item == null) ? Array.Empty<ItemAmount>() : items;
             
             _abilities = abilities == null || abilities.Any(i => i == null) ? Array.Empty<string>() : abilities;
+
+            _reps = rep == null || rep.Any(r => r.FactionID == string.Empty || r.Amount <= 0) ? Array.Empty<ReputationFaction>() : rep;
         }
     }
 }

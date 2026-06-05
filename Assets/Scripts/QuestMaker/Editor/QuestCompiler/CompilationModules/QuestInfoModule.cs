@@ -2,6 +2,7 @@
 
 namespace QuestMaker.Editor.Compiler.CompilationModules
 {
+#pragma warning disable CS0618 // disables obsolete warning for QuestType.Hidden.
     internal class QuestInfoModule : IQuestModuleBuilder, IQuestInfoModule
     {
         private string _qName = string.Empty;
@@ -36,4 +37,5 @@ namespace QuestMaker.Editor.Compiler.CompilationModules
             UnityEngine.Debug.Log($"Quest type was set to= {type}");
         }
     }
+#pragma warning restore CS0618
 }

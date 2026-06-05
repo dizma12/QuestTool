@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using UnityEditor;
 using UnityEngine;
 
 
@@ -12,6 +13,8 @@ namespace QuestMaker.Data
         public readonly int Level => _level;
         public readonly IReadOnlyList<ItemAmount> Items => _items;
         public readonly IReadOnlyList<QuestSO> Quests => _quests;
+        public readonly IReadOnlyList<ReputationFaction> Reputation => _reps;
+        public readonly InGameTimeline TimeConstraint => _inGameTimeConstraint;
 
         [SerializeField]
         private int _level;
@@ -19,17 +22,28 @@ namespace QuestMaker.Data
         [SerializeField]
         private ItemAmount[] _items;
 
+        [SerializeField]
+        private ReputationFaction[] _reps;
+
         [SerializeReference]
         private QuestSO[] _quests;
 
-        public PrerequisiteData(ItemAmount[] items, QuestSO[] quests, int level)
+        [SerializeField]
+        private InGameTimeline _inGameTimeConstraint;
+
+
+        public PrerequisiteData(ItemAmount[] items, QuestSO[] quests, int level, ReputationFaction[] rep, InGameTimeline timeConstraint)
         {
             _level = level > 1 ? level : 1;
 
             _items = items == null || items.Any(i => i.Item == null) ? Array.Empty<ItemAmount>() : items;
 
             _quests = quests == null || quests.Any(q => q == null) ? Array.Empty<QuestSO>() : quests;
+
+            _reps = rep == null || rep.Any(r => r.FactionID == string.Empty || r.Amount <= 0)  ? Array.Empty<ReputationFaction>() : rep;
+
+            _inGameTimeConstraint = timeConstraint;
         }
-    
+
     }
 }

@@ -1,14 +1,13 @@
 ﻿using QuestMaker.Editor.Compiler;
 using QuestMaker.Editor.Compiler.CompilationModules;
-using System;
 using Unity.GraphToolkit.Editor;
 using UnityEngine;
 
 namespace QuestMaker.Editor.Nodes
 {
     [UseWithContext(typeof(PrerequisiteNode))]
-    [Serializable]
-    internal class QMLevelPrereqBlockNode : QMBaseBlockNode, IComposableNode
+    [System.Serializable]
+    internal class LevelBlockNode : QMBaseBlockNode, IComposableNode
     {
         int Level;
 

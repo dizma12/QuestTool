@@ -8,10 +8,11 @@ namespace QuestMaker.Editor.Nodes.BlockNodes
 {
     [UseWithContext(typeof(ObjectiveNode))]
     [System.Serializable]
-    internal class CollectStepBlockNode : QMBaseStepBlockNode
+    internal class DeliverStepBlockNode : QMBaseStepBlockNode
     {
+
         public const string ITEM_OPTION = "ITEM_OPTION";
-        public const string AMOUNT_OPTION = "AMOUNT_OPTION";
+        public const string NPC_OPTION = "NPC_OPTION";
 
         protected override void OnDefineOptions(IOptionDefinitionContext context)
         {
@@ -20,21 +21,20 @@ namespace QuestMaker.Editor.Nodes.BlockNodes
                 .WithDefaultValue(null)
                 .Build();
 
-            context.AddOption(AMOUNT_OPTION, typeof(int))
-                .WithDisplayName("Amount")
-                .WithDefaultValue(1)
+            context.AddOption(NPC_OPTION, typeof(string))
+                .WithDisplayName("NPC ID")
+                .WithDefaultValue(string.Empty)
                 .Build();
         }
-
         protected override void ComposeStep(ObjectiveModule module)
         {
             Item item = RetrieveBlockValue<Item>(ITEM_OPTION);
-            int amount = RetrieveBlockValue<int>(AMOUNT_OPTION);
+            string npc = RetrieveBlockValue<string>(NPC_OPTION);
 
-            module.AddStep(new CollectStepData
+            module.AddStep(new DeliverStepData
             {
                 Item = item,
-                Amount = amount
+                NpcID = npc,
             });
         }
     }

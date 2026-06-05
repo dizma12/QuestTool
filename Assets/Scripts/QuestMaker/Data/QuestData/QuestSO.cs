@@ -3,9 +3,8 @@ using QuestMaker.Data.Objectives;
 using QuestMaker.Data.SpecialEvents;
 using QuestMaker.Data.Steps;
 using System.Collections.Generic;
-using UnityEditor;
 using UnityEngine;
-
+#pragma warning disable CS0618 // disables obsolete warning for QuestType.Hidden.
 namespace QuestMaker.Data
 {
     public class QuestSO : ScriptableObject
@@ -15,8 +14,10 @@ namespace QuestMaker.Data
             get => _qType;
             set
             {
+
                 if (_qType == QuestType.Hidden && value != QuestType.Hidden)
                     _qType = value;
+
             }
         }
         public string QuestID => _qName;
@@ -37,9 +38,13 @@ namespace QuestMaker.Data
         public RewardData Rewards { get => _rewards; set => _rewards = value; }
         public IReadOnlyList<ObjectiveData> Objectives => _objectives;
 
-        [SerializeField, HideInInspector] protected string _qName = string.Empty;
 
-        [Header("Info")]
+        [SerializeField, HideInInspector]
+        protected string _qName = string.Empty;
+
+        //[Header("Info")]
+
+
         [SerializeField]
         protected QuestType _qType = QuestType.Hidden;
 
@@ -49,13 +54,12 @@ namespace QuestMaker.Data
         [SerializeField]
         protected RewardData _rewards;
 
-        [Header("Goals")]
+        //[Header("Goals")]
         [SerializeReference]
         protected List<ObjectiveData> _objectives;
 
         [SerializeField]
         protected List<SpecialEventData> _specialEvents = new();
-
 
         public void AddSpecialEvent(SpecialEventData data)
         {
@@ -73,21 +77,6 @@ namespace QuestMaker.Data
             Debug.Log($"[QuestSO] Objective {obj.ID} added!");
         }
     }
-
-    [CustomEditor(typeof(QuestSO))]
-    internal class QuestSOCustomEditor : Editor
-    {
-        public override void OnInspectorGUI()
-        {
-            var quest = (QuestSO)target;
-
-            EditorGUILayout.LabelField(quest.QuestName, EditorStyles.boldLabel);
-            EditorGUILayout.Space();
-
-            using (new EditorGUI.DisabledScope(true))
-            {
-                DrawDefaultInspector();
-            }
-        }
-    }
+#pragma warning restore CS0618
 }
+

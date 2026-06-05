@@ -12,6 +12,7 @@ namespace QuestMaker.Data.Steps
         [SerializeField, HideInInspector]
         private string stepId = string.Empty;
 
+        [SerializeField] private string npc = string.Empty;
         public string NpcID
         {
             get => npc;
@@ -25,7 +26,6 @@ namespace QuestMaker.Data.Steps
                 }
             }
         }
-        [SerializeField] private string npc = string.Empty;
 
 
         private void SetStepID()

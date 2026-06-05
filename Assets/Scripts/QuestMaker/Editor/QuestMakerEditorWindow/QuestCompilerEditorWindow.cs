@@ -13,6 +13,10 @@ namespace QuestMaker.Editor.Window
     {
         private QMGraphAssetFile assetFile = null;
         private QuestCompiler compiler = null;
+        ObjectField graphField = null;
+        IntegerField nodeCountField = null;
+        VisualElement Root = null;
+
         [MenuItem("QuestMaker/Compiler Window")]
         public static void ShowWindow()
         {
@@ -27,17 +31,30 @@ namespace QuestMaker.Editor.Window
         }
         private void CreateGUI()
         {
-            #region Create Menu
+            DrawWindow();
+        }
 
-            VisualElement root = rootVisualElement;
+        private void DrawWindow()
+        {
+            DrawMenuHeader();
+            DrawMenu(Root);
+            //DrawPrerequisites(Root);
+        }
+        private void DrawMenuHeader()
+        {
+            if (Root == null)
             {
-                root.style.flexDirection = FlexDirection.Column;
-                root.style.flexGrow = 0;
-                root.style.paddingBottom = 5;
-                root.style.paddingTop = 5;
-                root.style.paddingLeft = 2;
-                root.style.paddingRight = 2;
+                Root = rootVisualElement;
+                {
+                    Root.style.flexDirection = FlexDirection.Column;
+                    Root.style.flexGrow = 0;
+                    Root.style.paddingBottom = 5;
+                    Root.style.paddingTop = 5;
+                    Root.style.paddingLeft = 2;
+                    Root.style.paddingRight = 2;
+                }
             }
+
             Label title = new("Quest Compiler");
             {
 
@@ -46,40 +63,48 @@ namespace QuestMaker.Editor.Window
                 title.style.unityFontStyleAndWeight = FontStyle.Bold;
                 title.style.marginBottom = 10;
 
-                root.Add(title);
+                Root.Add(title);
             }
+        }
 
-            ObjectField graphField = new("Graph")
+        private void DrawMenu(VisualElement root)
+        {
+            VisualElement body = new();
+
+            graphField = new("Graph")
             {
                 objectType = typeof(QMGraphAssetFile), // GraphAssetFile is a serialized object wrapper for Lookup in unity
                 allowSceneObjects = false
             };
-            root.Add(graphField);
+            body.Add(graphField);
 
-            IntegerField nodeCountField = new("Node count")
+            nodeCountField = new("Node count")
             {
                 isReadOnly = true
 
             };
             nodeCountField.SetEnabled(false);
             nodeCountField.value = 0;
-            root.Add(nodeCountField);
 
-            Button saveAssetBtn = new(() => { compiler.SaveQuestAsset(); }) { text = "Save as prefab" };
+            body.Add(nodeCountField);
+
+            Button saveAssetBtn = new(() => { compiler.SaveQuestAsset(); ResetGraph(); }) { text = "Save as prefab" };
             {
 
                 //saveAssetBtn.style.marginLeft = buttonOffset;
                 //saveAssetBtn.style.marginRight = buttonOffset;
                 saveAssetBtn.style.marginTop = 15;
-                saveAssetBtn.style.marginLeft = 5;
-                saveAssetBtn.style.marginRight = 5;
+                saveAssetBtn.style.marginLeft = Screen.width * 0.15f;
+                saveAssetBtn.style.marginRight = Screen.width * 0.15f;
                 saveAssetBtn.style.flexDirection = FlexDirection.Row;
                 saveAssetBtn.style.flexGrow = 0;
-                saveAssetBtn.style.maxWidth = Screen.width * 0.75f;//* 1.3f;
-
+                saveAssetBtn.style.width = Screen.width * ( (1 - 0.15f * 2f) - 0.1f);//* 1.3f;
+                saveAssetBtn.style.maxWidth = saveAssetBtn.style.width;
                 saveAssetBtn.SetEnabled(false);
-                root.Add(saveAssetBtn);
+                body.Add(saveAssetBtn);
             }
+
+            //Register Callbacks
             graphField.RegisterValueChangedCallback(evt =>
             {
                 assetFile = evt.newValue as QMGraphAssetFile;
@@ -99,21 +124,15 @@ namespace QuestMaker.Editor.Window
                 else compiler.SetGraph(graph);
 
                 compiler.CompileQuestGraph();
-                root.Add(DrawPrerequisites());
+                DrawPrerequisites(root);
                 saveAssetBtn.SetEnabled(true);
                 nodeCountField.value = graph.NodeCount;
 
             });
-            #endregion
-
-            #region Register Callbacks
-
-
-            #endregion
-
+            Root.Add(body);
         }
 
-        private VisualElement DrawPrerequisites()
+        private void DrawPrerequisites(VisualElement root)
         {
             VisualElement prerequisites = new();
             Label title = new("Prerequisites");
@@ -154,7 +173,7 @@ namespace QuestMaker.Editor.Window
                 {
                     ObjectField field = new($"Quest Requirment [{i}]")
                     {
-                        objectType = typeof(QuestSO), 
+                        objectType = typeof(QuestSO),
                         allowSceneObjects = false,
                         value = Qprepreq[i]
                     };
@@ -179,7 +198,17 @@ namespace QuestMaker.Editor.Window
                 }
             }
 
-            return prerequisites;
+            root.Add(prerequisites);
+        }
+
+        private void ResetGraph()
+        {
+            assetFile = null;
+            graphField = null;
+            nodeCountField = null;
+            compiler.ResetGraph();
+            Root.Clear();
+            DrawWindow();
         }
     }
 }

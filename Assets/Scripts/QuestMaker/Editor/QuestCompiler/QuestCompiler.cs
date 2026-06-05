@@ -2,14 +2,12 @@
 using QuestMaker.Editor.Compiler.CompilationModules;
 using QuestMaker.Editor.Graph;
 using QuestMaker.Editor.Nodes;
-using QuestMaker.Editor.Nodes.ContextNodes;
 using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using Unity.GraphToolkit.Editor;
 using UnityEditor;
-using UnityEditor.Experimental.GraphView;
 using UnityEngine;
 
 namespace QuestMaker.Editor.Compiler
@@ -27,6 +25,7 @@ namespace QuestMaker.Editor.Compiler
             reg = new();
             proccessedNodes = new();
         }
+
         private QMStartingNode startingNode = null;
         public void CompileQuestGraph()
         {
@@ -46,14 +45,15 @@ namespace QuestMaker.Editor.Compiler
             //Debug.Log($"The name of the quest is: {Quest.QuestName}");
             //Debug.Log($"The Level prerequisite for the quest is: {Quest.Prerequisites.Level}");
             //Debug.Log($"The exp reward for the quest is: {Quest.Rewards.Exp}");
-            //Debug.Log($"The type of the first step is: {Quest.Objectives.First().Steps.First().StepType}");
+            //Debug.Log("[Compiler]" + Quest.Prerequisites.TimeConstraint);
+
 
         }
         private void ProcessStartingNodeByPort(INode startingNode, string portName)
         {
             IPort contextFlowPort = startingNode.GetOutputPortByName(portName);
 
-            if(contextFlowPort == null) return;
+            if (contextFlowPort == null) return;
 
             if (!contextFlowPort.IsConnected)
                 throw new Exception("[Quest Compiler] Context Flow port of Starting node is not connected to any ports");
@@ -93,13 +93,19 @@ namespace QuestMaker.Editor.Compiler
         }
         public void SetGraph(QMGraph newGraph)
         {
+            if (newGraph == null) return;
+            ResetGraph();
+            graph = newGraph;
+        }
+        public void ResetGraph()
+        {
+            if(graph == null) return;
+
             proccessedNodes.Clear();
             reg.Clear(true);
             Quest = null;
-            graph = newGraph;
             startingNode = null;
         }
-
         private bool TryProcessNode(INode portOwnerNode)
         {
 
@@ -126,7 +132,7 @@ namespace QuestMaker.Editor.Compiler
 
             QuestSO quest = ScriptableObject.CreateInstance<QuestSO>();
 
-            
+
 
             foreach (var module in reg.Modules)
             {
@@ -145,10 +151,7 @@ namespace QuestMaker.Editor.Compiler
         {
             return node.ProcessNode(reg);
         }
-        //private bool ProcessObjectiveNode(QMObjectiveContextNode node)
-        //{
 
-        //}
         private INode LocateStartingNode(IEnumerable<INode> nodes)
         {
             INode startNode = nodes.FirstOrDefault(node => node is QMStartingNode)

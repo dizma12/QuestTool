@@ -15,37 +15,35 @@ MonoBehaviour:
   _qName: Collect_Crystals
   _qType: 0
   _prerequisites:
-    _level: 2
+    _level: 1
     _items: []
+    _reps:
+    - _factionID: Undercity
+      _amount: 200
     _quests: []
+    _inGameTimeConstraint: 1
   _rewards:
     _exp: 200
     _items:
     - _item: {fileID: 11400000, guid: 8abb4220609f04249a48cab9c892109f, type: 2}
       _amount: 1
     _abilities: []
+    _reps: []
   _objectives:
-  - rid: 376272241207804107
+  - rid: 1918136644681597188
   _specialEvents: []
   references:
     version: 2
     RefIds:
-    - rid: 376272241207804107
+    - rid: 1918136644681597188
       type: {class: ObjectiveData, ns: QuestMaker.Data.Objectives, asm: QuestMaker.Data}
       data:
-        id: Talk_Collect_2
+        id: Talk_1
         desc: Collect Crystalls
         steps:
-        - rid: 376272241207804108
-        - rid: 376272241207804109
-    - rid: 376272241207804108
+        - rid: 1918136644681597189
+    - rid: 1918136644681597189
       type: {class: TalkStepData, ns: QuestMaker.Data.Steps, asm: QuestMaker.Data}
       data:
         stepId: 'Talk_[George]'
         npc: George
-    - rid: 376272241207804109
-      type: {class: CollectStepData, ns: QuestMaker.Data.Steps, asm: QuestMaker.Data}
-      data:
-        stepId: Collect_[Purple Crystal]_10
-        item: {fileID: 11400000, guid: cc3e240f8f8232a4e8ce26ed419b02b1, type: 2}
-        amount: 10

@@ -10,5 +10,6 @@
         Explore,
         Collect,
         Talk,
+        Deliver,
     }
 }

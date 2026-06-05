@@ -1,23 +1,21 @@
 ﻿using QuestMaker.Editor.Compiler.CompilationModules;
-using QuestMaker.Data;
 using System;
 using Unity.GraphToolkit.Editor;
-using UnityEngine;
 
 namespace QuestMaker.Editor.Nodes
 {
     [UseWithContext(typeof(QMBaseContextNode))]
     [Serializable]
-    internal class ItemBlockNode : QMBaseBlockNode
+    internal class ReputationBlockNode : QMBaseBlockNode
     {
-        Item item = null;
-        int amount = 1;
+
+        public const string FACTION_OPTION = "FACTION_OPTION";
         public const string AMOUNT_OPTION = "AMOUNT_OPTION";
         protected override void OnDefineOptions(IOptionDefinitionContext context)
         {
-            context.AddOption(BLOCK_NODE_OPTION, typeof(Item))
+            context.AddOption(FACTION_OPTION, typeof(string))
                 .WithDefaultValue(null)
-                .WithDisplayName("Item")
+                .WithDisplayName("Faction ID")
                 .Build();
 
             context.AddOption(AMOUNT_OPTION, typeof(int))
@@ -25,14 +23,14 @@ namespace QuestMaker.Editor.Nodes
                 .WithDisplayName("Amount")
                 .Build();
         }
-        public override void Compose<TBuilder>(TBuilder bldr, ModuleBuilderRegistry cntx)
+        public override void Compose<TBuilder>(TBuilder bldr, ModuleBuilderRegistry reg)
         {
-            item = RetrieveBlockValue<Item>();
-            amount = RetrieveBlockValue<int>(AMOUNT_OPTION);
+            string faction = RetrieveBlockValue<string>(FACTION_OPTION);
+            int amount = RetrieveBlockValue<int>(AMOUNT_OPTION);
 
-            IItemModule module = cntx.RequestModule<TBuilder, IItemModule>();
+            IReputationModule module = reg.RequestModule<TBuilder, IReputationModule>();
 
-            module?.SetItem(item, amount);
+            module.SetReputationFaction(new() { FactionID = faction, Amount = amount });
         }
     }
 }

@@ -33,7 +33,7 @@ namespace QuestMaker.Editor.Compiler.CompilationModules
     }
     internal interface IReputationModule : IQuestModule
     {
-        public void SetReputation(int amount);
+        public void SetReputationFaction(ReputationFaction rep);
     }
     internal interface IQuestInfoModule : IQuestModule
     {
@@ -45,5 +45,10 @@ namespace QuestMaker.Editor.Compiler.CompilationModules
     internal interface IAbilityModule : IQuestModule
     {
         public void SetAbility(string abilityId);
+    }
+
+    internal interface IInGameTimeConstraint : IQuestModule
+    {
+        public void SetTimeConstraint(InGameTimeline time);
     }
 }
