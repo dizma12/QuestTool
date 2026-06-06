@@ -1,7 +1,5 @@
 ﻿using QuestMaker.Data;
-using QuestMaker.Data.Steps;
 using System;
-using System.Collections.Generic;
 using UnityEngine;
 
 namespace QuestMaker.Core

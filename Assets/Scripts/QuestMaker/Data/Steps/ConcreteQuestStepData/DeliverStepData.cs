@@ -1,18 +1,24 @@
-﻿using UnityEngine;
+﻿using log4net;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using UnityEngine;
 
 namespace QuestMaker.Data.Steps
 {
-    [System.Serializable]
-    public class CraftStepData : QuestStepData
+    public class DeliverStepData : QuestStepData
     {
-        public override StepCategory StepType => StepCategory.Craft;
-
+        public override StepCategory StepType => StepCategory.Deliver;
+        public string StepID => stepId;
 
         [SerializeField, HideInInspector]
         private string stepId = string.Empty;
-        public string StepID => stepId;
 
         [SerializeField] private Item item;
+
+        [SerializeField] private string npc = string.Empty;
         public Item Item
         {
             get => item;
@@ -26,23 +32,22 @@ namespace QuestMaker.Data.Steps
             }
         }
 
-        [SerializeField] private int amount = 0;
-        public int Amount
+        public string NpcID
         {
-            get => amount;
+            get => npc;
             set
             {
-                if (amount <= 0 && value > 0)
+                if (string.IsNullOrEmpty(npc)
+                    && !string.IsNullOrEmpty(value))
                 {
-                    amount = value;
+                    npc = value;
                     SetStepID();
                 }
             }
         }
-
         private void SetStepID()
         {
-            stepId = $"{StepType}_[{item.ItemName}]_{amount}";
+            stepId = $"{StepType}_[{item.Name}]_{npc}";
         }
     }
 }

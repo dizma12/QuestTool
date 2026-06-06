@@ -12,5 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c100c5fe5093afc4f80f8424b7af2193, type: 3}
   m_Name: Crystal
   m_EditorClassIdentifier: QuestMaker.Data::QuestMaker.Data.Item
-  id: Crystal_1
-  itemName: Purple Crystal
+  _id: cc3e240f8f8232a4e8ce26ed419b02b1
+  _itemName: Crystal

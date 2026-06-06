@@ -49,8 +49,8 @@ MonoBehaviour:
           serializedVersion: 2
           x: -57
           y: -208
-          width: 878
-          height: 878
+          width: 867
+          height: 889
         m_GraphElementMetaData:
         - m_Guid:
             m_Value0: 3969204248830271433
@@ -226,14 +226,11 @@ MonoBehaviour:
         m_Blocks:
         - rid: 1918136644681597093
         - rid: 1918136644681597103
-        - rid: 1918136644681597107
         m_BlockGuids:
         - serializedVersion: 2
           Hash: 09f2aef452e4b670547a9b792d2d748c
         - serializedVersion: 2
           Hash: 000056528fdc1de289ccf58e92c2254e
-        - serializedVersion: 2
-          Hash: 4f10860ff1e368c3d2ad02ac4b03f3d9
         m_Subtitle: 
         m_Node:
           rid: 376272241207804076
@@ -285,7 +282,7 @@ MonoBehaviour:
           serializedVersion: 2
           Hash: 2f939b51eb254a7b3ecbe49669e3884b
         m_Version: 2
-        m_Position: {x: 551.5581, y: 138.80441}
+        m_Position: {x: 540.9781, y: -89.98808}
         m_Title: 
         m_Tooltip: 
         m_NodePreviewModel:
@@ -464,7 +461,7 @@ MonoBehaviour:
           serializedVersion: 2
           Hash: f2fb53935d3781db597bc381ac3d37db
         m_Version: 2
-        m_Position: {x: 256.67337, y: 316.09122}
+        m_Position: {x: 242.67337, y: 228.09122}
         m_Title: 
         m_Tooltip: 
         m_NodePreviewModel:
@@ -492,9 +489,12 @@ MonoBehaviour:
           m_HasUserColor: 0
         m_Blocks:
         - rid: 376272241207804104
+        - rid: 1918136666674429954
         m_BlockGuids:
         - serializedVersion: 2
           Hash: eb8e5cbf646354cbd8e0a15bb5286c13
+        - serializedVersion: 2
+          Hash: 82a001dc099a1e443d9ec16489ac94cd
         m_Subtitle: 
         m_Node:
           rid: 376272241207804099
@@ -687,15 +687,15 @@ MonoBehaviour:
     - rid: 1918136644681597106
       type: {class: ItemBlockNode, ns: QuestMaker.Editor.Nodes, asm: QuestMakerEditor}
       data: 
-    - rid: 1918136644681597107
+    - rid: 1918136666674429954
       type: {class: UserBlockNodeModelImp, ns: Unity.GraphToolkit.Editor.Implementation, asm: UnityEditor.GraphToolkitModule}
       data:
         m_Guid:
-          m_Value0: 14080754859460923471
-          m_Value1: 15704899949114338770
+          m_Value0: 4908530011016896642
+          m_Value1: 14813654780429311549
         m_HashGuid:
           serializedVersion: 2
-          Hash: 4f10860ff1e368c3d2ad02ac4b03f3d9
+          Hash: 82a001dc099a1e443d9ec16489ac94cd
         m_Version: 2
         m_Position: {x: 0, y: 0}
         m_Title: UserBlockNodeModelImp
@@ -705,9 +705,11 @@ MonoBehaviour:
         m_State: 0
         m_InputConstantsById:
           m_KeyList:
-          - __option_Block_Option
+          - __option_ITEM_OPTION
+          - __option_AMOUNT_OPTION
           m_ValueList:
-          - rid: 1918136644681597108
+          - rid: 1918136666674429955
+          - rid: 1918136666674429956
         m_InputPortInfos:
           expandedPortsById:
             m_KeyList: []
@@ -722,20 +724,17 @@ MonoBehaviour:
           m_Color: {r: 0, g: 0, b: 0, a: 0}
           m_HasUserColor: 0
         m_ContextNodeModel:
-          rid: 376272241207804073
+          rid: 376272241207804095
         m_Node:
-          rid: 1918136644681597109
-    - rid: 1918136644681597108
-      type: {class: EnumConstant, ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
+          rid: 1918136666674429957
+    - rid: 1918136666674429955
+      type: {class: 'Constant`1[[QuestMaker.Data.Item, QuestMaker.Data]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
       data:
-        m_Value:
-          m_EnumType:
-            m_Identification: QuestMaker.Data.InGameTimeline, QuestMaker.Data, Version=0.0.0.0,
-              Culture=neutral, PublicKeyToken=null
-          m_Value: 1
-        m_EnumType:
-          m_Identification: QuestMaker.Data.InGameTimeline, QuestMaker.Data, Version=0.0.0.0,
-            Culture=neutral, PublicKeyToken=null
-    - rid: 1918136644681597109
-      type: {class: InGameTimeConstraintBlockNode, ns: QuestMaker.Editor.Nodes, asm: QuestMakerEditor}
+        m_Value: {fileID: 11400000, guid: cc3e240f8f8232a4e8ce26ed419b02b1, type: 2}
+    - rid: 1918136666674429956
+      type: {class: 'Constant`1[[System.Int32, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
+      data:
+        m_Value: 1
+    - rid: 1918136666674429957
+      type: {class: CollectStepBlockNode, ns: QuestMaker.Editor.Nodes.BlockNodes, asm: QuestMakerEditor}
       data: 

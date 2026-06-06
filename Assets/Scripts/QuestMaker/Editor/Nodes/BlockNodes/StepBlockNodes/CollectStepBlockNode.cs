@@ -33,8 +33,7 @@ namespace QuestMaker.Editor.Nodes.BlockNodes
 
             module.AddStep(new CollectStepData
             {
-                Item = item,
-                Amount = amount
+                CollectableItem = new() { Item = item , Amount = amount}
             });
         }
     }

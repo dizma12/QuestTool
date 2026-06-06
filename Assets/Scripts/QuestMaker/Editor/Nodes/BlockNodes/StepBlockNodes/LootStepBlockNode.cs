@@ -35,8 +35,7 @@ internal class LootStepBlockNode : QMBaseStepBlockNode
 
             module.AddStep(new LootStepData
             {
-                Item = item,
-                Amount = amount
+                Loot = new() { Item = item, Amount = amount }
             });
         }
     }
