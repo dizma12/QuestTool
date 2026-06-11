@@ -9,6 +9,7 @@ namespace QuestMaker.Runtime.Events.Handlers
     {
         public event Action<string> OnEnemyKilled;
         public event Action<string> OnItemCollected;
+        public event Action<string> OnItemCrafted;
         public void ExternalCall()
         {
             Debug.Log("[GameEventHandler] Executing From External call");

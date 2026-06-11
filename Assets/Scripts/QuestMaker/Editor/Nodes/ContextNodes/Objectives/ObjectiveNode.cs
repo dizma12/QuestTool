@@ -1,4 +1,5 @@
 ﻿
+using QuestMaker.Editor.Assets.Scripts.QuestMaker.Editor.Nodes.SpecialEventNodes;
 using QuestMaker.Editor.Compiler;
 using QuestMaker.Editor.Compiler.CompilationModules;
 using System;
@@ -16,7 +17,7 @@ namespace QuestMaker.Editor.Nodes.ContextNodes
         public const string OBJECTIVE_FLOW_PORT = "OBJECTIVE_FLOW_PORT";
         public const string OBJECTIVE_DESCRIPTION = "OBJECTIVE_DESCRIPTION";
         public override bool AllowMultipleContextNodesOfSameType => true;
-
+        ObjectiveModule module = null;
         public override Type PortType => typeof(IObjectiveFlowHelper);
         protected override void OnDefinePorts(IPortDefinitionContext context)
         {
@@ -47,9 +48,13 @@ namespace QuestMaker.Editor.Nodes.ContextNodes
         }
         public override bool ProcessNode(ModuleBuilderRegistry reg)
         {
+            module = reg.RequestNewObjectiveModule<ObjectiveModule>();
+            if(module == null) throw new ArgumentNullException("module");
+
             if (!ProcessBlocks(reg))
                 return false;
 
+            CheckForSpecialEvents(reg);
             ProcessSubObjectiveNodes(reg);
 
             return true;
@@ -60,8 +65,7 @@ namespace QuestMaker.Editor.Nodes.ContextNodes
             if (nodes == null || nodes.Length == 0)
                 return false;
 
-            ObjectiveModule module = reg.RequestNewObjectiveModule<ObjectiveModule>();
-
+            
 
             foreach (var block in nodes)
             {
@@ -95,13 +99,15 @@ namespace QuestMaker.Editor.Nodes.ContextNodes
             }
             return true;
         }
-        protected virtual void CheckForSpecialEvents()
+        protected virtual void CheckForSpecialEvents(ModuleBuilderRegistry reg)
         {
-            if (!GetOutputPortByName(SPECIAL_EVENT_PORT).IsConnected) return;
+            IPort specialEventPort = GetOutputPortByName(SPECIAL_EVENT_PORT);
+            if (!specialEventPort.IsConnected) return;
 
             List<IPort> connected = new();
 
-            GetOutputPortByName(SPECIAL_EVENT_PORT).GetConnectedPorts(connected);
+            specialEventPort.GetConnectedPorts(connected);
+
             if (connected.Count > 1)
             {
                 Debug.LogError("You cant have more than 1 special event to objective nodes");
@@ -110,6 +116,10 @@ namespace QuestMaker.Editor.Nodes.ContextNodes
 
             foreach (var port in connected)
             {
+                INode node = port.GetNode();
+                if (node == null || node is not QMSpecialEventNode specialEventNode) continue;
+
+                specialEventNode.Compose(module, reg);
                 Debug.Log("[QMOBjectiveNode Not Implemented]!!!");
             }
 

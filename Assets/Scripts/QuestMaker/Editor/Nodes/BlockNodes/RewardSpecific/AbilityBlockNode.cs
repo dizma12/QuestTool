@@ -21,7 +21,7 @@ namespace QuestMaker.Editor.Nodes.BlockNodes
 
             if (string.IsNullOrEmpty(option)) return;
                 
-            reg.RequestModule<TBuilder, IAbilityModule>().SetAbility(option);
+            reg.GetModuleByBuilder<TBuilder, IAbilityModule>(bldr).SetAbility(option);
         }
     }
 }

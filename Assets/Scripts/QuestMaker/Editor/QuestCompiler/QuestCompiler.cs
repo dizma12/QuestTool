@@ -45,7 +45,7 @@ namespace QuestMaker.Editor.Compiler
             //Debug.Log($"The name of the quest is: {Quest.QuestName}");
             //Debug.Log($"The Level prerequisite for the quest is: {Quest.Prerequisites.Level}");
             //Debug.Log($"The exp reward for the quest is: {Quest.Rewards.Exp}");
-            //Debug.Log("[Compiler]" + Quest.Prerequisites.TimeConstraint);
+            Debug.Log("[Compiler]" + Quest.SpecialEvent.EventID);
 
 
         }

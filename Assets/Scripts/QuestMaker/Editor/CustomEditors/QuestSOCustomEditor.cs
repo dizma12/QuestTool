@@ -3,8 +3,8 @@ using UnityEditor;
 #pragma warning disable CS0618 // disables obsolete warning for QuestType.Hidden.
 namespace QuestMaker.CustomEditor
 {
-     //***DISCLAIMER***
-     // Most of this script is created by AI. (Do not punch me please)
+    //***DISCLAIMER***
+    // Most of this script is created by AI. (Do not punch me please)
     [UnityEditor.CustomEditor(typeof(QuestSO))]
     internal class QuestSOCustomEditor : UnityEditor.Editor
     {
@@ -33,7 +33,7 @@ namespace QuestMaker.CustomEditor
             _rewards = serializedObject.FindProperty("_rewards");
 
             _objectives = serializedObject.FindProperty("_objectives");
-            _specialEvents = serializedObject.FindProperty("_specialEvents");
+            _specialEvents = serializedObject.FindProperty("_specialEvent");
             _timeConstraint = serializedObject.FindProperty("_inGameTimeConstraint");
         }
 
@@ -77,10 +77,14 @@ namespace QuestMaker.CustomEditor
 
 
             EditorGUILayout.PropertyField(_qType);
-            
 
-            if(_specialEvents.arraySize > 0)
+
+            //Special Event
+            var x = _specialEvents.FindPropertyRelative("_eventID");
+
+            if (!string.IsNullOrEmpty(x.stringValue))
                 EditorGUILayout.PropertyField(_specialEvents, true);
+
 
             EditorGUI.indentLevel--;
         }
@@ -165,6 +169,10 @@ namespace QuestMaker.CustomEditor
         // ---------------- GOALS ----------------
         private void DrawGoalsSection()
         {
+
+            var steps = _objectives.FindPropertyRelative("_steps");
+            var specialEvents = _objectives.FindPropertyRelative("_specialEvents");
+
             _showGoals = EditorGUILayout.Foldout(_showGoals, "Goals", true);
 
             if (!_showGoals)
@@ -173,6 +181,18 @@ namespace QuestMaker.CustomEditor
             EditorGUI.indentLevel++;
 
             EditorGUILayout.PropertyField(_objectives, true);
+
+            //if(steps != null && steps.arraySize > 0)
+            //    EditorGUILayout.PropertyField(steps, true);
+
+            //foreach(var x in _objectives)
+            //{
+            //    EditorGUILayout.PropertyField(x., true);
+            //}    
+
+            //if (specialEvents != null && specialEvents.arraySize > 0)
+            //    EditorGUILayout.PropertyField(specialEvents, true);
+
 
             EditorGUI.indentLevel--;
         }

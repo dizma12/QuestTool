@@ -1,7 +1,7 @@
 ﻿
 using QuestMaker.Data;
-using QuestMaker.Runtime;
-using System.Security.Cryptography;
+using QuestMaker.Data.SpecialEvents;
+
 
 namespace QuestMaker.Editor.Compiler.CompilationModules
 {
@@ -47,8 +47,13 @@ namespace QuestMaker.Editor.Compiler.CompilationModules
         public void SetAbility(string abilityId);
     }
 
-    internal interface IInGameTimeConstraint : IQuestModule
+    internal interface IInGameTimeConstraintModule : IQuestModule
     {
         public void SetTimeConstraint(InGameTimeline time);
+    }
+
+    internal interface ISpecialEventModule : IQuestModule
+    {
+        public void SetSpecialEvent(SpecialEventData eventData);
     }
 }

@@ -15,8 +15,8 @@ namespace QuestMaker.Core
             {
                 StepCategory.Slay => new SlayQuestStep(stepData),
                 StepCategory.Loot => new LootQuestStep(stepData),
-                //StepCategory.Craft => new CraftQuestStep(stepData),
-                //StepCategory.Interact => new InteractQuestStep(stepData),
+                StepCategory.Craft => new CraftQuestStep(stepData),
+                StepCategory.Interact => new InteractQuestStep(stepData), // not working properly
                 //StepCategory.Explore => new ExploreQuestStep(stepData),
                 //StepCategory.Collect => new CollectQuestStep(stepData),
                 //StepCategory.Talk => new TalkQuestStep(stepData),

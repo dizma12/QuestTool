@@ -28,7 +28,7 @@ namespace QuestMaker.Editor.Nodes
             string faction = RetrieveBlockValue<string>(FACTION_OPTION);
             int amount = RetrieveBlockValue<int>(AMOUNT_OPTION);
 
-            IReputationModule module = reg.RequestModule<TBuilder, IReputationModule>();
+            IReputationModule module = reg.GetModuleByBuilder<TBuilder, IReputationModule>(bldr);
 
             module.SetReputationFaction(new() { FactionID = faction, Amount = amount });
         }

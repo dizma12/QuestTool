@@ -1,7 +1,10 @@
 ﻿using QuestMaker.Data;
+using QuestMaker.Data.SpecialEvents;
+using QuestMaker.Editor.Assets.Scripts.QuestMaker.Editor.Nodes.SpecialEventNodes;
 using QuestMaker.Editor.Compiler;
 using QuestMaker.Editor.Compiler.CompilationModules;
 using System;
+using System.Collections.Generic;
 using Unity.GraphToolkit.Editor;
 namespace QuestMaker.Editor.Nodes
 {
@@ -82,6 +85,24 @@ namespace QuestMaker.Editor.Nodes
 
             if (option.TryGetValue(out QuestType type))
                 module.SetQuestType(type);
+
+            // Special Events
+            IPort specialEventPort = GetOutputPortByName(SPECIAL_EVENT_PORT);
+
+            if (!specialEventPort.IsConnected) return;
+            List<IPort> connected = new();
+
+            specialEventPort.GetConnectedPorts(connected);
+            if(connected.Count <= 0) return;
+
+            foreach (IPort port in connected)
+            {
+                var portNode = port.GetNode();
+                if (portNode == null || portNode is not QMSpecialEventNode specialEventNode) continue;
+
+                specialEventNode.Compose(module as QuestInfoModule, reg);
+            }
+
         }
     }
 }

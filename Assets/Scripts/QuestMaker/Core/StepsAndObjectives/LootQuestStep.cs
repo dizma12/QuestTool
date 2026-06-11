@@ -19,7 +19,7 @@ namespace QuestMaker.Core
 
         private void HandleItemCollection(string itemID)
         {
-            if(!_item.Item.Name.Equals(itemID))
+            if(!_item.Item.ID.Equals(itemID))
                 return;
 
             _currentAmount++;
@@ -31,6 +31,11 @@ namespace QuestMaker.Core
 
         public override void Initialize(QuestStepData data)
         {
+            if(data == null)
+            {
+                Debug.LogError($"[LootQuestStep] {data?.GetType()} is null");
+                return;
+            }
             if (data is not LootStepData lootData)
             {
                 Debug.LogError($"[LootQuestStep] Expected LootStepData, got {data?.GetType()}");

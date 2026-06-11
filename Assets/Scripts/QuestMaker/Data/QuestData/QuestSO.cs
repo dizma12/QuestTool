@@ -26,9 +26,8 @@ namespace QuestMaker.Data
             get => _qName;
             set
             {
-                if (string.IsNullOrEmpty(_qName))
+                if (string.IsNullOrEmpty(_qName) && !string.IsNullOrEmpty(value))
                     _qName = value;
-                else return;
             }
         }
         public string Description { get; set; } = string.Empty;
@@ -37,8 +36,16 @@ namespace QuestMaker.Data
 
         public RewardData Rewards { get => _rewards; set => _rewards = value; }
         public IReadOnlyList<ObjectiveData> Objectives => _objectives;
+        public SpecialEventData SpecialEvent
+        {
+            get => _specialEvent;
 
-
+            set
+            {
+                //if (_specialEvent.Equals(default) && !value.Equals(default)) 
+                    _specialEvent = value;
+            }
+        }
         [SerializeField, HideInInspector]
         protected string _qName = string.Empty;
 
@@ -59,13 +66,8 @@ namespace QuestMaker.Data
         protected List<ObjectiveData> _objectives;
 
         [SerializeField]
-        protected List<SpecialEventData> _specialEvents = new();
+        protected SpecialEventData _specialEvent;
 
-        public void AddSpecialEvent(SpecialEventData data)
-        {
-            if (_specialEvents.Contains(data)) return;
-            _specialEvents.Add(data);
-        }
 
         public void AddObjective(ObjectiveData obj)
         {

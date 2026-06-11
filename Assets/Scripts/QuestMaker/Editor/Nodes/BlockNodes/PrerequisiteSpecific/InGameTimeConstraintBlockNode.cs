@@ -23,7 +23,7 @@ namespace QuestMaker.Editor.Nodes
         public override void Compose<TBuilder>(TBuilder bldr, ModuleBuilderRegistry reg)
         {
             InGameTimeline time = RetrieveBlockValue<InGameTimeline>();
-            IInGameTimeConstraint module = reg.RequestModule<TBuilder, IInGameTimeConstraint>();
+            IInGameTimeConstraintModule module = reg.RequestModule<TBuilder, IInGameTimeConstraintModule>();
 
 
             module.SetTimeConstraint(time);

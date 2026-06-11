@@ -6,7 +6,7 @@ using UnityEngine;
 
 namespace QuestMaker.Editor.Compiler.CompilationModules
 {
-    internal class PrerequisiteModule : IQuestModuleBuilder, IItemModule, ILevelModule, IReputationModule, IInGameTimeConstraint
+    internal class PrerequisiteModule : IQuestModuleBuilder, IItemModule, ILevelModule, IReputationModule, IInGameTimeConstraintModule
     {
         private int _level = 0;
         private readonly List<QuestSO> _quests = new();

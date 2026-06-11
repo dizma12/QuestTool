@@ -16,8 +16,8 @@ namespace QuestMaker.Editor.Nodes.BlockNodes
             ComposeStep(objectiveModule);
         
         }
-        // Each concrete block implements this instead — cleaner than
-        // repeating the cast in every subclass
+        
+        // Since all StepBlocks use Objective Module we dont have to repeat the cast in every subclass
         protected abstract void ComposeStep(ObjectiveModule module);
     }
 }
