@@ -1,16 +1,10 @@
-﻿using QuestMaker.Editor.Compiler;
-using QuestMaker.Editor.Compiler.CompilationModules;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using QuestMaker.Editor.CompilationModules;
 using Unity.GraphToolkit.Editor;
 
 namespace QuestMaker.Editor.Nodes
 {
 
-    [Serializable]
+    [System.Serializable]
     internal abstract class QMBaseBlockNode : BlockNode, IComposableNode
     {
         public const string BLOCK_NODE_OPTION = "Block_Option";
@@ -23,8 +17,8 @@ namespace QuestMaker.Editor.Nodes
             return val;
         }
 
-        public abstract void Compose<TBuilder>(TBuilder bldr, ModuleBuilderRegistry reg) where TBuilder : class, IQuestModuleBuilder, new();
-
+        //public abstract void Compose<TBuilder>(TBuilder bldr, ModuleBuilderRegistry reg) where TBuilder : class, IQuestModuleBuilder, new();
+        public abstract void Compose(ModuleScope scope);
 
     }
 }

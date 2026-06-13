@@ -1,23 +1,24 @@
-﻿using QuestMaker.Editor.Compiler.CompilationModules;
-using QuestMaker.Editor.Nodes.ContextNodes;
+﻿using QuestMaker.Editor.CompilationModules;
 using Unity.GraphToolkit.Editor;
-
+ 
 namespace QuestMaker.Editor.Nodes.BlockNodes
 {
     [UseWithContext(typeof(ObjectiveNode))]
     [System.Serializable]
     internal abstract class QMBaseStepBlockNode : QMBaseBlockNode
     {
-        public override void Compose<TBuilder>(TBuilder bldr, ModuleBuilderRegistry reg)
+        public override void Compose(ModuleScope scope)
         {
-            // Concrete blocks compose themselves into an ObjectiveModule
+            IStepModule module = scope.Get<IStepModule>();
+            if (module == null) return;
 
-            if (bldr is not ObjectiveModule objectiveModule) return;
-            ComposeStep(objectiveModule);
-        
+            ComposeStep(module);
         }
-        
-        // Since all StepBlocks use Objective Module we dont have to repeat the cast in every subclass
-        protected abstract void ComposeStep(ObjectiveModule module);
+
+        /// <summary>
+        /// Subclasses build and add their specific QuestStepData through IStepModule.
+        /// No concrete ObjectiveModule reference needed.
+        /// </summary>
+        protected abstract void ComposeStep(IStepModule module);
     }
 }

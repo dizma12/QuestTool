@@ -2,7 +2,8 @@
     "name": "QuestMaker.Core",
     "rootNamespace": "QuestMaker.Core",
     "references": [
-        "GUID:4031c6cd209f025479b7039b4e14162b"
+        "GUID:4031c6cd209f025479b7039b4e14162b",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],

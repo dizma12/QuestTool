@@ -1,18 +1,16 @@
-﻿using QuestMaker.Editor.Compiler.CompilationModules;
-using QuestMaker.Data;
-using System;
+﻿using QuestMaker.Data;
+using QuestMaker.Editor.CompilationModules;
 using Unity.GraphToolkit.Editor;
 using UnityEngine;
 
-namespace QuestMaker.Editor.Nodes
+namespace QuestMaker.Editor.Nodes.BlockNodes
 {
     [UseWithContext(typeof(QMBaseContextNode))]
-    [Serializable]
+    [System.Serializable]
     internal class ItemBlockNode : QMBaseBlockNode
     {
-        Item item = null;
-        int amount = 1;
         public const string AMOUNT_OPTION = "AMOUNT_OPTION";
+
         protected override void OnDefineOptions(IOptionDefinitionContext context)
         {
             context.AddOption(BLOCK_NODE_OPTION, typeof(Item))
@@ -25,14 +23,24 @@ namespace QuestMaker.Editor.Nodes
                 .WithDisplayName("Amount")
                 .Build();
         }
-        public override void Compose<TBuilder>(TBuilder bldr, ModuleBuilderRegistry cntx)
+
+        public override void Compose(ModuleScope scope)
         {
-            item = RetrieveBlockValue<Item>();
-            amount = RetrieveBlockValue<int>(AMOUNT_OPTION);
+            Item item = RetrieveBlockValue<Item>();
+            int amount = RetrieveBlockValue<int>(AMOUNT_OPTION);
 
-            IItemModule module = cntx.GetModuleByBuilder<TBuilder, IItemModule>(bldr);
+            if (item == null)
+            {
+                Debug.LogWarning($"[ItemBlockNode] Item is null.");
+                return;
+            }
+            if (amount <= 0)
+            {
+                Debug.LogWarning($"[ItemBlockNode] Amount is <= 0.");
+                return;
+            }
 
-            module?.SetItem(item, amount);
+            scope.Get<IItemModule>()?.SetItem(item, amount);
         }
     }
 }

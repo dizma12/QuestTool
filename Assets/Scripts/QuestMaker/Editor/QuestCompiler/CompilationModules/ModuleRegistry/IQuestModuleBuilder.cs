@@ -1,9 +1,10 @@
 ﻿
 using QuestMaker.Data;
 using QuestMaker.Data.SpecialEvents;
+using QuestMaker.Data.Steps;
 
 
-namespace QuestMaker.Editor.Compiler.CompilationModules
+namespace QuestMaker.Editor.CompilationModules
 {
     internal interface IQuestModuleBuilder
     {
@@ -34,6 +35,10 @@ namespace QuestMaker.Editor.Compiler.CompilationModules
     internal interface IReputationModule : IQuestModule
     {
         public void SetReputationFaction(ReputationFaction rep);
+    }
+    internal interface IStepModule : IQuestModule
+    {
+        void AddStep(QuestStepData step);
     }
     internal interface IQuestInfoModule : IQuestModule
     {

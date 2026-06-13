@@ -1,22 +1,19 @@
-﻿using QuestMaker.Editor.Compiler;
-using QuestMaker.Editor.Compiler.CompilationModules;
+﻿using QuestMaker.Editor.CompilationModules;
+using QuestMaker.Editor.Compiler;
 using System;
 using System.Linq;
 using Unity.GraphToolkit.Editor;
+
 namespace QuestMaker.Editor.Nodes
 {
     /// <summary>
-    /// Class that all context nodes derive from (closed).
+    /// Base for all context nodes.
     /// </summary>
     [Serializable]
-    internal abstract class QMContextNode : ContextNode
+    internal abstract class QMBaseContextNode : ContextNode
     {
         public abstract bool AllowMultipleContextNodesOfSameType { get; }
         public abstract Type PortType { get; }
-
-        /// <summary>
-        /// Input port for Graph Flow
-        /// </summary>
         public const string INPUT_PORT = "FlowIn";
 
         protected override void OnDefinePorts(IPortDefinitionContext context)
@@ -30,43 +27,48 @@ namespace QuestMaker.Editor.Nodes
         }
 
         /// <summary>
-        /// Locates all blocks of the context Node.
+        /// Returns all block nodes that are IComposableNode.
         /// </summary>
-        /// <param name="cntx"></param>
-        /// <returns>IComposable Array or Null if doesnt find any.</returns>
         public virtual IComposableNode[] GetBlockNodes()
         {
             var blocks = BlockNodes.OfType<IComposableNode>().ToArray();
+
             if (blocks.Length <= 0)
             {
-                UnityEngine.Debug.LogWarning($"Failed to find any valid blocks of type IComposableNode");
-
+                UnityEngine.Debug.LogWarning($"[{GetType().Name}] No IComposableNode blocks found.");
                 return null;
             }
 
             return blocks;
         }
 
+        /// <summary>
+        /// Loops all IComposableNodes and passes a module scope.
+        /// </summary>
+        protected void ComposeBlocks(IQuestModuleBuilder builder, ModuleBuilderRegistry reg)
+        {
+            IComposableNode[] nodes = GetBlockNodes();
+            if (nodes == null) return;
+
+            ModuleScope scope = new(builder, reg);
+
+            foreach (IComposableNode node in nodes)
+                node.Compose(scope);
+        }
+
         public abstract bool ProcessNode(ModuleBuilderRegistry reg);
 
-
+        /// <summary>
+        /// Retrieves the value of an option with the given name.
+        /// </summary>
+        /// <typeparam name="T"></typeparam>
+        /// <param name="optionName"></param>
+        /// <returns></returns>
         protected virtual T RetrieveOptionValue<T>(string optionName)
         {
             INodeOption option = GetNodeOptionByName(optionName);
-
             option.TryGetValue(out T val);
             return val;
         }
     }
-
-
-    /// <summary>
-    /// Base Class that all non-objective context nodes should derive from.
-    /// </summary>
-    [Serializable]
-    internal abstract class QMBaseContextNode : QMContextNode 
-    { 
-        public override Type PortType => typeof(IContextFlowHelper); 
-    };
 }
-

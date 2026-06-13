@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 
-namespace QuestMaker.Editor.Compiler.CompilationModules
+namespace QuestMaker.Editor.CompilationModules
 {
     internal class PrerequisiteModule : IQuestModuleBuilder, IItemModule, ILevelModule, IReputationModule, IInGameTimeConstraintModule
     {
@@ -29,13 +29,6 @@ namespace QuestMaker.Editor.Compiler.CompilationModules
 
             Debug.Log("Added level prereq= " + _level);
         }
-        public void SetItemPrerequisite(Item item, int amount)
-        {
-            if (item == null) throw new NullReferenceException($"[{GetType().Name}] Cannot add Item coz its null");
-
-            _items.Add(new() { Item = item, Amount = amount });
-        }
-
 
         public void SetLevel(int level)
         {
@@ -46,7 +39,7 @@ namespace QuestMaker.Editor.Compiler.CompilationModules
 
         public void SetItem(Item item, int amount = 1)
         {
-            if(item != null && amount > 1)
+            if(item != null && amount >= 1)
                 _items.Add(new() { Item = item, Amount = amount });  
         }
 

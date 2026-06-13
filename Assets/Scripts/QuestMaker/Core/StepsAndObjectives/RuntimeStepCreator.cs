@@ -17,11 +17,11 @@ namespace QuestMaker.Core
                 StepCategory.Loot => new LootQuestStep(stepData),
                 StepCategory.Craft => new CraftQuestStep(stepData),
                 StepCategory.Interact => new InteractQuestStep(stepData), // not working properly
-                //StepCategory.Explore => new ExploreQuestStep(stepData),
-                //StepCategory.Collect => new CollectQuestStep(stepData),
+                StepCategory.Explore => new ExploreQuestStep(stepData),
+                StepCategory.Collect => new CollectQuestStep(stepData),
                 //StepCategory.Talk => new TalkQuestStep(stepData),
                 //StepCategory.Deliver => new DeliverQuestStep(stepData),
-                _ => throw new ArgumentException("Invalid StepCategory"),
+                _ => throw new ArgumentException($"Invalid StepCategory= {stepData.StepType}"),
             };
         }
     }

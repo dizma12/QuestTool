@@ -3,7 +3,7 @@ using QuestMaker.Data.SpecialEvents;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace QuestMaker.Editor.Compiler.CompilationModules
+namespace QuestMaker.Editor.CompilationModules
 {
 #pragma warning disable CS0618 // disables obsolete warning for QuestType.Hidden.
     internal class QuestInfoModule : IQuestModuleBuilder, IQuestInfoModule, ISpecialEventModule
@@ -14,11 +14,13 @@ namespace QuestMaker.Editor.Compiler.CompilationModules
         private List<SpecialEventData> _specialEvents;
         public void Build(QuestSO quest)
         {
-            quest.QuestName = _qName;
+            quest.ID = _qName;
             quest.Description = _qDesc;
             quest.QuestType = _qType;
-            if(_specialEvents.Count > 0 ) 
+
+            if (_specialEvents != null && _specialEvents.Count > 0)
                 quest.SpecialEvent = _specialEvents.First();
+ 
         }
 
         public void SetQuestDescription(string desc)

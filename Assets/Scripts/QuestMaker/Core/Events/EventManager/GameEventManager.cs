@@ -12,10 +12,10 @@ namespace  QuestMaker.Runtime.Game.Events
 
         private Dictionary<Type, CustomEventHandler> eventHandlers = null;
 
-        public bool SubscribeSelf()
+        private bool SubscribeSelf()
            => ReferenceManager.Instance.SubScribeReference<GameEventManager>(this);
 
-        public bool UnsubscribeSelf()
+        private bool UnsubscribeSelf()
            => ReferenceManager.Instance.UnsubscribeReference<GameEventManager>();
         
 

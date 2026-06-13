@@ -1,9 +1,7 @@
-﻿using log4net.Core;
-using QuestMaker.Data;
-using QuestMaker.Editor.Compiler;
-using QuestMaker.Editor.Compiler.CompilationModules;
-
+﻿using QuestMaker.Data;
+using QuestMaker.Editor.CompilationModules;
 using Unity.GraphToolkit.Editor;
+
 
 namespace QuestMaker.Editor.Nodes
 {
@@ -20,14 +18,10 @@ namespace QuestMaker.Editor.Nodes
                 .Build();
         }
 
-        public override void Compose<TBuilder>(TBuilder bldr, ModuleBuilderRegistry reg)
+        public override void Compose(ModuleScope scope)
         {
             InGameTimeline time = RetrieveBlockValue<InGameTimeline>();
-            IInGameTimeConstraintModule module = reg.RequestModule<TBuilder, IInGameTimeConstraintModule>();
-
-
-            module.SetTimeConstraint(time);
-
+            scope.Get<IInGameTimeConstraintModule>()?.SetTimeConstraint(time);
         }
     }
 }

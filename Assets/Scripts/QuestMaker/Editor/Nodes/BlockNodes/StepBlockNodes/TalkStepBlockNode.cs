@@ -1,6 +1,5 @@
 ﻿using QuestMaker.Data.Steps;
-using QuestMaker.Editor.Compiler.CompilationModules;
-using QuestMaker.Editor.Nodes.ContextNodes;
+using QuestMaker.Editor.CompilationModules;
 using Unity.GraphToolkit.Editor;
 
 namespace QuestMaker.Editor.Nodes.BlockNodes
@@ -19,7 +18,7 @@ namespace QuestMaker.Editor.Nodes.BlockNodes
                 .Build();
         }
 
-        protected override void ComposeStep(ObjectiveModule module)
+        protected override void ComposeStep(IStepModule module)
         {
             string npc = RetrieveBlockValue<string>(NPC_ID);
 

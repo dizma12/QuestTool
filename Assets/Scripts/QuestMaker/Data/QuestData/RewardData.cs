@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using UnityEditor;
 using UnityEngine;
 
 namespace QuestMaker.Data
@@ -9,12 +10,12 @@ namespace QuestMaker.Data
     /// Data struct for Rewards. ***Warning dont use the empty constructor***
     /// </summary>
     [Serializable]
-    public struct RewardData
+    public class RewardData
     {
-        public readonly int Exp => _exp;
-        public readonly IReadOnlyList<ItemAmount> Items => _items;
-        public readonly IReadOnlyList<string> AbilityIDs => _abilities;
-        public readonly IReadOnlyList<ReputationFaction> Reputation => _reps;
+        public int Exp => _exp;
+        public IReadOnlyList<ItemAmount> Items => _items;
+        public IReadOnlyList<string> AbilityIDs => _abilities;
+        public IReadOnlyList<ReputationFaction> Reputation => _reps;
         [SerializeField]
         private int _exp;
 
@@ -39,7 +40,7 @@ namespace QuestMaker.Data
             _exp = exp > 0 ? exp : 0;
 
             _items = items == null || items.Any(i => i.Item == null) ? Array.Empty<ItemAmount>() : items;
-            
+
             _abilities = abilities == null || abilities.Any(i => i == null) ? Array.Empty<string>() : abilities;
 
             _reps = rep == null || rep.Any(r => r.FactionID == string.Empty || r.Amount <= 0) ? Array.Empty<ReputationFaction>() : rep;

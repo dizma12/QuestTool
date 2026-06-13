@@ -1,11 +1,9 @@
 ﻿using QuestMaker.Data;
-using QuestMaker.Data.SpecialEvents;
-using QuestMaker.Editor.Assets.Scripts.QuestMaker.Editor.Nodes.SpecialEventNodes;
-using QuestMaker.Editor.Compiler;
-using QuestMaker.Editor.Compiler.CompilationModules;
+using QuestMaker.Editor.CompilationModules;
 using System;
 using System.Collections.Generic;
 using Unity.GraphToolkit.Editor;
+
 namespace QuestMaker.Editor.Nodes
 {
     [Serializable]
@@ -18,91 +16,86 @@ namespace QuestMaker.Editor.Nodes
         public const string SPECIAL_EVENT_PORT = "SPECIAL_EVENT_PORT";
         public const string OBJECTIVE_FLOW_PORT = "OBJECTIVE_FLOW_PORT";
         public const string CONTEXT_FLOW_PORT = "CONTEXT_FLOW_PORT";
+
         public override Type PortType => typeof(IContextFlowHelper);
+
         protected override void OnDefineOptions(IOptionDefinitionContext context)
         {
-            //Type
             context.AddOption(QUEST_TYPE_OPTION, typeof(QuestType))
                 .WithDisplayName("Quest Type")
                 .WithDefaultValue(QuestType.Main)
-                .WithTooltip("The type of the quest can be used to categorize the quest on runtime.")
+                .WithTooltip("The type of the quest — used to categorize it at runtime.")
                 .Build();
-            //Name
+
             context.AddOption(QUEST_NAME_OPTION, typeof(string))
                 .WithDisplayName("Name")
                 .WithDefaultValue(string.Empty)
-                .WithTooltip("The name of the quest")
+                .WithTooltip("The name of the quest.")
                 .Build();
-            //Desc
+
             context.AddOption(QUEST_DESC_OPTION, typeof(string))
                 .WithDisplayName("Description")
                 .WithDefaultValue(string.Empty)
-                .WithTooltip("The Description of the quest")
+                .WithTooltip("The description of the quest.")
                 .Build();
         }
 
         protected override void OnDefinePorts(IPortDefinitionContext context)
         {
-            //Event
             context.AddOutputPort(SPECIAL_EVENT_PORT)
                 .WithDataType(typeof(ISpecialEventNode))
                 .WithDisplayName("Special Event")
                 .WithConnectorUI(PortConnectorUI.Circle)
                 .Build();
-            //Flow
+
             context.AddOutputPort(CONTEXT_FLOW_PORT)
                 .WithDataType(PortType)
                 .WithDisplayName("Context")
                 .WithConnectorUI(PortConnectorUI.Arrowhead)
                 .Build();
 
-            //Objective
             context.AddOutputPort(OBJECTIVE_FLOW_PORT)
                 .WithDataType(typeof(IObjectiveFlowHelper))
-                .WithDisplayName("OBjectives")
+                .WithDisplayName("Objectives")
                 .WithConnectorUI(PortConnectorUI.Arrowhead)
                 .Build();
         }
+
         public virtual void ProcessNode(ModuleBuilderRegistry reg)
         {
-            IQuestInfoModule module = reg.RequestModule<QuestInfoModule, IQuestInfoModule>();
 
-            if (module == null) return;
+            QuestInfoModule builder = reg.GetBuilder<QuestInfoModule>();
+            if (builder == null) return;
 
-            //Name
-            INodeOption option = GetNodeOptionByName(QUEST_NAME_OPTION);
+            IQuestInfoModule module = builder as IQuestInfoModule;
 
-            if (option.TryGetValue(out string name))
+            if (GetNodeOptionByName(QUEST_NAME_OPTION).TryGetValue(out string name))
                 module.SetQuestName(name);
-            //Desc
-            option = GetNodeOptionByName(QUEST_DESC_OPTION);
 
-            if (option.TryGetValue(out string desc))
+            if (GetNodeOptionByName(QUEST_DESC_OPTION).TryGetValue(out string desc))
                 module.SetQuestDescription(desc);
 
-            //Type
-            option = GetNodeOptionByName(QUEST_TYPE_OPTION);
-
-            if (option.TryGetValue(out QuestType type))
+            if (GetNodeOptionByName(QUEST_TYPE_OPTION).TryGetValue(out QuestType type))
                 module.SetQuestType(type);
 
-            // Special Events
+            //Special Events
             IPort specialEventPort = GetOutputPortByName(SPECIAL_EVENT_PORT);
-
             if (!specialEventPort.IsConnected) return;
-            List<IPort> connected = new();
 
+            List<IPort> connected = new();
             specialEventPort.GetConnectedPorts(connected);
-            if(connected.Count <= 0) return;
+            if (connected.Count == 0) return;
+
+            //Module Scope falls off here but its onnly for this node.
+            ModuleScope scope = new(builder, reg);
 
             foreach (IPort port in connected)
             {
-                var portNode = port.GetNode();
+                INode portNode = port.GetNode();
                 if (portNode == null || portNode is not QMSpecialEventNode specialEventNode) continue;
 
-                specialEventNode.Compose(module as QuestInfoModule, reg);
+                specialEventNode.Compose(scope);
             }
-
         }
     }
 }

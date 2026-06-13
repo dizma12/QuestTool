@@ -1,7 +1,9 @@
-﻿using QuestMaker.Editor.Compiler;
-using QuestMaker.Editor.Compiler.CompilationModules;
+﻿using QuestMaker.Editor.CompilationModules;
+using QuestMaker.Editor.Compiler;
+
 using Unity.GraphToolkit.Editor;
 using UnityEngine;
+using static UnityEditor.ObjectChangeEventStream;
 
 namespace QuestMaker.Editor.Nodes
 {
@@ -11,18 +13,11 @@ namespace QuestMaker.Editor.Nodes
     {
         int Level;
 
-        public override void Compose<TBuilder>(TBuilder bldr, ModuleBuilderRegistry cntx)
+
+        public override void Compose(ModuleScope scope)
         {
             Level = RetrieveBlockValue<int>();
-            ILevelModule module = cntx.RequestModule<TBuilder, ILevelModule>();
-
-            if (module != null)
-            {
-
-                module.SetLevel(Level);
-                Debug.Log($"Successfuly set the Prerequisite Level to= {Level}");
-            }
-            else Debug.Log($"Failed set the Prerequisite Level");
+            scope.Get<ILevelModule>()?.SetLevel(Level);
         }
 
         protected override void OnDefineOptions(IOptionDefinitionContext context)

@@ -1,5 +1,5 @@
-﻿using QuestMaker.Editor.Compiler;
-using QuestMaker.Editor.Compiler.CompilationModules;
+﻿using QuestMaker.Editor.CompilationModules;
+using QuestMaker.Editor.Compiler;
 using System;
 using Unity.GraphToolkit.Editor;
 
@@ -37,8 +37,7 @@ namespace QuestMaker.Editor.Nodes
             option.TryGetValue(out T val);
             return val;
         }
-
-        public abstract void Compose<T>(T bldr, ModuleBuilderRegistry cntx) where T: class, IQuestModuleBuilder, new();
-
+        public abstract void Compose(ModuleScope scope);
+   
     }
 }

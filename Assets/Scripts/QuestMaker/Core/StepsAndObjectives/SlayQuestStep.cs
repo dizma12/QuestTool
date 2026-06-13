@@ -9,15 +9,20 @@ namespace QuestMaker.Runtime.StepsAndObjectives
 {
     public class SlayQuestStep : QuestStep
     {
-        private string _enemyID;
-        private int _requiredAmount;
-        private int _currentKillCount;
+        private string _enemyID = string.Empty;
+        private int _requiredAmount = 1;
+        private int _currentKillCount = 0;
         private GameEventHandler _eventHandler = null;
-
+ 
         public SlayQuestStep(QuestStepData data) : base(data) { }
 
         public override void Initialize(QuestStepData data)
         {
+            if (data == null)
+            {
+                Debug.LogError($"[SlayQuestStep] QuestStepData is null");
+                return;
+            }
             if (data is not SlayStepData slayData)
             {
                 Debug.LogError($"[SlayQuestStep] Expected SlayStepData, got {data?.GetType()}");

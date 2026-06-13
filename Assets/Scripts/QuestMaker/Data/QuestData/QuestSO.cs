@@ -1,10 +1,9 @@
-using QuestMaker.Data;
 using QuestMaker.Data.Objectives;
 using QuestMaker.Data.SpecialEvents;
-using QuestMaker.Data.Steps;
 using System.Collections.Generic;
 using UnityEngine;
 #pragma warning disable CS0618 // disables obsolete warning for QuestType.Hidden.
+
 namespace QuestMaker.Data
 {
     public class QuestSO : ScriptableObject
@@ -20,8 +19,7 @@ namespace QuestMaker.Data
 
             }
         }
-        public string QuestID => _qName;
-        public virtual string QuestName
+        public virtual string ID
         {
             get => _qName;
             set
@@ -31,11 +29,11 @@ namespace QuestMaker.Data
             }
         }
         public string Description { get; set; } = string.Empty;
+        public IReadOnlyList<ObjectiveData> Objectives => _objectives;
 
         public PrerequisiteData Prerequisites { get => _prerequisites; set => _prerequisites = value; }
 
         public RewardData Rewards { get => _rewards; set => _rewards = value; }
-        public IReadOnlyList<ObjectiveData> Objectives => _objectives;
         public SpecialEventData SpecialEvent
         {
             get => _specialEvent;
@@ -49,24 +47,22 @@ namespace QuestMaker.Data
         [SerializeField, HideInInspector]
         protected string _qName = string.Empty;
 
-        //[Header("Info")]
-
-
-        [SerializeField]
-        protected QuestType _qType = QuestType.Hidden;
-
-        [SerializeField]
-        protected PrerequisiteData _prerequisites;
-
-        [SerializeField]
-        protected RewardData _rewards;
-
-        //[Header("Goals")]
         [SerializeReference]
         protected List<ObjectiveData> _objectives;
 
+       
         [SerializeField]
-        protected SpecialEventData _specialEvent;
+        protected QuestType _qType = QuestType.Hidden;
+
+        
+        [SerializeReference]
+        protected PrerequisiteData _prerequisites = null;
+
+        [SerializeReference]
+        protected RewardData _rewards = null;
+
+        [SerializeReference]
+        protected SpecialEventData _specialEvent = null;
 
 
         public void AddObjective(ObjectiveData obj)
@@ -77,6 +73,11 @@ namespace QuestMaker.Data
 
             _objectives.Add(obj);
             Debug.Log($"[QuestSO] Objective {obj.ID} added!");
+        }
+
+        private void OnValidate()
+        {
+            _qName = name;
         }
     }
 #pragma warning restore CS0618

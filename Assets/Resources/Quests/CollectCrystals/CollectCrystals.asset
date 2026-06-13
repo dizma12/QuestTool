@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca184911a1cf05c41a8bccbc419e7cf6, type: 3}
+  m_Name: CollectCrystals
+  m_EditorClassIdentifier: QuestMaker.Data::QuestMaker.Data.QuestSO
+  _qName: CollectCrystals
+  _objectives:
+  - rid: 1918136820993097858
+  _qType: 0
+  _prerequisites:
+    rid: 1918136820993097859
+  _rewards:
+    rid: 1918136820993097860
+  _specialEvent:
+    rid: -2
+  references:
+    version: 2
+    RefIds:
+    - rid: -2
+      type: {class: , ns: , asm: }
+    - rid: 1918136820993097858
+      type: {class: ObjectiveData, ns: QuestMaker.Data.Objectives, asm: QuestMaker.Data}
+      data:
+        id: Collect_1
+        desc: Crystals_Collected
+        _steps:
+        - rid: 1918136820993097861
+        _specialEvents: []
+    - rid: 1918136820993097859
+      type: {class: PrerequisiteData, ns: QuestMaker.Data, asm: QuestMaker.Data}
+      data:
+        _level: 3
+        _items: []
+        _reps: []
+        _quests: []
+        _inGameTimeConstraint: 0
+    - rid: 1918136820993097860
+      type: {class: RewardData, ns: QuestMaker.Data, asm: QuestMaker.Data}
+      data:
+        _exp: 500
+        _items: []
+        _abilities: []
+        _reps:
+        - _factionID: Undercity
+          _amount: 100
+    - rid: 1918136820993097861
+      type: {class: CollectStepData, ns: QuestMaker.Data.Steps, asm: QuestMaker.Data}
+      data:
+        _stepId: Collect_[Crystal]_10
+        _collectable:
+          _item: {fileID: 11400000, guid: cc3e240f8f8232a4e8ce26ed419b02b1, type: 2}
+          _amount: 10

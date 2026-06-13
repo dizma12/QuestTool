@@ -8,13 +8,13 @@ using UnityEngine;
 namespace QuestMaker.Data
 {
     [Serializable]
-    public struct PrerequisiteData
+    public class PrerequisiteData
     {
-        public readonly int Level => _level;
-        public readonly IReadOnlyList<ItemAmount> Items => _items;
-        public readonly IReadOnlyList<QuestSO> Quests => _quests;
-        public readonly IReadOnlyList<ReputationFaction> Reputation => _reps;
-        public readonly InGameTimeline TimeConstraint => _inGameTimeConstraint;
+        public int Level => _level;
+        public IReadOnlyList<ItemAmount> Items => _items;
+        public IReadOnlyList<QuestSO> Quests => _quests;
+        public IReadOnlyList<ReputationFaction> Reputation => _reps;
+        public InGameTimeline TimeConstraint => _inGameTimeConstraint;
 
         [SerializeField]
         private int _level;
@@ -47,3 +47,4 @@ namespace QuestMaker.Data
 
     }
 }
+

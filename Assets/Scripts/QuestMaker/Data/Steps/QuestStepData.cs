@@ -1,3 +1,4 @@
+using QuestMaker.Core.Quests;
 using System;
 namespace QuestMaker.Data.Steps
 {
@@ -5,16 +6,7 @@ namespace QuestMaker.Data.Steps
     public abstract class QuestStepData
     {
         public abstract StepCategory StepType { get; }
+
+        //public IRuntimeStep CreateRuntimeStep(GameEventHandler )
     }
-
-    public static class QuestDataExtensions
-    {
-        public static T GetSubClassData<T>(this QuestStepData data) where T : QuestStepData
-        {
-            if(data == null || data is not T) return null;
-
-            return data as T;
-        }
-    }
-
 }

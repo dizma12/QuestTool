@@ -1,6 +1,5 @@
 ﻿using QuestMaker.Data.Steps;
-using QuestMaker.Editor.Compiler.CompilationModules;
-using QuestMaker.Editor.Nodes.ContextNodes;
+using QuestMaker.Editor.CompilationModules;
 using Unity.GraphToolkit.Editor;
 using UnityEngine;
 
@@ -29,7 +28,7 @@ namespace QuestMaker.Editor.Nodes.BlockNodes
                 .Build();
         }
 
-        protected override void ComposeStep(ObjectiveModule module)
+        protected override void ComposeStep(IStepModule module)
         {
             string enemyID = RetrieveBlockValue<string>(ENEMY_ID_OPTION);
             int amount = RetrieveBlockValue<int>(AMOUNT_OPTION);

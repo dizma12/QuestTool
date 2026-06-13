@@ -3,7 +3,7 @@ using System;
 using System.Collections.Generic;
 
 
-namespace QuestMaker.Editor.Compiler.CompilationModules
+namespace QuestMaker.Editor.CompilationModules
 {
     internal class RewardModule : IQuestModuleBuilder, IExpModule, IItemModule, IAbilityModule, IReputationModule
     {
