@@ -1,5 +1,5 @@
-﻿using QuestMaker.Data;
-using QuestMaker.Data.SpecialEvents;
+﻿using QuestMaker.Domain;
+using QuestMaker.Domain.SpecialEvents;
 using System.Collections.Generic;
 using System.Linq;
 

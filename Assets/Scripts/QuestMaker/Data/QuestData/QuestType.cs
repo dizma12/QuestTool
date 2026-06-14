@@ -1,4 +1,4 @@
-﻿namespace QuestMaker.Data
+﻿namespace QuestMaker.Domain
 {
     public enum QuestType
     {

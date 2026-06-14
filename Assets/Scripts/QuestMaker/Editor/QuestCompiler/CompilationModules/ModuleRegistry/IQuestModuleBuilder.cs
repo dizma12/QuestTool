@@ -1,7 +1,7 @@
 ﻿
-using QuestMaker.Data;
-using QuestMaker.Data.SpecialEvents;
-using QuestMaker.Data.Steps;
+using QuestMaker.Domain;
+using QuestMaker.Domain.SpecialEvents;
+using QuestMaker.Domain.Steps;
 
 
 namespace QuestMaker.Editor.CompilationModules

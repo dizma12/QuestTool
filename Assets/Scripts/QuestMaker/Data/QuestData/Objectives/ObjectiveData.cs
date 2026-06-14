@@ -1,12 +1,12 @@
-using QuestMaker.Data.SpecialEvents;
-using QuestMaker.Data.Steps;
+using QuestMaker.Domain.SpecialEvents;
+using QuestMaker.Domain.Steps;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using UnityEditor;
 using UnityEngine;
 
-namespace QuestMaker.Data.Objectives
+namespace QuestMaker.Domain.Objectives
 {
     [Serializable]
     public class ObjectiveData
@@ -28,7 +28,7 @@ namespace QuestMaker.Data.Objectives
                 {
                     if (_steps != null && _steps.Count > 0)
                     {
-                        var x = _steps.Select(s => s.StepType.ToString());
+                        var x = _steps.Select(s => s.GetType().Name.Replace("StepData", string.Empty));
                         id = string.Join("_", x) + $"_{_steps.Count}";
                     }
                 }

@@ -1,5 +1,5 @@
 ﻿
-namespace QuestMaker.Data.SpecialEvents
+namespace QuestMaker.Domain.SpecialEvents
 {
     public enum SpecialEventTrigger
     {

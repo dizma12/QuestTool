@@ -208,11 +208,11 @@ MonoBehaviour:
       data:
         m_Value:
           m_EnumType:
-            m_Identification: QuestMaker.Data.QuestType, QuestMaker.Data, Version=0.0.0.0,
+            m_Identification: QuestMaker.Domain.QuestType, QuestMaker.Domain, Version=0.0.0.0,
               Culture=neutral, PublicKeyToken=null
           m_Value: 0
         m_EnumType:
-          m_Identification: QuestMaker.Data.QuestType, QuestMaker.Data, Version=0.0.0.0,
+          m_Identification: QuestMaker.Domain.QuestType, QuestMaker.Domain, Version=0.0.0.0,
             Culture=neutral, PublicKeyToken=null
     - rid: 1918136820993097906
       type: {class: 'Constant`1[[System.String, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
@@ -450,11 +450,11 @@ MonoBehaviour:
       data:
         m_Value:
           m_EnumType:
-            m_Identification: QuestMaker.Data.InGameTimeline, QuestMaker.Data, Version=0.0.0.0,
+            m_Identification: QuestMaker.Domain.InGameTimeline, QuestMaker.Domain, Version=0.0.0.0,
               Culture=neutral, PublicKeyToken=null
           m_Value: 2
         m_EnumType:
-          m_Identification: QuestMaker.Data.InGameTimeline, QuestMaker.Data, Version=0.0.0.0,
+          m_Identification: QuestMaker.Domain.InGameTimeline, QuestMaker.Domain, Version=0.0.0.0,
             Culture=neutral, PublicKeyToken=null
     - rid: 1918136820993097922
       type: {class: InGameTimeConstraintBlockNode, ns: QuestMaker.Editor.Nodes, asm: QuestMakerEditor}
@@ -583,7 +583,7 @@ MonoBehaviour:
         m_Node:
           rid: 1918136820993097930
     - rid: 1918136820993097928
-      type: {class: 'Constant`1[[QuestMaker.Data.Item, QuestMaker.Data]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
+      type: {class: 'Constant`1[[QuestMaker.Domain.Item, QuestMaker.Domain]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
       data:
         m_Value: {fileID: 11400000, guid: 869a084204231764da191ce12849fa34, type: 2}
     - rid: 1918136820993097929
@@ -950,7 +950,7 @@ MonoBehaviour:
         m_Node:
           rid: 1918136820993097954
     - rid: 1918136820993097952
-      type: {class: 'Constant`1[[QuestMaker.Data.Item, QuestMaker.Data]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
+      type: {class: 'Constant`1[[QuestMaker.Domain.Item, QuestMaker.Domain]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
       data:
         m_Value: {fileID: 11400000, guid: 869a084204231764da191ce12849fa34, type: 2}
     - rid: 1918136820993097953
@@ -1037,11 +1037,11 @@ MonoBehaviour:
       data:
         m_Value:
           m_EnumType:
-            m_Identification: QuestMaker.Data.SpecialEvents.SpecialEventTrigger,
-              QuestMaker.Data, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+            m_Identification: QuestMaker.Domain.SpecialEvents.SpecialEventTrigger,
+              QuestMaker.Domain, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
           m_Value: 1
         m_EnumType:
-          m_Identification: QuestMaker.Data.SpecialEvents.SpecialEventTrigger, QuestMaker.Data,
+          m_Identification: QuestMaker.Domain.SpecialEvents.SpecialEventTrigger, QuestMaker.Domain,
             Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
     - rid: 1918136820993097972
       type: {class: 'Constant`1[[System.String, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}

@@ -1,9 +1,9 @@
-using QuestMaker.Data.Helpers;
+using QuestMaker.Domain.Helpers;
 using System;
 using UnityEditor;
 using UnityEngine;
 
-namespace QuestMaker.Data
+namespace QuestMaker.Domain
 {
     [CreateAssetMenu(menuName = "QuestMaker/Item")]
     [Serializable]

@@ -6,7 +6,7 @@ using UnityEngine.UIElements;
 using QuestMaker.Editor.Utility;
 using QuestMaker.Editor.Compiler;
 using System.Linq;
-using QuestMaker.Data;
+using QuestMaker.Domain;
 namespace QuestMaker.Editor.Window
 {
     public class QuestCompilerEditorWindow : EditorWindow

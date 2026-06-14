@@ -1,4 +1,4 @@
-﻿using QuestMaker.Data.SpecialEvents;
+﻿using QuestMaker.Domain.SpecialEvents;
 using QuestMaker.Editor.CompilationModules;
 using System;
 using UnityEngine;

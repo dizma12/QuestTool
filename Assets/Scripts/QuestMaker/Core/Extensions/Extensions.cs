@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace QuestMaker.Core.Extensions
+namespace QuestMaker.Runtime.Extensions
 {
     public static class TypeExtension
     {

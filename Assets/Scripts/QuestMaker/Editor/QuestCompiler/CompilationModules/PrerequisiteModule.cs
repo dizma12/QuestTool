@@ -1,4 +1,4 @@
-﻿using QuestMaker.Data;
+﻿using QuestMaker.Domain;
 using System;
 using System.Collections.Generic;
 using UnityEngine;

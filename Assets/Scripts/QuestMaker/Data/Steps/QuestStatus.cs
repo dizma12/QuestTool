@@ -1,6 +1,6 @@
 ﻿
 
-namespace QuestMaker.Core.Quests
+namespace QuestMaker.Domain.Quests
 {
     public enum QuestStatus
     {

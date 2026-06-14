@@ -1,4 +1,4 @@
-﻿using QuestMaker.Data;
+﻿using QuestMaker.Domain;
 using QuestMaker.Editor.CompilationModules;
 using System;
 using System.Collections.Generic;
@@ -24,7 +24,7 @@ namespace QuestMaker.Editor.Nodes
             context.AddOption(QUEST_TYPE_OPTION, typeof(QuestType))
                 .WithDisplayName("Quest Type")
                 .WithDefaultValue(QuestType.Main)
-                .WithTooltip("The type of the quest — used to categorize it at runtime.")
+                .WithTooltip("The type of the quest that is used to categorize it at runtime.")
                 .Build();
 
             context.AddOption(QUEST_NAME_OPTION, typeof(string))
@@ -69,14 +69,16 @@ namespace QuestMaker.Editor.Nodes
 
             IQuestInfoModule module = builder as IQuestInfoModule;
 
+
+            if (GetNodeOptionByName(QUEST_TYPE_OPTION).TryGetValue(out QuestType type))
+                module.SetQuestType(type);
+
             if (GetNodeOptionByName(QUEST_NAME_OPTION).TryGetValue(out string name))
                 module.SetQuestName(name);
 
             if (GetNodeOptionByName(QUEST_DESC_OPTION).TryGetValue(out string desc))
                 module.SetQuestDescription(desc);
 
-            if (GetNodeOptionByName(QUEST_TYPE_OPTION).TryGetValue(out QuestType type))
-                module.SetQuestType(type);
 
             //Special Events
             IPort specialEventPort = GetOutputPortByName(SPECIAL_EVENT_PORT);

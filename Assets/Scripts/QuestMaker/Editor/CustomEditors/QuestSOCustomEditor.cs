@@ -1,4 +1,4 @@
-﻿using QuestMaker.Data;
+﻿using QuestMaker.Domain;
 using QuestMaker.Editor.CustomEditors;
 using UnityEditor;
 using UnityEngine;

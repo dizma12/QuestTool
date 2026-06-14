@@ -5,7 +5,7 @@ using UnityEngine;
 
 namespace QuestMaker.Runtime.Game
 {
-    [DefaultExecutionOrder(-20)]
+    [DefaultExecutionOrder(-20)] //First execution order.
     public class ReferenceManager : MonoBehaviour
     {
         public static ReferenceManager Instance;

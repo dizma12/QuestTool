@@ -1,21 +1,30 @@
-using QuestMaker.Data;
-using QuestMaker.Data.SpecialEvents;
+using QuestMaker.Domain;
+using QuestMaker.Domain.Events;
+using QuestMaker.Domain.SpecialEvents;
 using System.Collections.Generic;
 using System.Linq;
 using UnityEngine;
 
-namespace QuestMaker.Core.Quests
+namespace QuestMaker.Runtime.Quests
 {
     public class QuestLoader
     {
-        readonly private string _loadingPath;
-
-        public QuestLoader(string path = "Quests")
+        private readonly string _loadingPath = string.Empty;
+        private readonly IQuestEventSource _eventBus = null;
+        public QuestLoader(IQuestEventSource eventbus ,string path = "Quests")
         {
             if (!string.IsNullOrEmpty(path))
                 _loadingPath = path;
             else _loadingPath = "Quests";
+
+            if(eventbus == null)
+            {
+                ConsoleLogger.LogError(this, "Game Event Bus cannot be null");
+                return;
+            }
+            _eventBus = eventbus;
         }
+
         /// <summary>
         /// Loads Quests from Resources/Quests and creates a map of ID,Quest.
         /// </summary>
@@ -33,17 +42,7 @@ namespace QuestMaker.Core.Quests
                     Debug.LogError($"[{GetType()}] Duplicate Quest ID found When creating Map: {questSO.ID}");
                     return null;
                 }
-                questMap.Add(questSO.ID, new(questSO));
-
-                if (questSO.ID.Equals("EmptyRewards"))
-                {
-                    Debug.Log(questSO.ID);
-                    Debug.Log($"Prereq= {questSO.Prerequisites is null}");
-                    Debug.Log($"Rewards= {questSO.Rewards is null}");
-                    Debug.Log($"SE= {questSO.SpecialEvent is null}");
-                    Debug.Log($"SE= {questSO.Prerequisites.Items.First().Item.Name}");
-
-                }
+                questMap.Add(questSO.ID, new(questSO, _eventBus));
             }
             return questMap;
 

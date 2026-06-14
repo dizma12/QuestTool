@@ -1,13 +1,15 @@
-﻿using QuestMaker.Data;
-using QuestMaker.Data.Objectives;
-using QuestMaker.Data.SpecialEvents;
-using QuestMaker.Runtime.StepsAndObjectives;
+using QuestMaker.Domain.Quests;
+﻿using QuestMaker.Domain;
+using QuestMaker.Domain.Objectives;
+using QuestMaker.Domain.SpecialEvents;
+using QuestMaker.Domain.Steps;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using UnityEngine;
+using QuestMaker.Domain.Events;
 #pragma warning disable CS0618 // disables obsolete warning for QuestType.Hidden.
-namespace QuestMaker.Core.Quests
+namespace QuestMaker.Runtime.Quests
 {
     public class Quest
     {
@@ -65,7 +67,29 @@ namespace QuestMaker.Core.Quests
             }
         }
 
-        public Quest(QuestSO data)
+        public QuestStep[] AllSteps
+        {
+            get
+            {
+                List<QuestStep> steps = new List<QuestStep>();
+                foreach(var steparray in _objectives.Values)
+                {
+                    foreach(var step in steparray)
+                        steps.Add(step);
+                }
+                return steps.ToArray();
+            }
+        }
+
+
+        public ObjectiveData[] Objectives
+        {
+            get
+            {
+                return _questData.Objectives.ToArray();
+            }
+        }
+        public Quest(QuestSO data, IQuestEventSource eventbus)
         {
             if (data == null)
                 throw new ArgumentNullException("[Quest] QuestSO data cannot be null");
@@ -78,10 +102,10 @@ namespace QuestMaker.Core.Quests
             _rewards = data.Rewards;
             _specialEvent = data.SpecialEvent;
 
-            CreateStepsForObjectives();
+            CreateStepsForObjectives(eventbus);
         }
 
-        private void CreateStepsForObjectives()
+        private void CreateStepsForObjectives(IQuestEventSource eventbus)
         {
             for (int i = 0; i < _questData.Objectives.Count; i++)
             {
@@ -90,7 +114,7 @@ namespace QuestMaker.Core.Quests
 
                 foreach (var step in obj.Steps)
                 {
-                    steps.Add(RuntimeStepCreator.CreateQuestStep(step));
+                    steps.Add(step.CreateRuntimeStep(eventbus) as QuestStep);
 
                     Debug.Log($"Created QuestStep {step.GetType()} for objective {obj.ID}");
                 }

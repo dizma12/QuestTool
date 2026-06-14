@@ -1,9 +1,14 @@
-using QuestMaker.Core.Quests;
+using QuestMaker.Runtime.Quests;
 using UnityEngine;
 using TMPro;
 using System.Collections.Generic;
 using System.Linq;
-namespace QuestMaker.Core
+using QuestMaker.Runtime.Game;
+using QuestMaker.Domain.Objectives;
+using QuestMaker.Domain.Steps;
+using System;
+
+namespace QuestMaker.Runtime
 {
     public class QuestTestDisplayer : MonoBehaviour
     {
@@ -12,31 +17,25 @@ namespace QuestMaker.Core
         // Start is called once before the first execution of Update after the MonoBehaviour is created
         void Start()
         {
-            //List<string> objectives = new();
-            //List<string> steps = new();
-
-            //foreach (var q in QuestLoader.Instance._Qs)
-            //{
-            //    objectives.Add(q.CurrentObjective.ID);
-            //    foreach(var p in q.CurrentSteps)
-            //    {
-            //        steps.Add(q.CurrentObjective.ID + "\t" + p.GetType().Name);
-                    
-            //    }
+            var qmngr = ReferenceManager.Instance.GetReference<QuestManager>();
+            List<string> objs = new();
+            List<string> steps = new();
+            foreach(Quest q in qmngr.QuestMap.Values)
+            {
+                foreach(ObjectiveData obj in q.Objectives)
+                {
+                    objs.Add($"{q.ID}: {obj.Description}");
+                }
                 
-            //}
+                foreach(QuestStep s in q.AllSteps)
+                {
+                    steps.Add($"{q.ID}: {s.ProgressText}");
+                }
+            }
 
-            //var objstr = string.Join("+", objectives);
-            //txt.text = objstr;
-
-            //var stepstr = string.Join("_", steps);
-            //txtStep.text = stepstr;
+            txt.text = string.Join(Environment.NewLine, objs);
+            txtStep.text = string.Join(Environment.NewLine, steps);
         }
 
-        // Update is called once per frame
-        void Update()
-        {
-        
-        }
     }
 }

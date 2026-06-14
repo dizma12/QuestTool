@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace QuestMaker.Data
+namespace QuestMaker.Domain
 {
     public enum InGameTimeline
     {

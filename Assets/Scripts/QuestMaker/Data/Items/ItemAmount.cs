@@ -2,7 +2,7 @@ using System;
 using UnityEngine;
 
 
-namespace QuestMaker.Data
+namespace QuestMaker.Domain
 {
     [Serializable]
     public struct ItemAmount

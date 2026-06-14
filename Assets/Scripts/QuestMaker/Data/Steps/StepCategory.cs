@@ -1,4 +1,4 @@
-﻿namespace QuestMaker.Data.Steps
+﻿namespace QuestMaker.Domain.Steps
 {
     public enum StepCategory
     {

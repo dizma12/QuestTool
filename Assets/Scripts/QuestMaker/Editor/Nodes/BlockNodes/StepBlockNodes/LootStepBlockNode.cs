@@ -1,5 +1,5 @@
-﻿using QuestMaker.Data;
-using QuestMaker.Data.Steps;
+﻿using QuestMaker.Domain;
+using QuestMaker.Domain.Steps;
 using QuestMaker.Editor.CompilationModules;
 using Unity.GraphToolkit.Editor;
 

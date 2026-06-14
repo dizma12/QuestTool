@@ -1,4 +1,4 @@
-﻿using QuestMaker.Data;
+﻿using QuestMaker.Domain;
 using QuestMaker.Editor.CompilationModules;
 using QuestMaker.Editor.Graph;
 using QuestMaker.Editor.Nodes;

@@ -11,15 +11,15 @@ MonoBehaviour:
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ca184911a1cf05c41a8bccbc419e7cf6, type: 3}
   m_Name: Craft_Thunderfury
-  m_EditorClassIdentifier: QuestMaker.Data::QuestMaker.Data.QuestSO
+  m_EditorClassIdentifier: QuestMaker.Domain::QuestMaker.Domain.QuestSO
   _qName: Craft_Thunderfury
   _objectives:
-  - rid: 1918136820993097897
+  - rid: 1918136843900551258
   _qType: 0
   _prerequisites:
-    rid: 1918136820993097898
+    rid: 1918136843900551259
   _rewards:
-    rid: 1918136820993097899
+    rid: 1918136843900551260
   _specialEvent:
     rid: -2
   references:
@@ -27,24 +27,24 @@ MonoBehaviour:
     RefIds:
     - rid: -2
       type: {class: , ns: , asm: }
-    - rid: 1918136820993097897
-      type: {class: ObjectiveData, ns: QuestMaker.Data.Objectives, asm: QuestMaker.Data}
+    - rid: 1918136843900551258
+      type: {class: ObjectiveData, ns: QuestMaker.Domain.Objectives, asm: QuestMaker.Domain}
       data:
         id: Craft_1
         desc: Thunderfury Crafted
         _steps:
-        - rid: 1918136820993097900
+        - rid: 1918136843900551261
         _specialEvents: []
-    - rid: 1918136820993097898
-      type: {class: PrerequisiteData, ns: QuestMaker.Data, asm: QuestMaker.Data}
+    - rid: 1918136843900551259
+      type: {class: PrerequisiteData, ns: QuestMaker.Domain, asm: QuestMaker.Domain}
       data:
         _level: 60
         _items: []
         _reps: []
         _quests: []
         _inGameTimeConstraint: 1
-    - rid: 1918136820993097899
-      type: {class: RewardData, ns: QuestMaker.Data, asm: QuestMaker.Data}
+    - rid: 1918136843900551260
+      type: {class: RewardData, ns: QuestMaker.Domain, asm: QuestMaker.Domain}
       data:
         _exp: 0
         _items:
@@ -52,8 +52,8 @@ MonoBehaviour:
           _amount: 1
         _abilities: []
         _reps: []
-    - rid: 1918136820993097900
-      type: {class: CraftStepData, ns: QuestMaker.Data.Steps, asm: QuestMaker.Data}
+    - rid: 1918136843900551261
+      type: {class: CraftStepData, ns: QuestMaker.Domain.Steps, asm: QuestMaker.Domain}
       data:
         _stepId: Craft_[LegendaryItem]_1
         _craftable:

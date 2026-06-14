@@ -1,10 +1,10 @@
-using QuestMaker.Data.Objectives;
-using QuestMaker.Data.SpecialEvents;
+using QuestMaker.Domain.Objectives;
+using QuestMaker.Domain.SpecialEvents;
 using System.Collections.Generic;
 using UnityEngine;
 #pragma warning disable CS0618 // disables obsolete warning for QuestType.Hidden.
 
-namespace QuestMaker.Data
+namespace QuestMaker.Domain
 {
     public class QuestSO : ScriptableObject
     {

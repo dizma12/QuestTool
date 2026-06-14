@@ -1,7 +1,7 @@
 ﻿using UnityEditor;
 using UnityEngine;
 
-namespace QuestMaker.Data.Helpers
+namespace QuestMaker.Domain.Helpers
 {
     // I would rly love to put this on the Editor Assembly but i get a fcking cycling dependency error.
     public class ReadOnlyInspectorAttribute : PropertyAttribute { }

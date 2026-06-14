@@ -4,7 +4,7 @@ using System.Linq;
 using UnityEditor;
 using UnityEngine;
 
-namespace QuestMaker.Data
+namespace QuestMaker.Domain
 {
     /// <summary>
     /// Data struct for Rewards. ***Warning dont use the empty constructor***

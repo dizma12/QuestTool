@@ -1,7 +1,7 @@
-﻿using QuestMaker.Data;
-using QuestMaker.Data.Objectives;
-using QuestMaker.Data.SpecialEvents;
-using QuestMaker.Data.Steps;
+﻿using QuestMaker.Domain;
+using QuestMaker.Domain.Objectives;
+using QuestMaker.Domain.SpecialEvents;
+using QuestMaker.Domain.Steps;
 using System.Collections.Generic;
 using UnityEngine;
 
