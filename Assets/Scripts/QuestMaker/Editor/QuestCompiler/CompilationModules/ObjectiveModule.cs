@@ -1,16 +1,16 @@
-﻿using QuestMaker.Data;
-using QuestMaker.Data.Objectives;
-using QuestMaker.Data.Steps;
+﻿using QuestMaker.Domain;
+using QuestMaker.Domain.Objectives;
+using QuestMaker.Domain.SpecialEvents;
+using QuestMaker.Domain.Steps;
 using System.Collections.Generic;
 using UnityEngine;
 
-
-namespace QuestMaker.Editor.Compiler.CompilationModules
+namespace QuestMaker.Editor.CompilationModules
 {
-    internal class ObjectiveModule : IQuestModuleBuilder
+    internal class ObjectiveModule : IQuestModuleBuilder, IStepModule, ISpecialEventModule
     {
-        private readonly List<QuestStepData> steps = new();
-        private string objectiveID = string.Empty;
+        private readonly List<QuestStepData> _steps = new();
+        private List<SpecialEventData> _specialEvents;
         private string description = string.Empty;
 
         public void SetDescription(string desc)
@@ -18,23 +18,34 @@ namespace QuestMaker.Editor.Compiler.CompilationModules
             description = desc;
         }
 
+        // IStepModule
         public void AddStep(QuestStepData step)
         {
-            if (step != null || steps.Contains(step))
-                steps.Add(step);
-
+            if (step != null && !_steps.Contains(step))
+                _steps.Add(step);
         }
 
+        // ISpecialEventModule
+        public void SetSpecialEvent(SpecialEventData eventData)
+        {
+            _specialEvents ??= new List<SpecialEventData>();
+
+            if (_specialEvents.Contains(eventData) || eventData.Equals(default)) return;
+
+            _specialEvents.Add(eventData);
+        }
+
+        // IQuestModuleBuilder
         public void Build(QuestSO quest)
         {
-            ObjectiveData data = new ObjectiveData
+            ObjectiveData data = new()
             {
                 Description = description,
-                Steps = new List<QuestStepData>(steps)
+                Steps = new List<QuestStepData>(_steps)
             };
-            quest.AddObjective(data);
 
-            Debug.Log($"Building Objective module with step count: {steps.Count} and id: {data.ID}");
+            quest.AddObjective(data);
+            Debug.Log($"[ObjectiveModule] Built objective with {_steps.Count} step(s), ID: {data.ID}");
         }
     }
 }

@@ -12,5 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c100c5fe5093afc4f80f8424b7af2193, type: 3}
   m_Name: LegendaryItem
   m_EditorClassIdentifier: Assembly-CSharp::QuestMaker.Runtime.Item
-  id: 9999999
-  itemName: thunderfury blessed blade of the windseeker
+  _id: 188f0e41ec8b71a4ba3c7d320bd857a0
+  _itemName: LegendaryItem

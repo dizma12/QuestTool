@@ -1,16 +1,25 @@
-﻿
-namespace QuestMaker.Data.SpecialEvents
+﻿using UnityEditor;
+using UnityEngine;
+
+namespace QuestMaker.Domain.SpecialEvents
 {
     [System.Serializable]
-    public readonly struct SpecialEventData
+    public class SpecialEventData
     {
-        public SpecialEventTrigger Trigger { get; }
-        public string EventID { get; }
+        public SpecialEventTrigger Trigger => _trigger;
+        public string EventID => _eventID;
 
+        [SerializeField]
+        private string _eventID;
+
+        [SerializeField]
+        private SpecialEventTrigger _trigger;
         public SpecialEventData(SpecialEventTrigger trigger, string eventID)
         {
-            Trigger = trigger;
-            EventID = eventID;
+            _trigger = trigger;
+            _eventID = eventID;
         }
     }
+
 }
+

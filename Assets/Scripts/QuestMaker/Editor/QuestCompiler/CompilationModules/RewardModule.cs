@@ -1,18 +1,19 @@
-﻿using QuestMaker.Data;
+﻿using QuestMaker.Domain;
 using System;
 using System.Collections.Generic;
 
 
-namespace QuestMaker.Editor.Compiler.CompilationModules
+namespace QuestMaker.Editor.CompilationModules
 {
-    internal class RewardModule : IQuestModuleBuilder, IExpModule, IItemModule, IAbilityModule
+    internal class RewardModule : IQuestModuleBuilder, IExpModule, IItemModule, IAbilityModule, IReputationModule
     {
         private int _exp = 0;
         private readonly List<ItemAmount> _items = new();
+        private readonly List<ReputationFaction> _reps = new ();
         private readonly List<string> _abilities = new ();
         public void Build(QuestSO quest)
         {
-            RewardData data = new(_exp, _items.ToArray() , _abilities.ToArray());
+            RewardData data = new(_exp, _items.ToArray() , _abilities.ToArray(), _reps.ToArray());
             quest.Rewards = data;
         }
 
@@ -38,6 +39,12 @@ namespace QuestMaker.Editor.Compiler.CompilationModules
             _items.Add(new() { Item = item, Amount = amount });
         }
 
+        public void SetReputationFaction(ReputationFaction rep)
+        {
+            if(string.IsNullOrEmpty(rep.FactionID) || rep.Amount < 1)
+                throw new NullReferenceException($"[{GetType().Name}] Cannot add Reputation coz its null or less than 0");
 
+            _reps.Add(rep);
+        }
     }
 }

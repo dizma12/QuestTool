@@ -12,5 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c100c5fe5093afc4f80f8424b7af2193, type: 3}
   m_Name: Wooden_Sword
   m_EditorClassIdentifier: QuestMaker.Data::QuestMaker.Data.Item
-  id: Wooden_Sword
-  itemName: Sword of the wood
+  _id: 63d1115c0dbabc0499a96426019b4a1b
+  _itemName: Wooden_Sword

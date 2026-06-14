@@ -1,17 +1,16 @@
-﻿using QuestMaker.Data;
-using QuestMaker.Data.Steps;
-using QuestMaker.Editor.Compiler.CompilationModules;
-using QuestMaker.Editor.Nodes.ContextNodes;
+﻿using QuestMaker.Domain;
+using QuestMaker.Domain.Steps;
+using QuestMaker.Editor.CompilationModules;
 using Unity.GraphToolkit.Editor;
 
 namespace QuestMaker.Editor.Nodes.BlockNodes
 {
-    [UseWithContext(typeof(QMObjectiveContextNode))]
+    [UseWithContext(typeof(ObjectiveNode))]
     [System.Serializable]
     internal class CollectStepBlockNode : QMBaseStepBlockNode
     {
-        public const string ITEM_OPTION = "Item_Option";
-        public const string AMOUNT_OPTION = "Amount_Option";
+        public const string ITEM_OPTION = "ITEM_OPTION";
+        public const string AMOUNT_OPTION = "AMOUNT_OPTION";
 
         protected override void OnDefineOptions(IOptionDefinitionContext context)
         {
@@ -26,15 +25,14 @@ namespace QuestMaker.Editor.Nodes.BlockNodes
                 .Build();
         }
 
-        protected override void ComposeStep(ObjectiveModule module)
+        protected override void ComposeStep(IStepModule module)
         {
             Item item = RetrieveBlockValue<Item>(ITEM_OPTION);
             int amount = RetrieveBlockValue<int>(AMOUNT_OPTION);
 
             module.AddStep(new CollectStepData
             {
-                Item = item,
-                Amount = amount
+                CollectableItem = new() { Item = item , Amount = amount}
             });
         }
     }

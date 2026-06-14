@@ -1,14 +1,12 @@
-﻿using QuestMaker.Data;
-using QuestMaker.Data.Steps;
-using QuestMaker.Editor.Compiler.CompilationModules;
-using QuestMaker.Editor.Nodes.ContextNodes;
-
+﻿using QuestMaker.Domain;
+using QuestMaker.Domain.Steps;
+using QuestMaker.Editor.CompilationModules;
 using Unity.GraphToolkit.Editor;
 
 
 namespace QuestMaker.Editor.Nodes.BlockNodes
 { 
-    [UseWithContext(typeof(QMObjectiveContextNode))]
+    [UseWithContext(typeof(ObjectiveNode))]
     [System.Serializable]
 internal class LootStepBlockNode : QMBaseStepBlockNode
     {
@@ -28,15 +26,14 @@ internal class LootStepBlockNode : QMBaseStepBlockNode
                 .Build();
         }
 
-        protected override void ComposeStep(ObjectiveModule module)
+        protected override void ComposeStep(IStepModule module)
         {
             Item item = RetrieveBlockValue<Item>(ITEM_OPTION);
             int amount = RetrieveBlockValue<int>(AMOUNT_OPTION);
 
             module.AddStep(new LootStepData
             {
-                Item = item,
-                Amount = amount
+                Loot = new() { Item = item, Amount = amount }
             });
         }
     }

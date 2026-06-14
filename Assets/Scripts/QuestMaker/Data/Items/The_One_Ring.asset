@@ -12,5 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c100c5fe5093afc4f80f8424b7af2193, type: 3}
   m_Name: The_One_Ring
   m_EditorClassIdentifier: QuestMaker.Data::QuestMaker.Data.Item
-  id: The_One_Ring
-  itemName: The One Ring
+  _id: 869a084204231764da191ce12849fa34
+  _itemName: The_One_Ring

@@ -1,17 +1,13 @@
-﻿using QuestMaker.Editor.Compiler.CompilationModules;
-using QuestMaker.Editor.Nodes;
-using System;
+﻿using QuestMaker.Editor.CompilationModules;
 using Unity.GraphToolkit.Editor;
 using UnityEngine;
 
-
-namespace QuestMaker.Editor.Nodes
+namespace QuestMaker.Editor.Nodes.BlockNodes
 {
-    [UseWithContext(typeof(QMRewardContextNode))]
-    [Serializable]
+    [UseWithContext(typeof(RewardNode))]
+    [System.Serializable]
     internal class QMExpRewardBlockNode : QMBaseBlockNode
     {
-        private int _exp = 0;
         protected override void OnDefineOptions(IOptionDefinitionContext context)
         {
             context.AddOption(BLOCK_NODE_OPTION, typeof(int))
@@ -20,16 +16,16 @@ namespace QuestMaker.Editor.Nodes
                 .WithTooltip("The exp amount to add")
                 .Build();
         }
-        public override void Compose<TBuilder>(TBuilder bldr, ModuleBuilderRegistry reg)
-        {
-            _exp = RetrieveBlockValue<int>();
-            IExpModule module = reg.RequestModule<TBuilder, IExpModule>();
 
-            if (module != null )
-            {
-                module.SetExp(_exp);
-            }
-            else Debug.Log($"Failed set the Exp on module");
+        public override void Compose(ModuleScope scope)
+        {
+            int exp = RetrieveBlockValue<int>();
+            IExpModule module = scope.Get<IExpModule>();
+
+            if (module != null)
+                module.SetExp(exp);
+            else
+                Debug.LogWarning("[QMExpRewardBlockNode] IExpModule not found on scope.");
         }
     }
 }

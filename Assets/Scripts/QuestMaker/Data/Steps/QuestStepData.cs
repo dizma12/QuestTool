@@ -1,11 +1,10 @@
+using QuestMaker.Domain.Events;
 using System;
-using UnityEngine;
-namespace QuestMaker.Data.Steps
+namespace QuestMaker.Domain.Steps
 {
     [Serializable]
     public abstract class QuestStepData
     {
-        public abstract QuestStepType StepType { get; }
-
+        public abstract IRuntimeStep CreateRuntimeStep(IQuestEventSource eventbus);
     }
 }

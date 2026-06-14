@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca184911a1cf05c41a8bccbc419e7cf6, type: 3}
+  m_Name: Craft_Thunderfury
+  m_EditorClassIdentifier: QuestMaker.Domain::QuestMaker.Domain.QuestSO
+  _qName: Craft_Thunderfury
+  _objectives:
+  - rid: 1918136843900551258
+  _qType: 0
+  _prerequisites:
+    rid: 1918136843900551259
+  _rewards:
+    rid: 1918136843900551260
+  _specialEvent:
+    rid: -2
+  references:
+    version: 2
+    RefIds:
+    - rid: -2
+      type: {class: , ns: , asm: }
+    - rid: 1918136843900551258
+      type: {class: ObjectiveData, ns: QuestMaker.Domain.Objectives, asm: QuestMaker.Domain}
+      data:
+        id: Craft_1
+        desc: Thunderfury Crafted
+        _steps:
+        - rid: 1918136843900551261
+        _specialEvents: []
+    - rid: 1918136843900551259
+      type: {class: PrerequisiteData, ns: QuestMaker.Domain, asm: QuestMaker.Domain}
+      data:
+        _level: 60
+        _items: []
+        _reps: []
+        _quests: []
+        _inGameTimeConstraint: 1
+    - rid: 1918136843900551260
+      type: {class: RewardData, ns: QuestMaker.Domain, asm: QuestMaker.Domain}
+      data:
+        _exp: 0
+        _items:
+        - _item: {fileID: 11400000, guid: 188f0e41ec8b71a4ba3c7d320bd857a0, type: 2}
+          _amount: 1
+        _abilities: []
+        _reps: []
+    - rid: 1918136843900551261
+      type: {class: CraftStepData, ns: QuestMaker.Domain.Steps, asm: QuestMaker.Domain}
+      data:
+        _stepId: Craft_[LegendaryItem]_1
+        _craftable:
+          _item: {fileID: 11400000, guid: 188f0e41ec8b71a4ba3c7d320bd857a0, type: 2}
+          _amount: 1

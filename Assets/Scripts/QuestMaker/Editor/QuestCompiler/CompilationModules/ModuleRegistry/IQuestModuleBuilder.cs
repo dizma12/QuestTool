@@ -1,9 +1,10 @@
 ﻿
-using QuestMaker.Data;
-using QuestMaker.Runtime;
-using System.Security.Cryptography;
+using QuestMaker.Domain;
+using QuestMaker.Domain.SpecialEvents;
+using QuestMaker.Domain.Steps;
 
-namespace QuestMaker.Editor.Compiler.CompilationModules
+
+namespace QuestMaker.Editor.CompilationModules
 {
     internal interface IQuestModuleBuilder
     {
@@ -33,16 +34,31 @@ namespace QuestMaker.Editor.Compiler.CompilationModules
     }
     internal interface IReputationModule : IQuestModule
     {
-        public void SetReputation(int amount);
+        public void SetReputationFaction(ReputationFaction rep);
+    }
+    internal interface IStepModule : IQuestModule
+    {
+        void AddStep(QuestStepData step);
     }
     internal interface IQuestInfoModule : IQuestModule
     {
         public void SetQuestName(string name);
         public void SetQuestDescription(string desc);
+        public void SetQuestType(QuestType type);
 
     }
     internal interface IAbilityModule : IQuestModule
     {
         public void SetAbility(string abilityId);
+    }
+
+    internal interface IInGameTimeConstraintModule : IQuestModule
+    {
+        public void SetTimeConstraint(InGameTimeline time);
+    }
+
+    internal interface ISpecialEventModule : IQuestModule
+    {
+        public void SetSpecialEvent(SpecialEventData eventData);
     }
 }

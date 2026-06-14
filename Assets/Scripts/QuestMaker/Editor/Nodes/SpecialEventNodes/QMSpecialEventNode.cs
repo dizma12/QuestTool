@@ -1,10 +1,9 @@
-﻿using QuestMaker.Data.SpecialEvents;
-using QuestMaker.Editor.Compiler;
-using QuestMaker.Editor.Compiler.CompilationModules;
-using QuestMaker.Editor.Nodes;
+﻿using QuestMaker.Domain.SpecialEvents;
+using QuestMaker.Editor.CompilationModules;
 using System;
+using UnityEngine;
 
-namespace QuestMaker.Editor.Assets.Scripts.QuestMaker.Editor.Nodes.SpecialEventNodes
+namespace QuestMaker.Editor.Nodes
 {
     [Serializable]
     internal class QMSpecialEventNode : QMBaseNode, IComposableNode
@@ -12,6 +11,7 @@ namespace QuestMaker.Editor.Assets.Scripts.QuestMaker.Editor.Nodes.SpecialEventN
         public override Type PortType => typeof(ISpecialEventNode);
         public const string SPECIAL_EVENT_TRIGGER_PORT = "Special_Event_Trigger_Port";
         public const string SPECIAL_EVENT_ID_PORT = "Special_Event_ID_Port";
+
         protected override void OnDefineOptions(IOptionDefinitionContext context)
         {
             base.OnDefineOptions(context);
@@ -19,9 +19,8 @@ namespace QuestMaker.Editor.Assets.Scripts.QuestMaker.Editor.Nodes.SpecialEventN
             context.AddOption(SPECIAL_EVENT_TRIGGER_PORT, typeof(SpecialEventTrigger))
                 .WithDefaultValue(SpecialEventTrigger.OnCompleted)
                 .WithDisplayName("Trigger Moment")
-                .WithTooltip("The momment you want the special event to trigger!")
+                .WithTooltip("The moment you want the special event to trigger!")
                 .Build();
-
 
             context.AddOption(SPECIAL_EVENT_ID_PORT, typeof(string))
                 .WithDefaultValue(string.Empty)
@@ -39,9 +38,16 @@ namespace QuestMaker.Editor.Assets.Scripts.QuestMaker.Editor.Nodes.SpecialEventN
                 .Build();
         }
 
-        public void Compose<TBuilder>(TBuilder moduleBuilder, ModuleBuilderRegistry reg) where TBuilder : class, IQuestModuleBuilder, new()
+        public void Compose(ModuleScope scope)
         {
-            throw new NotImplementedException();
+            ISpecialEventModule module = scope.Get<ISpecialEventModule>();
+            if (module == null) return;
+
+            GetNodeOptionByName(SPECIAL_EVENT_ID_PORT).TryGetValue(out string eventID);
+            GetNodeOptionByName(SPECIAL_EVENT_TRIGGER_PORT).TryGetValue(out SpecialEventTrigger trigger);
+
+            module.SetSpecialEvent(new(trigger, eventID));
+            Debug.Log($"[QMSpecialEventNode] Set special event on {module.GetType().Name} with ID: {eventID} and Trigger: {trigger}");
         }
     }
 }

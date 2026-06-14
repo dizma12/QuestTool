@@ -12,5 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c100c5fe5093afc4f80f8424b7af2193, type: 3}
   m_Name: Copper_Helm
   m_EditorClassIdentifier: QuestMaker.Data::QuestMaker.Data.Item
-  id: Copper_Helm
-  itemName: Copper Helm
+  _id: 8abb4220609f04249a48cab9c892109f
+  _itemName: Copper_Helm

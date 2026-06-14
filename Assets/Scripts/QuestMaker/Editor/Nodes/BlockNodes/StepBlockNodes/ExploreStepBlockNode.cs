@@ -1,11 +1,10 @@
-﻿using QuestMaker.Data.Steps;
-using QuestMaker.Editor.Compiler.CompilationModules;
-using QuestMaker.Editor.Nodes.ContextNodes;
+﻿using QuestMaker.Domain.Steps;
+using QuestMaker.Editor.CompilationModules;
 using Unity.GraphToolkit.Editor;
 
 namespace QuestMaker.Editor.Nodes.BlockNodes
 {
-    [UseWithContext(typeof(QMObjectiveContextNode))]
+    [UseWithContext(typeof(ObjectiveNode))]
     [System.Serializable]
     internal class ExploreStepBlockNode : QMBaseStepBlockNode
     {
@@ -21,7 +20,7 @@ namespace QuestMaker.Editor.Nodes.BlockNodes
 
         }
 
-        protected override void ComposeStep(ObjectiveModule module)
+        protected override void ComposeStep(IStepModule module)
         {
             string area = RetrieveBlockValue<string>(AREA_OPTION);
 
