@@ -6,21 +6,22 @@ using UnityEngine;
 using QuestMaker.Runtime.Events;
 using QuestMaker.Domain.Events;
 using QuestMaker.Domain;
+
 namespace QuestMaker.Runtime
 {
     [DefaultExecutionOrder(-18)] //-20 Reference Manager, -19 GameEventManager
     public class QuestManager : MonoBehaviour, IGameReference
     {
-        
-        private Dictionary<string, Quest> _questMap = null;
 
+        private Dictionary<string, Quest> _questMap = null;
+        private IQuestEventSource _eventBus = null;
         public IReadOnlyDictionary<string, Quest> QuestMap => _questMap;
         private void Awake()
         {
             LoadQuestMap();
 
             if (!SubscribeSelf())
-                ConsoleLogger.LogError(this,"Failed to Subscribe self on ReferenceManager");
+                ConsoleLogger.LogError(this, "Failed to Subscribe self on ReferenceManager");
         }
 
         private void OnDisable()
@@ -30,11 +31,8 @@ namespace QuestMaker.Runtime
 
         public Quest GetQuestByID(string id)
         {
-            Quest q = _questMap[id];
-            if (q == null )
-            {
+            if(!_questMap.TryGetValue(id, out Quest q))
                 ConsoleLogger.LogError(this, "Quest ID not Found");
-            }
             return q;
         }
 
@@ -45,9 +43,9 @@ namespace QuestMaker.Runtime
         {
             if (_questMap == null)
             {
-                IQuestEventSource eventbus = ReferenceManager.Instance.GetReference<GameEventManager>().GetBus<GameEventBus>();
+                _eventBus ??= ReferenceManager.Instance.GetReference<GameEventManager>().GetBus<GameEventBus>();
 
-                QuestLoader questLoader = new(eventbus);
+                QuestLoader questLoader = new(_eventBus);
                 _questMap = questLoader.CreateQuestMap();
 
             }

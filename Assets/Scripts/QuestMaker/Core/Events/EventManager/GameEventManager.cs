@@ -1,3 +1,4 @@
+using QuestMaker.Domain;
 using QuestMaker.Runtime.Game;
 using System;
 using System.Collections.Generic;
@@ -30,7 +31,7 @@ namespace QuestMaker.Runtime.Events
             _eventBuses = new();
 
             if (!SubscribeSelf())
-                Debug.LogWarning($"[GameEventManager] Failed to subscribe self to ReferenceManager");
+                ConsoleLogger.LogWarning(this, $"Failed to subscribe self to ReferenceManager");
 
             CreateBus<GameEventBus>();
             CreateBus<QuestEventBus>();
@@ -84,7 +85,7 @@ namespace QuestMaker.Runtime.Events
             if (_eventBuses.ContainsKey(type))
                 return _eventBuses[type] as T;
 
-            Debug.LogWarning($"[GameEventManager].GetBus<>: Could not find bus of type= {type}");
+            ConsoleLogger.LogWarning(this, $"GetBus<>: Could not find bus of type= {type}");
             return default;
         }
     }

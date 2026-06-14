@@ -43,7 +43,7 @@ namespace QuestMaker.Editor.Compiler
             Quest = BuildQuest();
 
             //Debug.Log($"The name of the quest is: {Quest.QuestName}");
-            Debug.Log($"The Level prerequisite for the quest is: {Quest.Prerequisites?.Items.Any()}");
+            ConsoleLogger.Log(this, $"The Level prerequisite for the quest is: {Quest.Prerequisites?.Items.Any()}");
             //Debug.Log($"The exp reward for the quest is: {Quest.Rewards.Exp}");
             //Debug.Log("[Compiler]" + Quest.SpecialEvent.EventID);
 
@@ -56,7 +56,7 @@ namespace QuestMaker.Editor.Compiler
 
             if (!port.IsConnected)
             {
-                Debug.LogWarning($"[QuestCompiler] Port: {portName}, is not connected to any porst");
+                ConsoleLogger.LogWarning(this, $"Port: {portName}, is not connected to any porst");
                 return;
             }
 
@@ -68,7 +68,7 @@ namespace QuestMaker.Editor.Compiler
                 INode node = connectedPort.GetNode();
                 if (node == null)
                 {
-                    Debug.LogWarning($"[QuestCompiler] Connected node on port: {portName}, is null.");
+                    ConsoleLogger.LogWarning(this, $"Connected node on port: {portName}, is null.");
                     continue;
                 }
 
@@ -81,7 +81,7 @@ namespace QuestMaker.Editor.Compiler
         {
             if (Quest == null)
             {
-                Debug.LogError("[QuestCompiler] Cannot save Quest coz its null. Make sure the graph compiled correctly.");
+                ConsoleLogger.LogError(this, "Cannot save Quest coz its null. Make sure the graph compiled correctly.");
                 return;
             }
             // path is Folder -> QuestName/Questname.asset
@@ -127,7 +127,7 @@ namespace QuestMaker.Editor.Compiler
                 return ProccessContextNode(context);
 
             }
-            else Debug.Log($"{portOwnerNode.GetType().Name} Is not a valid node");
+            else ConsoleLogger.Log(this, $"{portOwnerNode.GetType().Name} Is not a valid node");
 
             return true;
         }
@@ -201,10 +201,10 @@ namespace QuestMaker.Editor.Compiler
             if (proccessedNodes.Contains(type))
             {
 
-                Debug.LogWarning($"Already proccessed a node of type {type}");
+                ConsoleLogger.LogWarning(this, $"Already proccessed a node of type {type}");
                 return false;
             }
-            Debug.Log($"Node of type {type} can be proccessed");
+            ConsoleLogger.Log(this, $"Node of type {type} can be proccessed");
             return true;
         }
 
@@ -227,7 +227,7 @@ namespace QuestMaker.Editor.Compiler
             foreach (var composable in composableNodes)
             {
                 //composable.Compose(cntx);
-                Debug.Log($"Hub Composing {composable.GetType().Name}");
+                ConsoleLogger.Log(this, $"Hub Composing {composable.GetType().Name}");
             }
             return true;
         }

@@ -72,7 +72,7 @@ namespace QuestMaker.Domain
             if (obj == null || _objectives.Contains(obj)) return;
 
             _objectives.Add(obj);
-            Debug.Log($"[QuestSO] Objective {obj.ID} added!");
+            ConsoleLogger.Log(this, $"Objective {obj.ID} added!");
         }
 
         private void OnValidate()

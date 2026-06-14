@@ -1,41 +1,26 @@
-using QuestMaker.Domain.Quests;
-﻿using QuestMaker.Domain;
+using QuestMaker.Domain;
+using QuestMaker.Domain.Events;
 using QuestMaker.Domain.Objectives;
+using QuestMaker.Domain.Quests;
 using QuestMaker.Domain.SpecialEvents;
 using QuestMaker.Domain.Steps;
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using UnityEngine;
-using QuestMaker.Domain.Events;
+
 #pragma warning disable CS0618 // disables obsolete warning for QuestType.Hidden.
 namespace QuestMaker.Runtime.Quests
 {
     public class Quest
     {
+        //Events
+        public event Action<Quest> Changed;
+        public event Action<Quest> Finished;
+
+        //Public properties
         public bool IsFinished { get; protected set; } = false;
         public string ID { get; protected set; }
         public QuestStatus Status { get; protected set; } = QuestStatus.MISSING_REQUIRMENTS;
-
-        protected readonly QuestSO _questData;
-        protected readonly Dictionary<int, QuestStep[]> _objectives = new();
-
-        protected int _currentObjectiveIndex = 0;
-        protected int _currentStepIndex = 0;
-
-
-        protected readonly QuestType _qType = QuestType.Hidden;
-
-        // Initialize structs to new() or default so we can do equality check with default (ex. _prerequisites.Equals(default(PrerequisiteData)))
-        // *** IMPORTANT *** default without specifing struct type converts to object default always returns false
-        // ALWAYS USE default(structType).
-
-        protected readonly PrerequisiteData _prerequisites = default;
-
-        protected readonly RewardData _rewards = default;
-
-        protected readonly SpecialEventData _specialEvent = default;
-
         public ObjectiveData CurrentObjective
         {
             get
@@ -46,49 +31,37 @@ namespace QuestMaker.Runtime.Quests
                     return _questData.Objectives[_currentObjectiveIndex];
             }
         }
-        public QuestStep CurrentStep
+        public IReadOnlyCollection<QuestStep> CurrentSteps => _currentSteps;
+        public IReadOnlyCollection<QuestStep> AllSteps
         {
             get
             {
-                if (_currentStepIndex >= _objectives[_currentObjectiveIndex].Length)
-                    return _objectives.Last().Value[^1];
-                else
-                    return _objectives[_currentObjectiveIndex][_currentStepIndex];
-            }
-        }
-        public QuestStep[] CurrentSteps
-        {
-            get
-            {
-                if (_currentStepIndex >= _objectives[_currentObjectiveIndex].Length)
-                    return _objectives.Last().Value;
-                else
-                    return _objectives[_currentObjectiveIndex];
-            }
-        }
-
-        public QuestStep[] AllSteps
-        {
-            get
-            {
-                List<QuestStep> steps = new List<QuestStep>();
-                foreach(var steparray in _objectives.Values)
+                List<QuestStep> steps = new();
+                foreach (var steparray in _objectives.Values)
                 {
-                    foreach(var step in steparray)
+                    foreach (var step in steparray)
                         steps.Add(step);
                 }
-                return steps.ToArray();
+                return steps;
             }
         }
+        public IReadOnlyCollection<ObjectiveData> Objectives => _questData.Objectives;
+    
 
+        //SO Data
+        protected readonly QuestSO _questData;
 
-        public ObjectiveData[] Objectives
-        {
-            get
-            {
-                return _questData.Objectives.ToArray();
-            }
-        }
+        //Steps And Objectives
+        protected readonly Dictionary<int, QuestStep[]> _objectives = new();
+        protected QuestStep[] _currentSteps = new QuestStep[0];
+        protected int _currentObjectiveIndex = 0;
+
+        //Quest Info
+        public readonly QuestType _qType = QuestType.Hidden;
+        public readonly PrerequisiteData _prerequisites = null;
+        public readonly RewardData _rewards = null;
+        public readonly SpecialEventData _specialEvent = null;
+
         public Quest(QuestSO data, IQuestEventSource eventbus)
         {
             if (data == null)
@@ -116,35 +89,103 @@ namespace QuestMaker.Runtime.Quests
                 {
                     steps.Add(step.CreateRuntimeStep(eventbus) as QuestStep);
 
-                    Debug.Log($"Created QuestStep {step.GetType()} for objective {obj.ID}");
+                    ConsoleLogger.Log(this, $"Created QuestStep {step.GetType()} for objective {obj.ID}");
                 }
                 _objectives.Add(i, steps.ToArray());
+
             }
         }
+        public void Start()
+        {
+            if(Status != QuestStatus.CAN_START) return; 
 
+            if (_objectives == null || !_objectives.Any())
+                throw new NullReferenceException($"[{ID}] objectives are null");
+
+            SetQuestStatus(QuestStatus.IN_PROGRESS);
+
+            _currentSteps = _objectives.First().Value;
+
+            ActivateCurrentObjective();
+        }
+        //Public Methods
         public void NextObjective()
         {
             _currentObjectiveIndex++;
 
             if (_currentObjectiveIndex >= _objectives.Count)
-                IsFinished = true;
-        }
-
-        public void NextStep()
-        {
-            _currentStepIndex++;
-
-            if (_currentStepIndex >= _objectives[_currentObjectiveIndex].Length)
             {
-                _currentStepIndex = 0;
-                NextObjective();
+                IsFinished = true;
+                SetQuestStatus(QuestStatus.CAN_FINISH);
+                Finished?.Invoke(this);
+                return;
             }
+
+            if (!_objectives.TryGetValue(_currentObjectiveIndex, out _currentSteps))
+            {
+                ConsoleLogger.LogWarning(this, $"Failed to load steps of objective at index= {_currentObjectiveIndex} on quest {ID}");
+                return;
+            }
+            ActivateCurrentObjective();
         }
 
         public void SetQuestStatus(QuestStatus status)
         {
             if (Status != status)
                 Status = status;
+        }
+
+
+        //Priavate Helpers
+        private bool EvaluateObjective() => _objectives[_currentObjectiveIndex].All(step => step.IsComplete);
+
+        private void OnStepChanged(QuestStep step) => Changed?.Invoke(this);
+        private void OnStepFinished(QuestStep step)
+        {
+            DeactivateStep(step);
+
+            if (EvaluateObjective())
+            {
+                NextObjective();
+                return;
+            }      
+        }
+
+        /// <summary>
+        /// Activates all steps in the current objective.
+        /// </summary>
+        private void ActivateCurrentObjective()
+        {
+            foreach (QuestStep step in _currentSteps)
+            {
+                ActivateStep(step);
+            }
+        }
+
+
+        /// <summary>
+        /// Starts step and subs to Changed/Finished
+        /// </summary>
+        /// <param name="step"></param>
+        private void ActivateStep(QuestStep step)
+        {
+            if (step.IsComplete) return;
+
+            step.Start();
+            step.Changed += OnStepChanged;
+            step.Finished += OnStepFinished;
+        }
+
+        /// <summary>
+        /// Unsubs from Changed/Finished
+        /// </summary>
+        /// <param name="step"></param>
+        private void DeactivateStep(QuestStep step)
+        {
+            if (!step.IsComplete) return;
+
+            step.Changed -= OnStepChanged;
+            step.Finished -= OnStepFinished;
         }
     }
 #pragma warning restore CS0618

@@ -1,5 +1,5 @@
-﻿using QuestMaker.Editor.Graph;
-using QuestMaker.Editor.Utility;
+﻿using QuestMaker.Domain;
+using QuestMaker.Editor.Graph;
 using Unity.GraphToolkit.Editor;
 using UnityEditor;
 using UnityEditor.AssetImporters;
@@ -20,7 +20,7 @@ public partial class QMGraphImporter : ScriptedImporter
         QMGraphAssetFile assetFile = ScriptableObject.CreateInstance<QMGraphAssetFile>();
         assetFile.name = "metadata";
         assetFile.SetTargetGUID(guid);
-        Debug.Log("Asset Saved!");
+        ConsoleLogger.Log(this, "Asset Saved!");
 
         ctx.AddObjectToAsset("metadata", assetFile);
 

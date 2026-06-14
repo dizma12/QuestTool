@@ -1,7 +1,6 @@
 ﻿using QuestMaker.Domain;
 using QuestMaker.Editor.CompilationModules;
 using Unity.GraphToolkit.Editor;
-using UnityEngine;
 
 namespace QuestMaker.Editor.Nodes.BlockNodes
 {
@@ -31,12 +30,12 @@ namespace QuestMaker.Editor.Nodes.BlockNodes
 
             if (item == null)
             {
-                Debug.LogWarning($"[ItemBlockNode] Item is null.");
+                ConsoleLogger.LogWarning(this, "Item is null.");
                 return;
             }
             if (amount <= 0)
             {
-                Debug.LogWarning($"[ItemBlockNode] Amount is <= 0.");
+                ConsoleLogger.LogWarning(this, "Amount is <= 0.");
                 return;
             }
 

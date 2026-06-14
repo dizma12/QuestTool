@@ -111,14 +111,14 @@ namespace QuestMaker.Editor.Window
 
                 if (assetFile == null)
                 {
-                    Debug.Log("Asset is null");
+                    ConsoleLogger.Log(this, "Asset is null");
                     nodeCountField.value = 0;
                     saveAssetBtn.SetEnabled(false);
                     return;
                 }
 
                 var graph = QMGraphUtility.LoadGraphFromAsset(assetFile);
-                Debug.Log($"Loaded graph with name {graph.Name} and node count {graph.NodeCount} ");
+                ConsoleLogger.Log(this, $"Loaded graph with name {graph.Name} and node count {graph.NodeCount} ");
                 if (compiler == null)
                     compiler = new(graph);
                 else compiler.SetGraph(graph);

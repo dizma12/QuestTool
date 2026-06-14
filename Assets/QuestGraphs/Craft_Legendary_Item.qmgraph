@@ -19,6 +19,51 @@ MonoBehaviour:
     RefIds:
     - rid: -2
       type: {class: , ns: , asm: }
+    - rid: 1000
+      type: {class: UserBlockNodeModelImp, ns: Unity.GraphToolkit.Editor.Implementation, asm: UnityEditor.GraphToolkitModule}
+      data:
+        m_Guid:
+          m_Value0: 17239981912011568597
+          m_Value1: 10029676022764199671
+        m_HashGuid:
+          serializedVersion: 2
+          Hash: d5f59b2735b840eff7de1c053491308b
+        m_Version: 2
+        m_Position: {x: 0, y: 0}
+        m_Title: UserBlockNodeModelImp
+        m_Tooltip: 
+        m_NodePreviewModel:
+          rid: -2
+        m_State: 0
+        m_InputConstantsById:
+          m_KeyList:
+          - __option_Block_Option
+          m_ValueList:
+          - rid: 1001
+        m_InputPortInfos:
+          expandedPortsById:
+            m_KeyList: []
+            m_ValueList: 
+        m_OutputPortInfos:
+          expandedPortsById:
+            m_KeyList: []
+            m_ValueList: 
+        m_Collapsed: 0
+        m_CurrentModeIndex: 0
+        m_ElementColor:
+          m_Color: {r: 0, g: 0, b: 0, a: 0}
+          m_HasUserColor: 0
+        m_ContextNodeModel:
+          rid: 1918136820993097870
+        m_Node:
+          rid: 1002
+    - rid: 1001
+      type: {class: 'Constant`1[[QuestMaker.Domain.QuestSO, QuestMaker.Domain]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
+      data:
+        m_Value: {fileID: 11400000, guid: d46609f45fd36054e9784c9f5e84b6ad, type: 2}
+    - rid: 1002
+      type: {class: QuestPrerequisiteBlockNode, ns: QuestMaker.Editor.Nodes, asm: QuestMakerEditor}
+      data: 
     - rid: 1918136820993097862
       type: {class: GraphModelImp, ns: Unity.GraphToolkit.Editor.Implementation, asm: UnityEditor.GraphToolkitModule}
       data:
@@ -48,9 +93,9 @@ MonoBehaviour:
         m_LastKnownBounds:
           serializedVersion: 2
           x: 164
-          y: -41
-          width: 938
-          height: 777
+          y: -162
+          width: 1024
+          height: 844
         m_GraphElementMetaData:
         - m_Guid:
             m_Value0: 12871352939159009919
@@ -200,7 +245,7 @@ MonoBehaviour:
           serializedVersion: 2
           Hash: 1034f311a72e230a99ebacc1d521db7d
         m_Version: 2
-        m_Position: {x: 490.0144, y: -41.446033}
+        m_Position: {x: 458.2744, y: -161.79353}
         m_Title: 
         m_Tooltip: 
         m_NodePreviewModel:
@@ -227,11 +272,14 @@ MonoBehaviour:
         m_Blocks:
         - rid: 1918136820993097874
         - rid: 1918136820993097877
+        - rid: 1000
         m_BlockGuids:
         - serializedVersion: 2
           Hash: e45e2562ea4cfa0a0e3387b63dc0343e
         - serializedVersion: 2
           Hash: 0cd08ade6551dd2b08d14478dfac3438
+        - serializedVersion: 2
+          Hash: d5f59b2735b840eff7de1c053491308b
         m_Subtitle: 
         m_Node:
           rid: 1918136820993097873
@@ -316,12 +364,12 @@ MonoBehaviour:
       data:
         m_Value:
           m_EnumType:
-            m_Identification: QuestMaker.Domain.InGameTimeline, QuestMaker.Domain, Version=0.0.0.0,
-              Culture=neutral, PublicKeyToken=null
+            m_Identification: QuestMaker.Domain.InGameTimeline, QuestMaker.Domain,
+              Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
           m_Value: 1
         m_EnumType:
-          m_Identification: QuestMaker.Domain.InGameTimeline, QuestMaker.Domain, Version=0.0.0.0,
-            Culture=neutral, PublicKeyToken=null
+          m_Identification: QuestMaker.Domain.InGameTimeline, QuestMaker.Domain,
+            Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
     - rid: 1918136820993097876
       type: {class: InGameTimeConstraintBlockNode, ns: QuestMaker.Editor.Nodes, asm: QuestMakerEditor}
       data: 
@@ -380,7 +428,7 @@ MonoBehaviour:
           serializedVersion: 2
           Hash: e6499c26cdf1a05a33adebce3aa6118d
         m_Version: 2
-        m_Position: {x: 824, y: 37.21582}
+        m_Position: {x: 909.9626, y: -80.48668}
         m_Title: 
         m_Tooltip: 
         m_NodePreviewModel:
@@ -511,7 +559,7 @@ MonoBehaviour:
           serializedVersion: 2
           Hash: 806b1e0c860c59eaa0d156e27fb3a654
         m_Version: 2
-        m_Position: {x: 492.2517, y: 361.072}
+        m_Position: {x: 460.51166, y: 306.8495}
         m_Title: 
         m_Tooltip: 
         m_NodePreviewModel:

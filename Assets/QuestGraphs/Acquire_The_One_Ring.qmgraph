@@ -450,12 +450,12 @@ MonoBehaviour:
       data:
         m_Value:
           m_EnumType:
-            m_Identification: QuestMaker.Domain.InGameTimeline, QuestMaker.Domain, Version=0.0.0.0,
-              Culture=neutral, PublicKeyToken=null
+            m_Identification: QuestMaker.Domain.InGameTimeline, QuestMaker.Domain,
+              Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
           m_Value: 2
         m_EnumType:
-          m_Identification: QuestMaker.Domain.InGameTimeline, QuestMaker.Domain, Version=0.0.0.0,
-            Culture=neutral, PublicKeyToken=null
+          m_Identification: QuestMaker.Domain.InGameTimeline, QuestMaker.Domain,
+            Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
     - rid: 1918136820993097922
       type: {class: InGameTimeConstraintBlockNode, ns: QuestMaker.Editor.Nodes, asm: QuestMakerEditor}
       data: 
@@ -1041,8 +1041,8 @@ MonoBehaviour:
               QuestMaker.Domain, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
           m_Value: 1
         m_EnumType:
-          m_Identification: QuestMaker.Domain.SpecialEvents.SpecialEventTrigger, QuestMaker.Domain,
-            Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+          m_Identification: QuestMaker.Domain.SpecialEvents.SpecialEventTrigger,
+            QuestMaker.Domain, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
     - rid: 1918136820993097972
       type: {class: 'Constant`1[[System.String, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
       data:

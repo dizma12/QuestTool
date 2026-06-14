@@ -1,7 +1,7 @@
-﻿using QuestMaker.Domain.Steps;
+﻿using QuestMaker.Domain;
+using QuestMaker.Domain.Steps;
 using QuestMaker.Editor.CompilationModules;
 using Unity.GraphToolkit.Editor;
-using UnityEngine;
 
 
 namespace QuestMaker.Editor.Nodes.BlockNodes
@@ -41,7 +41,7 @@ namespace QuestMaker.Editor.Nodes.BlockNodes
 
             module.AddStep(step);
 
-            Debug.Log($"Added step with id= {step.StepID}");
+            ConsoleLogger.Log(this, $"Added step with id= {step.StepID}");
         }
     }
 }

@@ -1,6 +1,8 @@
 using QuestMaker.Domain.Helpers;
 using System;
+#if UNITY_EDITOR
 using UnityEditor;
+#endif
 using UnityEngine;
 
 namespace QuestMaker.Domain

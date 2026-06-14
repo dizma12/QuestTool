@@ -41,7 +41,7 @@ namespace QuestMaker.Editor.CompilationModules
         {
             if(_qType == type) return;
             _qType = type;
-            UnityEngine.Debug.Log($"Quest type was set to= {type}");
+            ConsoleLogger.Log(this, $"Quest type was set to= {type}");
         }
 
         public void SetSpecialEvent(SpecialEventData eventData)

@@ -1,6 +1,5 @@
 using QuestMaker.Domain;
 using QuestMaker.Domain.Events;
-using QuestMaker.Domain.SpecialEvents;
 using System.Collections.Generic;
 using System.Linq;
 using UnityEngine;
@@ -39,7 +38,7 @@ namespace QuestMaker.Runtime.Quests
             {
                 if (questMap.ContainsKey(questSO.ID))
                 {
-                    Debug.LogError($"[{GetType()}] Duplicate Quest ID found When creating Map: {questSO.ID}");
+                    ConsoleLogger.LogError(this, $"Duplicate Quest ID found When creating Map: {questSO.ID}");
                     return null;
                 }
                 questMap.Add(questSO.ID, new(questSO, _eventBus));
@@ -53,7 +52,7 @@ namespace QuestMaker.Runtime.Quests
             var allQuests = Resources.LoadAll<QuestSO>(_loadingPath);
             if (allQuests == null || !allQuests.Any())
             {
-                Debug.Log($"Failed to load quests from path Assets/Resources/{_loadingPath}");
+                ConsoleLogger.Log(this, $"Failed to load quests from path Assets/Resources/{_loadingPath}");
                 return null;
             }
             return allQuests;

@@ -1,9 +1,9 @@
-﻿using QuestMaker.Editor.CompilationModules;
+﻿using QuestMaker.Domain;
+using QuestMaker.Editor.CompilationModules;
 using QuestMaker.Editor.Compiler;
 using System;
 using System.Collections.Generic;
 using Unity.GraphToolkit.Editor;
-using UnityEngine;
 
 
 namespace QuestMaker.Editor.Nodes
@@ -101,7 +101,7 @@ namespace QuestMaker.Editor.Nodes
 
             if (connected.Count > 1)
             {
-                Debug.LogError("[ObjectiveNode] Cannot have more than 1 special event connected to an objective node.");
+                ConsoleLogger.LogError(this, "Cannot have more than 1 special event connected to an objective node.");
                 return;
             }
 

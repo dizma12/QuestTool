@@ -1,6 +1,6 @@
-﻿using QuestMaker.Editor.Compiler;
+﻿using QuestMaker.Domain;
+using QuestMaker.Editor.Compiler;
 using System;
-using UnityEngine;
 
 namespace QuestMaker.Editor.CompilationModules
 {
@@ -29,7 +29,7 @@ namespace QuestMaker.Editor.CompilationModules
             if (_builder is TModule module)
                 return module;
 
-            Debug.LogError($"[ModuleScope] Builder {_builder.GetType().Name} does not implement {typeof(TModule).Name}");
+            ConsoleLogger.LogError(this, $"Builder {_builder.GetType().Name} does not implement {typeof(TModule).Name}");
             return null;
         }
     }

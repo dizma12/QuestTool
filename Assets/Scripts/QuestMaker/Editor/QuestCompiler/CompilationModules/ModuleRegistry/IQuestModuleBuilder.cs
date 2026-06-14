@@ -57,6 +57,11 @@ namespace QuestMaker.Editor.CompilationModules
         public void SetTimeConstraint(InGameTimeline time);
     }
 
+    internal interface IQuestPrerequisiteModule : IQuestModule
+    {
+        public void SetQuestPrerequisite(QuestSO quest);
+    }
+
     internal interface ISpecialEventModule : IQuestModule
     {
         public void SetSpecialEvent(SpecialEventData eventData);

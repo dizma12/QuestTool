@@ -1,8 +1,8 @@
-﻿using QuestMaker.Runtime.Extensions;
+﻿using QuestMaker.Domain;
+using QuestMaker.Runtime.Extensions;
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using UnityEngine;
 
 namespace QuestMaker.Editor.CompilationModules
 {
@@ -77,7 +77,7 @@ namespace QuestMaker.Editor.CompilationModules
         {
             TBuilder builder = new();
             _modules.Add(typeof(TBuilder), builder);
-            Debug.Log($"[ModuleRegistry] Created builder: {typeof(TBuilder).Name}");
+            ConsoleLogger.Log(this, $"Created builder: {typeof(TBuilder).Name}");
             return builder;
         }
 
@@ -92,12 +92,12 @@ namespace QuestMaker.Editor.CompilationModules
 
             if (!moduleTypes.Any())
             {
-                Debug.LogError($"[ModuleRegistry] {type.Name} implements no IQuestModule interfaces.");
+                ConsoleLogger.LogError(this, $"{type.Name} implements no IQuestModule interfaces.");
                 return false;
             }
 
             _reg.Add(type, moduleTypes);
-            Debug.Log($"[ModuleRegistry] Registered {type.Name} with {moduleTypes.Length} module(s): " +
+            ConsoleLogger.Log(this, $"Registered {type.Name} with {moduleTypes.Length} module(s): " +
                       string.Join(", ", moduleTypes.Select(t => t.Name)));
             return true;
         }

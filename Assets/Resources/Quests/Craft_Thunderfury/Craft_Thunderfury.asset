@@ -14,12 +14,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: QuestMaker.Domain::QuestMaker.Domain.QuestSO
   _qName: Craft_Thunderfury
   _objectives:
-  - rid: 1918136843900551258
+  - rid: 1918136845483638861
   _qType: 0
   _prerequisites:
-    rid: 1918136843900551259
+    rid: 1918136845483638862
   _rewards:
-    rid: 1918136843900551260
+    rid: 1918136845483638863
   _specialEvent:
     rid: -2
   references:
@@ -27,23 +27,24 @@ MonoBehaviour:
     RefIds:
     - rid: -2
       type: {class: , ns: , asm: }
-    - rid: 1918136843900551258
+    - rid: 1918136845483638861
       type: {class: ObjectiveData, ns: QuestMaker.Domain.Objectives, asm: QuestMaker.Domain}
       data:
         id: Craft_1
         desc: Thunderfury Crafted
         _steps:
-        - rid: 1918136843900551261
+        - rid: 1918136845483638864
         _specialEvents: []
-    - rid: 1918136843900551259
+    - rid: 1918136845483638862
       type: {class: PrerequisiteData, ns: QuestMaker.Domain, asm: QuestMaker.Domain}
       data:
         _level: 60
         _items: []
         _reps: []
-        _quests: []
+        _quests:
+        - Acquire_The_One_Ring
         _inGameTimeConstraint: 1
-    - rid: 1918136843900551260
+    - rid: 1918136845483638863
       type: {class: RewardData, ns: QuestMaker.Domain, asm: QuestMaker.Domain}
       data:
         _exp: 0
@@ -52,7 +53,7 @@ MonoBehaviour:
           _amount: 1
         _abilities: []
         _reps: []
-    - rid: 1918136843900551261
+    - rid: 1918136845483638864
       type: {class: CraftStepData, ns: QuestMaker.Domain.Steps, asm: QuestMaker.Domain}
       data:
         _stepId: Craft_[LegendaryItem]_1

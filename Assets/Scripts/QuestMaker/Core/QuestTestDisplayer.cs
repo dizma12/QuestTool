@@ -2,7 +2,6 @@ using QuestMaker.Runtime.Quests;
 using UnityEngine;
 using TMPro;
 using System.Collections.Generic;
-using System.Linq;
 using QuestMaker.Runtime.Game;
 using QuestMaker.Domain.Objectives;
 using QuestMaker.Domain.Steps;

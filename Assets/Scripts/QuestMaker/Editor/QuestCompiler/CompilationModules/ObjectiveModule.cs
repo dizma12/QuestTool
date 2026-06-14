@@ -3,7 +3,6 @@ using QuestMaker.Domain.Objectives;
 using QuestMaker.Domain.SpecialEvents;
 using QuestMaker.Domain.Steps;
 using System.Collections.Generic;
-using UnityEngine;
 
 namespace QuestMaker.Editor.CompilationModules
 {
@@ -45,7 +44,7 @@ namespace QuestMaker.Editor.CompilationModules
             };
 
             quest.AddObjective(data);
-            Debug.Log($"[ObjectiveModule] Built objective with {_steps.Count} step(s), ID: {data.ID}");
+            ConsoleLogger.Log(this, $"Built objective with {_steps.Count} step(s), ID: {data.ID}");
         }
     }
 }
