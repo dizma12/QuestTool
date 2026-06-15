@@ -87,7 +87,7 @@ namespace QuestMaker.Editor.CompilationModules
             if (_reg.ContainsKey(type)) return true;
 
             var moduleTypes = type.GetInterfacesOfType(typeof(IQuestModule))
-                                  .Where(t => t != typeof(IQuestModule))
+                                  .Where(t => t != typeof(IQuestModule)) // removes parent interface from list
                                   .ToArray();
 
             if (!moduleTypes.Any())
@@ -97,7 +97,7 @@ namespace QuestMaker.Editor.CompilationModules
             }
 
             _reg.Add(type, moduleTypes);
-            ConsoleLogger.Log(this, $"Registered {type.Name} with {moduleTypes.Length} module(s): " +
+            ConsoleLogger.Log(this, $"Registered {type.Name} with {moduleTypes.Length} modules: " +
                       string.Join(", ", moduleTypes.Select(t => t.Name)));
             return true;
         }

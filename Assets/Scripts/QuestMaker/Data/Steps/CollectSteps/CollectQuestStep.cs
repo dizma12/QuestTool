@@ -4,7 +4,7 @@ namespace QuestMaker.Domain.Steps
 {
     internal class CollectQuestStep : QuestStep
     {
-        private readonly ItemAmount _collectable = default;
+        private readonly ItemStack _collectable = default;
 
         private int _currentAmount = 0;
 

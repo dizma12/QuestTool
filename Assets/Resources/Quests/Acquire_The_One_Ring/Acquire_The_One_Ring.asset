@@ -14,36 +14,36 @@ MonoBehaviour:
   m_EditorClassIdentifier: QuestMaker.Domain::QuestMaker.Domain.QuestSO
   _qName: Acquire_The_One_Ring
   _objectives:
-  - rid: 1918136843900551246
-  - rid: 1918136843900551247
+  - rid: 1918136866414002297
+  - rid: 1918136866414002298
   _qType: 0
   _prerequisites:
-    rid: 1918136843900551248
+    rid: 1918136866414002299
   _rewards:
-    rid: 1918136843900551249
+    rid: 1918136866414002300
   _specialEvent:
-    rid: 1918136843900551250
+    rid: 1918136866414002301
   references:
     version: 2
     RefIds:
-    - rid: 1918136843900551246
+    - rid: 1918136866414002297
       type: {class: ObjectiveData, ns: QuestMaker.Domain.Objectives, asm: QuestMaker.Domain}
       data:
         id: Explore_1
         desc: Go To The Mount of DOOM
         _steps:
-        - rid: 1918136843900551251
+        - rid: 1918136866414002302
         _specialEvents: []
-    - rid: 1918136843900551247
+    - rid: 1918136866414002298
       type: {class: ObjectiveData, ns: QuestMaker.Domain.Objectives, asm: QuestMaker.Domain}
       data:
         id: Slay_Loot_2
         desc: Smeagol Killed
         _steps:
-        - rid: 1918136843900551252
-        - rid: 1918136843900551253
+        - rid: 1918136866414002303
+        - rid: 1918136866414002304
         _specialEvents: []
-    - rid: 1918136843900551248
+    - rid: 1918136866414002299
       type: {class: PrerequisiteData, ns: QuestMaker.Domain, asm: QuestMaker.Domain}
       data:
         _level: 53
@@ -53,7 +53,7 @@ MonoBehaviour:
           _amount: 10000
         _quests: []
         _inGameTimeConstraint: 2
-    - rid: 1918136843900551249
+    - rid: 1918136866414002300
       type: {class: RewardData, ns: QuestMaker.Domain, asm: QuestMaker.Domain}
       data:
         _exp: 6000
@@ -62,23 +62,23 @@ MonoBehaviour:
           _amount: 1
         _abilities: []
         _reps: []
-    - rid: 1918136843900551250
+    - rid: 1918136866414002301
       type: {class: SpecialEventData, ns: QuestMaker.Domain.SpecialEvents, asm: QuestMaker.Domain}
       data:
         _eventID: Spawn_Boss
         _trigger: 1
-    - rid: 1918136843900551251
+    - rid: 1918136866414002302
       type: {class: ExploreStepData, ns: QuestMaker.Domain.Steps, asm: QuestMaker.Domain}
       data:
         stepId: 'Explore_[Mount_Of_Doom]'
         area: Mount_Of_Doom
-    - rid: 1918136843900551252
+    - rid: 1918136866414002303
       type: {class: SlayStepData, ns: QuestMaker.Domain.Steps, asm: QuestMaker.Domain}
       data:
         stepId: Slay_[Smeagol]_1
         enemyID: Smeagol
         amount: 1
-    - rid: 1918136843900551253
+    - rid: 1918136866414002304
       type: {class: LootStepData, ns: QuestMaker.Domain.Steps, asm: QuestMaker.Domain}
       data:
         _item:

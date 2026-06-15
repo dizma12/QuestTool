@@ -12,7 +12,7 @@ namespace QuestMaker.Editor.CompilationModules
         private readonly List<string> _quests = new();
 
         private readonly List<ReputationFaction> _reps = new();
-        private readonly List<ItemAmount> _items = new();
+        private readonly List<ItemStack> _items = new();
         private InGameTimeline _inGameTimeConstraint = InGameTimeline.None;
 
         public void Build(QuestSO quest)
@@ -38,7 +38,7 @@ namespace QuestMaker.Editor.CompilationModules
         public void SetItem(Item item, int amount = 1)
         {
             if(item != null && amount >= 1)
-                _items.Add(new() { Item = item, Amount = amount });  
+                _items.Add(new(item, amount));  
         }
 
 

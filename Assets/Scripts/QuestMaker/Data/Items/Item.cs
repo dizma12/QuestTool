@@ -13,8 +13,11 @@ namespace QuestMaker.Domain
     {
         public string ID => _id;
         public string Name => _itemName;
+        public GameObject Prefab => _prefab;
+
         [SerializeField, ReadOnlyInspector] private string _id = string.Empty;
         [SerializeField, ReadOnlyInspector] private string _itemName = string.Empty;
+        [SerializeField] private GameObject _prefab = null;
 
 #if UNITY_EDITOR
         private void OnEnable()

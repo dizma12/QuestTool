@@ -9,7 +9,7 @@ namespace QuestMaker.Domain.Steps
     internal class CraftQuestStep : QuestStep
     {
 
-        private ItemAmount _craftable = default;
+        private ItemStack _craftable = default;
         private int _currentAmount = 0;
 
         public override string ProgressText => $"Crafted: {_craftable.Item.Name}  {_currentAmount}/{_craftable.Amount}";

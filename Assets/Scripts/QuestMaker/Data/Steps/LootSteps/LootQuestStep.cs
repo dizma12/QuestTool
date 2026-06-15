@@ -4,7 +4,7 @@ namespace QuestMaker.Domain.Steps
 {
     internal class LootQuestStep : QuestStep
     {
-        private readonly ItemAmount _lootable = default;
+        private readonly ItemStack _lootable = default;
 
         private int _currentAmount = 0;
 

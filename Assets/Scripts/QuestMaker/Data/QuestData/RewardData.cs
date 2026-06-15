@@ -12,7 +12,7 @@ namespace QuestMaker.Domain
     public class RewardData
     {
         public int Exp => _exp;
-        public IReadOnlyList<ItemAmount> Items => _items;
+        public IReadOnlyList<ItemStack> Items => _items;
         public IReadOnlyList<string> AbilityIDs => _abilities;
         public IReadOnlyList<ReputationFaction> Reputation => _reps;
         [SerializeField]
@@ -20,7 +20,7 @@ namespace QuestMaker.Domain
 
 
         [SerializeField]
-        private ItemAmount[] _items;
+        private ItemStack[] _items;
 
 
         [SerializeField]
@@ -34,11 +34,11 @@ namespace QuestMaker.Domain
         //[SerializeField]
         //private string[] _abilities;
 
-        public RewardData(int exp, ItemAmount[] items, string[] abilities, ReputationFaction[] rep)
+        public RewardData(int exp, ItemStack[] items, string[] abilities, ReputationFaction[] rep)
         {
             _exp = exp > 0 ? exp : 0;
 
-            _items = items == null || items.Any(i => i.Item == null) ? Array.Empty<ItemAmount>() : items;
+            _items = items == null || items.Any(i => i.Item == null) ? Array.Empty<ItemStack>() : items;
 
             _abilities = abilities == null || abilities.Any(i => i == null) ? Array.Empty<string>() : abilities;
 

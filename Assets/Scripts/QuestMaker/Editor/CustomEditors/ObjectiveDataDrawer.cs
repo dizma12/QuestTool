@@ -2,8 +2,9 @@ using QuestMaker.Domain.Objectives;
 using UnityEditor;
 using UnityEngine;
 
+
 namespace QuestMaker.Editor.CustomEditors
-{
+{//***DISCLAIMER*** THIS SCRIPT IS MADE WITH AI.
     [CustomPropertyDrawer(typeof(ObjectiveData))]
     public class ObjectiveDataDrawer : PropertyDrawer
     {

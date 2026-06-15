@@ -10,7 +10,7 @@ namespace QuestMaker.Domain
     public class PrerequisiteData
     {
         public int Level => _level;
-        public IReadOnlyList<ItemAmount> Items => _items;
+        public IReadOnlyList<ItemStack> Items => _items;
         public IReadOnlyList<string> Quests => _quests;
         public IReadOnlyList<ReputationFaction> Reputation => _reps;
         public InGameTimeline TimeConstraint => _inGameTimeConstraint;
@@ -19,7 +19,7 @@ namespace QuestMaker.Domain
         private int _level;
 
         [SerializeField]
-        private ItemAmount[] _items;
+        private ItemStack[] _items;
 
         [SerializeField]
         private ReputationFaction[] _reps;
@@ -31,11 +31,11 @@ namespace QuestMaker.Domain
         private InGameTimeline _inGameTimeConstraint;
 
 
-        public PrerequisiteData(ItemAmount[] items, string[] quests, int level, ReputationFaction[] rep, InGameTimeline timeConstraint)
+        public PrerequisiteData(ItemStack[] items, string[] quests, int level, ReputationFaction[] rep, InGameTimeline timeConstraint)
         {
             _level = level > 1 ? level : 1;
 
-            _items = items == null || items.Any(i => i.Item == null) ? Array.Empty<ItemAmount>() : items;
+            _items = items == null || items.Any(i => i.Item == null) ? Array.Empty<ItemStack>() : items;
 
             _quests = quests == null || quests.Any(q => string.IsNullOrEmpty(q)) ? Array.Empty<string>() : quests;
 

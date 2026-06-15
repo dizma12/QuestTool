@@ -1,15 +1,12 @@
 ﻿using QuestMaker.Domain;
-using QuestMaker.Editor.Compiler;
 using System;
 
 namespace QuestMaker.Editor.CompilationModules
 {
     /// <summary>
-    /// A scoped resolver tied to one specific builder instance.
     /// Context nodes create a scope from their builder and pass it to block nodes via Compose().
-    /// Block nodes call scope.Get&lt;IItemModule&gt;() etc. — they never know the concrete builder type.
     /// </summary>
-    internal sealed class ModuleScope
+    internal class ModuleScope
     {
         private readonly IQuestModuleBuilder _builder = null;
         private readonly ModuleBuilderRegistry _registry = null;

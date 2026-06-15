@@ -9,17 +9,17 @@ namespace QuestMaker.Domain.Steps
         public string StepID => stepId;
 
         [SerializeField]
-        private ItemAmount _item;
+        private ItemStack _item;
 
         [SerializeField, HideInInspector]
         private string stepId = string.Empty;
 
-        public ItemAmount Loot
+        public ItemStack Loot
         {
             get => _item;
             set
             {
-                if (!_item.Equals(default(ItemAmount)))
+                if (!_item.Equals(default(ItemStack)))
                     return;
 
                 if (value.Item != null && value.Amount > 0)
