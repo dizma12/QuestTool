@@ -3,9 +3,8 @@ using UnityEngine;
 using TMPro;
 using System.Collections.Generic;
 using QuestMaker.Runtime.Game;
-using QuestMaker.Domain.Objectives;
-using QuestMaker.Domain.Steps;
 using System;
+using QuestMaker.Runtime.Events;
 
 namespace QuestMaker.Runtime
 {
@@ -16,25 +15,32 @@ namespace QuestMaker.Runtime
         // Start is called once before the first execution of Update after the MonoBehaviour is created
         void Start()
         {
-            var qmngr = ReferenceManager.Instance.GetReference<QuestManager>();
-            List<string> objs = new();
-            List<string> steps = new();
-            foreach(Quest q in qmngr.QuestMap.Values)
-            {
-                foreach(ObjectiveData obj in q.Objectives)
-                {
-                    objs.Add($"{q.ID}: {obj.Description}");
-                }
-                
-                foreach(QuestStep s in q.AllSteps)
-                {
-                    steps.Add($"{q.ID}: {s.ProgressText}");
-                }
-            }
 
-            txt.text = string.Join(Environment.NewLine, objs);
-            txtStep.text = string.Join(Environment.NewLine, steps);
+            QuestEventBus qbus = ReferenceManager.Instance.GetReference<GameEventManager>().RequestBus<QuestEventBus>();
+
+            qbus.OnQuestStarted += HandleQuestStart;
+        }
+        private void HandleQuestStart(Quest quest)
+        {
+            QuestManager qman = ReferenceManager.Instance.GetReference<QuestManager>();
+            List<string> s = new();
+            
+            foreach(Quest q in qman.ActiveQuests)
+            {
+                q.Changed += HandleQuestStart;
+                List<string> s2 = new();
+                foreach(var c in q.CurrentSteps)
+                {
+                    s2.Add(c.ProgressText);
+                }
+                s.Add($"{q.ID}: {Environment.NewLine}{string.Join(Environment.NewLine, s2)}");
+            }
+            DisplayQuestText(txt, string.Join(Environment.NewLine, s));
         }
 
+        private void DisplayQuestText(TMP_Text text, string msg)
+        {
+            text.text = msg;
+        }
     }
 }

@@ -1,4 +1,5 @@
-﻿using UnityEngine;
+﻿using QuestMaker.Domain.Helpers;
+using UnityEngine;
 
 namespace QuestMaker.Runtime.Game
 {
@@ -11,13 +12,13 @@ namespace QuestMaker.Runtime.Game
 
         private Rigidbody2D _rb;
         private Vector2 _direction;
-        public bool _spinning;
+        [SerializeField, ReadOnlyInspector] private bool _spinning;
 
         // the total rotation we want to perform, in degrees
-        private readonly float _finalRotation = 360f;
+        private readonly float _totalRotation = 360f;
 
         // the rotation we've done so far, in degrees
-        private float _totalRotation = 0.0f;
+        private float _currentRotation = 0.0f;
 
         private void Awake()
         {
@@ -35,7 +36,7 @@ namespace QuestMaker.Runtime.Game
 
             _direction = new Vector2(horizontal, vertical).normalized;
 
-            if (Input.GetKeyDown(KeyCode.Space))
+            if (Input.GetKeyDown(KeyCode.Space) && !_spinning)
                 _spinning = true;
 
             if (_spinning)
@@ -53,23 +54,23 @@ namespace QuestMaker.Runtime.Game
             // Rotation modified from: https://www.reddit.com/r/Unity3D/comments/ii9xu2/trying_to_rotate_a_full_circle_around_an_object/
 
             // if we haven't completed the rotation yet
-            if (_totalRotation < _finalRotation)
+            if (_currentRotation < _totalRotation)
             {
                 // get the amount we want to rotate this frame in degrees
                 float degreesToRotate = _rotationSpeed * Time.deltaTime;
 
                 // clamp it so we don't overshoot
                 // the overshoot would only be tiny, but we might as well get it to stop in exactly the right place
-                degreesToRotate = Mathf.Min(degreesToRotate, _finalRotation - _totalRotation);
+                degreesToRotate = Mathf.Min(degreesToRotate, _totalRotation - _currentRotation);
 
                 _sprite.transform.Rotate(0f, 0f, degreesToRotate);
 
                 // track how much rotation we've performed so far
-                _totalRotation += degreesToRotate;
+                _currentRotation += degreesToRotate;
             }
             else
             {
-                _totalRotation = 0f;
+                _currentRotation = 0f;
                 _spinning = false;
             }
 

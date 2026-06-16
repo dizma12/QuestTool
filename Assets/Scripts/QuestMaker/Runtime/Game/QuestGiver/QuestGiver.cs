@@ -2,15 +2,16 @@ using QuestMaker.Domain;
 using QuestMaker.Runtime.Quests;
 using System.Collections.Generic;
 using UnityEngine;
-using System;
 using QFSW.QC;
+using System.Linq;
+using QuestMaker.Domain.Helpers;
 namespace QuestMaker.Runtime.Game
 {
-    internal class QuestGiver : MonoBehaviour
+    internal class QuestGiver : MonoBehaviour, IInteractable
     {
         [SerializeField] private string _npcId = string.Empty;
         [SerializeField] private List<QuestSO> _quests = new();
-
+        
         private QuestManager _questManager;
 
         private void Start()
@@ -22,7 +23,7 @@ namespace QuestMaker.Runtime.Game
 
 
             if (string.IsNullOrEmpty(_npcId))
-                throw new NullReferenceException($"Quest Giver name cant be null");
+                _npcId = $"QuestGiver{UnityEngine.Random.Range(1, int.MaxValue)}";
         }
 
         [Command("Quest-giver", MonoTargetType.All)]
@@ -56,6 +57,14 @@ namespace QuestMaker.Runtime.Game
             }
 
             return quests;
+        }
+
+        public void Interact(GameObject other)
+        {
+            ConsoleLogger.Log(this, $"Was interacted with {_npcId}!");
+            if(_quests == null || !_quests.Any()) return;
+
+            _questManager.TryStartQuest(_quests.First().ID);
         }
     }
 }

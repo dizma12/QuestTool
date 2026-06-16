@@ -107,6 +107,7 @@ namespace QuestMaker.Runtime.Quests
             _currentSteps = _objectives.First().Value;
 
             ActivateCurrentObjective();
+            ConsoleLogger.Log(this, $"Quest with ID: {ID} started!");
         }
         //Public Methods
         public void NextObjective()
@@ -174,6 +175,8 @@ namespace QuestMaker.Runtime.Quests
             step.Start();
             step.Changed += OnStepChanged;
             step.Finished += OnStepFinished;
+
+            ConsoleLogger.Log(this, $"{ID} step {step.GetType().Name} Activated!");
         }
 
         /// <summary>
