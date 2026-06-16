@@ -13,7 +13,7 @@ namespace QuestMaker.Domain.Steps
 
         public override string ProgressText => $"Deeliver {_deliverable.Name} to {_npcID}";
 
-        public override bool IsComplete => Validate();
+        public override bool IsComplete { get; protected set; } = false;
 
         public DeliverQuestStep(QuestStepData data, IQuestEventSource eventBus) : base(eventBus)
         {

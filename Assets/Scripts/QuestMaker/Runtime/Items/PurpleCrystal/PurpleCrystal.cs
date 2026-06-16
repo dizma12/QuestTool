@@ -4,12 +4,14 @@ using UnityEngine;
 
 namespace QuestMaker.Runtime.Game
 {
-    public class PurpleCrystal : MonoBehaviour, ICollectable
+    internal class PurpleCrystal : RuntimeItem, ICollectable
     {
-        [SerializeField] Item item = null;
         public void Collect()
         {
-            ReferenceManager.Instance.GetReference<GameEventManager>().RequestBus<GameEventBus>().FireItemCollected(item.ID);
+            for (int i = 0; i < 10; i++)
+            {
+                ReferenceManager.Instance.GetReference<GameEventManager>().RequestBus<GameEventBus>().FireItemCollected(item.ID);
+            }
         }
     }
 }

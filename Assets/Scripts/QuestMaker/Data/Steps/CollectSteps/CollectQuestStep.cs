@@ -10,7 +10,7 @@ namespace QuestMaker.Domain.Steps
 
         public override string ProgressText => $"{_collectable.Item.Name} collected: {_currentAmount}/{_collectable.Amount}";
 
-        public override bool IsComplete => Validate();
+        public override bool IsComplete { get; protected set; } = false;
 
         public CollectQuestStep(QuestStepData data, IQuestEventSource eventBus) : base(eventBus)
         {
@@ -26,7 +26,7 @@ namespace QuestMaker.Domain.Steps
             }
             if (collectData.CollectableItem.Item == null || collectData.CollectableItem.Amount <= 0)
             {
-                ConsoleLogger.LogError(this,$"Invalind ItemAmount pair with item: {collectData.CollectableItem.Item} and amount: {collectData.CollectableItem.Amount}");
+                ConsoleLogger.LogError(this, $"Invalind ItemAmount pair with item: {collectData.CollectableItem.Item} and amount: {collectData.CollectableItem.Amount}");
                 return;
             }
 
@@ -45,6 +45,7 @@ namespace QuestMaker.Domain.Steps
 
             if (Validate())
                 Finish();
+
         }
         protected override bool Validate() => _currentAmount >= _collectable.Amount;
 

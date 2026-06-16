@@ -77,11 +77,15 @@ namespace QuestMaker.Runtime
             if(CheckQuestPrerequisites(quest))
             {
                 quest.Start();
-
+                quest.Finished += HandleQuestCanFinish;
                 _questEventBus.FireQuestStarted(quest);
                 return true;
             }    
             return false;
+        }
+        private void HandleQuestCanFinish(Quest quest)
+        {
+            _questEventBus.FireQuestCanFinish(quest);
         }
 
         /// <summary>

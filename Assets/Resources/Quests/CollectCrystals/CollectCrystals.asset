@@ -14,12 +14,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: QuestMaker.Domain::QuestMaker.Domain.QuestSO
   _qName: CollectCrystals
   _objectives:
-  - rid: 1918136890780549197
+  - rid: 1918136900966154306
   _qType: 0
   _prerequisites:
     rid: -2
   _rewards:
-    rid: 1918136890780549198
+    rid: 1918136900966154307
   _specialEvent:
     rid: -2
   references:
@@ -27,16 +27,15 @@ MonoBehaviour:
     RefIds:
     - rid: -2
       type: {class: , ns: , asm: }
-    - rid: 1918136890780549197
+    - rid: 1918136900966154306
       type: {class: ObjectiveData, ns: QuestMaker.Domain.Objectives, asm: QuestMaker.Domain}
       data:
-        id: Collect_Slay_2
+        id: Collect_1
         desc: Crystals_Collected
         _steps:
-        - rid: 1918136890780549199
-        - rid: 1918136890780549200
+        - rid: 1918136900966154308
         _specialEvents: []
-    - rid: 1918136890780549198
+    - rid: 1918136900966154307
       type: {class: RewardData, ns: QuestMaker.Domain, asm: QuestMaker.Domain}
       data:
         _exp: 500
@@ -45,16 +44,10 @@ MonoBehaviour:
         _reps:
         - _factionID: Undercity
           _amount: 100
-    - rid: 1918136890780549199
+    - rid: 1918136900966154308
       type: {class: CollectStepData, ns: QuestMaker.Domain.Steps, asm: QuestMaker.Domain}
       data:
         _stepId: Collect_[Crystal]_10
         _collectable:
           _item: {fileID: 11400000, guid: cc3e240f8f8232a4e8ce26ed419b02b1, type: 2}
           _amount: 10
-    - rid: 1918136890780549200
-      type: {class: SlayStepData, ns: QuestMaker.Domain.Steps, asm: QuestMaker.Domain}
-      data:
-        stepId: Slay_[Triangles]_7
-        enemyID: Triangles
-        amount: 7

@@ -8,7 +8,7 @@ namespace QuestMaker.Domain.Steps
 
         public abstract string ProgressText { get; }
 
-        public abstract bool IsComplete { get; }
+        public abstract bool IsComplete { get; protected set; }
 
         public event Action<QuestStep> Started; // runs when steps is started.
         public event Action<QuestStep> Finished; // runs when step is finished.
@@ -38,6 +38,7 @@ namespace QuestMaker.Domain.Steps
 
         public void Finish()
         {
+            IsComplete = true;
             Unsubscribe();
             FireOnFinished();
         }

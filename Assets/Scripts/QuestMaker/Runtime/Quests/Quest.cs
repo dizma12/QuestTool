@@ -4,6 +4,8 @@ using QuestMaker.Domain.Objectives;
 using QuestMaker.Domain.Quests;
 using QuestMaker.Domain.SpecialEvents;
 using QuestMaker.Domain.Steps;
+using QuestMaker.Runtime.Events;
+using QuestMaker.Runtime.Game;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -114,10 +116,12 @@ namespace QuestMaker.Runtime.Quests
         {
             _currentObjectiveIndex++;
 
-            if (_currentObjectiveIndex >= _objectives.Count)
+            if (_currentObjectiveIndex >= _objectives.Count - 1)
             {
                 IsFinished = true;
                 SetQuestStatus(QuestStatus.CAN_FINISH);
+                ConsoleLogger.LogWarning(this, $"Change FireQuestCanFinish from quest to questmanager.");
+                ReferenceManager.Instance.GetReference<GameEventManager>().RequestBus<QuestEventBus>().FireQuestCanFinish(this);
                 Finished?.Invoke(this);
                 return;
             }
@@ -143,6 +147,7 @@ namespace QuestMaker.Runtime.Quests
         private void OnStepChanged(QuestStep step) => Changed?.Invoke(this);
         private void OnStepFinished(QuestStep step)
         {
+
             DeactivateStep(step);
 
             if (EvaluateObjective())

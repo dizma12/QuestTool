@@ -8,7 +8,7 @@ namespace QuestMaker.Domain.Steps
 
         public override string ProgressText => throw new System.NotImplementedException();
 
-        public override bool IsComplete => throw new System.NotImplementedException();
+        public override bool IsComplete { get => throw new System.NotImplementedException(); protected set => throw new System.NotImplementedException(); }
 
         protected override bool Validate() => throw new System.NotImplementedException();
 

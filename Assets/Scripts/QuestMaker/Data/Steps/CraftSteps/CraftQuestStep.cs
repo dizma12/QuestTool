@@ -14,7 +14,7 @@ namespace QuestMaker.Domain.Steps
 
         public override string ProgressText => $"Crafted: {_craftable.Item.Name}  {_currentAmount}/{_craftable.Amount}";
 
-        public override bool IsComplete => Validate();
+        public override bool IsComplete { get; protected set; } = false;
 
         public CraftQuestStep(QuestStepData data, IQuestEventSource eventbus) : base(eventbus)
         {

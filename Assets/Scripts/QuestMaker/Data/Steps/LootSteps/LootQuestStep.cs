@@ -10,7 +10,7 @@ namespace QuestMaker.Domain.Steps
 
         public override string ProgressText => $"{_lootable.Item.Name} looted: {_currentAmount}/{_lootable.Amount}";
 
-        public override bool IsComplete => Validate();
+        public override bool IsComplete { get; protected set; } = false;
 
         public LootQuestStep(QuestStepData data, IQuestEventSource eventBus) : base(eventBus)
         {
