@@ -1,4 +1,4 @@
-﻿using QuestMaker.Domain.Helpers;
+﻿using QuestMaker.Domain.Interactions;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -7,7 +7,7 @@ namespace QuestMaker.Runtime.Game
     [RequireComponent(typeof(CircleCollider2D))]
     internal class PlayerInteractions : MonoBehaviour
     {
-        [SerializeField, ReadOnlyInspector] int _inr = 0;
+
         private readonly List<IInteractable> _inRange = new();
 
         private void Update()
@@ -21,7 +21,7 @@ namespace QuestMaker.Runtime.Game
             if (other.TryGetComponent(out IInteractable interactable) && !_inRange.Contains(interactable))
             {
                 _inRange.Add(interactable);
-                _inr++;
+    
                 return;
             }
             if (other.TryGetComponent(out ICollectable collectable))
@@ -36,7 +36,7 @@ namespace QuestMaker.Runtime.Game
             if (other.TryGetComponent(out IInteractable interactable))
             {
                 _inRange.Remove(interactable);
-                _inr--;
+ 
             }
         }
 

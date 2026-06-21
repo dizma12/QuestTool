@@ -29,12 +29,12 @@ namespace QuestMaker.Runtime.UI
         }
         private void OnDisable()
         {
-            _questBus = null;
 
             _questBus.OnQuestStarted -= HandleQuestStart;
             _questBus.OnQuestCanFinish -= HandleQuestCanFinish;
             _questBus.OnQuestCompleted -= HandleQuestCompleted;
 
+            _questBus = null;
             texts = null;
         }
         private void HandleQuestStart(Quest quest)
@@ -66,6 +66,7 @@ namespace QuestMaker.Runtime.UI
         private void HandleQuestCanFinish(Quest quest)
         {
             if (!texts.TryGetValue(quest.ID, out var text)) return;
+            text.text = $"{quest.ID}:{Environment.NewLine}Completed!";
             text.color = Color.green;
         }
         private void BuildQuestDisplayString(Quest quest, TMP_Text questText)

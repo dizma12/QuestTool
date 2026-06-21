@@ -17,7 +17,8 @@ namespace QuestMaker.Runtime.Quests
     {
         //Events
         public event Action<Quest> Changed;
-        public event Action<Quest> Finished;
+        public event Action<Quest> CanFinish;
+        public event Action<Quest> Completed;
 
         //Public properties
         public bool IsFinished { get; protected set; } = false;
@@ -91,7 +92,7 @@ namespace QuestMaker.Runtime.Quests
                 {
                     steps.Add(step.CreateRuntimeStep(eventbus) as QuestStep);
 
-                    ConsoleLogger.Log(this, $"Created QuestStep {step.GetType()} for objective {obj.ID}");
+                    ConsoleLogger.Log(this, $"{ID} -> Created QuestStep {step.GetType().Name} for objective {obj.ID}");
                 }
                 _objectives.Add(i, steps.ToArray());
 
@@ -111,18 +112,27 @@ namespace QuestMaker.Runtime.Quests
             ActivateCurrentObjective();
             ConsoleLogger.Log(this, $"Quest with ID: {ID} started!");
         }
+        public void Complete()
+        {
+            if (Status != QuestStatus.CAN_FINISH) return;
+
+            SetQuestStatus(QuestStatus.COMPLETED);
+            Completed?.Invoke(this);
+
+            ConsoleLogger.Log(this, $"Quest with ID: {ID} completed!");
+        }
+
         //Public Methods
         public void NextObjective()
         {
             _currentObjectiveIndex++;
 
-            if (_currentObjectiveIndex >= _objectives.Count - 1)
+            if (_currentObjectiveIndex > _objectives.Count - 1)
             {
                 IsFinished = true;
                 SetQuestStatus(QuestStatus.CAN_FINISH);
-                ConsoleLogger.LogWarning(this, $"Change FireQuestCanFinish from quest to questmanager.");
-                ReferenceManager.Instance.GetReference<GameEventManager>().RequestBus<QuestEventBus>().FireQuestCanFinish(this);
-                Finished?.Invoke(this);
+                //ConsoleLogger.LogWarning(this, $"Change FireQuestCanFinish from quest to questmanager.");
+                CanFinish?.Invoke(this);
                 return;
             }
 
@@ -149,8 +159,10 @@ namespace QuestMaker.Runtime.Quests
         {
 
             DeactivateStep(step);
+            bool isObjectiveDone = EvaluateObjective();
+            ConsoleLogger.Log(this, $"{ID} -> A step was finished. Objective finished= {isObjectiveDone}");
 
-            if (EvaluateObjective())
+            if (isObjectiveDone)
             {
                 NextObjective();
                 return;
@@ -166,6 +178,7 @@ namespace QuestMaker.Runtime.Quests
             {
                 ActivateStep(step);
             }
+            Changed?.Invoke(this);
         }
 
 

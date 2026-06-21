@@ -35,13 +35,15 @@ namespace QuestMaker.Domain.Steps
 
         private void HandleItemCollection(string itemID)
         {
+            ConsoleLogger.Log(this, $"Item Collected: {itemID}");
+            ConsoleLogger.Log(this, $"Item Looking for: {_collectable.Item.ID}");
             if (!_collectable.Item.ID.Equals(itemID))
                 return;
 
             _currentAmount++;
             FireOnChanged();
 
-            ConsoleLogger.Log(this, ProgressText);
+            //ConsoleLogger.Log(this, ProgressText);
 
             if (Validate())
                 Finish();

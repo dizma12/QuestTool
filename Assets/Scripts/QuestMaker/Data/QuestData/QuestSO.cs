@@ -1,4 +1,5 @@
 using QuestMaker.Domain.Objectives;
+using QuestMaker.Domain.Quests;
 using QuestMaker.Domain.SpecialEvents;
 using System.Collections.Generic;
 using UnityEngine;
@@ -31,9 +32,42 @@ namespace QuestMaker.Domain
         public string Description { get; set; } = string.Empty;
         public IReadOnlyList<ObjectiveData> Objectives => _objectives;
 
-        public PrerequisiteData Prerequisites { get => _prerequisites; set => _prerequisites = value; }
-
-        public RewardData Rewards { get => _rewards; set => _rewards = value; }
+        public PrerequisiteData Prerequisites
+        {
+            get => _prerequisites;
+            set
+            {
+                if (value == null || _prerequisites == value) return;
+                _prerequisites = value;
+            }
+        }
+        public QuestGiverData HandInMethod 
+        { 
+            get => _questHandInMethod; 
+            set
+            {
+                if(value == null || _questHandInMethod == value) return;
+                _questHandInMethod = value;
+            }
+        }
+        public QuestGiverData TurnInMethod
+        {
+            get => _questTurnInMethod;
+            set
+            {
+                if (value == null || _questTurnInMethod == value) return;
+                _questTurnInMethod = value;
+            }
+        }
+        public RewardData Rewards
+        {
+            get => _rewards;
+            set
+            {
+                if (value == null || _rewards == value) return;
+                _rewards = value;
+            }
+        }
         public SpecialEventData SpecialEvent
         {
             get => _specialEvent;
@@ -63,6 +97,12 @@ namespace QuestMaker.Domain
 
         [SerializeReference]
         protected SpecialEventData _specialEvent = null;
+
+        [SerializeReference]
+        protected QuestGiverData _questHandInMethod = null;
+        
+        [SerializeReference]
+        protected QuestGiverData _questTurnInMethod = null;
 
 
         public void AddObjective(ObjectiveData obj)

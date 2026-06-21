@@ -18,7 +18,7 @@ namespace QuestMaker.Editor.Graph
 
         private Dictionary<Type, QMBaseContextNode> savedNodes = null;
         GraphLogger log = null;
-        [MenuItem("Assets/Create/QuestToolkit/Quest Graph", false)]
+        [MenuItem("Assets/Create/QuestMaker/Quest Graph", false)]
         private static void CreateGraphFile()
         {
             GraphDatabase.PromptInProjectBrowserToCreateNewAsset<QMGraph>();

@@ -7,7 +7,7 @@ using UnityEngine;
 
 namespace QuestMaker.Domain
 {
-    [CreateAssetMenu(menuName = "QuestMaker/Item")]
+    [CreateAssetMenu(menuName = "QuestMaker/ScriptableObjects/Item")]
     [Serializable]
     public class Item : ScriptableObject
     {

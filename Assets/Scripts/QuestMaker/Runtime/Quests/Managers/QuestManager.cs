@@ -77,7 +77,9 @@ namespace QuestMaker.Runtime
             if(CheckQuestPrerequisites(quest))
             {
                 quest.Start();
-                quest.Finished += HandleQuestCanFinish;
+                quest.CanFinish += HandleQuestCanFinish;
+                quest.Completed += HandleQuestCompleted;
+
                 _questEventBus.FireQuestStarted(quest);
                 return true;
             }    
@@ -86,6 +88,29 @@ namespace QuestMaker.Runtime
         private void HandleQuestCanFinish(Quest quest)
         {
             _questEventBus.FireQuestCanFinish(quest);
+        }
+        private void HandleQuestCompleted(Quest quest)
+        {
+            _questEventBus.FireQuestCompleted(quest);
+        }
+
+        public bool TryTurnInQuest(string questID)
+        {
+            if (string.IsNullOrEmpty(questID))
+            {
+                ConsoleLogger.LogError(this, "The questID you are trying to turn in is null.");
+                return false;
+            }
+            if (!_questMap.TryGetValue(questID, out Quest quest))
+            {
+                ConsoleLogger.LogError(this, "QuestMap doesnt contain the questID.");
+                return false;
+            }
+            if (quest.Status != QuestStatus.CAN_FINISH) return false;
+
+            quest.Complete();
+            _questEventBus.FireQuestCompleted(quest);
+            return true;
         }
 
         /// <summary>
@@ -193,7 +218,7 @@ namespace QuestMaker.Runtime
 
             }
             if (_questMap == null)
-                throw new InvalidOperationException($"[{GetType()}] Failed to Load quest map from QuestLoader");
+                throw new InvalidOperationException($"[{GetType().Name}] Failed to Load quest map from QuestLoader");
             else
                 ConsoleLogger.Log(this, $"Loaded {_questMap.Count} quests");
         }

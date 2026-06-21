@@ -4,7 +4,7 @@ using Unity.GraphToolkit.Editor;
 
 namespace QuestMaker.Editor.Nodes.BlockNodes
 {
-    [UseWithContext(typeof(QMBaseContextNode))]
+    [UseWithContext(typeof(PrerequisiteNode), typeof(RewardNode))]
     [System.Serializable]
     internal class ItemBlockNode : QMBaseBlockNode
     {

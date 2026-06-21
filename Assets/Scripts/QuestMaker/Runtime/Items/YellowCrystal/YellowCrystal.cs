@@ -1,10 +1,11 @@
 using QuestMaker.Domain.Interactions;
 using QuestMaker.Runtime.Events;
+using QuestMaker.Runtime.Game;
 using UnityEngine;
 
-namespace QuestMaker.Runtime.Game
+namespace QuestMaker.Runtime
 {
-    internal class PurpleCrystal : RuntimeItem, ICollectable
+    internal class YellowCrystal : RuntimeItem, ICollectable
     {
         private void Start()
         {

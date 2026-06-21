@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 12501, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: Collect_Crystals
+  m_Name: Collect_Crystals_WIthSteps
   m_EditorClassIdentifier: UnityEditor.dll::Unity.GraphToolkit.Editor.Implementation.GraphObjectImp
   m_GraphModel:
     rid: 1918136820993097803
@@ -62,13 +62,144 @@ MonoBehaviour:
     - rid: 1001
       type: {class: 'Constant`1[[QuestMaker.Domain.Item, QuestMaker.Domain]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
       data:
-        m_Value: {fileID: 11400000, guid: cc3e240f8f8232a4e8ce26ed419b02b1, type: 2}
+        m_Value: {fileID: 11400000, guid: 60386d5b4cc89c241ba82336d4048113, type: 2}
     - rid: 1002
       type: {class: 'Constant`1[[System.Int32, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
       data:
         m_Value: 10
     - rid: 1003
       type: {class: CollectStepBlockNode, ns: QuestMaker.Editor.Nodes.BlockNodes, asm: QuestMakerEditor}
+      data: 
+    - rid: 1004
+      type: {class: UserContextNodeModelImp, ns: Unity.GraphToolkit.Editor.Implementation, asm: UnityEditor.GraphToolkitModule}
+      data:
+        m_Guid:
+          m_Value0: 16065649666305693409
+          m_Value1: 7117777554508660872
+        m_HashGuid:
+          serializedVersion: 2
+          Hash: e116068640a7f4de88c0bc66f96cc762
+        m_Version: 2
+        m_Position: {x: 546.64996, y: 336.325}
+        m_Title: 
+        m_Tooltip: 
+        m_NodePreviewModel:
+          rid: -2
+        m_State: 0
+        m_InputConstantsById:
+          m_KeyList:
+          - __option_OBJECTIVE_DESCRIPTION
+          - FlowIn
+          m_ValueList:
+          - rid: 1006
+          - rid: 1007
+        m_InputPortInfos:
+          expandedPortsById:
+            m_KeyList: []
+            m_ValueList: 
+        m_OutputPortInfos:
+          expandedPortsById:
+            m_KeyList: []
+            m_ValueList: 
+        m_Collapsed: 0
+        m_CurrentModeIndex: 0
+        m_ElementColor:
+          m_Color: {r: 0, g: 0, b: 0, a: 0}
+          m_HasUserColor: 0
+        m_Blocks:
+        - rid: 1009
+        m_BlockGuids:
+        - serializedVersion: 2
+          Hash: 6608f66c7a5d808a0e80e113e751c246
+        m_Subtitle: 
+        m_Node:
+          rid: 1008
+    - rid: 1005
+      type: {class: WireModel, ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
+      data:
+        m_Guid:
+          m_Value0: 10129573455490297653
+          m_Value1: 2686758881158275500
+        m_HashGuid:
+          serializedVersion: 2
+          Hash: 35afb9946379938caca190a4f7484925
+        m_Version: 2
+        m_FromPortReference:
+          m_NodeModelGuid:
+            m_Value0: 14607181591389936173
+            m_Value1: 1480572220641728548
+          m_NodeModelHashGuid:
+            serializedVersion: 2
+            Hash: 2d1a6ce44322b7ca2458a91b970c8c14
+          m_UniqueId: OBJECTIVE_FLOW_PORT
+          m_PortDirection: 2
+          m_PortOrientation: 0
+          m_Title: Next Objective
+        m_ToPortReference:
+          m_NodeModelGuid:
+            m_Value0: 16065649666305693409
+            m_Value1: 7117777554508660872
+          m_NodeModelHashGuid:
+            serializedVersion: 2
+            Hash: e116068640a7f4de88c0bc66f96cc762
+          m_UniqueId: FlowIn
+          m_PortDirection: 1
+          m_PortOrientation: 0
+          m_Title: FlowIn
+    - rid: 1006
+      type: {class: 'Constant`1[[System.String, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
+      data:
+        m_Value: Talk To
+    - rid: 1007
+      type: {class: 'Constant`1[[QuestMaker.Editor.Nodes.IObjectiveFlowHelper, QuestMakerEditor]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
+      data: 
+    - rid: 1008
+      type: {class: ObjectiveNode, ns: QuestMaker.Editor.Nodes, asm: QuestMakerEditor}
+      data: 
+    - rid: 1009
+      type: {class: UserBlockNodeModelImp, ns: Unity.GraphToolkit.Editor.Implementation, asm: UnityEditor.GraphToolkitModule}
+      data:
+        m_Guid:
+          m_Value0: 9980079554648475750
+          m_Value1: 5098727781049663502
+        m_HashGuid:
+          serializedVersion: 2
+          Hash: 6608f66c7a5d808a0e80e113e751c246
+        m_Version: 2
+        m_Position: {x: 0, y: 0}
+        m_Title: UserBlockNodeModelImp
+        m_Tooltip: 
+        m_NodePreviewModel:
+          rid: -2
+        m_State: 0
+        m_InputConstantsById:
+          m_KeyList:
+          - __option_NPC_Option
+          m_ValueList:
+          - rid: 1010
+        m_InputPortInfos:
+          expandedPortsById:
+            m_KeyList: []
+            m_ValueList: 
+        m_OutputPortInfos:
+          expandedPortsById:
+            m_KeyList: []
+            m_ValueList: 
+        m_Collapsed: 0
+        m_CurrentModeIndex: 0
+        m_ElementColor:
+          m_Color: {r: 0, g: 0, b: 0, a: 0}
+          m_HasUserColor: 0
+        m_ContextNodeModel:
+          rid: 1004
+        m_Node:
+          rid: 1011
+    - rid: 1010
+      type: {class: 'Constant`1[[System.String, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
+      data:
+        m_Value: Gandalf
+    - rid: 1011
+      type: {class: TalkStepBlockNode, ns: QuestMaker.Editor.Nodes.BlockNodes, asm: QuestMakerEditor}
       data: 
     - rid: 1918136820993097803
       type: {class: GraphModelImp, ns: Unity.GraphToolkit.Editor.Implementation, asm: UnityEditor.GraphToolkitModule}
@@ -79,16 +210,18 @@ MonoBehaviour:
         m_HashGuid:
           serializedVersion: 2
           Hash: 24412b5a87219d5cec0c59c33c819ba6
-        m_Name: 
+        m_Name: Collect_Crystals_WIthSteps
         m_GraphNodeModels:
         - rid: 1918136820993097806
         - rid: 1918136820993097834
         - rid: 1918136820993097845
         - rid: 1918137001990160459
+        - rid: 1004
         m_GraphWireModels:
         - rid: 1918136820993097835
         - rid: 1918136820993097846
         - rid: 1918137001990160460
+        - rid: 1005
         m_GraphStickyNoteModels: []
         m_GraphPlacematModels: []
         m_GraphVariableModels: []
@@ -98,9 +231,9 @@ MonoBehaviour:
         m_LocalSubgraphs: []
         m_LastKnownBounds:
           serializedVersion: 2
-          x: -27
+          x: -97
           y: -292
-          width: 890
+          width: 963
           height: 993
         m_GraphElementMetaData:
         - m_Guid:
@@ -159,6 +292,22 @@ MonoBehaviour:
             Hash: 1502e8621221d53998a1cfe7dea4974e
           m_Category: 2
           m_Index: 2
+        - m_Guid:
+            m_Value0: 16065649666305693409
+            m_Value1: 7117777554508660872
+          m_HashGuid:
+            serializedVersion: 2
+            Hash: e116068640a7f4de88c0bc66f96cc762
+          m_Category: 4
+          m_Index: 4
+        - m_Guid:
+            m_Value0: 10129573455490297653
+            m_Value1: 2686758881158275500
+          m_HashGuid:
+            serializedVersion: 2
+            Hash: 35afb9946379938caca190a4f7484925
+          m_Category: 2
+          m_Index: 3
         m_EntryPoint:
           rid: 1918136820993097806
         m_Graph:
@@ -188,7 +337,7 @@ MonoBehaviour:
           serializedVersion: 2
           Hash: 7926209340443592041c9c158e0df0f7
         m_Version: 2
-        m_Position: {x: -27, y: 99}
+        m_Position: {x: -97.0925, y: 113.547485}
         m_Title: 
         m_Tooltip: 
         m_NodePreviewModel:
@@ -232,7 +381,7 @@ MonoBehaviour:
     - rid: 1918136820993097808
       type: {class: 'Constant`1[[System.String, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
       data:
-        m_Value: CollectCrystals
+        m_Value: YellowCrystal
     - rid: 1918136820993097809
       type: {class: 'Constant`1[[System.String, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
       data:
@@ -250,7 +399,7 @@ MonoBehaviour:
           serializedVersion: 2
           Hash: 41a0f75e1cdb752afbc71ec52ebcb664
         m_Version: 2
-        m_Position: {x: 667.9, y: -80.600006}
+        m_Position: {x: 670.54504, y: -121.5975}
         m_Title: 
         m_Tooltip: 
         m_NodePreviewModel:
@@ -498,7 +647,7 @@ MonoBehaviour:
     - rid: 1918136820993097847
       type: {class: 'Constant`1[[System.String, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
       data:
-        m_Value: Crystals_Collected
+        m_Value: Yellow_Crystals
     - rid: 1918136820993097848
       type: {class: 'Constant`1[[QuestMaker.Editor.Nodes.IObjectiveFlowHelper, QuestMakerEditor]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
       data: 

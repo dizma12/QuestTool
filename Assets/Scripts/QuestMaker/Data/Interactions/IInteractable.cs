@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace QuestMaker.Runtime.Game
+namespace QuestMaker.Domain.Interactions
 {
     /// <summary>
     /// Interface for interactable objects (quest-Givers, items, etc)

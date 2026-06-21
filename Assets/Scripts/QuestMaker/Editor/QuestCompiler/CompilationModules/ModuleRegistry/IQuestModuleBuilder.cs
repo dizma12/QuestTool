@@ -1,5 +1,6 @@
 ﻿
 using QuestMaker.Domain;
+using QuestMaker.Domain.Quests;
 using QuestMaker.Domain.SpecialEvents;
 using QuestMaker.Domain.Steps;
 
@@ -52,6 +53,11 @@ namespace QuestMaker.Editor.CompilationModules
         public void SetAbility(string abilityId);
     }
 
+    internal interface IAcquisitionModule : IQuestModule
+    {
+        public void SetAcquisitionMethod(QuestGiverData data);
+        public void SetTurnInMethod(QuestGiverData data);
+    }
     internal interface IInGameTimeConstraintModule : IQuestModule
     {
         public void SetTimeConstraint(InGameTimeline time);
