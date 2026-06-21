@@ -43,7 +43,7 @@ namespace QuestMaker.Editor.Compiler
             Quest = BuildQuest();
 
             //Debug.Log($"The name of the quest is: {Quest.QuestName}");
-            ConsoleLogger.Log(this, $"The Level prerequisite for the quest is: {Quest.Prerequisites?.Items.Any()}");
+            //ConsoleLogger.Log(this, $"The Level prerequisite for the quest is: {Quest.Prerequisites.Level}");
             //Debug.Log($"The exp reward for the quest is: {Quest.Rewards.Exp}");
             //Debug.Log("[Compiler]" + Quest.SpecialEvent.EventID);
 
@@ -84,16 +84,25 @@ namespace QuestMaker.Editor.Compiler
                 ConsoleLogger.LogError(this, "Cannot save Quest coz its null. Make sure the graph compiled correctly.");
                 return;
             }
-            // path is Folder -> QuestName/Questname.asset
-            string path = $"Assets/Resources/Quests/{Quest.ID}";
-            //creates directory of path
-            Directory.CreateDirectory(path);
 
-            //combine path with .asset for asset creation
-            path = Path.Combine(path, $"{Quest.ID}.asset");
-            AssetDatabase.CreateAsset(Quest, path);
+            string folder = $"Assets/Resources/Quests/{Quest.ID}";
+            string path = Path.Combine(folder, $"{Quest.ID}.asset");
 
-            // ping on project files
+            QuestSO existing = AssetDatabase.LoadAssetAtPath<QuestSO>(path);
+            if (existing != null)
+            {
+                //Copy new Object to old object keeps references and GUID.
+                EditorUtility.CopySerialized(Quest, existing);
+                Quest = existing;
+                EditorUtility.SetDirty(Quest);
+            }
+            else
+            {
+                Directory.CreateDirectory(folder);
+                AssetDatabase.CreateAsset(Quest, path);
+            }
+            AssetDatabase.SaveAssets();
+
             Selection.activeObject = Quest;
             EditorGUIUtility.PingObject(Selection.activeObject);
         }
@@ -150,6 +159,7 @@ namespace QuestMaker.Editor.Compiler
                 module.Build(quest);
             }
 
+            quest.Rename(graph.Name);
             return quest;
         }
 

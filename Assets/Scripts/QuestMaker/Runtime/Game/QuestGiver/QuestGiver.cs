@@ -1,64 +1,50 @@
-using QuestMaker.Domain;
-using System;
-using QuestMaker.Runtime.Quests;
-using System.Collections.Generic;
-using UnityEngine;
 using QFSW.QC;
-using System.Linq;
+using QuestMaker.Domain;
+using QuestMaker.Domain.Helpers;
 using QuestMaker.Domain.Interactions;
 using QuestMaker.Domain.Quests;
+using QuestMaker.Runtime.Quests;
+using System;
+using System.Collections.Generic;
+using UnityEngine;
+
 namespace QuestMaker.Runtime.Game
 {
-    internal class QuestGiver : MonoBehaviour, IInteractable
+    public class QuestGiver : MonoBehaviour, IInteractable
     {
-        [SerializeField] private QuestGiverData data = null;
-        public string ID => data.ID;
-        public IReadOnlyList<QuestSO> Quests => data.HandInQuests;
-        
+        [SerializeField, ReadOnlyInspector] private string _id = string.Empty;
+        public string ID => _id;
+
         private QuestManager _questManager;
 
         private void Start()
         {
-            if(data == null || string.IsNullOrEmpty(data.ID) || data.HandInQuests == null)
-                throw new ArgumentException("Invalid QuestGiverData");
+            if (string.IsNullOrEmpty(_id))
+                throw new ArgumentException("QuestGiver has no id");
 
             _questManager = ReferenceManager.Instance.GetReference<QuestManager>();
 
             if (_questManager == null)
                 ConsoleLogger.LogError(this, "QuestManager reference not found");
-           
         }
 
         [Command("Quest-giver", MonoTargetType.All)]
         public void CheckQuests()
         {
-            var x = RefreshQuests();
+            IReadOnlyList<Quest> available = RefreshQuests();
 
-            if (x.Count <= 0)
-                ConsoleLogger.Log(this, $"{ID}: 0 / {Quests.Count} quests are available now");
+            if (available.Count <= 0)
+                ConsoleLogger.Log(this, $"{ID}: 0 quests available now");
             else
-            {
-                foreach (var item in Quests)
-                {
-                    ConsoleLogger.Log(this, $"{ID}: {item.ID} is available for pickup");
-                }
-            }
+                foreach (Quest quest in available)
+                    ConsoleLogger.Log(this, $"{ID}: {quest.ID} is available for pickup");
         }
-
 
         public IReadOnlyList<Quest> RefreshQuests()
         {
-            List<Quest> quests = new();
-
-            foreach (QuestSO so in Quests)
-            {
-                Quest quest = _questManager.GetQuestByID(so.ID);
-                if (quest == null) continue;
-
+            IReadOnlyList<Quest> quests = _questManager.GetHandInQuests(_id);
+            foreach (Quest quest in quests)
                 _questManager.CheckQuestPrerequisites(quest);
-                quests.Add(quest);
-            }
-
             return quests;
         }
 
@@ -72,10 +58,9 @@ namespace QuestMaker.Runtime.Game
 
         private bool TryTurnIn()
         {
-            foreach (QuestSO so in data.TurnInQuests)
+            foreach (Quest quest in _questManager.GetTurnInQuests(_id))
             {
-                Quest quest = _questManager.GetQuestByID(so.ID);
-                if (quest == null || quest.Status != QuestStatus.CAN_FINISH) continue;
+                if (quest.Status != QuestStatus.CAN_FINISH) continue;
 
                 if (_questManager.TryTurnInQuest(quest.ID))
                 {
@@ -88,10 +73,9 @@ namespace QuestMaker.Runtime.Game
 
         private bool TryHandIn()
         {
-            foreach (QuestSO so in data.HandInQuests)
+            foreach (Quest quest in _questManager.GetHandInQuests(_id))
             {
-                Quest quest = _questManager.GetQuestByID(so.ID);
-                if (quest == null || quest.Status != QuestStatus.CAN_START) continue;
+                if (quest.Status != QuestStatus.CAN_START) continue;
 
                 if (_questManager.TryStartQuest(quest.ID))
                 {
@@ -101,5 +85,17 @@ namespace QuestMaker.Runtime.Game
             }
             return false;
         }
+
+#if UNITY_EDITOR
+        private void OnValidate()
+        {
+            string assetGuid = UnityEditor.AssetDatabase.AssetPathToGUID(UnityEditor.AssetDatabase.GetAssetPath(this));
+            if (!string.IsNullOrEmpty(assetGuid) && !_id.Equals(assetGuid))
+            {
+                _id = assetGuid;
+                UnityEditor.EditorUtility.SetDirty(this);
+            }
+        }
+#endif
     }
 }

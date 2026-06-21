@@ -1,8 +1,9 @@
-﻿using QuestMaker.Domain;
-using QuestMaker.Domain.Quests;
+using QuestMaker.Domain;
 using QuestMaker.Editor.Assets.Scripts.QuestMaker.Editor.QuestCompiler.CompilationModules;
 using QuestMaker.Editor.CompilationModules;
+using QuestMaker.Runtime.Game;
 using Unity.GraphToolkit.Editor;
+using UnityEditor;
 
 namespace QuestMaker.Editor.Nodes
 {
@@ -11,24 +12,28 @@ namespace QuestMaker.Editor.Nodes
     internal class TurnInBlockNode : QMBaseBlockNode
     {
         public const string TURN_IN_OPTION = "TURN_IN_OPTION";
+
         protected override void OnDefineOptions(IOptionDefinitionContext context)
         {
-
-            context.AddOption(TURN_IN_OPTION, typeof(QuestGiverData))
+            context.AddOption(TURN_IN_OPTION, typeof(QuestGiver))
                 .WithDefaultValue(null)
-                .WithDisplayName("Turn-in Method")
-                .WithTooltip("The method which you acquire the quest")
+                .WithDisplayName("Turn-in Giver")
+                .WithTooltip("*** NEED TO MANUALLY DRAG THE PREFAB TO SLOT CAN'T FIND IT FROM UNITY SEARCH ***")
                 .Build();
         }
+
         public override void Compose(ModuleScope scope)
         {
-            QuestGiverData turnin = RetrieveBlockValue<QuestGiverData>(TURN_IN_OPTION);
-            if(turnin == null)
+            QuestGiver giver = RetrieveBlockValue<QuestGiver>(TURN_IN_OPTION);
+
+            if (giver == null)
             {
-                ConsoleLogger.LogError(this, "Turn-In method is null");
+                ConsoleLogger.LogError(this, "Turn-In giver is null");
                 return;
             }
-            scope.Get<IAcquisitionModule>().SetTurnInMethod(turnin);
+
+            string guid = AssetDatabase.AssetPathToGUID(AssetDatabase.GetAssetPath(giver));
+            scope.Get<IAcquisitionModule>().SetTurnInMethod(guid);
         }
     }
 }

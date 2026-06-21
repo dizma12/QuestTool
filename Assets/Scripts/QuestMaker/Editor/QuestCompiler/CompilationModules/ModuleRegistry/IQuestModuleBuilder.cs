@@ -43,7 +43,6 @@ namespace QuestMaker.Editor.CompilationModules
     }
     internal interface IQuestInfoModule : IQuestModule
     {
-        public void SetQuestName(string name);
         public void SetQuestDescription(string desc);
         public void SetQuestType(QuestType type);
 
@@ -55,8 +54,8 @@ namespace QuestMaker.Editor.CompilationModules
 
     internal interface IAcquisitionModule : IQuestModule
     {
-        public void SetAcquisitionMethod(QuestGiverData data);
-        public void SetTurnInMethod(QuestGiverData data);
+        public void SetAcquisitionMethod(string giverGuid);
+        public void SetTurnInMethod(string giverGuid);
     }
     internal interface IInGameTimeConstraintModule : IQuestModule
     {

@@ -1,8 +1,9 @@
-﻿using QuestMaker.Domain;
-using QuestMaker.Domain.Quests;
+using QuestMaker.Domain;
 using QuestMaker.Editor.Assets.Scripts.QuestMaker.Editor.QuestCompiler.CompilationModules;
 using QuestMaker.Editor.CompilationModules;
+using QuestMaker.Runtime.Game;
 using Unity.GraphToolkit.Editor;
+using UnityEditor;
 
 namespace QuestMaker.Editor.Nodes
 {
@@ -11,26 +12,28 @@ namespace QuestMaker.Editor.Nodes
     internal class AcquisitionBlockNode : QMBaseBlockNode
     {
         public const string ACQUISITION_OPTION = "ACQUISITION_OPTION";
-        
+
         protected override void OnDefineOptions(IOptionDefinitionContext context)
         {
-            context.AddOption(ACQUISITION_OPTION, typeof(QuestGiverData))
+            context.AddOption(ACQUISITION_OPTION, typeof(QuestGiver))
                 .WithDefaultValue(null)
-                .WithDisplayName("Hand-in Method")
-                .WithTooltip("The method which you acquire the quest")
+                .WithDisplayName("Hand-in Giver")
+                .WithTooltip("*** NEED TO MANUALLY DRAG THE PREFAB TO SLOT CAN'T FIND IT FROM UNITY SEARCH ***")
                 .Build();
-
         }
+
         public override void Compose(ModuleScope scope)
         {
-            QuestGiverData acq = RetrieveBlockValue<QuestGiverData>(ACQUISITION_OPTION);
+            QuestGiver giver = RetrieveBlockValue<QuestGiver>(ACQUISITION_OPTION);
 
-            if (acq == null)
+            if (giver == null)
             {
-                ConsoleLogger.LogError(this, "Acquisition method is null");
+                ConsoleLogger.LogError(this, "Acquisition giver is null");
                 return;
             }
-            scope.Get<IAcquisitionModule>().SetAcquisitionMethod(acq);
+
+            string guid = AssetDatabase.AssetPathToGUID(AssetDatabase.GetAssetPath(giver));
+            scope.Get<IAcquisitionModule>().SetAcquisitionMethod(guid);
         }
     }
 }

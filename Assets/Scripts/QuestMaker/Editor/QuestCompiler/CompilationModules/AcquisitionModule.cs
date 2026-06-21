@@ -1,5 +1,4 @@
 ﻿using QuestMaker.Domain;
-using QuestMaker.Domain.Quests;
 using QuestMaker.Editor.CompilationModules;
 
 
@@ -7,34 +6,25 @@ namespace QuestMaker.Editor.Assets.Scripts.QuestMaker.Editor.QuestCompiler.Compi
 {
     internal class AcquisitionModule : IQuestModuleBuilder, IAcquisitionModule
     {
-        private QuestGiverData _acquisition = null;
-        private QuestGiverData _turnIn = null;
-        
+        private string _handInGuid = null;
+        private string _turnInGuid = null;
+
         public void Build(QuestSO quest)
         {
-            if (_acquisition != null)
-            {
-                _acquisition.AddHandInQuest(quest);
-                quest.HandInMethod = _acquisition;
-            }
-
-            if (_turnIn != null)
-            {
-                _turnIn.AddTurnInQuest(quest);
-                quest.TurnInMethod = _turnIn;
-            }
+            if (!string.IsNullOrEmpty(_handInGuid)) quest.SetHandInGiver(_handInGuid);
+            if (!string.IsNullOrEmpty(_turnInGuid)) quest.SetTurnInGiver(_turnInGuid);
         }
 
-        public void SetAcquisitionMethod(QuestGiverData data)
+        public void SetAcquisitionMethod(string giverGuid)
         {
-            if (data == null) return;
-            _acquisition = data;
+            if (string.IsNullOrEmpty(giverGuid)) return;
+            _handInGuid = giverGuid;
         }
 
-        public void SetTurnInMethod(QuestGiverData data)
+        public void SetTurnInMethod(string giverGuid)
         {
-            if(data == null) return;
-            _turnIn = data;
+            if (string.IsNullOrEmpty(giverGuid)) return;
+            _turnInGuid = giverGuid;
         }
     }
 }

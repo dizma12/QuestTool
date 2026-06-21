@@ -61,6 +61,26 @@ namespace QuestMaker.Runtime
             return quest;
         }
 
+        public IReadOnlyList<Quest> GetHandInQuests(string giverGuid)
+        {
+            List<Quest> result = new();
+            if (string.IsNullOrEmpty(giverGuid)) return result;
+
+            result = _questMap.Values.Where(q => q.HandInGiverGuid.Equals(giverGuid)).ToList();
+
+            return result;
+        }
+
+        public IReadOnlyList<Quest> GetTurnInQuests(string giverGuid)
+        {
+            List<Quest> result = new();
+            if (string.IsNullOrEmpty(giverGuid)) return result;
+
+            result = _questMap.Values.Where(q => q.TurnInGiverGuid.Equals(giverGuid)).ToList();
+
+            return result;
+        }
+
         public bool TryStartQuest(string questID)
         {
             if (string.IsNullOrEmpty(questID))
@@ -78,7 +98,6 @@ namespace QuestMaker.Runtime
             {
                 quest.Start();
                 quest.CanFinish += HandleQuestCanFinish;
-                quest.Completed += HandleQuestCompleted;
 
                 _questEventBus.FireQuestStarted(quest);
                 return true;
@@ -88,10 +107,7 @@ namespace QuestMaker.Runtime
         private void HandleQuestCanFinish(Quest quest)
         {
             _questEventBus.FireQuestCanFinish(quest);
-        }
-        private void HandleQuestCompleted(Quest quest)
-        {
-            _questEventBus.FireQuestCompleted(quest);
+            quest.CanFinish -= HandleQuestCanFinish;
         }
 
         public bool TryTurnInQuest(string questID)
@@ -103,7 +119,7 @@ namespace QuestMaker.Runtime
             }
             if (!_questMap.TryGetValue(questID, out Quest quest))
             {
-                ConsoleLogger.LogError(this, "QuestMap doesnt contain the questID.");
+                ConsoleLogger.LogError(this, $"QuestMap doesnt contain the questID: {questID}.");
                 return false;
             }
             if (quest.Status != QuestStatus.CAN_FINISH) return false;
@@ -205,7 +221,6 @@ namespace QuestMaker.Runtime
         }
 
         #region Helpers
-
 
         private void LoadQuestMap()
         {

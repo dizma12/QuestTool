@@ -8,13 +8,11 @@ namespace QuestMaker.Editor.CompilationModules
 #pragma warning disable CS0618 // disables obsolete warning for QuestType.Hidden.
     internal class QuestInfoModule : IQuestModuleBuilder, IQuestInfoModule, ISpecialEventModule
     {
-        private string _qName = string.Empty;
         private string _qDesc = string.Empty;
         private QuestType _qType = QuestType.Hidden;
         private List<SpecialEventData> _specialEvents;
         public void Build(QuestSO quest)
         {
-            quest.ID = _qName;
             quest.Description = _qDesc;
             quest.QuestType = _qType;
 
@@ -28,13 +26,6 @@ namespace QuestMaker.Editor.CompilationModules
             if (string.IsNullOrEmpty(desc)) return;
 
             _qDesc = desc;
-        }
-
-        public void SetQuestName(string name)
-        {
-            if (string.IsNullOrEmpty(name)) return;
-
-            _qName = name;
         }
 
         public void SetQuestType(QuestType type)

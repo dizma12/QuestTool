@@ -11,7 +11,6 @@ namespace QuestMaker.Editor.Nodes
     [Serializable]
     internal class ObjectiveNode : QMBaseContextNode
     {
-        public const string SPECIAL_EVENT_PORT = "Special_Event_Port";
         public const string OBJECTIVE_FLOW_PORT = "OBJECTIVE_FLOW_PORT";
         public const string OBJECTIVE_DESCRIPTION = "OBJECTIVE_DESCRIPTION";
 
@@ -26,12 +25,6 @@ namespace QuestMaker.Editor.Nodes
                    .WithDataType(typeof(IObjectiveFlowHelper))
                    .WithDisplayName("Next Objective")
                    .WithConnectorUI(PortConnectorUI.Arrowhead)
-                   .Build();
-
-            context.AddOutputPort(SPECIAL_EVENT_PORT)
-                   .WithDataType(typeof(ISpecialEventNode))
-                   .WithDisplayName("Special Event")
-                   .WithConnectorUI(PortConnectorUI.Circle)
                    .Build();
 
             base.OnDefinePorts(context);
@@ -53,7 +46,6 @@ namespace QuestMaker.Editor.Nodes
             if (!ProcessBlocks(reg))
                 return false;
 
-            CheckForSpecialEvents(reg);
             ProcessSubObjectiveNodes(reg);
 
             return true;
@@ -89,31 +81,6 @@ namespace QuestMaker.Editor.Nodes
             }
 
             return true;
-        }
-
-        protected virtual void CheckForSpecialEvents(ModuleBuilderRegistry reg)
-        {
-            IPort specialEventPort = GetOutputPortByName(SPECIAL_EVENT_PORT);
-            if (!specialEventPort.IsConnected) return;
-
-            List<IPort> connected = new();
-            specialEventPort.GetConnectedPorts(connected);
-
-            if (connected.Count > 1)
-            {
-                ConsoleLogger.LogError(this, "Cannot have more than 1 special event connected to an objective node.");
-                return;
-            }
-
-            foreach (var port in connected)
-            {
-                INode node = port.GetNode();
-                if (node == null || node is not QMSpecialEventNode specialEventNode) continue;
-
-                // Special event node also receives a scope bound to the objective module
-                ModuleScope scope = new(module, reg);
-                specialEventNode.Compose(scope);
-            }
         }
     }
 }

@@ -10,7 +10,6 @@ namespace QuestMaker.Editor.Nodes
     internal class QMStartingNode : QMBaseNode
     {
         public const string QUEST_DESC_OPTION = "QUEST_DESC_OPTION";
-        public const string QUEST_NAME_OPTION = "QUEST_NAME_OPTION";
         public const string QUEST_TYPE_OPTION = "QUEST_TYPE_OPTION";
 
         public const string SPECIAL_EVENT_PORT = "SPECIAL_EVENT_PORT";
@@ -25,12 +24,6 @@ namespace QuestMaker.Editor.Nodes
                 .WithDisplayName("Quest Type")
                 .WithDefaultValue(QuestType.Main)
                 .WithTooltip("The type of the quest that is used to categorize it at runtime.")
-                .Build();
-
-            context.AddOption(QUEST_NAME_OPTION, typeof(string))
-                .WithDisplayName("Name")
-                .WithDefaultValue(string.Empty)
-                .WithTooltip("The name of the quest.")
                 .Build();
 
             context.AddOption(QUEST_DESC_OPTION, typeof(string))
@@ -72,9 +65,6 @@ namespace QuestMaker.Editor.Nodes
 
             if (GetNodeOptionByName(QUEST_TYPE_OPTION).TryGetValue(out QuestType type))
                 module.SetQuestType(type);
-
-            if (GetNodeOptionByName(QUEST_NAME_OPTION).TryGetValue(out string name))
-                module.SetQuestName(name);
 
             if (GetNodeOptionByName(QUEST_DESC_OPTION).TryGetValue(out string desc))
                 module.SetQuestDescription(desc);

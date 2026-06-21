@@ -18,7 +18,7 @@ namespace QuestMaker.Runtime.Quests
         //Events
         public event Action<Quest> Changed;
         public event Action<Quest> CanFinish;
-        public event Action<Quest> Completed;
+
 
         //Public properties
         public bool IsFinished { get; protected set; } = false;
@@ -49,6 +49,8 @@ namespace QuestMaker.Runtime.Quests
             }
         }
         public IReadOnlyCollection<ObjectiveData> Objectives => _questData.Objectives;
+        public string HandInGiverGuid => _questData.HandInGiverGuid;
+        public string TurnInGiverGuid => _questData.TurnInGiverGuid;
     
 
         //SO Data
@@ -117,8 +119,6 @@ namespace QuestMaker.Runtime.Quests
             if (Status != QuestStatus.CAN_FINISH) return;
 
             SetQuestStatus(QuestStatus.COMPLETED);
-            Completed?.Invoke(this);
-
             ConsoleLogger.Log(this, $"Quest with ID: {ID} completed!");
         }
 

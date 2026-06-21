@@ -1,3 +1,4 @@
+using QuestMaker.Domain.Helpers;
 using QuestMaker.Domain.Objectives;
 using QuestMaker.Domain.Quests;
 using QuestMaker.Domain.SpecialEvents;
@@ -20,15 +21,8 @@ namespace QuestMaker.Domain
 
             }
         }
-        public virtual string ID
-        {
-            get => _qName;
-            set
-            {
-                if (string.IsNullOrEmpty(_qName) && !string.IsNullOrEmpty(value))
-                    _qName = value;
-            }
-        }
+        public virtual string ID => name;
+
         public string Description { get; set; } = string.Empty;
         public IReadOnlyList<ObjectiveData> Objectives => _objectives;
 
@@ -41,24 +35,8 @@ namespace QuestMaker.Domain
                 _prerequisites = value;
             }
         }
-        public QuestGiverData HandInMethod 
-        { 
-            get => _questHandInMethod; 
-            set
-            {
-                if(value == null || _questHandInMethod == value) return;
-                _questHandInMethod = value;
-            }
-        }
-        public QuestGiverData TurnInMethod
-        {
-            get => _questTurnInMethod;
-            set
-            {
-                if (value == null || _questTurnInMethod == value) return;
-                _questTurnInMethod = value;
-            }
-        }
+        public string HandInGiverGuid => _handInGiverGuid;
+        public string TurnInGiverGuid => _turnInGiverGuid;
         public RewardData Rewards
         {
             get => _rewards;
@@ -74,21 +52,17 @@ namespace QuestMaker.Domain
 
             set
             {
-                //if (_specialEvent.Equals(default) && !value.Equals(default)) 
-                    _specialEvent = value;
+                _specialEvent = value;
             }
         }
-        [SerializeField, HideInInspector]
-        protected string _qName = string.Empty;
-
         [SerializeReference]
         protected List<ObjectiveData> _objectives;
 
-       
+
         [SerializeField]
         protected QuestType _qType = QuestType.Hidden;
 
-        
+
         [SerializeReference]
         protected PrerequisiteData _prerequisites = null;
 
@@ -98,11 +72,11 @@ namespace QuestMaker.Domain
         [SerializeReference]
         protected SpecialEventData _specialEvent = null;
 
-        [SerializeReference]
-        protected QuestGiverData _questHandInMethod = null;
-        
-        [SerializeReference]
-        protected QuestGiverData _questTurnInMethod = null;
+        [SerializeField, ReadOnlyInspector]
+        protected string _handInGiverGuid = string.Empty;
+
+        [SerializeField, ReadOnlyInspector]
+        protected string _turnInGiverGuid = string.Empty;
 
 
         public void AddObjective(ObjectiveData obj)
@@ -115,10 +89,23 @@ namespace QuestMaker.Domain
             ConsoleLogger.Log(this, $"Objective {obj.ID} added!");
         }
 
-        private void OnValidate()
+#if UNITY_EDITOR
+        public void Rename(string newName)
         {
-            _qName = name;
+            if (string.IsNullOrEmpty(newName)) return;
+            name = newName;
         }
+
+        public void SetHandInGiver(string guid)
+        {
+            if (!string.IsNullOrEmpty(guid)) _handInGiverGuid = guid;
+        }
+
+        public void SetTurnInGiver(string guid)
+        {
+            if (!string.IsNullOrEmpty(guid)) _turnInGiverGuid = guid;
+        }
+#endif
     }
 #pragma warning restore CS0618
 }

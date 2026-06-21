@@ -79,7 +79,11 @@ namespace QuestMaker.Runtime.UI
             {
                 displayStrings.Add(step.ProgressText);
             }
-            questText.text = $"{quest.ID}: {Environment.NewLine}{string.Join(Environment.NewLine, displayStrings)}";
+            questText.text = $"{quest.ID}:{Environment.NewLine}{quest.CurrentObjective.Description}{Environment.NewLine}{string.Join(Environment.NewLine, displayStrings)}";
+
+            //Text Format-> Quest Title
+                          //Objective Description
+                          //Steps.
         }
     }
 }

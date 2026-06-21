@@ -14,4 +14,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: QuestMaker.Domain::QuestMaker.Domain.Item
   _id: 60386d5b4cc89c241ba82336d4048113
   _itemName: YellowCrystal
-  _prefab: {fileID: 0}
+  _prefab: {fileID: 6838379035844735188, guid: cb5edda87c6c25940b7ef697cab11e25, type: 3}

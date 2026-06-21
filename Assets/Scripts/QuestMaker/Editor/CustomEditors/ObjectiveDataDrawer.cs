@@ -14,7 +14,6 @@ namespace QuestMaker.Editor.CustomEditors
 
             var descProp = property.FindPropertyRelative("desc");
             var stepsProp = property.FindPropertyRelative("_steps");
-            var eventsProp = property.FindPropertyRelative("_specialEvents");
 
             float y = position.y;
 
@@ -29,14 +28,6 @@ namespace QuestMaker.Editor.CustomEditors
             EditorGUI.PropertyField(rect, stepsProp, true);
             y += stepsHeight + 2;
 
-            // Only draw Special Events if not empty
-            if (eventsProp != null && eventsProp.arraySize > 0)
-            {
-                float eventsHeight = EditorGUI.GetPropertyHeight(eventsProp, true);
-                rect = new Rect(position.x, y, position.width, eventsHeight);
-                EditorGUI.PropertyField(rect, eventsProp, true);
-            }
-
             EditorGUI.EndProperty();
         }
 
@@ -46,13 +37,9 @@ namespace QuestMaker.Editor.CustomEditors
 
             var descProp = property.FindPropertyRelative("desc");
             var stepsProp = property.FindPropertyRelative("_steps");
-            var eventsProp = property.FindPropertyRelative("_specialEvents");
 
             height += EditorGUI.GetPropertyHeight(descProp, true) + 2;
             height += EditorGUI.GetPropertyHeight(stepsProp, true) + 2;
-
-            if (eventsProp != null && eventsProp.arraySize > 0)
-                height += EditorGUI.GetPropertyHeight(eventsProp, true) + 2;
 
             return height;
         }

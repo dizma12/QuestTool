@@ -1,4 +1,3 @@
-using QuestMaker.Domain.SpecialEvents;
 using QuestMaker.Domain.Steps;
 using System;
 using System.Collections.Generic;
@@ -17,8 +16,6 @@ namespace QuestMaker.Domain.Objectives
         [SerializeReference]
         private List<QuestStepData> _steps = null;
 
-        [SerializeField]
-        private List<SpecialEventData> _specialEvents = null;
         public string ID
         {
             get
@@ -56,16 +53,6 @@ namespace QuestMaker.Domain.Objectives
             }
         }
 
-        public IReadOnlyList<SpecialEventData> SpecialEvents
-        {
-            get => _specialEvents;
-            set
-            {
-                if ((_specialEvents == null || !_specialEvents.Any()) && value != null)
-                    _specialEvents = value.ToList();
-            }
-        }
-
         /// <summary>
         /// Adds a QuestStepData to steps collection if it doesnt allready exists.
         /// </summary>
@@ -77,19 +64,6 @@ namespace QuestMaker.Domain.Objectives
             if (step == null || _steps.Contains(step)) return;
 
             _steps.Add(step);
-        }
-
-        /// <summary>
-        /// Adds a QuestStepData to steps collection if it doesnt allready exists.
-        /// </summary>
-        /// <param name="step"></param>
-        public void AddSpecialEvent(SpecialEventData eventdata)
-        {
-            _specialEvents ??= new();
-
-            if (eventdata.Equals(default)) return;
-
-            _specialEvents.Add(eventdata);
         }
 
     }
