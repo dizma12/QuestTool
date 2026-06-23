@@ -242,11 +242,11 @@ MonoBehaviour:
     - rid: 1019
       type: {class: 'Constant`1[[QuestMaker.Runtime.Game.QuestGiver, QuestMaker.Runtime]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
       data:
-        m_Value: {fileID: 6363461478000096533, guid: 7bb4b5fe0a0a12c468e6c6ccf1c1e9a5, type: 3}
+        m_Value: {fileID: 6363461478000096533, guid: 0b32d0742bd2d944cab7589649ccf3b8, type: 3}
     - rid: 1020
       type: {class: 'Constant`1[[QuestMaker.Runtime.Game.QuestGiver, QuestMaker.Runtime]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
       data:
-        m_Value: {fileID: 6363461478000096533, guid: 7bb4b5fe0a0a12c468e6c6ccf1c1e9a5, type: 3}
+        m_Value: {fileID: 6363461478000096533, guid: 0b32d0742bd2d944cab7589649ccf3b8, type: 3}
     - rid: 1021
       type: {class: UserBlockNodeModelImp, ns: Unity.GraphToolkit.Editor.Implementation, asm: UnityEditor.GraphToolkitModule}
       data:

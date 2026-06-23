@@ -11,7 +11,8 @@ namespace QuestMaker.Runtime.Events
         public event Action<Quest> OnQuestCanFinish;
         public event Action<Quest> OnQuestCompleted;
 
-
+        public event Action OnNewQuestAdded;
+        public event Action OnPrerequisitesChanged;
         public void FireSpecialEvent(string eventID)
         {
             if (string.IsNullOrEmpty(eventID)) return;
@@ -35,5 +36,10 @@ namespace QuestMaker.Runtime.Events
 
             OnQuestCompleted?.Invoke(quest);
         }
+
+        public void FirePrerequisitesChanged()
+            => OnPrerequisitesChanged?.Invoke();
+        public void FireNewQuestAdded()
+            => OnNewQuestAdded?.Invoke();
     }
 }

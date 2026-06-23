@@ -822,7 +822,7 @@ MonoBehaviour:
     - rid: 1918137001990160750
       type: {class: 'Constant`1[[QuestMaker.Runtime.Game.QuestGiver, QuestMaker.Runtime]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
       data:
-        m_Value: {fileID: 6363461478000096533, guid: 09a66f2a1949cca4882c48abf667896d, type: 3}
+        m_Value: {fileID: 6363461478000096533, guid: 85de4c5e744b7394b8a7377453e0800c, type: 3}
     - rid: 1918137001990160751
       type: {class: AcquisitionBlockNode, ns: QuestMaker.Editor.Nodes, asm: QuestMakerEditor}
       data: 
@@ -867,7 +867,7 @@ MonoBehaviour:
     - rid: 1918137001990160753
       type: {class: 'Constant`1[[QuestMaker.Runtime.Game.QuestGiver, QuestMaker.Runtime]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
       data:
-        m_Value: {fileID: 6363461478000096533, guid: 09a66f2a1949cca4882c48abf667896d, type: 3}
+        m_Value: {fileID: 6363461478000096533, guid: 85de4c5e744b7394b8a7377453e0800c, type: 3}
     - rid: 1918137001990160754
       type: {class: TurnInBlockNode, ns: QuestMaker.Editor.Nodes, asm: QuestMakerEditor}
       data: 

@@ -80,12 +80,13 @@ namespace QuestMaker.Runtime
             return quest;
         }
         public bool QuestExistsOnRegistry(string id) => _questMap.ContainsKey(id);
+
         public IReadOnlyList<Quest> GetHandInQuests(string giverGuid)
         {
             List<Quest> result = new();
             if (string.IsNullOrEmpty(giverGuid)) return result;
 
-            result = _questMap.Values.Where(q => q.HandInGiverGuid.Equals(giverGuid)).ToList();
+            result = _questMap.Values.Where(q => q != null && q.HandInGiverGuid.Equals(giverGuid)).ToList();
 
             return result;
         }
@@ -95,7 +96,7 @@ namespace QuestMaker.Runtime
             List<Quest> result = new();
             if (string.IsNullOrEmpty(giverGuid)) return result;
 
-            result = _questMap.Values.Where(q => q.TurnInGiverGuid.Equals(giverGuid)).ToList();
+            result = _questMap.Values.Where(q => q != null && q.TurnInGiverGuid.Equals(giverGuid)).ToList();
 
             return result;
         }
@@ -194,6 +195,7 @@ namespace QuestMaker.Runtime
             {
                 CheckQuestPrerequisites(quest);
             }
+            _questEventBus.FirePrerequisitesChanged();
         }
 
         /// <summary>

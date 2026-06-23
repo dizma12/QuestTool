@@ -82,7 +82,7 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_Sprite: {fileID: -9095717837082945937, guid: 207ee8102dd4143d288186ef0be518ee, type: 3}
-  m_Color: {r: 0.88943696, g: 1, b: 0, a: 1}
+  m_Color: {r: 0.0053820293, g: 0.4245283, b: 0, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -103,7 +103,7 @@ GameObject:
   - component: {fileID: 6363461478000096533}
   - component: {fileID: 6723128609563324777}
   m_Layer: 0
-  m_Name: BaseQuestGiver_ONLY_USED_FOR_DUPLICATION
+  m_Name: JAJAJA
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
