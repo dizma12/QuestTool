@@ -24,6 +24,7 @@ namespace QuestMaker.Runtime.Quests
         public bool IsFinished { get; protected set; } = false;
         public string ID { get; protected set; }
         public QuestStatus Status { get; protected set; } = QuestStatus.MISSING_REQUIRMENTS;
+
         public ObjectiveData CurrentObjective
         {
             get
@@ -35,6 +36,7 @@ namespace QuestMaker.Runtime.Quests
             }
         }
         public IReadOnlyCollection<QuestStep> CurrentSteps => _currentSteps;
+
         public IReadOnlyCollection<QuestStep> AllSteps
         {
             get
@@ -48,10 +50,13 @@ namespace QuestMaker.Runtime.Quests
                 return steps;
             }
         }
-        public IReadOnlyCollection<ObjectiveData> Objectives => _questData.Objectives;
+
+        public IReadOnlyCollection<ObjectiveData> AllObjectives => _questData.Objectives;
+
         public string HandInGiverGuid => _questData.HandInGiverGuid;
         public string TurnInGiverGuid => _questData.TurnInGiverGuid;
-    
+
+        public IReadOnlyList<string> NextInChain => _nextInChain;
 
         //SO Data
         protected readonly QuestSO _questData;
@@ -60,12 +65,13 @@ namespace QuestMaker.Runtime.Quests
         protected readonly Dictionary<int, QuestStep[]> _objectives = new();
         protected QuestStep[] _currentSteps = new QuestStep[0];
         protected int _currentObjectiveIndex = 0;
-
+        protected IQuestEventSource _questEventBus = null;
         //Quest Info
         public readonly QuestType _qType = QuestType.Hidden;
         public readonly PrerequisiteData _prerequisites = null;
         public readonly RewardData _rewards = null;
         public readonly SpecialEventData _specialEvent = null;
+        protected List<string> _nextInChain = new();
 
         public Quest(QuestSO data, IQuestEventSource eventbus)
         {
@@ -79,8 +85,7 @@ namespace QuestMaker.Runtime.Quests
             _prerequisites = data.Prerequisites;
             _rewards = data.Rewards;
             _specialEvent = data.SpecialEvent;
-
-            CreateStepsForObjectives(eventbus);
+            _questEventBus = eventbus;
         }
 
         private void CreateStepsForObjectives(IQuestEventSource eventbus)
@@ -100,9 +105,12 @@ namespace QuestMaker.Runtime.Quests
 
             }
         }
+
         public void Start()
         {
-            if(Status != QuestStatus.CAN_START) return; 
+            if(Status != QuestStatus.CAN_START) return;
+
+            CreateStepsForObjectives(_questEventBus);
 
             if (_objectives == null || !_objectives.Any())
                 throw new NullReferenceException($"[{ID}] objectives are null");
@@ -150,6 +158,12 @@ namespace QuestMaker.Runtime.Quests
                 Status = status;
         }
 
+        public void SetNextInChain(string nextQuestID)
+        {
+            if(string.IsNullOrEmpty(nextQuestID) || _nextInChain.Contains(nextQuestID)) return;
+
+            _nextInChain.Add(nextQuestID);
+        }
 
         //Priavate Helpers
         private bool EvaluateObjective() => _objectives[_currentObjectiveIndex].All(step => step.IsComplete);
@@ -160,7 +174,7 @@ namespace QuestMaker.Runtime.Quests
 
             DeactivateStep(step);
             bool isObjectiveDone = EvaluateObjective();
-            ConsoleLogger.Log(this, $"{ID} -> A step was finished. Objective finished= {isObjectiveDone}");
+            //ConsoleLogger.Log(this, $"{ID} -> A step was finished. Objective finished= {isObjectiveDone}");
 
             if (isObjectiveDone)
             {

@@ -8,8 +8,8 @@ namespace QuestMaker.Runtime.Events
 {
     internal class PlayerEventBus : CustomEventBus
     {
-        public event Action PlayerChanged;
+        public event Action PlayerLevelChanged;
 
-        public void FireOnPlayerChanged() => PlayerChanged?.Invoke();
+        public void FireOnPlayerLevelChanged() => PlayerLevelChanged?.Invoke();
     }
 }

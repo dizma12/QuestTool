@@ -103,7 +103,7 @@ GameObject:
   - component: {fileID: 6363461478000096533}
   - component: {fileID: 6723128609563324777}
   m_Layer: 0
-  m_Name: QuestGiver
+  m_Name: BaseQuestGiver_ONLY_USED_FOR_DUPLICATION
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -118,7 +118,7 @@ Transform:
   m_GameObject: {fileID: 6942799704417388109}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -4.8, y: 3.3, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -137,7 +137,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5940a31090e70764ab96fa0c9ef0301c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: QuestMaker.Runtime::QuestMaker.Runtime.Game.QuestGiver
-  _id: 8ea4da2b40c7ae54888a1df9ccbe54c7
+  _id: 8fe50eafef6409b4ab4a21f4364e4d66
 --- !u!58 &6723128609563324777
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -173,4 +173,4 @@ CircleCollider2D:
   m_CompositeOperation: 0
   m_CompositeOrder: 0
   m_Offset: {x: 0, y: 0}
-  m_Radius: 1
+  m_Radius: 2

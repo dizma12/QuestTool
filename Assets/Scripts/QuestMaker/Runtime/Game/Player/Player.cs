@@ -44,7 +44,7 @@ namespace QuestMaker.Runtime.Game
 
         private void Start()
         {
-            _playerBus ??= ReferenceManager.Instance.GetReference<GameEventManager>().RequestBus<PlayerEventBus>();
+            _playerBus ??= ReferenceManager.Instance.RequestReference<GameEventManager>().RequestBus<PlayerEventBus>();
         }
 
         [Command()]
@@ -85,7 +85,7 @@ namespace QuestMaker.Runtime.Game
                 if (_currentExp >= _expToNextLevel)
                     AddExp(0);
                 else
-                    _playerBus.FireOnPlayerChanged();
+                    _playerBus.FireOnPlayerLevelChanged();
 
             }
         }

@@ -19,6 +19,7 @@ namespace QuestMaker.Runtime
         private Dictionary<string, Quest> _questMap = null;
         private IQuestEventSource _gameEventBus = null;
         private QuestEventBus _questEventBus = null;
+        private PlayerEventBus _playerEventBus = null;
 
         private Player _player = null;
         public IReadOnlyList<Quest> ActiveQuests => _questMap.Values.Where(q => q.Status == QuestStatus.IN_PROGRESS).ToList();
@@ -28,30 +29,48 @@ namespace QuestMaker.Runtime
             if (!SubscribeSelf())
                 ConsoleLogger.LogError(this, "Failed to Subscribe self on ReferenceManager");
 
-            GameEventManager mng = ReferenceManager.Instance.GetReference<GameEventManager>();
-
+            //Events
+            GameEventManager mng = ReferenceManager.Instance.RequestReference<GameEventManager>();
             if (mng == null)
             {
                 ConsoleLogger.LogError(this, "Failed to find reference of type GameEventManager");
                 return;
             }
-
             _gameEventBus = mng.RequestBus<GameEventBus>();
             _questEventBus = mng.RequestBus<QuestEventBus>();
+            _playerEventBus = mng.RequestBus<PlayerEventBus>();
 
+            if (_playerEventBus == null)
+            {
+                ConsoleLogger.LogError(this, "Failed to retrieve Player Event Bus Reference");
+                return;
+            }
+            _playerEventBus.PlayerLevelChanged += CheckAllPrerequisites;
+
+            //Initialize
             LoadQuestMap();
-
-           
+            SetQuestChains();
+            
         }
 
         private void Start()
         {
+            //Player
+            _player = ReferenceManager.Instance.RequestReference<Player>();
+            if (_player == null)
+            {
+                ConsoleLogger.LogError(this, "Failed to retrieve Player Reference");
+                return;
+            }
+
             CheckAllPrerequisites();
         }
-
         private void OnDisable()
         {
             UnsubscribeSelf();
+
+            if (_playerEventBus != null)
+                _playerEventBus.PlayerLevelChanged -= CheckAllPrerequisites; 
         }
 
         public Quest GetQuestByID(string id)
@@ -60,7 +79,7 @@ namespace QuestMaker.Runtime
                 ConsoleLogger.LogError(this, "Quest ID not Found.");
             return quest;
         }
-
+        public bool QuestExistsOnRegistry(string id) => _questMap.ContainsKey(id);
         public IReadOnlyList<Quest> GetHandInQuests(string giverGuid)
         {
             List<Quest> result = new();
@@ -126,6 +145,16 @@ namespace QuestMaker.Runtime
 
             quest.Complete();
             _questEventBus.FireQuestCompleted(quest);
+
+            //checks preqs for next Quest in chain.
+            if (quest.NextInChain != null && quest.NextInChain.Count > 0)
+            {
+                foreach(string next in quest.NextInChain)
+                {
+                    CheckQuestPrerequisites(GetQuestByID(next));
+                }
+            }
+
             return true;
         }
 
@@ -199,13 +228,6 @@ namespace QuestMaker.Runtime
             PrerequisiteData prereq = quest._prerequisites;
             if (prereq == null) return true;
 
-            _player ??= ReferenceManager.Instance.GetReference<Player>();
-            if (_player == null)
-            {
-                ConsoleLogger.LogError(this, "Failed to retrieve Player Reference");
-                return false;
-            }
-
             if (_player.Level < prereq.Level)
                 return false;
 
@@ -237,7 +259,26 @@ namespace QuestMaker.Runtime
             else
                 ConsoleLogger.Log(this, $"Loaded {_questMap.Count} quests");
         }
+        private void SetQuestChains()
+        {
+            foreach(Quest quest in _questMap.Values)
+            {
+                //Sets the next quest in chain
+                if (quest._prerequisites != null && quest._prerequisites.Quests != null && quest._prerequisites.Quests.Count > 0)
+                {
+                    foreach (string q in quest._prerequisites.Quests)
+                    {
+                        Quest required = GetQuestByID(q);
 
+                        if(required == null) continue;
+
+                        required.SetNextInChain(quest.ID);
+
+                        ConsoleLogger.Log(this, $"Quest {quest.ID} was set as next in chain for quest {q} ");
+                    }
+                }
+            }    
+        }
         private bool SubscribeSelf()
             => ReferenceManager.Instance.SubScribeReference<QuestManager>(this);
 

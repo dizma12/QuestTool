@@ -16,13 +16,13 @@ namespace QuestMaker.Runtime
         void Start()
         {
 
-            QuestEventBus qbus = ReferenceManager.Instance.GetReference<GameEventManager>().RequestBus<QuestEventBus>();
+            QuestEventBus qbus = ReferenceManager.Instance.RequestReference<GameEventManager>().RequestBus<QuestEventBus>();
 
             qbus.OnQuestStarted += HandleQuestStart;
         }
         private void HandleQuestStart(Quest quest)
         {
-            QuestManager qman = ReferenceManager.Instance.GetReference<QuestManager>();
+            QuestManager qman = ReferenceManager.Instance.RequestReference<QuestManager>();
             List<string> s = new();
             
             foreach(Quest q in qman.ActiveQuests)

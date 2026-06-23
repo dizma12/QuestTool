@@ -13,45 +13,46 @@ MonoBehaviour:
   m_Name: Collect_Yellow_Crystals
   m_EditorClassIdentifier: QuestMaker.Domain::QuestMaker.Domain.QuestSO
   _objectives:
-  - rid: 1918137001990160781
-  - rid: 1918137001990160782
+  - rid: 1918137047237787749
+  - rid: 1918137047237787750
   _qType: 0
   _prerequisites:
-    rid: 1918137001990160783
+    rid: 1918137047237787751
   _rewards:
-    rid: 1918137001990160784
+    rid: 1918137047237787752
   _specialEvent:
     rid: -2
-  _handInGiverGuid: 8fe50eafef6409b4ab4a21f4364e4d66
-  _turnInGiverGuid: 8fe50eafef6409b4ab4a21f4364e4d66
+  _handInGiverGuid: 7bb4b5fe0a0a12c468e6c6ccf1c1e9a5
+  _turnInGiverGuid: 7bb4b5fe0a0a12c468e6c6ccf1c1e9a5
   references:
     version: 2
     RefIds:
     - rid: -2
       type: {class: , ns: , asm: }
-    - rid: 1918137001990160781
+    - rid: 1918137047237787749
       type: {class: ObjectiveData, ns: QuestMaker.Domain.Objectives, asm: QuestMaker.Domain}
       data:
         id: Collect_1
         desc: In need of Yellow Crystals
         _steps:
-        - rid: 1918137001990160785
-    - rid: 1918137001990160782
+        - rid: 1918137047237787753
+    - rid: 1918137047237787750
       type: {class: ObjectiveData, ns: QuestMaker.Domain.Objectives, asm: QuestMaker.Domain}
       data:
         id: Slay_1
         desc: Kill Murlocs
         _steps:
-        - rid: 1918137001990160786
-    - rid: 1918137001990160783
+        - rid: 1918137047237787754
+    - rid: 1918137047237787751
       type: {class: PrerequisiteData, ns: QuestMaker.Domain, asm: QuestMaker.Domain}
       data:
-        _level: 1
+        _level: 5
         _items: []
         _reps: []
-        _quests: []
+        _quests:
+        - Collect_Crystals
         _inGameTimeConstraint: 0
-    - rid: 1918137001990160784
+    - rid: 1918137047237787752
       type: {class: RewardData, ns: QuestMaker.Domain, asm: QuestMaker.Domain}
       data:
         _exp: 500
@@ -60,14 +61,14 @@ MonoBehaviour:
         _reps:
         - _factionID: Undercity
           _amount: 100
-    - rid: 1918137001990160785
+    - rid: 1918137047237787753
       type: {class: CollectStepData, ns: QuestMaker.Domain.Steps, asm: QuestMaker.Domain}
       data:
         _stepId: Collect_[YellowCrystal]_10
         _collectable:
           _item: {fileID: 11400000, guid: 60386d5b4cc89c241ba82336d4048113, type: 2}
           _amount: 10
-    - rid: 1918137001990160786
+    - rid: 1918137047237787754
       type: {class: SlayStepData, ns: QuestMaker.Domain.Steps, asm: QuestMaker.Domain}
       data:
         stepId: Slay_[mrrrlggr]_10

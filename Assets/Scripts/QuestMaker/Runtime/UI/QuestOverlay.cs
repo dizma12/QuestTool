@@ -19,7 +19,7 @@ namespace QuestMaker.Runtime.UI
 
         private void OnEnable()
         {
-            _questBus ??= ReferenceManager.Instance.GetReference<GameEventManager>().RequestBus<QuestEventBus>();
+            _questBus ??= ReferenceManager.Instance.RequestReference<GameEventManager>().RequestBus<QuestEventBus>();
 
             _questBus.OnQuestStarted += HandleQuestStart;
             _questBus.OnQuestCanFinish += HandleQuestCanFinish;

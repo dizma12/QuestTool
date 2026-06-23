@@ -52,7 +52,7 @@ namespace QuestMaker.Runtime.Game
         }
 
 
-        public T GetReference<T>() where T : IGameReference
+        public T RequestReference<T>() where T : IGameReference
         {
             if(references.TryGetValue(typeof(T), out IGameReference reference))
             {

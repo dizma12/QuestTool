@@ -13,29 +13,29 @@ MonoBehaviour:
   m_Name: Collect_Crystals
   m_EditorClassIdentifier: QuestMaker.Domain::QuestMaker.Domain.QuestSO
   _objectives:
-  - rid: 1918137001990160778
+  - rid: 1918137047237787746
   _qType: 0
   _prerequisites:
     rid: -2
   _rewards:
-    rid: 1918137001990160779
+    rid: 1918137047237787747
   _specialEvent:
     rid: -2
-  _handInGiverGuid: 8fe50eafef6409b4ab4a21f4364e4d66
-  _turnInGiverGuid: 8fe50eafef6409b4ab4a21f4364e4d66
+  _handInGiverGuid: 7bb4b5fe0a0a12c468e6c6ccf1c1e9a5
+  _turnInGiverGuid: 7bb4b5fe0a0a12c468e6c6ccf1c1e9a5
   references:
     version: 2
     RefIds:
     - rid: -2
       type: {class: , ns: , asm: }
-    - rid: 1918137001990160778
+    - rid: 1918137047237787746
       type: {class: ObjectiveData, ns: QuestMaker.Domain.Objectives, asm: QuestMaker.Domain}
       data:
         id: Collect_1
         desc: In Need of crystals
         _steps:
-        - rid: 1918137001990160780
-    - rid: 1918137001990160779
+        - rid: 1918137047237787748
+    - rid: 1918137047237787747
       type: {class: RewardData, ns: QuestMaker.Domain, asm: QuestMaker.Domain}
       data:
         _exp: 500
@@ -44,7 +44,7 @@ MonoBehaviour:
         _reps:
         - _factionID: Undercity
           _amount: 100
-    - rid: 1918137001990160780
+    - rid: 1918137047237787748
       type: {class: CollectStepData, ns: QuestMaker.Domain.Steps, asm: QuestMaker.Domain}
       data:
         _stepId: Collect_[Crystal]_10

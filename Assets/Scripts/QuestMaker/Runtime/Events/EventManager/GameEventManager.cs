@@ -27,10 +27,6 @@ namespace QuestMaker.Runtime.Events
 
             if (!SubscribeSelf())
                 ConsoleLogger.LogWarning(this, $"Failed to subscribe self to ReferenceManager");
-
-            //CreateBus<GameEventBus>();
-            //CreateBus<QuestEventBus>();
-            //CreateBus<PlayerEventBus>();
         }
 
         private void OnDisable()
@@ -57,7 +53,7 @@ namespace QuestMaker.Runtime.Events
 
             T bus = new();
             _eventBuses.Add(type, bus);
-            ConsoleLogger.Log(this, $"Created new Event Bus of type {bus.GetType().Name}");
+            //ConsoleLogger.Log(this, $"Created new Event Bus of type {bus.GetType().Name}");
             return bus;
         }
 

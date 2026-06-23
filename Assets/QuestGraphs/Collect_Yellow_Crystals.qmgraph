@@ -80,7 +80,7 @@ MonoBehaviour:
           serializedVersion: 2
           Hash: e116068640a7f4de88c0bc66f96cc762
         m_Version: 2
-        m_Position: {x: 546.64996, y: 336.325}
+        m_Position: {x: 425.17834, y: 386.44772}
         m_Title: 
         m_Tooltip: 
         m_NodePreviewModel:
@@ -166,7 +166,7 @@ MonoBehaviour:
           serializedVersion: 2
           Hash: d96ef6a1a45e56317785344780ec27e6
         m_Version: 2
-        m_Position: {x: 643.4435, y: -153.19305}
+        m_Position: {x: 135.82095, y: -18.968056}
         m_Title: 
         m_Tooltip: 
         m_NodePreviewModel:
@@ -191,10 +191,13 @@ MonoBehaviour:
           m_Color: {r: 0, g: 0, b: 0, a: 0}
           m_HasUserColor: 0
         m_Blocks:
-        - rid: 1016
+        - rid: 1918137047237787714
+        - rid: 1918137047237787723
         m_BlockGuids:
         - serializedVersion: 2
-          Hash: f13afbb2bb48932bbe8c676d86e80c73
+          Hash: a25b4906a977684d58654d0738051a36
+        - serializedVersion: 2
+          Hash: 6d9d41b51e26e1a73855a8bf44df3f9f
         m_Subtitle: 
         m_Node:
           rid: 1015
@@ -236,59 +239,14 @@ MonoBehaviour:
     - rid: 1015
       type: {class: PrerequisiteNode, ns: QuestMaker.Editor.Nodes, asm: QuestMakerEditor}
       data: 
-    - rid: 1016
-      type: {class: UserBlockNodeModelImp, ns: Unity.GraphToolkit.Editor.Implementation, asm: UnityEditor.GraphToolkitModule}
-      data:
-        m_Guid:
-          m_Value0: 3139933336206260977
-          m_Value1: 8290256678141004990
-        m_HashGuid:
-          serializedVersion: 2
-          Hash: f13afbb2bb48932bbe8c676d86e80c73
-        m_Version: 2
-        m_Position: {x: 0, y: 0}
-        m_Title: UserBlockNodeModelImp
-        m_Tooltip: 
-        m_NodePreviewModel:
-          rid: -2
-        m_State: 0
-        m_InputConstantsById:
-          m_KeyList:
-          - __option_Block_Option
-          m_ValueList:
-          - rid: 1017
-        m_InputPortInfos:
-          expandedPortsById:
-            m_KeyList: []
-            m_ValueList: 
-        m_OutputPortInfos:
-          expandedPortsById:
-            m_KeyList: []
-            m_ValueList: 
-        m_Collapsed: 0
-        m_CurrentModeIndex: 0
-        m_ElementColor:
-          m_Color: {r: 0, g: 0, b: 0, a: 0}
-          m_HasUserColor: 0
-        m_ContextNodeModel:
-          rid: 1012
-        m_Node:
-          rid: 1018
-    - rid: 1017
-      type: {class: 'Constant`1[[System.Int32, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
-      data:
-        m_Value: 1
-    - rid: 1018
-      type: {class: LevelBlockNode, ns: QuestMaker.Editor.Nodes, asm: QuestMakerEditor}
-      data: 
     - rid: 1019
       type: {class: 'Constant`1[[QuestMaker.Runtime.Game.QuestGiver, QuestMaker.Runtime]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
       data:
-        m_Value: {fileID: 6363461478000096533, guid: 8fe50eafef6409b4ab4a21f4364e4d66, type: 3}
+        m_Value: {fileID: 6363461478000096533, guid: 7bb4b5fe0a0a12c468e6c6ccf1c1e9a5, type: 3}
     - rid: 1020
       type: {class: 'Constant`1[[QuestMaker.Runtime.Game.QuestGiver, QuestMaker.Runtime]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
       data:
-        m_Value: {fileID: 6363461478000096533, guid: 8fe50eafef6409b4ab4a21f4364e4d66, type: 3}
+        m_Value: {fileID: 6363461478000096533, guid: 7bb4b5fe0a0a12c468e6c6ccf1c1e9a5, type: 3}
     - rid: 1021
       type: {class: UserBlockNodeModelImp, ns: Unity.GraphToolkit.Editor.Implementation, asm: UnityEditor.GraphToolkitModule}
       data:
@@ -373,9 +331,9 @@ MonoBehaviour:
         m_LastKnownBounds:
           serializedVersion: 2
           x: -97
-          y: -301
-          width: 1148
-          height: 988
+          y: -416
+          width: 805
+          height: 1153
         m_GraphElementMetaData:
         - m_Guid:
             m_Value0: 10535401947440096889
@@ -550,7 +508,7 @@ MonoBehaviour:
           serializedVersion: 2
           Hash: 41a0f75e1cdb752afbc71ec52ebcb664
         m_Version: 2
-        m_Position: {x: 855.5899, y: -175.90414}
+        m_Position: {x: 512.8899, y: -172.45415}
         m_Title: 
         m_Tooltip: 
         m_NodePreviewModel:
@@ -729,7 +687,7 @@ MonoBehaviour:
           serializedVersion: 2
           Hash: 2d1a6ce44322b7ca2458a91b970c8c14
         m_Version: 2
-        m_Position: {x: 218.15, y: 331.43002}
+        m_Position: {x: 140.78375, y: 383.0736}
         m_Title: 
         m_Tooltip: 
         m_NodePreviewModel:
@@ -815,7 +773,7 @@ MonoBehaviour:
           serializedVersion: 2
           Hash: 6db3368100bc64bde37b75e65f1d3248
         m_Version: 2
-        m_Position: {x: 138.39752, y: -301.15753}
+        m_Position: {x: 139.54752, y: -416.15753}
         m_Title: 
         m_Tooltip: 
         m_NodePreviewModel:
@@ -969,4 +927,94 @@ MonoBehaviour:
           rid: 1918137001990160468
     - rid: 1918137001990160468
       type: {class: TurnInBlockNode, ns: QuestMaker.Editor.Nodes, asm: QuestMakerEditor}
+      data: 
+    - rid: 1918137047237787714
+      type: {class: UserBlockNodeModelImp, ns: Unity.GraphToolkit.Editor.Implementation, asm: UnityEditor.GraphToolkitModule}
+      data:
+        m_Guid:
+          m_Value0: 5577839706337008546
+          m_Value1: 3898434165641405784
+        m_HashGuid:
+          serializedVersion: 2
+          Hash: a25b4906a977684d58654d0738051a36
+        m_Version: 2
+        m_Position: {x: 0, y: 0}
+        m_Title: UserBlockNodeModelImp
+        m_Tooltip: 
+        m_NodePreviewModel:
+          rid: -2
+        m_State: 0
+        m_InputConstantsById:
+          m_KeyList:
+          - __option_Block_Option
+          m_ValueList:
+          - rid: 1918137047237787715
+        m_InputPortInfos:
+          expandedPortsById:
+            m_KeyList: []
+            m_ValueList: 
+        m_OutputPortInfos:
+          expandedPortsById:
+            m_KeyList: []
+            m_ValueList: 
+        m_Collapsed: 0
+        m_CurrentModeIndex: 0
+        m_ElementColor:
+          m_Color: {r: 0, g: 0, b: 0, a: 0}
+          m_HasUserColor: 0
+        m_ContextNodeModel:
+          rid: 1012
+        m_Node:
+          rid: 1918137047237787716
+    - rid: 1918137047237787715
+      type: {class: 'Constant`1[[QuestMaker.Domain.QuestSO, QuestMaker.Domain]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
+      data:
+        m_Value: {fileID: 11400000, guid: 2a3313b923411a7428ef0d5e1c61244d, type: 2}
+    - rid: 1918137047237787716
+      type: {class: QuestPrerequisiteBlockNode, ns: QuestMaker.Editor.Nodes, asm: QuestMakerEditor}
+      data: 
+    - rid: 1918137047237787723
+      type: {class: UserBlockNodeModelImp, ns: Unity.GraphToolkit.Editor.Implementation, asm: UnityEditor.GraphToolkitModule}
+      data:
+        m_Guid:
+          m_Value0: 12096991987425713517
+          m_Value1: 11475135861929563448
+        m_HashGuid:
+          serializedVersion: 2
+          Hash: 6d9d41b51e26e1a73855a8bf44df3f9f
+        m_Version: 2
+        m_Position: {x: 0, y: 0}
+        m_Title: UserBlockNodeModelImp
+        m_Tooltip: 
+        m_NodePreviewModel:
+          rid: -2
+        m_State: 0
+        m_InputConstantsById:
+          m_KeyList:
+          - __option_Block_Option
+          m_ValueList:
+          - rid: 1918137047237787724
+        m_InputPortInfos:
+          expandedPortsById:
+            m_KeyList: []
+            m_ValueList: 
+        m_OutputPortInfos:
+          expandedPortsById:
+            m_KeyList: []
+            m_ValueList: 
+        m_Collapsed: 0
+        m_CurrentModeIndex: 0
+        m_ElementColor:
+          m_Color: {r: 0, g: 0, b: 0, a: 0}
+          m_HasUserColor: 0
+        m_ContextNodeModel:
+          rid: 1012
+        m_Node:
+          rid: 1918137047237787725
+    - rid: 1918137047237787724
+      type: {class: 'Constant`1[[System.Int32, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
+      data:
+        m_Value: 5
+    - rid: 1918137047237787725
+      type: {class: LevelBlockNode, ns: QuestMaker.Editor.Nodes, asm: QuestMakerEditor}
       data: 

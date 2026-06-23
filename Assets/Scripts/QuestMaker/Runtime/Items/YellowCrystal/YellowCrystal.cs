@@ -15,7 +15,7 @@ namespace QuestMaker.Runtime
         {
             for (int i = 0; i < 10; i++)
             {
-                ReferenceManager.Instance.GetReference<GameEventManager>().RequestBus<GameEventBus>().FireItemCollected(item.ID);
+                ReferenceManager.Instance.RequestReference<GameEventManager>().RequestBus<GameEventBus>().FireItemCollected(item.ID);
             }
         }
     }

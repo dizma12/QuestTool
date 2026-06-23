@@ -95,9 +95,9 @@ MonoBehaviour:
         m_LastKnownBounds:
           serializedVersion: 2
           x: 164
-          y: -364
+          y: -585
           width: 1147
-          height: 1022
+          height: 1243
         m_GraphElementMetaData:
         - m_Guid:
             m_Value0: 12871352939159009919
@@ -708,7 +708,7 @@ MonoBehaviour:
           serializedVersion: 2
           Hash: 6c8aad5e47889e170d9e2cc72c810571
         m_Version: 2
-        m_Position: {x: 801.09753, y: -457.56}
+        m_Position: {x: 541.8875, y: -584.52}
         m_Title: 
         m_Tooltip: 
         m_NodePreviewModel:
@@ -822,7 +822,7 @@ MonoBehaviour:
     - rid: 1918137001990160750
       type: {class: 'Constant`1[[QuestMaker.Runtime.Game.QuestGiver, QuestMaker.Runtime]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
       data:
-        m_Value: {fileID: 6363461478000096533, guid: 8890da1d31dc3b240b653dfc85149929, type: 3}
+        m_Value: {fileID: 6363461478000096533, guid: 09a66f2a1949cca4882c48abf667896d, type: 3}
     - rid: 1918137001990160751
       type: {class: AcquisitionBlockNode, ns: QuestMaker.Editor.Nodes, asm: QuestMakerEditor}
       data: 
@@ -867,7 +867,7 @@ MonoBehaviour:
     - rid: 1918137001990160753
       type: {class: 'Constant`1[[QuestMaker.Runtime.Game.QuestGiver, QuestMaker.Runtime]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
       data:
-        m_Value: {fileID: 6363461478000096533, guid: 8890da1d31dc3b240b653dfc85149929, type: 3}
+        m_Value: {fileID: 6363461478000096533, guid: 09a66f2a1949cca4882c48abf667896d, type: 3}
     - rid: 1918137001990160754
       type: {class: TurnInBlockNode, ns: QuestMaker.Editor.Nodes, asm: QuestMakerEditor}
       data: 
