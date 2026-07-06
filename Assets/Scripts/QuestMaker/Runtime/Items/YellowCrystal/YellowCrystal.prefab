@@ -141,4 +141,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d9c4ee73b6a733341840437e43ab3aa3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: QuestMaker.Runtime::QuestMaker.Runtime.YellowCrystal
-  item: {fileID: 11400000, guid: 60386d5b4cc89c241ba82336d4048113, type: 2}
+  _item: {fileID: 11400000, guid: 60386d5b4cc89c241ba82336d4048113, type: 2}
+  _amount: 10
+  ID: 

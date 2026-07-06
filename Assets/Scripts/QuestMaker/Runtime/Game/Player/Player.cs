@@ -18,8 +18,7 @@ namespace QuestMaker.Runtime.Game
 
         //public getters
         public uint Level => _level;
-        public Inventory Inventory { get; private set; } = null;
-
+        public string ExpProgress => $"{_currentExp}/{_expToNextLevel}";
         //inspector
         [SerializeField, ReadOnlyInspector]
         private uint _level = 1;
@@ -34,7 +33,6 @@ namespace QuestMaker.Runtime.Game
 
         private void OnEnable()
         {
-            Inventory ??= new();
             SubscribeSelf();
         }
         private void OnDisable()

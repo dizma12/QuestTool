@@ -1,4 +1,5 @@
-﻿using QuestMaker.Domain.Helpers;
+﻿using QuestMaker.Domain;
+using QuestMaker.Domain.Helpers;
 using UnityEngine;
 
 namespace QuestMaker.Runtime.Game
@@ -9,6 +10,7 @@ namespace QuestMaker.Runtime.Game
         [SerializeField] private float _moveSpeed = 5f;
         [SerializeField] private float _rotationSpeed = -500f;
         [SerializeField] private GameObject _sprite = null;
+        [SerializeField] private CircleCollider2D _hitBoxCollider = null;
 
         private Rigidbody2D _rb;
         private Vector2 _direction;
@@ -27,6 +29,7 @@ namespace QuestMaker.Runtime.Game
             _rb.bodyType = RigidbodyType2D.Dynamic;
 
             _rotationSpeed = Mathf.Abs(_rotationSpeed);
+
         }
 
         private void Update()
@@ -56,6 +59,9 @@ namespace QuestMaker.Runtime.Game
             // if we haven't completed the rotation yet
             if (_currentRotation < _totalRotation)
             {
+                if(_hitBoxCollider.enabled == false)
+                    _hitBoxCollider.enabled = true;
+
                 // get the amount we want to rotate this frame in degrees
                 float degreesToRotate = _rotationSpeed * Time.deltaTime;
 
@@ -70,6 +76,8 @@ namespace QuestMaker.Runtime.Game
             }
             else
             {
+                if( _hitBoxCollider.enabled == true)
+                    _hitBoxCollider.enabled = false;
                 _currentRotation = 0f;
                 _spinning = false;
             }

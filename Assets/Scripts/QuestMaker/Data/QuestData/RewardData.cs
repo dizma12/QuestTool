@@ -15,19 +15,18 @@ namespace QuestMaker.Domain
         public IReadOnlyList<ItemStack> Items => _items;
         public IReadOnlyList<string> AbilityIDs => _abilities;
         public IReadOnlyList<ReputationFaction> Reputation => _reps;
-        [SerializeField]
-        private int _exp;
-
 
         [SerializeField]
-        private ItemStack[] _items;
-
-
-        [SerializeField]
-        private string[] _abilities;
+        protected int _exp;
 
         [SerializeField]
-        private ReputationFaction[] _reps;
+        protected ItemStack[] _items;
+
+        [SerializeField]
+        protected string[] _abilities;
+
+        [SerializeField]
+        protected ReputationFaction[] _reps;
 
         //public readonly string[] AbilityIDs => _abilities;
 

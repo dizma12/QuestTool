@@ -22,6 +22,7 @@ namespace QuestMaker.Runtime.UI
             _questBus ??= ReferenceManager.Instance.RequestReference<GameEventManager>().RequestBus<QuestEventBus>();
 
             _questBus.OnQuestStarted += HandleQuestStart;
+            _questBus.OnQuestObjectiveChanged += HandleQuestChange;
             _questBus.OnQuestCanFinish += HandleQuestCanFinish;
             _questBus.OnQuestCompleted += HandleQuestCompleted;
 
@@ -31,6 +32,7 @@ namespace QuestMaker.Runtime.UI
         {
 
             _questBus.OnQuestStarted -= HandleQuestStart;
+            _questBus.OnQuestObjectiveChanged -= HandleQuestChange;
             _questBus.OnQuestCanFinish -= HandleQuestCanFinish;
             _questBus.OnQuestCompleted -= HandleQuestCompleted;
 
@@ -43,7 +45,7 @@ namespace QuestMaker.Runtime.UI
             
             TMP_Text questText = Instantiate(_tmp_pref, transform).GetComponent<TMP_Text>();
 
-            quest.Changed += HandleQuestChange;
+            quest.StepChanged += HandleQuestChange;
             
             texts.Add(quest.ID, questText);
 
@@ -55,7 +57,7 @@ namespace QuestMaker.Runtime.UI
             if (quest == null || !texts.TryGetValue(quest.ID, out var text)) return;
             
             texts.Remove(quest.ID);
-            quest.Changed -= HandleQuestChange;
+            quest.StepChanged -= HandleQuestChange;
             Destroy(text.gameObject);
         }
         private void HandleQuestChange(Quest quest)

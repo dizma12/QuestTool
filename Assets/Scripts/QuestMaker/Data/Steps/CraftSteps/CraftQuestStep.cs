@@ -1,20 +1,10 @@
-
 using QuestMaker.Domain.Events;
-using System;
-using UnityEngine;
-
 
 namespace QuestMaker.Domain.Steps
 {
-    internal class CraftQuestStep : QuestStep
+    internal class CraftQuestStep : ItemQuestStep
     {
-
-        private ItemStack _craftable = default;
-        private int _currentAmount = 0;
-
-        public override string ProgressText => $"Crafted: {_craftable.Item.Name}  {_currentAmount}/{_craftable.Amount}";
-
-        public override bool IsComplete { get; protected set; } = false;
+        public override string ProgressText => $"Crafted: {_questItem.Item.Name}  {_currentAmount}/{_questItem.Amount}";
 
         public CraftQuestStep(QuestStepData data, IQuestEventSource eventbus) : base(eventbus)
         {
@@ -34,26 +24,10 @@ namespace QuestMaker.Domain.Steps
                 return;
             }
 
-            _craftable = craftData.CraftableItem;
+            _questItem = craftData.CraftableItem;
         }
 
-        private void HandleItemCraft(string itemID)
-        {
-            if (!_craftable.Item.ID.Equals(itemID)) return;
-
-            _currentAmount++;
-            FireOnChanged();
-
-            ConsoleLogger.Log(this, ProgressText);
-
-            if (Validate())
-                Finish();
-
-        }
-
-        protected override bool Validate() => _currentAmount >= _craftable.Amount;
-
-        protected override void Subscribe() => _eventBus.OnItemCrafted += HandleItemCraft;
-        protected override void Unsubscribe() => _eventBus.OnItemCrafted -= HandleItemCraft;
+        protected override void Subscribe() => _eventBus.OnItemCrafted += HandleItemProgress;
+        protected override void Unsubscribe() => _eventBus.OnItemCrafted -= HandleItemProgress;
     }
 }

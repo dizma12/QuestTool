@@ -5,7 +5,7 @@ using System.Linq;
 
 namespace QuestMaker.Runtime.Game
 {
-    internal class Inventory
+    public class Inventory : IInventoryReader
     {
         private readonly Dictionary<Item, int> _items = new(50);
 
@@ -23,7 +23,10 @@ namespace QuestMaker.Runtime.Game
             }
 
             if (!_items.ContainsKey(item))
+            {
                 _items.Add(item, amount);
+                ConsoleLogger.Log(this, $"Added Item: {item.Name} with amount: {amount}");
+            }
             else
                 ConsoleLogger.LogError(this, $"Inventory already contains item {item.Name}, to add stack use AddItemStack");
         }
@@ -43,7 +46,7 @@ namespace QuestMaker.Runtime.Game
             }
             if (!_items.TryGetValue(item, out int currentStacks))
             {
-                ConsoleLogger.LogError(this, $"Inventory does not contain item {item.Name}. Trying to add new entry with total amount {amountToAdd}");
+                ConsoleLogger.Log(this, $"Inventory does not contain item {item.Name}. Trying to add new entry with total amount {amountToAdd}");
                 AddItem(item, amountToAdd);
                 return;
             }
@@ -118,7 +121,7 @@ namespace QuestMaker.Runtime.Game
         /// <summary>
         /// Adds Stacks to item. If item does not exists tries to add it with total amount of amountToAdd
         /// </summary>
-        public void AddItemStack(ItemStack item, int amountToAdd) => AddItemStack(item.Item, amountToAdd);
+        public void AddItemStack(ItemStack item) => AddItemStack(item.Item, item.Amount);
 
         /// <summary>
         /// Completely removes Item from Inventory. If you want to remove a stack use RemoveItemStack.
@@ -145,5 +148,6 @@ namespace QuestMaker.Runtime.Game
         /// <param name="item"></param>
         /// <returns>0 if item not found.</returns>
         public int GetItemCount(Item item) => item != null && _items.TryGetValue(item,out int count) ? count : 0;
+        public int GetItemCount(ItemStack item) => item.Item != null && _items.TryGetValue(item.Item,out int count) ? count : 0;
     }
 }

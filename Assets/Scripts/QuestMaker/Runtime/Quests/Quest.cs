@@ -4,8 +4,6 @@ using QuestMaker.Domain.Objectives;
 using QuestMaker.Domain.Quests;
 using QuestMaker.Domain.SpecialEvents;
 using QuestMaker.Domain.Steps;
-using QuestMaker.Runtime.Events;
-using QuestMaker.Runtime.Game;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -16,7 +14,8 @@ namespace QuestMaker.Runtime.Quests
     public class Quest
     {
         //Events
-        public event Action<Quest> Changed;
+        public event Action<Quest> StepChanged;
+        public event Action<Quest> ObjectiveChanged;
         public event Action<Quest> CanFinish;
 
 
@@ -68,9 +67,9 @@ namespace QuestMaker.Runtime.Quests
         protected IQuestEventSource _questEventBus = null;
         //Quest Info
         public readonly QuestType _qType = QuestType.Hidden;
-        public readonly PrerequisiteData _prerequisites = null;
-        public readonly RewardData _rewards = null;
-        public readonly SpecialEventData _specialEvent = null;
+        public readonly PrerequisiteData Prerequisites = null;
+        public readonly RewardData Rewards = null;
+        public readonly SpecialEventData SpecialEvent = null;
         protected List<string> _nextInChain = new();
 
         public Quest(QuestSO data, IQuestEventSource eventbus)
@@ -82,9 +81,9 @@ namespace QuestMaker.Runtime.Quests
             _qType = data.QuestType;
             ID = data.ID;
 
-            _prerequisites = data.Prerequisites;
-            _rewards = data.Rewards;
-            _specialEvent = data.SpecialEvent;
+            Prerequisites = data.Prerequisites;
+            Rewards = data.Rewards;
+            SpecialEvent = data.SpecialEvent;
             _questEventBus = eventbus;
         }
 
@@ -165,10 +164,30 @@ namespace QuestMaker.Runtime.Quests
             _nextInChain.Add(nextQuestID);
         }
 
+        /// <summary>
+        /// Returns All the steps of type TStepData even if they are not active yet.
+        /// </summary>
+        /// <typeparam name="TStepData">QuestStepData</typeparam>
+        /// <returns></returns>
+        public IEnumerable<TStepData> GetAllStepsOfType<TStepData>() where TStepData : QuestStepData
+        {
+            return AllObjectives.Where(o => o.Steps != null).SelectMany(o => o.Steps).OfType<TStepData>();
+        }
+
+        /// <summary>
+        /// Returns All the steps of type TStepData only on the current active objective.
+        /// </summary>
+        /// <typeparam name="TStepData">QuestStepData</typeparam>
+        /// <returns></returns>
+        public IEnumerable<TStepData> GetCurrentStepsOfType<TStepData>() where TStepData : QuestStepData
+        {
+            return CurrentObjective.Steps?.OfType<TStepData>() ?? Enumerable.Empty<TStepData>();
+        }
+
         //Priavate Helpers
         private bool EvaluateObjective() => _objectives[_currentObjectiveIndex].All(step => step.IsComplete);
 
-        private void OnStepChanged(QuestStep step) => Changed?.Invoke(this);
+        private void OnStepChanged(QuestStep step) => StepChanged?.Invoke(this);
         private void OnStepFinished(QuestStep step)
         {
 
@@ -192,7 +211,7 @@ namespace QuestMaker.Runtime.Quests
             {
                 ActivateStep(step);
             }
-            Changed?.Invoke(this);
+            ObjectiveChanged?.Invoke(this);
         }
 
 

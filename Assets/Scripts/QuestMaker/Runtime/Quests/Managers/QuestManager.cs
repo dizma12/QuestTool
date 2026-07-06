@@ -1,6 +1,7 @@
 using QuestMaker.Domain;
 using QuestMaker.Domain.Events;
 using QuestMaker.Domain.Quests;
+using QuestMaker.Domain.Steps;
 using QuestMaker.Runtime.Events;
 using QuestMaker.Runtime.Game;
 using QuestMaker.Runtime.Quests;
@@ -22,6 +23,7 @@ namespace QuestMaker.Runtime
         private PlayerEventBus _playerEventBus = null;
 
         private Player _player = null;
+        private InventoryManager _inventoryManager = null;
         public IReadOnlyList<Quest> ActiveQuests => _questMap.Values.Where(q => q.Status == QuestStatus.IN_PROGRESS).ToList();
         public IReadOnlyDictionary<string, Quest> QuestMap => _questMap;
         private void Awake()
@@ -63,6 +65,13 @@ namespace QuestMaker.Runtime
                 return;
             }
 
+            _inventoryManager = ReferenceManager.Instance.RequestReference<InventoryManager>();
+            if (_inventoryManager == null)
+            {
+                ConsoleLogger.LogError(this, "Failed to retrieve InventoryManager Reference");
+                return;
+            }
+
             CheckAllPrerequisites();
         }
         private void OnDisable()
@@ -79,7 +88,6 @@ namespace QuestMaker.Runtime
                 ConsoleLogger.LogError(this, "Quest ID not Found.");
             return quest;
         }
-        public bool QuestExistsOnRegistry(string id) => _questMap.ContainsKey(id);
 
         public IReadOnlyList<Quest> GetHandInQuests(string giverGuid)
         {
@@ -118,16 +126,36 @@ namespace QuestMaker.Runtime
             {
                 quest.Start();
                 quest.CanFinish += HandleQuestCanFinish;
+                quest.ObjectiveChanged += HandleObjectiveChanged;
 
                 _questEventBus.FireQuestStarted(quest);
+                HandleObjectiveChanged(quest);
                 return true;
-            }    
+            }
             return false;
         }
         private void HandleQuestCanFinish(Quest quest)
         {
             _questEventBus.FireQuestCanFinish(quest);
             quest.CanFinish -= HandleQuestCanFinish;
+        }
+
+
+        private void HandleObjectiveChanged(Quest quest)
+        {
+            _questEventBus.FireQuestObjectiveChanged(quest);
+            SyncQuestWithInventory(quest);
+        }
+
+        private void SyncQuestWithInventory(Quest quest)
+        {
+            if (_inventoryManager == null) return;
+
+            foreach (QuestStep step in quest.CurrentSteps)
+            {
+                if (step is ItemQuestStep itemStep)
+                    itemStep.CheckInventoryForExisting(_inventoryManager.Inventory);
+            }
         }
 
         public bool TryTurnInQuest(string questID)
@@ -145,6 +173,8 @@ namespace QuestMaker.Runtime
             if (quest.Status != QuestStatus.CAN_FINISH) return false;
 
             quest.Complete();
+            quest.ObjectiveChanged -= HandleObjectiveChanged;
+
             _questEventBus.FireQuestCompleted(quest);
 
             //checks preqs for next Quest in chain.
@@ -227,14 +257,14 @@ namespace QuestMaker.Runtime
 
         private bool PrereqsMet(Quest quest)
         {
-            PrerequisiteData prereq = quest._prerequisites;
+            PrerequisiteData prereq = quest.Prerequisites;
             if (prereq == null) return true;
 
             if (_player.Level < prereq.Level)
                 return false;
 
             foreach (ItemStack required in prereq.Items)
-                if (_player.Inventory.GetItemCount(required.Item) < required.Amount)
+                if (_inventoryManager.Inventory.GetItemCount(required.Item) < required.Amount)
                     return false;
 
             foreach (string questId in prereq.Quests)
@@ -266,9 +296,9 @@ namespace QuestMaker.Runtime
             foreach(Quest quest in _questMap.Values)
             {
                 //Sets the next quest in chain
-                if (quest._prerequisites != null && quest._prerequisites.Quests != null && quest._prerequisites.Quests.Count > 0)
+                if (quest.Prerequisites != null && quest.Prerequisites.Quests != null && quest.Prerequisites.Quests.Count > 0)
                 {
-                    foreach (string q in quest._prerequisites.Quests)
+                    foreach (string q in quest.Prerequisites.Quests)
                     {
                         Quest required = GetQuestByID(q);
 
@@ -287,7 +317,7 @@ namespace QuestMaker.Runtime
         private bool UnsubscribeSelf()
         {
             if (ReferenceManager.Instance != null)
-                return ReferenceManager.Instance.UnsubscribeReference<Player>();
+                return ReferenceManager.Instance.UnsubscribeReference<QuestManager>();
 
             return false;
         }

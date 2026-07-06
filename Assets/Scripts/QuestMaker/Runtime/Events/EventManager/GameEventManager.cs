@@ -75,7 +75,7 @@ namespace QuestMaker.Runtime.Events
         private bool UnsubscribeSelf()
         {
             if (ReferenceManager.Instance != null)
-                return ReferenceManager.Instance.UnsubscribeReference<Player>();
+                return ReferenceManager.Instance.UnsubscribeReference<GameEventManager>();
 
             return false;
         }
