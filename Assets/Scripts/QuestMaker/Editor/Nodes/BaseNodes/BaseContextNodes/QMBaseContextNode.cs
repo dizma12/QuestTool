@@ -1,4 +1,5 @@
-﻿using QuestMaker.Editor.CompilationModules;
+﻿using QuestMaker.Domain;
+using QuestMaker.Editor.CompilationModules;
 using QuestMaker.Editor.Compiler;
 using System;
 using System.Linq;
@@ -35,7 +36,7 @@ namespace QuestMaker.Editor.Nodes
 
             if (blocks.Length <= 0)
             {
-                UnityEngine.Debug.LogWarning($"[{GetType().Name}] No IComposableNode blocks found.");
+                ConsoleLogger.LogWarning(this, "No IComposableNode blocks found.");
                 return null;
             }
 

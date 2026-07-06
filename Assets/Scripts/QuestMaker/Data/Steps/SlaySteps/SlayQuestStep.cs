@@ -11,7 +11,7 @@ namespace QuestMaker.Domain.Steps
 
         public override string ProgressText => $"{_enemyID} slained {_currentKillCount}/{_requiredAmount}";
 
-        public override bool IsComplete => Validate();
+        public override bool IsComplete { get; protected set; } = false;
 
         public SlayQuestStep(QuestStepData data, IQuestEventSource eventbus) : base(eventbus)
         {

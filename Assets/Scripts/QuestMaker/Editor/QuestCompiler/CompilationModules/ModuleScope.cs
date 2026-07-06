@@ -1,15 +1,12 @@
-﻿using QuestMaker.Editor.Compiler;
+﻿using QuestMaker.Domain;
 using System;
-using UnityEngine;
 
 namespace QuestMaker.Editor.CompilationModules
 {
     /// <summary>
-    /// A scoped resolver tied to one specific builder instance.
     /// Context nodes create a scope from their builder and pass it to block nodes via Compose().
-    /// Block nodes call scope.Get&lt;IItemModule&gt;() etc. — they never know the concrete builder type.
     /// </summary>
-    internal sealed class ModuleScope
+    internal class ModuleScope
     {
         private readonly IQuestModuleBuilder _builder = null;
         private readonly ModuleBuilderRegistry _registry = null;
@@ -29,7 +26,7 @@ namespace QuestMaker.Editor.CompilationModules
             if (_builder is TModule module)
                 return module;
 
-            Debug.LogError($"[ModuleScope] Builder {_builder.GetType().Name} does not implement {typeof(TModule).Name}");
+            ConsoleLogger.LogError(this, $"Builder {_builder.GetType().Name} does not implement {typeof(TModule).Name}");
             return null;
         }
     }

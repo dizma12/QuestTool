@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using UnityEditor;
 using UnityEngine;
 
 namespace QuestMaker.Domain
@@ -13,33 +12,32 @@ namespace QuestMaker.Domain
     public class RewardData
     {
         public int Exp => _exp;
-        public IReadOnlyList<ItemAmount> Items => _items;
+        public IReadOnlyList<ItemStack> Items => _items;
         public IReadOnlyList<string> AbilityIDs => _abilities;
         public IReadOnlyList<ReputationFaction> Reputation => _reps;
-        [SerializeField]
-        private int _exp;
-
 
         [SerializeField]
-        private ItemAmount[] _items;
-
-
-        [SerializeField]
-        private string[] _abilities;
+        protected int _exp;
 
         [SerializeField]
-        private ReputationFaction[] _reps;
+        protected ItemStack[] _items;
+
+        [SerializeField]
+        protected string[] _abilities;
+
+        [SerializeField]
+        protected ReputationFaction[] _reps;
 
         //public readonly string[] AbilityIDs => _abilities;
 
         //[SerializeField]
         //private string[] _abilities;
 
-        public RewardData(int exp, ItemAmount[] items, string[] abilities, ReputationFaction[] rep)
+        public RewardData(int exp, ItemStack[] items, string[] abilities, ReputationFaction[] rep)
         {
             _exp = exp > 0 ? exp : 0;
 
-            _items = items == null || items.Any(i => i.Item == null) ? Array.Empty<ItemAmount>() : items;
+            _items = items == null || items.Any(i => i.Item == null) ? Array.Empty<ItemStack>() : items;
 
             _abilities = abilities == null || abilities.Any(i => i == null) ? Array.Empty<string>() : abilities;
 

@@ -1,7 +1,7 @@
-﻿using QuestMaker.Editor.CompilationModules;
+﻿using QuestMaker.Domain;
+using QuestMaker.Editor.CompilationModules;
 
 using Unity.GraphToolkit.Editor;
-using UnityEngine;
 
 
 namespace QuestMaker.Editor.Nodes.BlockNodes
@@ -25,7 +25,7 @@ namespace QuestMaker.Editor.Nodes.BlockNodes
             string ability = RetrieveBlockValue<string>();
             if (string.IsNullOrEmpty(ability))
             {
-                Debug.LogError($"[{ContextNode.GetType()}] Ability string is null");
+                ConsoleLogger.LogError(this, "Ability string is null");
                 return;
             }
             scope?.Get<IAbilityModule>().SetAbility(ability);

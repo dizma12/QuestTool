@@ -8,7 +8,7 @@ namespace QuestMaker.Editor.CompilationModules
     internal class RewardModule : IQuestModuleBuilder, IExpModule, IItemModule, IAbilityModule, IReputationModule
     {
         private int _exp = 0;
-        private readonly List<ItemAmount> _items = new();
+        private readonly List<ItemStack> _items = new();
         private readonly List<ReputationFaction> _reps = new ();
         private readonly List<string> _abilities = new ();
         public void Build(QuestSO quest)
@@ -36,7 +36,7 @@ namespace QuestMaker.Editor.CompilationModules
             if (item == null) throw new NullReferenceException($"[{GetType().Name}] Cannot add Item coz its null");
             if (amount < 1) return;
 
-            _items.Add(new() { Item = item, Amount = amount });
+            _items.Add(new(item, amount));
         }
 
         public void SetReputationFaction(ReputationFaction rep)

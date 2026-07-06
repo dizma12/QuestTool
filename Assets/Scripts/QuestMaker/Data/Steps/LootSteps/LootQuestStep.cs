@@ -2,15 +2,9 @@ using QuestMaker.Domain.Events;
 
 namespace QuestMaker.Domain.Steps
 {
-    internal class LootQuestStep : QuestStep
+    internal class LootQuestStep : ItemQuestStep
     {
-        private readonly ItemAmount _lootable = default;
-
-        private int _currentAmount = 0;
-
-        public override string ProgressText => $"{_lootable.Item.Name} looted: {_currentAmount}/{_lootable.Amount}";
-
-        public override bool IsComplete => Validate();
+        public override string ProgressText => $"{_questItem.Item.Name} looted: {_currentAmount}/{_questItem.Amount}";
 
         public LootQuestStep(QuestStepData data, IQuestEventSource eventBus) : base(eventBus)
         {
@@ -30,25 +24,10 @@ namespace QuestMaker.Domain.Steps
                 return;
             }
 
-            _lootable = lootData.Loot;
+            _questItem = lootData.Loot;
         }
 
-        private void HandleItemCollection(string itemID)
-        {
-            if (!_lootable.Item.ID.Equals(itemID))
-                return;
-
-            _currentAmount++;
-            FireOnChanged();
-
-            ConsoleLogger.Log(this, ProgressText);
-
-            if (Validate())
-                Finish();
-        }
-        protected override bool Validate() => _currentAmount >= _lootable.Amount;
-
-        protected override void Subscribe() => _eventBus.OnItemCollected += HandleItemCollection;
-        protected override void Unsubscribe() => _eventBus.OnItemCollected -= HandleItemCollection;
+        protected override void Subscribe() => _eventBus.OnItemCollected += HandleItemProgress;
+        protected override void Unsubscribe() => _eventBus.OnItemCollected -= HandleItemProgress;
     }
 }

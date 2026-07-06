@@ -9,7 +9,7 @@ namespace QuestMaker.Domain.Steps
         private bool _hasTalked = false;
         public override string ProgressText => $"Talk to {_npcID}";
 
-        public override bool IsComplete => Validate();
+        public override bool IsComplete { get; protected set; } = false;
 
         public TalkQuestStep(QuestStepData data , IQuestEventSource eventbus) : base(eventbus)
         {

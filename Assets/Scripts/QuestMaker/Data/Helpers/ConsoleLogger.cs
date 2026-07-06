@@ -8,19 +8,19 @@ namespace QuestMaker.Domain
         {
             if(sender  == null || string.IsNullOrEmpty(message)) return;
 
-            Debug.Log($"[{sender.GetType()}] {message}");
+            Debug.Log($"[{sender.GetType().Name}] {message}");
         }
         public static void LogWarning(object sender, string message)
         {
             if (sender == null || string.IsNullOrEmpty(message)) return;
 
-            Debug.LogWarning($"[{sender.GetType()}] {message}");
+            Debug.LogWarning($"[{sender.GetType().Name}] {message}");
         }
         public static void LogError(object sender, string message)
         {
             if (sender == null || string.IsNullOrEmpty(message)) return;
 
-            Debug.LogError($"[{sender.GetType()}] {message}");
+            Debug.LogError($"[{sender.GetType().Name}] {message}");
         }
     }
 }

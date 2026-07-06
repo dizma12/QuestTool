@@ -11,7 +11,7 @@ namespace QuestMaker.Domain.Steps
 
         public override string ProgressText => $"Explore {_areaID}";
 
-        public override bool IsComplete => Validate();
+        public override bool IsComplete { get; protected set; } = false;
 
         public ExploreQuestStep(QuestStepData data, IQuestEventSource eventbus) : base(eventbus)
         {

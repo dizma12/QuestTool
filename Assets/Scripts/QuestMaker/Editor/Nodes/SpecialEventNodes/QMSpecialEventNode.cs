@@ -1,7 +1,7 @@
-﻿using QuestMaker.Domain.SpecialEvents;
+﻿using QuestMaker.Domain;
+using QuestMaker.Domain.SpecialEvents;
 using QuestMaker.Editor.CompilationModules;
 using System;
-using UnityEngine;
 
 namespace QuestMaker.Editor.Nodes
 {
@@ -47,7 +47,7 @@ namespace QuestMaker.Editor.Nodes
             GetNodeOptionByName(SPECIAL_EVENT_TRIGGER_PORT).TryGetValue(out SpecialEventTrigger trigger);
 
             module.SetSpecialEvent(new(trigger, eventID));
-            Debug.Log($"[QMSpecialEventNode] Set special event on {module.GetType().Name} with ID: {eventID} and Trigger: {trigger}");
+            ConsoleLogger.Log(this, $"Set special event on {module.GetType().Name} with ID: {eventID} and Trigger: {trigger}");
         }
     }
 }

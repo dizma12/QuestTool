@@ -8,11 +8,11 @@ namespace QuestMaker.Domain.Steps
 
         public abstract string ProgressText { get; }
 
-        public abstract bool IsComplete { get; }
+        public abstract bool IsComplete { get; protected set; }
 
-        public event Action Started; // runs when steps is started.
-        public event Action Finished; // runs when step is finished.
-        public event Action Changed; // from IRuntimeStep
+        public event Action<QuestStep> Started; // runs when steps is started.
+        public event Action<QuestStep> Finished; // runs when step is finished.
+        public event Action<QuestStep> Changed; // from IRuntimeStep
 
         public QuestStep(IQuestEventSource eventbus)
         {
@@ -26,10 +26,10 @@ namespace QuestMaker.Domain.Steps
 
         protected abstract bool Validate();
 
-        protected void FireOnStart() => Started?.Invoke();
-        protected void FireOnChanged() => Changed?.Invoke();
-        protected void FireOnFinished() => Finished?.Invoke();
-
+        protected void FireOnStart() => Started?.Invoke(this);
+        protected void FireOnChanged() => Changed?.Invoke(this);
+        protected void FireOnFinished() => Finished?.Invoke(this);
+            
         public void Start()
         {
             Subscribe();
@@ -38,6 +38,7 @@ namespace QuestMaker.Domain.Steps
 
         public void Finish()
         {
+            IsComplete = true;
             Unsubscribe();
             FireOnFinished();
         }

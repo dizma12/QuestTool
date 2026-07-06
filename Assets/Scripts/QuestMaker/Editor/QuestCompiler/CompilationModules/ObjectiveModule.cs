@@ -1,16 +1,13 @@
 ﻿using QuestMaker.Domain;
 using QuestMaker.Domain.Objectives;
-using QuestMaker.Domain.SpecialEvents;
 using QuestMaker.Domain.Steps;
 using System.Collections.Generic;
-using UnityEngine;
 
 namespace QuestMaker.Editor.CompilationModules
 {
-    internal class ObjectiveModule : IQuestModuleBuilder, IStepModule, ISpecialEventModule
+    internal class ObjectiveModule : IQuestModuleBuilder, IStepModule
     {
         private readonly List<QuestStepData> _steps = new();
-        private List<SpecialEventData> _specialEvents;
         private string description = string.Empty;
 
         public void SetDescription(string desc)
@@ -25,16 +22,6 @@ namespace QuestMaker.Editor.CompilationModules
                 _steps.Add(step);
         }
 
-        // ISpecialEventModule
-        public void SetSpecialEvent(SpecialEventData eventData)
-        {
-            _specialEvents ??= new List<SpecialEventData>();
-
-            if (_specialEvents.Contains(eventData) || eventData.Equals(default)) return;
-
-            _specialEvents.Add(eventData);
-        }
-
         // IQuestModuleBuilder
         public void Build(QuestSO quest)
         {
@@ -45,7 +32,7 @@ namespace QuestMaker.Editor.CompilationModules
             };
 
             quest.AddObjective(data);
-            Debug.Log($"[ObjectiveModule] Built objective with {_steps.Count} step(s), ID: {data.ID}");
+            ConsoleLogger.Log(this, $"Built objective with {_steps.Count} step(s), ID: {data.ID}");
         }
     }
 }

@@ -12,8 +12,8 @@ namespace QuestMaker.Domain.Steps
         private string _stepId = string.Empty;
         public string StepID => _stepId;
 
-        [SerializeField] private ItemAmount _craftable;
-        public ItemAmount CraftableItem
+        [SerializeField] private ItemStack _craftable;
+        public ItemStack CraftableItem
         {
             get => _craftable;
             set

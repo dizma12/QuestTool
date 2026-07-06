@@ -6,13 +6,13 @@ using UnityEngine;
 
 namespace QuestMaker.Editor.CompilationModules
 {
-    internal class PrerequisiteModule : IQuestModuleBuilder, IItemModule, ILevelModule, IReputationModule, IInGameTimeConstraintModule
+    internal class PrerequisiteModule : IQuestModuleBuilder, IItemModule, ILevelModule, IReputationModule, IInGameTimeConstraintModule, IQuestPrerequisiteModule
     {
         private int _level = 0;
-        private readonly List<QuestSO> _quests = new();
+        private readonly List<string> _quests = new();
 
         private readonly List<ReputationFaction> _reps = new();
-        private readonly List<ItemAmount> _items = new();
+        private readonly List<ItemStack> _items = new();
         private InGameTimeline _inGameTimeConstraint = InGameTimeline.None;
 
         public void Build(QuestSO quest)
@@ -25,9 +25,7 @@ namespace QuestMaker.Editor.CompilationModules
         {
             if (quest == null) throw new NullReferenceException($"[{GetType().Name}] Cannot add quest coz its null");
 
-            _quests.Add(quest);
-
-            Debug.Log("Added level prereq= " + _level);
+            _quests.Add(quest.ID);
         }
 
         public void SetLevel(int level)
@@ -40,7 +38,7 @@ namespace QuestMaker.Editor.CompilationModules
         public void SetItem(Item item, int amount = 1)
         {
             if(item != null && amount >= 1)
-                _items.Add(new() { Item = item, Amount = amount });  
+                _items.Add(new(item, amount));  
         }
 
 

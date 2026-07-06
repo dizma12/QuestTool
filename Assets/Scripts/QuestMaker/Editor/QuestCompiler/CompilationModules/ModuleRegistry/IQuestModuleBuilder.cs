@@ -1,5 +1,6 @@
 ﻿
 using QuestMaker.Domain;
+using QuestMaker.Domain.Quests;
 using QuestMaker.Domain.SpecialEvents;
 using QuestMaker.Domain.Steps;
 
@@ -42,7 +43,6 @@ namespace QuestMaker.Editor.CompilationModules
     }
     internal interface IQuestInfoModule : IQuestModule
     {
-        public void SetQuestName(string name);
         public void SetQuestDescription(string desc);
         public void SetQuestType(QuestType type);
 
@@ -52,9 +52,19 @@ namespace QuestMaker.Editor.CompilationModules
         public void SetAbility(string abilityId);
     }
 
+    internal interface IAcquisitionModule : IQuestModule
+    {
+        public void SetAcquisitionMethod(string giverGuid);
+        public void SetTurnInMethod(string giverGuid);
+    }
     internal interface IInGameTimeConstraintModule : IQuestModule
     {
         public void SetTimeConstraint(InGameTimeline time);
+    }
+
+    internal interface IQuestPrerequisiteModule : IQuestModule
+    {
+        public void SetQuestPrerequisite(QuestSO quest);
     }
 
     internal interface ISpecialEventModule : IQuestModule

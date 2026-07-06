@@ -1,6 +1,6 @@
-﻿using QuestMaker.Editor.CompilationModules;
+﻿using QuestMaker.Domain;
+using QuestMaker.Editor.CompilationModules;
 using Unity.GraphToolkit.Editor;
-using UnityEngine;
 
 namespace QuestMaker.Editor.Nodes.BlockNodes
 {
@@ -25,7 +25,7 @@ namespace QuestMaker.Editor.Nodes.BlockNodes
             if (module != null)
                 module.SetExp(exp);
             else
-                Debug.LogWarning("[QMExpRewardBlockNode] IExpModule not found on scope.");
+                ConsoleLogger.LogWarning(this, "IExpModule not found on scope.");
         }
     }
 }

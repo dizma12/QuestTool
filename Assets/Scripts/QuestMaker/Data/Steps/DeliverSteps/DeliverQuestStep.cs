@@ -13,7 +13,7 @@ namespace QuestMaker.Domain.Steps
 
         public override string ProgressText => $"Deeliver {_deliverable.Name} to {_npcID}";
 
-        public override bool IsComplete => Validate();
+        public override bool IsComplete { get; protected set; } = false;
 
         public DeliverQuestStep(QuestStepData data, IQuestEventSource eventBus) : base(eventBus)
         {
@@ -37,7 +37,7 @@ namespace QuestMaker.Domain.Steps
             _npcID = deliverData.NpcID;
         }
 
-        private void HandleDelivery(string itemID)
+        private void HandleDelivery(ItemStack stack)
         {
             if (_isDelivered)
             {
@@ -45,7 +45,7 @@ namespace QuestMaker.Domain.Steps
                 return;
             }
 
-            if (_deliverable.ID.Equals(itemID) && !_isDelivered)
+            if (_deliverable.ID.Equals(stack.Item.ID) && !_isDelivered)
             {
                 _isDelivered = true;
                 FireOnChanged();

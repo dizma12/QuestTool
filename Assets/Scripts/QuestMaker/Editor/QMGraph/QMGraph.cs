@@ -1,7 +1,6 @@
 ﻿using Unity.GraphToolkit.Editor;
 using UnityEditor;
 using System;
-using UnityEngine;
 using System.Linq;
 using QuestMaker.Editor.Nodes;
 using System.Collections.Generic;
@@ -18,7 +17,7 @@ namespace QuestMaker.Editor.Graph
 
         private Dictionary<Type, QMBaseContextNode> savedNodes = null;
         GraphLogger log = null;
-        [MenuItem("Assets/Create/QuestToolkit/Quest Graph", false)]
+        [MenuItem("Assets/Create/QuestMaker/Quest Graph", false)]
         private static void CreateGraphFile()
         {
             GraphDatabase.PromptInProjectBrowserToCreateNewAsset<QMGraph>();
@@ -39,7 +38,7 @@ namespace QuestMaker.Editor.Graph
             {
                 foreach (var d in duplicates)
                 {
-                    logger.LogWarning($"Can not have  multiple instances of {d.GetType()}", d);
+                    logger.LogWarning($"Can not have  multiple instances of {d.GetType().Name}", d);
                 }
             }
 

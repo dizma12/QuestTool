@@ -4,9 +4,7 @@ using Unity.GraphToolkit.Editor;
 using UnityEditor;
 using System;
 using System.Linq;
-using QuestMaker.Editor.Nodes;
 using Unity.Properties;
-using System.Collections.Generic;
 
 namespace QuestMaker.Editor.Utility
 {
@@ -23,14 +21,8 @@ namespace QuestMaker.Editor.Utility
 
             QMGraph graph = GraphDatabase.LoadGraph<QMGraph>(relativePath)
                           ?? throw new InvalidPathException(relativePath);  
-            //if (graph == null)
-            //{
-            //    Debug.LogError($"Unable to Load Graph from asset {asset.name}");
-            //}
-            Debug.Log($"Loaded Graph from asset {asset.name}");
             return graph;
         }
-
 
         public static Type GetTypeFromGenericInterface(Type lookUpType, Type interfaceToLookfor)
         {

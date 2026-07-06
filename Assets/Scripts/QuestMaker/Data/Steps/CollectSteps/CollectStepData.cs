@@ -11,8 +11,8 @@ namespace QuestMaker.Domain.Steps
         [SerializeField, HideInInspector]
         private string _stepId = string.Empty;
 
-        [SerializeField] private ItemAmount _collectable;
-        public ItemAmount CollectableItem
+        [SerializeField] private ItemStack _collectable;
+        public ItemStack CollectableItem
         {
             get => _collectable;
             set
