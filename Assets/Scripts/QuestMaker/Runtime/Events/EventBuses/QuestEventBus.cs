@@ -8,6 +8,7 @@ namespace QuestMaker.Runtime.Events
         public event Action<string> OnSpecialEvent;
 
         public event Action<Quest> OnQuestStarted;
+        public event Action<Quest> OnQuestObjectiveChanged;
         public event Action<Quest> OnQuestCanFinish;
         public event Action<Quest> OnQuestCompleted;
 
@@ -25,6 +26,14 @@ namespace QuestMaker.Runtime.Events
 
             OnQuestStarted?.Invoke(quest);
         }
+
+        public void FireQuestObjectiveChanged(Quest quest)
+        {
+            if (quest == null) return;
+
+            OnQuestObjectiveChanged?.Invoke(quest);
+        }
+
         public void FireQuestCanFinish(Quest quest)
         {
             if (quest == null) return;

@@ -8,10 +8,10 @@ namespace QuestMaker.Domain.Events
     public interface IQuestEventSource
     {
         event Action<string> OnEnemyKilled; // enemy id
-        event Action<string> OnItemCollected; // item id
-        event Action<string> OnItemCrafted;// item id
+        event Action<ItemStack> OnItemCollected;
+        event Action<ItemStack> OnItemCrafted;
         event Action<string> OnAreaEntered; // area id
-        event Action<string> OnItemDelivered; // item id
+        event Action<ItemStack> OnItemDelivered;
         event Action<string> OnNpcTalked; // npc id
     }
 }

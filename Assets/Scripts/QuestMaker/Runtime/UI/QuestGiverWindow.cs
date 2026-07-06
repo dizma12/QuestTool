@@ -15,6 +15,7 @@ namespace QuestMaker.Runtime.UI
         [SerializeField] private Transform _panel = null;
         [SerializeField] private Transform _handInArea = null;
         [SerializeField] private Transform _turnInArea = null;
+        [SerializeField] private Transform _missingReqArea = null;
 
         [SerializeField] private GameObject _buttonPrefab = null;
 
@@ -61,18 +62,18 @@ namespace QuestMaker.Runtime.UI
             }
         }
 
-        public void Show(IReadOnlyList<Quest> handins, IReadOnlyList<Quest> turnIns)
+        public void Show(IReadOnlyList<Quest> handins, IReadOnlyList<Quest> turnIns, IReadOnlyList<Quest> missingReq)
         {
             if (_questManager == null)
                 _questManager = ReferenceManager.Instance.RequestReference<QuestManager>();
 
             Clear();
 
-            BuildQuestPanel(handins, turnIns);
+            BuildQuestPanel(handins, turnIns, missingReq);
             
             _panel.gameObject.SetActive(true);
         }
-        private void BuildQuestPanel(IReadOnlyList<Quest> handins,  IReadOnlyList<Quest> turnIns)
+        private void BuildQuestPanel(IReadOnlyList<Quest> handins, IReadOnlyList<Quest> turnIns, IReadOnlyList<Quest> missingReq)
         {
             if (handins != null && handins.Any())
             {
@@ -97,6 +98,20 @@ namespace QuestMaker.Runtime.UI
                     text.GetComponentInChildren<TMP_Text>().text = quest.ID;
 
                     text.GetComponent<Button>().onClick.AddListener(() => Finish(quest.ID));
+                }
+            }
+
+
+            if (missingReq != null && missingReq.Any())
+            {
+                foreach (Quest quest in missingReq)
+                {
+                    GameObject text = Instantiate(_buttonPrefab, _missingReqArea);
+                    _spawned.Add(text);
+                    text.name = quest.ID + " button";
+                    text.GetComponentInChildren<TMP_Text>().text = quest.ID;
+
+                    text.GetComponent<Button>().interactable = false;
                 }
             }
         }

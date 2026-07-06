@@ -2,15 +2,9 @@ using QuestMaker.Domain.Events;
 
 namespace QuestMaker.Domain.Steps
 {
-    internal class CollectQuestStep : QuestStep
+    internal class CollectQuestStep : ItemQuestStep
     {
-        private readonly ItemStack _collectable = default;
-
-        private int _currentAmount = 0;
-
-        public override string ProgressText => $"{_collectable.Item.Name} collected: {_currentAmount}/{_collectable.Amount}";
-
-        public override bool IsComplete { get; protected set; } = false;
+        public override string ProgressText => $"{_questItem.Item.Name} collected: {_currentAmount}/{_questItem.Amount}";
 
         public CollectQuestStep(QuestStepData data, IQuestEventSource eventBus) : base(eventBus)
         {
@@ -30,26 +24,10 @@ namespace QuestMaker.Domain.Steps
                 return;
             }
 
-            _collectable = collectData.CollectableItem;
+            _questItem = collectData.CollectableItem;
         }
 
-        private void HandleItemCollection(string itemID)
-        {
-            if (!_collectable.Item.ID.Equals(itemID))
-                return;
-
-            _currentAmount++;
-            FireOnChanged();
-
-            //ConsoleLogger.Log(this, ProgressText);
-
-            if (Validate())
-                Finish();
-
-        }
-        protected override bool Validate() => _currentAmount >= _collectable.Amount;
-
-        protected override void Subscribe() => _eventBus.OnItemCollected += HandleItemCollection;
-        protected override void Unsubscribe() => _eventBus.OnItemCollected -= HandleItemCollection;
+        protected override void Subscribe() => _eventBus.OnItemCollected += HandleItemProgress;
+        protected override void Unsubscribe() => _eventBus.OnItemCollected -= HandleItemProgress;
     }
 }

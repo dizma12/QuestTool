@@ -24,6 +24,7 @@ namespace QuestMaker.Runtime.Game
 
         protected IEnumerable<Quest> AvailableHandIns => _questsHandIns.Where(q => q != null && q.Status == QuestStatus.CAN_START);
         protected IEnumerable<Quest> AvailableTurnIns => _questsTurnIns.Where(q => q != null && q.Status == QuestStatus.CAN_FINISH);
+        protected IEnumerable<Quest> MissingReq => _questsHandIns.Where(q => q != null && q.Status == QuestStatus.MISSING_REQUIRMENTS);
 
 
         protected QuestGiverIndicators _indicators = null;
@@ -132,10 +133,11 @@ namespace QuestMaker.Runtime.Game
         {
             List<Quest> toStast = AvailableHandIns.ToList();
             List<Quest> toFinish = AvailableTurnIns.ToList();
+            List<Quest> missing = MissingReq.ToList();
 
-            if (toStast.Count <= 0 && toFinish.Count <= 0) return false;
+            if (toStast.Count <= 0 && toFinish.Count <= 0 && missing.Count <= 0) return false;
 
-            _uiEventBus.FireShowQuestGiverWindow(toStast, toFinish);
+            _uiEventBus.FireShowQuestGiverWindow(toStast, toFinish, missing);
             return true;
 
         }
