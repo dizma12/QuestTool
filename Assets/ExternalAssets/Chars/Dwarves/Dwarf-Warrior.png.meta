@@ -1,0 +1,6162 @@
+fileFormatVersion: 2
+guid: acd594e417d6e374ca78629d5556964a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5476192296577590408
+    second: Dwarf-Warrior_0
+  - first:
+      213: -113685581359924765
+    second: Dwarf-Warrior_1
+  - first:
+      213: 41908081023496596
+    second: Dwarf-Warrior_2
+  - first:
+      213: 1852393122759838207
+    second: Dwarf-Warrior_3
+  - first:
+      213: -4892552984402051864
+    second: Dwarf-Warrior_4
+  - first:
+      213: 4489483959821966478
+    second: Dwarf-Warrior_5
+  - first:
+      213: 5673525427887104609
+    second: Dwarf-Warrior_6
+  - first:
+      213: -3522651832695056150
+    second: Dwarf-Warrior_7
+  - first:
+      213: 2916365573653089573
+    second: Dwarf-Warrior_8
+  - first:
+      213: 8781879745214040130
+    second: Dwarf-Warrior_9
+  - first:
+      213: -4459587064133777317
+    second: Dwarf-Warrior_10
+  - first:
+      213: 3513754936684816675
+    second: Dwarf-Warrior_11
+  - first:
+      213: -867794644357559165
+    second: Dwarf-Warrior_12
+  - first:
+      213: 1066512436978648456
+    second: Dwarf-Warrior_13
+  - first:
+      213: 3762418357807223147
+    second: Dwarf-Warrior_14
+  - first:
+      213: 3598705000499558444
+    second: Dwarf-Warrior_15
+  - first:
+      213: 9091476751544801271
+    second: Dwarf-Warrior_16
+  - first:
+      213: 6557715338676713778
+    second: Dwarf-Warrior_17
+  - first:
+      213: -5445689632142075691
+    second: Dwarf-Warrior_18
+  - first:
+      213: -3162795333559082236
+    second: Dwarf-Warrior_19
+  - first:
+      213: 114449440987943126
+    second: Dwarf-Warrior_20
+  - first:
+      213: 1496486609591748819
+    second: Dwarf-Warrior_21
+  - first:
+      213: -2251757678658985593
+    second: Dwarf-Warrior_22
+  - first:
+      213: 8547229821448157979
+    second: Dwarf-Warrior_23
+  - first:
+      213: 1399359408440926451
+    second: Dwarf-Warrior_24
+  - first:
+      213: -8955283092869155447
+    second: Dwarf-Warrior_25
+  - first:
+      213: 528087056802767625
+    second: Dwarf-Warrior_26
+  - first:
+      213: -8552962475808018104
+    second: Dwarf-Warrior_27
+  - first:
+      213: 1172453526804724135
+    second: Dwarf-Warrior_28
+  - first:
+      213: 6080120922631374846
+    second: Dwarf-Warrior_29
+  - first:
+      213: -4018220310300516099
+    second: Dwarf-Warrior_30
+  - first:
+      213: 7388679436455445107
+    second: Dwarf-Warrior_31
+  - first:
+      213: -916307739544053748
+    second: Dwarf-Warrior_32
+  - first:
+      213: -4324516056695409592
+    second: Dwarf-Warrior_33
+  - first:
+      213: -1101070359053456840
+    second: Dwarf-Warrior_34
+  - first:
+      213: -3338431746103002320
+    second: Dwarf-Warrior_35
+  - first:
+      213: -6489298916197493443
+    second: Dwarf-Warrior_36
+  - first:
+      213: -8485392242896659551
+    second: Dwarf-Warrior_37
+  - first:
+      213: 7436793972600364301
+    second: Dwarf-Warrior_38
+  - first:
+      213: -7006465716537195820
+    second: Dwarf-Warrior_39
+  - first:
+      213: -6733650869792668955
+    second: Dwarf-Warrior_40
+  - first:
+      213: 5360953403530735662
+    second: Dwarf-Warrior_41
+  - first:
+      213: -7698765995209027303
+    second: Dwarf-Warrior_42
+  - first:
+      213: -4657910078727566533
+    second: Dwarf-Warrior_43
+  - first:
+      213: 1362953219935968503
+    second: Dwarf-Warrior_44
+  - first:
+      213: 2513753843660945400
+    second: Dwarf-Warrior_45
+  - first:
+      213: 3610624775738347810
+    second: Dwarf-Warrior_46
+  - first:
+      213: 6616450738542975307
+    second: Dwarf-Warrior_47
+  - first:
+      213: -2793314334597803670
+    second: Dwarf-Warrior_48
+  - first:
+      213: 2158526930350838865
+    second: Dwarf-Warrior_49
+  - first:
+      213: -3512108519356425930
+    second: Dwarf-Warrior_50
+  - first:
+      213: -4400182308130246387
+    second: Dwarf-Warrior_51
+  - first:
+      213: 1235654917474602902
+    second: Dwarf-Warrior_52
+  - first:
+      213: -2197418489778390833
+    second: Dwarf-Warrior_53
+  - first:
+      213: 3423503630900559576
+    second: Dwarf-Warrior_54
+  - first:
+      213: 1381740269442736351
+    second: Dwarf-Warrior_55
+  - first:
+      213: -6269507434210613036
+    second: Dwarf-Warrior_56
+  - first:
+      213: -2538765796658477316
+    second: Dwarf-Warrior_57
+  - first:
+      213: 1491061281252604093
+    second: Dwarf-Warrior_58
+  - first:
+      213: -7615273759471455354
+    second: Dwarf-Warrior_59
+  - first:
+      213: 7667739026690814119
+    second: Dwarf-Warrior_60
+  - first:
+      213: -7582970905565852656
+    second: Dwarf-Warrior_61
+  - first:
+      213: -8593225665625600278
+    second: Dwarf-Warrior_62
+  - first:
+      213: 8563601009790017242
+    second: Dwarf-Warrior_63
+  - first:
+      213: -7021899246991859381
+    second: Dwarf-Warrior_64
+  - first:
+      213: -9148166705084432303
+    second: Dwarf-Warrior_65
+  - first:
+      213: -1504506967834037172
+    second: Dwarf-Warrior_66
+  - first:
+      213: -3325638712161953947
+    second: Dwarf-Warrior_67
+  - first:
+      213: 7543881116399378580
+    second: Dwarf-Warrior_68
+  - first:
+      213: -8177208362767310369
+    second: Dwarf-Warrior_69
+  - first:
+      213: -8243155729525807109
+    second: Dwarf-Warrior_70
+  - first:
+      213: -4325635618548893506
+    second: Dwarf-Warrior_71
+  - first:
+      213: -102505882191777181
+    second: Dwarf-Warrior_72
+  - first:
+      213: -6613682618772160582
+    second: Dwarf-Warrior_73
+  - first:
+      213: 1994368735010692613
+    second: Dwarf-Warrior_74
+  - first:
+      213: 655632108890441650
+    second: Dwarf-Warrior_75
+  - first:
+      213: -5912912744396468158
+    second: Dwarf-Warrior_76
+  - first:
+      213: -4221486527853265037
+    second: Dwarf-Warrior_77
+  - first:
+      213: -5045662631508632097
+    second: Dwarf-Warrior_78
+  - first:
+      213: -7546827838975333725
+    second: Dwarf-Warrior_79
+  - first:
+      213: 4484451561723010820
+    second: Dwarf-Warrior_80
+  - first:
+      213: -5412548838598833944
+    second: Dwarf-Warrior_81
+  - first:
+      213: 3065107335744574140
+    second: Dwarf-Warrior_82
+  - first:
+      213: -2074183707097904496
+    second: Dwarf-Warrior_83
+  - first:
+      213: -8881131629342837701
+    second: Dwarf-Warrior_84
+  - first:
+      213: 3136198774815683989
+    second: Dwarf-Warrior_85
+  - first:
+      213: 1485371090446687515
+    second: Dwarf-Warrior_86
+  - first:
+      213: -3804759252237232531
+    second: Dwarf-Warrior_87
+  - first:
+      213: -5858645629472689387
+    second: Dwarf-Warrior_88
+  - first:
+      213: -4543230576142890285
+    second: Dwarf-Warrior_89
+  - first:
+      213: -7004301056799259414
+    second: Dwarf-Warrior_90
+  - first:
+      213: -6046251487664830754
+    second: Dwarf-Warrior_91
+  - first:
+      213: 672719248111295633
+    second: Dwarf-Warrior_92
+  - first:
+      213: -143676106527828675
+    second: Dwarf-Warrior_93
+  - first:
+      213: -5756626590057069238
+    second: Dwarf-Warrior_94
+  - first:
+      213: -1978123827115060001
+    second: Dwarf-Warrior_95
+  - first:
+      213: 8742008833728354786
+    second: Dwarf-Warrior_96
+  - first:
+      213: 2541315231906646284
+    second: Dwarf-Warrior_97
+  - first:
+      213: -4871697403116082831
+    second: Dwarf-Warrior_98
+  - first:
+      213: 7684161781965486343
+    second: Dwarf-Warrior_99
+  - first:
+      213: 4925807714654992762
+    second: Dwarf-Warrior_100
+  - first:
+      213: 4827672115837988836
+    second: Dwarf-Warrior_101
+  - first:
+      213: -2734715479452584422
+    second: Dwarf-Warrior_102
+  - first:
+      213: 8352091445227355467
+    second: Dwarf-Warrior_103
+  - first:
+      213: 3178574839093396243
+    second: Dwarf-Warrior_104
+  - first:
+      213: -4342253224233063127
+    second: Dwarf-Warrior_105
+  - first:
+      213: -2684230233629679744
+    second: Dwarf-Warrior_106
+  - first:
+      213: 6445658623747310302
+    second: Dwarf-Warrior_107
+  - first:
+      213: 7191278587503977304
+    second: Dwarf-Warrior_108
+  - first:
+      213: -1975450572357320991
+    second: Dwarf-Warrior_109
+  - first:
+      213: 4663990263030063512
+    second: Dwarf-Warrior_110
+  - first:
+      213: -1419919521546779914
+    second: Dwarf-Warrior_111
+  - first:
+      213: 7744481219705213467
+    second: Dwarf-Warrior_112
+  - first:
+      213: 8044489663838741918
+    second: Dwarf-Warrior_113
+  - first:
+      213: 6044544416232337716
+    second: Dwarf-Warrior_114
+  - first:
+      213: -1955988489356311661
+    second: Dwarf-Warrior_115
+  - first:
+      213: 8695990425517199490
+    second: Dwarf-Warrior_116
+  - first:
+      213: -2375592561167581451
+    second: Dwarf-Warrior_117
+  - first:
+      213: 5767286211292358781
+    second: Dwarf-Warrior_118
+  - first:
+      213: -7128594050487064625
+    second: Dwarf-Warrior_119
+  - first:
+      213: -4444125101351937792
+    second: Dwarf-Warrior_120
+  - first:
+      213: 7562185838207604701
+    second: Dwarf-Warrior_121
+  - first:
+      213: 7544689346497992851
+    second: Dwarf-Warrior_122
+  - first:
+      213: -4638622470290425801
+    second: Dwarf-Warrior_123
+  - first:
+      213: -6851398907426511991
+    second: Dwarf-Warrior_124
+  - first:
+      213: 5982082746731583247
+    second: Dwarf-Warrior_125
+  - first:
+      213: 652591153018094823
+    second: Dwarf-Warrior_126
+  - first:
+      213: 6805179919150114373
+    second: Dwarf-Warrior_127
+  - first:
+      213: 2189263702119837250
+    second: Dwarf-Warrior_128
+  - first:
+      213: 3524687352175510292
+    second: Dwarf-Warrior_129
+  - first:
+      213: 5922493542839847961
+    second: Dwarf-Warrior_130
+  - first:
+      213: -3588903827664488821
+    second: Dwarf-Warrior_131
+  - first:
+      213: 718842069757943807
+    second: Dwarf-Warrior_132
+  - first:
+      213: 7268405147818069030
+    second: Dwarf-Warrior_133
+  - first:
+      213: 1610142195262413266
+    second: Dwarf-Warrior_134
+  - first:
+      213: 4040951768923469098
+    second: Dwarf-Warrior_135
+  - first:
+      213: -3774564660652220190
+    second: Dwarf-Warrior_136
+  - first:
+      213: -5671581684261456742
+    second: Dwarf-Warrior_137
+  - first:
+      213: -4517521161645979488
+    second: Dwarf-Warrior_138
+  - first:
+      213: 8842224218661682401
+    second: Dwarf-Warrior_139
+  - first:
+      213: -3110037335443930009
+    second: Dwarf-Warrior_140
+  - first:
+      213: -4247931586560356238
+    second: Dwarf-Warrior_141
+  - first:
+      213: -7753749086529061481
+    second: Dwarf-Warrior_142
+  - first:
+      213: -707735448506368192
+    second: Dwarf-Warrior_143
+  - first:
+      213: 8806185124924121801
+    second: Dwarf-Warrior_144
+  - first:
+      213: -8662996260012425409
+    second: Dwarf-Warrior_145
+  - first:
+      213: 6003335049104839123
+    second: Dwarf-Warrior_146
+  - first:
+      213: 2397936730825850891
+    second: Dwarf-Warrior_147
+  - first:
+      213: 2015709882060894019
+    second: Dwarf-Warrior_148
+  - first:
+      213: 8367252634277685568
+    second: Dwarf-Warrior_149
+  - first:
+      213: 4569931831890606669
+    second: Dwarf-Warrior_150
+  - first:
+      213: -9110443385311992315
+    second: Dwarf-Warrior_151
+  - first:
+      213: -6510790465910739994
+    second: Dwarf-Warrior_152
+  - first:
+      213: 4221563577170404743
+    second: Dwarf-Warrior_153
+  - first:
+      213: 6256226360180987127
+    second: Dwarf-Warrior_154
+  - first:
+      213: -2304052449837071731
+    second: Dwarf-Warrior_155
+  - first:
+      213: 1821538252545281492
+    second: Dwarf-Warrior_156
+  - first:
+      213: -5787641727890896609
+    second: Dwarf-Warrior_157
+  - first:
+      213: -5514569488587921788
+    second: Dwarf-Warrior_158
+  - first:
+      213: -656383114999465505
+    second: Dwarf-Warrior_159
+  - first:
+      213: -1058169036095895749
+    second: Dwarf-Warrior_160
+  - first:
+      213: -2446372822335043888
+    second: Dwarf-Warrior_161
+  - first:
+      213: -9128090745775547638
+    second: Dwarf-Warrior_162
+  - first:
+      213: 387451356377607047
+    second: Dwarf-Warrior_163
+  - first:
+      213: -5227072844707190472
+    second: Dwarf-Warrior_164
+  - first:
+      213: 8418944497999037278
+    second: Dwarf-Warrior_165
+  - first:
+      213: -945943168290055745
+    second: Dwarf-Warrior_166
+  - first:
+      213: -3046258421605817962
+    second: Dwarf-Warrior_167
+  - first:
+      213: -4238541758249898477
+    second: Dwarf-Warrior_168
+  - first:
+      213: -5977625615162955199
+    second: Dwarf-Warrior_169
+  - first:
+      213: -3767036305758484322
+    second: Dwarf-Warrior_170
+  - first:
+      213: -7570743020747069939
+    second: Dwarf-Warrior_171
+  - first:
+      213: 3041850652167238395
+    second: Dwarf-Warrior_172
+  - first:
+      213: -7991574279783875567
+    second: Dwarf-Warrior_173
+  - first:
+      213: -4873584833668249127
+    second: Dwarf-Warrior_174
+  - first:
+      213: -2741304920327783443
+    second: Dwarf-Warrior_175
+  - first:
+      213: -7394999539895404801
+    second: Dwarf-Warrior_176
+  - first:
+      213: 7760780647987031706
+    second: Dwarf-Warrior_177
+  - first:
+      213: 2406285864363098298
+    second: Dwarf-Warrior_178
+  - first:
+      213: 4424713575877278306
+    second: Dwarf-Warrior_179
+  - first:
+      213: -742909875482981205
+    second: Dwarf-Warrior_180
+  - first:
+      213: -2334650844297596748
+    second: Dwarf-Warrior_181
+  - first:
+      213: 6743696816599436403
+    second: Dwarf-Warrior_182
+  - first:
+      213: 6858071398661089430
+    second: Dwarf-Warrior_183
+  - first:
+      213: -1617927563287762005
+    second: Dwarf-Warrior_184
+  - first:
+      213: 642231763004106744
+    second: Dwarf-Warrior_185
+  - first:
+      213: -1432903901908905700
+    second: Dwarf-Warrior_186
+  - first:
+      213: -521423246460559419
+    second: Dwarf-Warrior_187
+  - first:
+      213: 3734629599045611605
+    second: Dwarf-Warrior_188
+  - first:
+      213: 2309290709342553896
+    second: Dwarf-Warrior_189
+  - first:
+      213: 4047424163702486075
+    second: Dwarf-Warrior_190
+  - first:
+      213: -4261641034946533083
+    second: Dwarf-Warrior_191
+  - first:
+      213: -7538144837322196725
+    second: Dwarf-Warrior_192
+  - first:
+      213: 3447439645909855903
+    second: Dwarf-Warrior_193
+  - first:
+      213: -7291969713172685807
+    second: Dwarf-Warrior_194
+  - first:
+      213: 5898176223173750199
+    second: Dwarf-Warrior_195
+  - first:
+      213: 6287209301678025254
+    second: Dwarf-Warrior_196
+  - first:
+      213: -386670540840546569
+    second: Dwarf-Warrior_197
+  - first:
+      213: 6835958992963870050
+    second: Dwarf-Warrior_198
+  - first:
+      213: 8680876668772559727
+    second: Dwarf-Warrior_199
+  - first:
+      213: -1613232798876587346
+    second: Dwarf-Warrior_200
+  - first:
+      213: -8196955083676413929
+    second: Dwarf-Warrior_201
+  - first:
+      213: -6024804818800652014
+    second: Dwarf-Warrior_202
+  - first:
+      213: -7803951977836470378
+    second: Dwarf-Warrior_203
+  - first:
+      213: -1984312463855194153
+    second: Dwarf-Warrior_204
+  - first:
+      213: 4337948296150434038
+    second: Dwarf-Warrior_205
+  - first:
+      213: -3232578606639392740
+    second: Dwarf-Warrior_206
+  - first:
+      213: 1339311732753178086
+    second: Dwarf-Warrior_207
+  - first:
+      213: -6728803489821019378
+    second: Dwarf-Warrior_208
+  - first:
+      213: -3115258664404269705
+    second: Dwarf-Warrior_209
+  - first:
+      213: 1775565632598887953
+    second: Dwarf-Warrior_210
+  - first:
+      213: 6498915191413872248
+    second: Dwarf-Warrior_211
+  - first:
+      213: 3385368110537524064
+    second: Dwarf-Warrior_212
+  - first:
+      213: -1545476671144192557
+    second: Dwarf-Warrior_213
+  - first:
+      213: 703393051126538285
+    second: Dwarf-Warrior_214
+  - first:
+      213: 6799886668485356176
+    second: Dwarf-Warrior_215
+  - first:
+      213: -34322857533652058
+    second: Dwarf-Warrior_216
+  - first:
+      213: 1708268841679519295
+    second: Dwarf-Warrior_217
+  - first:
+      213: 4007832881888144808
+    second: Dwarf-Warrior_218
+  - first:
+      213: 1462562628526804051
+    second: Dwarf-Warrior_219
+  - first:
+      213: 7325066763510736728
+    second: Dwarf-Warrior_220
+  - first:
+      213: 4895544753664423065
+    second: Dwarf-Warrior_221
+  - first:
+      213: -4359406175073345476
+    second: Dwarf-Warrior_222
+  - first:
+      213: -6423871123638618050
+    second: Dwarf-Warrior_223
+  - first:
+      213: 9090708375214247163
+    second: Dwarf-Warrior_224
+  - first:
+      213: -2700220607656259645
+    second: Dwarf-Warrior_225
+  - first:
+      213: -203204131011845011
+    second: Dwarf-Warrior_226
+  - first:
+      213: -8342102691063291718
+    second: Dwarf-Warrior_227
+  - first:
+      213: 7562943303502340397
+    second: Dwarf-Warrior_228
+  - first:
+      213: -481015886234663077
+    second: Dwarf-Warrior_229
+  - first:
+      213: -728397374378749327
+    second: Dwarf-Warrior_230
+  - first:
+      213: 6307437268894997006
+    second: Dwarf-Warrior_231
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dwarf-Warrior_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 232
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 884ec3f21e75ffb40800000000000000
+      internalID: 5476192296577590408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 232
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e935fae09b1c6ef0800000000000000
+      internalID: -113685581359924765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 231
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 491bf9a7d23e49000800000000000000
+      internalID: 41908081023496596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 232
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff90a721bb505b910800000000000000
+      internalID: 1852393122759838207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_4
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 231
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ec30f78bf82a1cb0800000000000000
+      internalID: -4892552984402051864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_5
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 232
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8c900a00e9dd4e30800000000000000
+      internalID: 4489483959821966478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_6
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 232
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1626b5921596cbe40800000000000000
+      internalID: 5673525427887104609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_7
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 231
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae815dc62d60d1fc0800000000000000
+      internalID: -3522651832695056150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_8
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 232
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52d45c4a903097820800000000000000
+      internalID: 2916365573653089573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_9
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 231
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2484ea199118fd970800000000000000
+      internalID: 8781879745214040130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_10
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 231
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b58016d613d5c12c0800000000000000
+      internalID: -4459587064133777317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_11
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 231
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 329afdc8f7d53c030800000000000000
+      internalID: 3513754936684816675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_12
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 232
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38cc4156e59f4f3f0800000000000000
+      internalID: -867794644357559165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_13
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 232
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88506aa29630dce00800000000000000
+      internalID: 1066512436978648456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_14
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 232
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b611281ff8bc63430800000000000000
+      internalID: 3762418357807223147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_15
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 228
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c28b236912b21f130800000000000000
+      internalID: 3598705000499558444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_16
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 232
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f7dc83dfe96b2e70800000000000000
+      internalID: 9091476751544801271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_17
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 232
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 239b4f33b5fa10b50800000000000000
+      internalID: 6557715338676713778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_18
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 232
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d8d42fc1260d64b0800000000000000
+      internalID: -5445689632142075691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_19
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 232
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 403a2fdb66e7b14d0800000000000000
+      internalID: -3162795333559082236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_20
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 233
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d014d2092b969100800000000000000
+      internalID: 114449440987943126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_21
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 232
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d848d784a694c410800000000000000
+      internalID: 1496486609591748819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_22
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 232
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 781e543525620c0e0800000000000000
+      internalID: -2251757678658985593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_23
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 232
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1bfa09cc3cdd9670800000000000000
+      internalID: 8547229821448157979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_24
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 232
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f0e835c7f58b6310800000000000000
+      internalID: 1399359408440926451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_25
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 232
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 985f872697178b380800000000000000
+      internalID: -8955283092869155447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_26
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 231
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 903e5375164245700800000000000000
+      internalID: 528087056802767625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_27
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 231
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 841b73c91f5cd4980800000000000000
+      internalID: -8552962475808018104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_28
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 235
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a979dc4544654010800000000000000
+      internalID: 1172453526804724135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_29
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 200
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef70dd8e3cde06450800000000000000
+      internalID: 6080120922631374846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_30
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 200
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df0274fcae96c38c0800000000000000
+      internalID: -4018220310300516099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_31
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 199
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3720921fcccd98660800000000000000
+      internalID: 7388679436455445107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_32
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 200
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c08198737fe9843f0800000000000000
+      internalID: -916307739544053748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_33
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 199
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84472370f8b3cf3c0800000000000000
+      internalID: -4324516056695409592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_34
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 200
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83a28e7975638b0f0800000000000000
+      internalID: -1101070359053456840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_35
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 200
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03bb4a2c3028ba1d0800000000000000
+      internalID: -3338431746103002320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_36
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 200
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3598ba740161f5a0800000000000000
+      internalID: -6489298916197493443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_37
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 200
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ab1a4e66b4dd3a80800000000000000
+      internalID: -8485392242896659551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_38
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 200
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0d5c9c57bcc43760800000000000000
+      internalID: 7436793972600364301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_39
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 199
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d209da7d8804ce90800000000000000
+      internalID: -7006465716537195820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_40
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 199
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e20288d5344d82a0800000000000000
+      internalID: -6733650869792668955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_41
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 200
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e20feda87bee56a40800000000000000
+      internalID: 5360953403530735662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_42
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 200
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91195befd1d782590800000000000000
+      internalID: -7698765995209027303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_43
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 200
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3b4bb94677cb5fb0800000000000000
+      internalID: -4657910078727566533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_44
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 200
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fc12c77bbe2ae210800000000000000
+      internalID: 1362953219935968503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_45
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 200
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f7fe286dc5a2e220800000000000000
+      internalID: 2513753843660945400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_46
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 200
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 221db178a148b1230800000000000000
+      internalID: 3610624775738347810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_47
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 200
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4999b824ea52db50800000000000000
+      internalID: 6616450738542975307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_48
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 200
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a619a4c89672c39d0800000000000000
+      internalID: -2793314334597803670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_49
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 201
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1541da98ec0a4fd10800000000000000
+      internalID: 2158526930350838865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_50
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 200
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 639132bd8eb724fc0800000000000000
+      internalID: -3512108519356425930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_51
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 200
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0130f001896fe2c0800000000000000
+      internalID: -4400182308130246387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_52
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 199
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69fc905c99de52110800000000000000
+      internalID: 1235654917474602902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_53
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 199
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc832e5a6833181e0800000000000000
+      internalID: -2197418489778390833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_54
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 200
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8de761fe96ab28f20800000000000000
+      internalID: 3423503630900559576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_55
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 199
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd0acfb447dec2310800000000000000
+      internalID: 1381740269442736351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_56
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 199
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d8a433b43c3ef8a0800000000000000
+      internalID: -6269507434210613036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_57
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 203
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf6824a75fd74ccd0800000000000000
+      internalID: -2538765796658477316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_58
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 168
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db87667d55051b410800000000000000
+      internalID: 1491061281252604093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_59
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 168
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 683b95bfcdc115690800000000000000
+      internalID: -7615273759471455354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_60
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 167
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a03e44f408496a60800000000000000
+      internalID: 7667739026690814119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_61
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 168
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01c00af3320e3c690800000000000000
+      internalID: -7582970905565852656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_62
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 167
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeecd9539cabeb880800000000000000
+      internalID: -8593225665625600278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_63
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 168
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aded5ba1fb508d670800000000000000
+      internalID: 8563601009790017242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_64
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 168
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b41a776a6d33d8e90800000000000000
+      internalID: -7021899246991859381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_65
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 168
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 150036dc9de2b0180800000000000000
+      internalID: -9148166705084432303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_66
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 168
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c44f62c42eaee1be0800000000000000
+      internalID: -1504506967834037172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_67
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 168
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5679c461635f8d1d0800000000000000
+      internalID: -3325638712161953947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_68
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 168
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49023caf7ef31b860800000000000000
+      internalID: 7543881116399378580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_69
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 168
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd1a6ea9158b48e80800000000000000
+      internalID: -8177208362767310369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_70
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 168
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf76361c98d6a9d80800000000000000
+      internalID: -8243155729525807109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_71
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 168
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb8bd98b25148f3c0800000000000000
+      internalID: -4325635618548893506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_72
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 168
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36232987173d39ef0800000000000000
+      internalID: -102505882191777181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_73
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 168
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abff8e2f2ba7734a0800000000000000
+      internalID: -6613682618772160582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_74
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 168
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50e15714ccb6dab10800000000000000
+      internalID: 1994368735010692613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_75
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 168
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b741c9ede5491900800000000000000
+      internalID: 655632108890441650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_76
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 168
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2405e5adf2d11fda0800000000000000
+      internalID: -5912912744396468158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_77
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 168
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37f753b8e544a65c0800000000000000
+      internalID: -4221486527853265037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_78
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 168
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdd1778d1943af9b0800000000000000
+      internalID: -5045662631508632097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_79
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 168
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aaa8d4b018444790800000000000000
+      internalID: -7546827838975333725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_80
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 168
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40f12fc8fe8fb3e30800000000000000
+      internalID: 4484451561723010820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_81
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 166
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e80dd91283c2e4b0800000000000000
+      internalID: -5412548838598833944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_82
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 167
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb2df79d1e2798a20800000000000000
+      internalID: 3065107335744574140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_83
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 168
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09ac68b68e40733e0800000000000000
+      internalID: -2074183707097904496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_84
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 167
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b34b88d56d1efb480800000000000000
+      internalID: -8881131629342837701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_85
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 167
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59577ed5b24068b20800000000000000
+      internalID: 3136198774815683989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_86
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 171
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1d95bd03291d9410800000000000000
+      internalID: 1485371090446687515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_87
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 136
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d66d48a5e97c23bc0800000000000000
+      internalID: -3804759252237232531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_88
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 136
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 513b26627d8e1bea0800000000000000
+      internalID: -5858645629472689387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_89
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 135
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3da4f40bcd333f0c0800000000000000
+      internalID: -4543230576142890285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_90
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 136
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae446999c49bbce90800000000000000
+      internalID: -7004301056799259414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_91
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 135
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed68f0f6e46671ca0800000000000000
+      internalID: -6046251487664830754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_92
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 136
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19cdd39879af55900800000000000000
+      internalID: 672719248111295633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_93
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 136
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3592b3a75f810ef0800000000000000
+      internalID: -143676106527828675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_94
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 136
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a458413cd9a5c10b0800000000000000
+      internalID: -5756626590057069238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_95
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 136
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd4121b1cda4c84e0800000000000000
+      internalID: -1978123827115060001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_96
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 136
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e994b597bad15970800000000000000
+      internalID: 8742008833728354786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_97
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 136
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c09c51c2db0944320800000000000000
+      internalID: 2541315231906646284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_98
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 136
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 179a212f501446cb0800000000000000
+      internalID: -4871697403116082831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_99
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 136
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7097fa2ad60a3aa60800000000000000
+      internalID: 7684161781965486343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_100
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 136
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a79b3e7b40cfb5440800000000000000
+      internalID: 4925807714654992762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_101
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 136
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4efe49416365ff240800000000000000
+      internalID: 4827672115837988836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_102
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 136
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a167775b2c65c0ad0800000000000000
+      internalID: -2734715479452584422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_103
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 136
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4dfa5c0be698e370800000000000000
+      internalID: 8352091445227355467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_104
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 136
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3130820b9f09c1c20800000000000000
+      internalID: 3178574839093396243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_105
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 136
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92d2bc4e2b73db3c0800000000000000
+      internalID: -4342253224233063127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_106
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 136
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08f932df2d2bfbad0800000000000000
+      internalID: -2684230233629679744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_107
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 135
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed244e32e54937950800000000000000
+      internalID: 6445658623747310302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_108
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 136
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8532c0936cd8cc360800000000000000
+      internalID: 7191278587503977304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_109
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 136
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eebc4bbb2ac594e0800000000000000
+      internalID: -1975450572357320991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_110
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 132
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 891a9cfee62d9b040800000000000000
+      internalID: 4663990263030063512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_111
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 133
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f2cf8cd7be6b4ce0800000000000000
+      internalID: -1419919521546779914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_112
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 136
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b12963623ace97b60800000000000000
+      internalID: 7744481219705213467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_113
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 135
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e95e86c4ab4c3af60800000000000000
+      internalID: 8044489663838741918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_114
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 135
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43179960f1982e350800000000000000
+      internalID: 6044544416232337716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_115
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 139
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3930a2b05deead4e0800000000000000
+      internalID: -1955988489356311661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_116
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 104
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 280962bf73d5ea870800000000000000
+      internalID: 8695990425517199490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_117
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 104
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5febb8ce623380fd0800000000000000
+      internalID: -2375592561167581451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_118
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 103
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d78e616b044890050800000000000000
+      internalID: 5767286211292358781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_119
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 104
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc761c0ea75221d90800000000000000
+      internalID: -7128594050487064625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_120
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 103
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 009558c24cb4352c0800000000000000
+      internalID: -4444125101351937792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_121
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 104
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd79ad324f742f860800000000000000
+      internalID: 7562185838207604701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_122
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 104
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 398dfa6bcfe14b860800000000000000
+      internalID: 7544689346497992851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_123
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 104
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 738b133907d40afb0800000000000000
+      internalID: -4638622470290425801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_124
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 104
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 983e7547ef0fae0a0800000000000000
+      internalID: -6851398907426511991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_125
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 104
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f07ddef4090a40350800000000000000
+      internalID: 5982082746731583247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_126
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 104
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e4c43332387e0900800000000000000
+      internalID: 652591153018094823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_127
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 104
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5466091c41bd07e50800000000000000
+      internalID: 6805179919150114373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_128
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 104
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24e6284ecb3d16e10800000000000000
+      internalID: 2189263702119837250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_129
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 104
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 413cbb2e8743ae030800000000000000
+      internalID: 3524687352175510292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_130
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 104
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91c838d9f7ce03250800000000000000
+      internalID: 5922493542839847961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_131
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 104
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b86b40bcbf6a13ec0800000000000000
+      internalID: -3588903827664488821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_132
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 104
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fff5789cd07d9f900800000000000000
+      internalID: 718842069757943807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_133
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 104
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62c0157e8ff8ed460800000000000000
+      internalID: 7268405147818069030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_134
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 104
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d9db72bbcf585610800000000000000
+      internalID: 1610142195262413266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_135
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 104
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a257b255938541830800000000000000
+      internalID: 4040951768923469098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_136
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 103
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e0e41c807d0e9bc0800000000000000
+      internalID: -3774564660652220190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_137
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 104
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a94fbfae18e7a41b0800000000000000
+      internalID: -5671581684261456742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_138
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 104
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a808c6307a8e41c0800000000000000
+      internalID: -4517521161645979488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_139
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 100
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ec7fa92414e5ba70800000000000000
+      internalID: 8842224218661682401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_140
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 101
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76489a6658de6d4d0800000000000000
+      internalID: -3110037335443930009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_141
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 104
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27098e08ab05c05c0800000000000000
+      internalID: -4247931586560356238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_142
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 103
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79dfce37946256490800000000000000
+      internalID: -7753749086529061481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_143
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 103
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04f73dcfb5e9d26f0800000000000000
+      internalID: -707735448506368192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_144
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 107
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c26e65c6bad53a70800000000000000
+      internalID: 8806185124924121801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_145
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 72
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3ffb6fcccad6c780800000000000000
+      internalID: -8662996260012425409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_146
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 72
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d1db8d8b61205350800000000000000
+      internalID: 6003335049104839123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_147
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 71
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b008cba70ce274120800000000000000
+      internalID: 2397936730825850891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_148
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 72
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34feb72457d39fb10800000000000000
+      internalID: 2015709882060894019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_149
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 71
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 049a21470f37e1470800000000000000
+      internalID: 8367252634277685568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_150
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 72
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4af69fd9c8ab6f30800000000000000
+      internalID: 4569931831890606669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_151
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 72
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 506eb20a204319180800000000000000
+      internalID: -9110443385311992315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_152
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 72
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ebe360219605a5a0800000000000000
+      internalID: -6510790465910739994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_153
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 72
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78528f5e4b1069a30800000000000000
+      internalID: 4221563577170404743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_154
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 72
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f4d5094ab492d650800000000000000
+      internalID: 6256226360180987127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_155
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 72
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d82c797118c5600e0800000000000000
+      internalID: -2304052449837071731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_156
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 72
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dd4fb7c367674910800000000000000
+      internalID: 1821538252545281492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_157
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 72
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f19c5d1438a2eafa0800000000000000
+      internalID: -5787641727890896609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_158
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 72
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 486628f74405873b0800000000000000
+      internalID: -5514569488587921788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_159
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 72
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd974e9d80f04e6f0800000000000000
+      internalID: -656383114999465505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_160
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 72
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b37cf2b3ed0a051f0800000000000000
+      internalID: -1058169036095895749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_161
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 72
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d6cc8821ecbc0ed0800000000000000
+      internalID: -2446372822335043888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_162
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 72
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0b948454d1825180800000000000000
+      internalID: -9128090745775547638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_163
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 72
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78b61a0b4f0806500800000000000000
+      internalID: 387451356377607047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_164
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 72
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 839232421f4b577b0800000000000000
+      internalID: -5227072844707190472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_165
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 71
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5346fa5a6916d470800000000000000
+      internalID: 8418944497999037278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_166
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 72
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb91d5443b55fd2f0800000000000000
+      internalID: -945943168290055745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_167
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 72
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 691a426fa1489b5d0800000000000000
+      internalID: -3046258421605817962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_168
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 68
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31eead54abcad25c0800000000000000
+      internalID: -4238541758249898477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_169
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 69
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14aafef7c253b0da0800000000000000
+      internalID: -5977625615162955199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_170
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 72
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e980443407cc8bbc0800000000000000
+      internalID: -3767036305758484322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_171
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 71
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d066a9a85515fe690800000000000000
+      internalID: -7570743020747069939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_172
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 71
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf2f73e3d03d63a20800000000000000
+      internalID: 3041850652167238395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_173
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 75
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11c7551a889381190800000000000000
+      internalID: -7991574279783875567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_174
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 40
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d909764a6c8d5cb0800000000000000
+      internalID: -4873584833668249127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_175
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 40
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: debf4d2f2bde4f9d0800000000000000
+      internalID: -2741304920327783443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_176
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 39
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff67b5e491faf5990800000000000000
+      internalID: -7394999539895404801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_177
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 40
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9e2ef681e4d3bb60800000000000000
+      internalID: 7760780647987031706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_178
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 39
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab0086d9e38d46120800000000000000
+      internalID: 2406285864363098298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_179
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 40
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26a730bdd8db76d30800000000000000
+      internalID: 4424713575877278306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_180
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 40
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bac05b38767a0b5f0800000000000000
+      internalID: -742909875482981205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_181
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 40
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b073173d67a99fd0800000000000000
+      internalID: -2334650844297596748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_182
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 40
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37c875a668c669d50800000000000000
+      internalID: 6743696816599436403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_183
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 40
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 698e579f993cc2f50800000000000000
+      internalID: 6858071398661089430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_184
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 40
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bab6bed0477fb89e0800000000000000
+      internalID: -1617927563287762005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_185
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 40
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f72551c26aa9e800800000000000000
+      internalID: 642231763004106744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_186
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 40
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c11d2793e7d4d1ce0800000000000000
+      internalID: -1432903901908905700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_187
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 40
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cf5619e15883c8f0800000000000000
+      internalID: -521423246460559419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_188
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 40
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 550f5ca55d114d330800000000000000
+      internalID: 3734629599045611605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_189
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 40
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 827097d3aaf3c0020800000000000000
+      internalID: 2309290709342553896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_190
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 40
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b34b1dc25d65b2830800000000000000
+      internalID: 4047424163702486075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_191
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 40
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 529a8cfce0c9bd4c0800000000000000
+      internalID: -4261641034946533083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_192
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 40
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0937f19531236790800000000000000
+      internalID: -7538144837322196725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_193
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 40
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9e2e07b714c7df20800000000000000
+      internalID: 3447439645909855903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_194
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 40
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11c5f6d2e28bdca90800000000000000
+      internalID: -7291969713172685807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_195
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 40
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bd2dec66088ad150800000000000000
+      internalID: 5898176223173750199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_196
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 40
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62aec0f7c87a04750800000000000000
+      internalID: 6287209301678025254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_197
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 38
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fe4718113542aaf0800000000000000
+      internalID: -386670540840546569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_198
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 39
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26d9fb25c743ede50800000000000000
+      internalID: 6835958992963870050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_199
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 40
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6b2a25465ba87870800000000000000
+      internalID: 8680876668772559727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_200
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 39
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaaa3f21155ac99e0800000000000000
+      internalID: -1613232798876587346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_201
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 39
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71092add7c09e3e80800000000000000
+      internalID: -8196955083676413929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_202
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 43
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 211535620f7936ca0800000000000000
+      internalID: -6024804818800652014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_203
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 8
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69f99d4f50bc2b390800000000000000
+      internalID: -7803951977836470378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_204
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 8
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dfe784d35e4674e0800000000000000
+      internalID: -1984312463855194153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_205
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 7
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f0ce0eedfc733c30800000000000000
+      internalID: 4337948296150434038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_206
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 8
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c185bba52e29323d0800000000000000
+      internalID: -3232578606639392740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_207
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 7
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ed144acce0369210800000000000000
+      internalID: 1339311732753178086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_208
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 8
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e033fc170ec7e92a0800000000000000
+      internalID: -6728803489821019378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_209
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 8
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 775c9b400c064c4d0800000000000000
+      internalID: -3115258664404269705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_210
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 8
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11ec276198314a810800000000000000
+      internalID: 1775565632598887953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_211
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 8
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8761d911fe8c03a50800000000000000
+      internalID: 6498915191413872248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_212
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 8
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 063468e2c5e3bfe20800000000000000
+      internalID: 3385368110537524064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_213
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 7
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d51cc7e72d5d8ae0800000000000000
+      internalID: -1545476671144192557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_214
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 7
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2020e5d044f2c900800000000000000
+      internalID: 703393051126538285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_215
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 7
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09aebfbc5ec0e5e50800000000000000
+      internalID: 6799886668485356176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_216
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 8
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a3c70dfa8f068ff0800000000000000
+      internalID: -34322857533652058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_217
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 8
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3efc21f57df4b710800000000000000
+      internalID: 1708268841679519295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_218
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 7
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ada21c85ceae9730800000000000000
+      internalID: 4007832881888144808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_219
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 8
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35c0a1f26f01c4410800000000000000
+      internalID: 1462562628526804051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_220
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 8
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 857e31b596dd7a560800000000000000
+      internalID: 7325066763510736728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_221
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 8
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 994f138040870f340800000000000000
+      internalID: 4895544753664423065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_222
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 8
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c30eb1f4e274083c0800000000000000
+      internalID: -4359406175073345476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_223
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 9
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3871a88f33d9d6a0800000000000000
+      internalID: -6423871123638618050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_224
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 8
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfc40554a1fa82e70800000000000000
+      internalID: 9090708375214247163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_225
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 8
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cf8579e9a3e68ad0800000000000000
+      internalID: -2700220607656259645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_226
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 7
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d64a5226be21e2df0800000000000000
+      internalID: -203204131011845011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_227
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 7
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab0a7530dc5ea3c80800000000000000
+      internalID: -8342102691063291718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_228
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 8
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d212da54dd8f4f860800000000000000
+      internalID: 7562943303502340397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_229
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 7
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b57c9a999961359f0800000000000000
+      internalID: -481015886234663077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_230
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 7
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 172d3dc727634e5f0800000000000000
+      internalID: -728397374378749327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Warrior_231
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 11
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0adb8f17c4888750800000000000000
+      internalID: 6307437268894997006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Dwarf-Warrior_0: 5476192296577590408
+      Dwarf-Warrior_1: -113685581359924765
+      Dwarf-Warrior_10: -4459587064133777317
+      Dwarf-Warrior_100: 4925807714654992762
+      Dwarf-Warrior_101: 4827672115837988836
+      Dwarf-Warrior_102: -2734715479452584422
+      Dwarf-Warrior_103: 8352091445227355467
+      Dwarf-Warrior_104: 3178574839093396243
+      Dwarf-Warrior_105: -4342253224233063127
+      Dwarf-Warrior_106: -2684230233629679744
+      Dwarf-Warrior_107: 6445658623747310302
+      Dwarf-Warrior_108: 7191278587503977304
+      Dwarf-Warrior_109: -1975450572357320991
+      Dwarf-Warrior_11: 3513754936684816675
+      Dwarf-Warrior_110: 4663990263030063512
+      Dwarf-Warrior_111: -1419919521546779914
+      Dwarf-Warrior_112: 7744481219705213467
+      Dwarf-Warrior_113: 8044489663838741918
+      Dwarf-Warrior_114: 6044544416232337716
+      Dwarf-Warrior_115: -1955988489356311661
+      Dwarf-Warrior_116: 8695990425517199490
+      Dwarf-Warrior_117: -2375592561167581451
+      Dwarf-Warrior_118: 5767286211292358781
+      Dwarf-Warrior_119: -7128594050487064625
+      Dwarf-Warrior_12: -867794644357559165
+      Dwarf-Warrior_120: -4444125101351937792
+      Dwarf-Warrior_121: 7562185838207604701
+      Dwarf-Warrior_122: 7544689346497992851
+      Dwarf-Warrior_123: -4638622470290425801
+      Dwarf-Warrior_124: -6851398907426511991
+      Dwarf-Warrior_125: 5982082746731583247
+      Dwarf-Warrior_126: 652591153018094823
+      Dwarf-Warrior_127: 6805179919150114373
+      Dwarf-Warrior_128: 2189263702119837250
+      Dwarf-Warrior_129: 3524687352175510292
+      Dwarf-Warrior_13: 1066512436978648456
+      Dwarf-Warrior_130: 5922493542839847961
+      Dwarf-Warrior_131: -3588903827664488821
+      Dwarf-Warrior_132: 718842069757943807
+      Dwarf-Warrior_133: 7268405147818069030
+      Dwarf-Warrior_134: 1610142195262413266
+      Dwarf-Warrior_135: 4040951768923469098
+      Dwarf-Warrior_136: -3774564660652220190
+      Dwarf-Warrior_137: -5671581684261456742
+      Dwarf-Warrior_138: -4517521161645979488
+      Dwarf-Warrior_139: 8842224218661682401
+      Dwarf-Warrior_14: 3762418357807223147
+      Dwarf-Warrior_140: -3110037335443930009
+      Dwarf-Warrior_141: -4247931586560356238
+      Dwarf-Warrior_142: -7753749086529061481
+      Dwarf-Warrior_143: -707735448506368192
+      Dwarf-Warrior_144: 8806185124924121801
+      Dwarf-Warrior_145: -8662996260012425409
+      Dwarf-Warrior_146: 6003335049104839123
+      Dwarf-Warrior_147: 2397936730825850891
+      Dwarf-Warrior_148: 2015709882060894019
+      Dwarf-Warrior_149: 8367252634277685568
+      Dwarf-Warrior_15: 3598705000499558444
+      Dwarf-Warrior_150: 4569931831890606669
+      Dwarf-Warrior_151: -9110443385311992315
+      Dwarf-Warrior_152: -6510790465910739994
+      Dwarf-Warrior_153: 4221563577170404743
+      Dwarf-Warrior_154: 6256226360180987127
+      Dwarf-Warrior_155: -2304052449837071731
+      Dwarf-Warrior_156: 1821538252545281492
+      Dwarf-Warrior_157: -5787641727890896609
+      Dwarf-Warrior_158: -5514569488587921788
+      Dwarf-Warrior_159: -656383114999465505
+      Dwarf-Warrior_16: 9091476751544801271
+      Dwarf-Warrior_160: -1058169036095895749
+      Dwarf-Warrior_161: -2446372822335043888
+      Dwarf-Warrior_162: -9128090745775547638
+      Dwarf-Warrior_163: 387451356377607047
+      Dwarf-Warrior_164: -5227072844707190472
+      Dwarf-Warrior_165: 8418944497999037278
+      Dwarf-Warrior_166: -945943168290055745
+      Dwarf-Warrior_167: -3046258421605817962
+      Dwarf-Warrior_168: -4238541758249898477
+      Dwarf-Warrior_169: -5977625615162955199
+      Dwarf-Warrior_17: 6557715338676713778
+      Dwarf-Warrior_170: -3767036305758484322
+      Dwarf-Warrior_171: -7570743020747069939
+      Dwarf-Warrior_172: 3041850652167238395
+      Dwarf-Warrior_173: -7991574279783875567
+      Dwarf-Warrior_174: -4873584833668249127
+      Dwarf-Warrior_175: -2741304920327783443
+      Dwarf-Warrior_176: -7394999539895404801
+      Dwarf-Warrior_177: 7760780647987031706
+      Dwarf-Warrior_178: 2406285864363098298
+      Dwarf-Warrior_179: 4424713575877278306
+      Dwarf-Warrior_18: -5445689632142075691
+      Dwarf-Warrior_180: -742909875482981205
+      Dwarf-Warrior_181: -2334650844297596748
+      Dwarf-Warrior_182: 6743696816599436403
+      Dwarf-Warrior_183: 6858071398661089430
+      Dwarf-Warrior_184: -1617927563287762005
+      Dwarf-Warrior_185: 642231763004106744
+      Dwarf-Warrior_186: -1432903901908905700
+      Dwarf-Warrior_187: -521423246460559419
+      Dwarf-Warrior_188: 3734629599045611605
+      Dwarf-Warrior_189: 2309290709342553896
+      Dwarf-Warrior_19: -3162795333559082236
+      Dwarf-Warrior_190: 4047424163702486075
+      Dwarf-Warrior_191: -4261641034946533083
+      Dwarf-Warrior_192: -7538144837322196725
+      Dwarf-Warrior_193: 3447439645909855903
+      Dwarf-Warrior_194: -7291969713172685807
+      Dwarf-Warrior_195: 5898176223173750199
+      Dwarf-Warrior_196: 6287209301678025254
+      Dwarf-Warrior_197: -386670540840546569
+      Dwarf-Warrior_198: 6835958992963870050
+      Dwarf-Warrior_199: 8680876668772559727
+      Dwarf-Warrior_2: 41908081023496596
+      Dwarf-Warrior_20: 114449440987943126
+      Dwarf-Warrior_200: -1613232798876587346
+      Dwarf-Warrior_201: -8196955083676413929
+      Dwarf-Warrior_202: -6024804818800652014
+      Dwarf-Warrior_203: -7803951977836470378
+      Dwarf-Warrior_204: -1984312463855194153
+      Dwarf-Warrior_205: 4337948296150434038
+      Dwarf-Warrior_206: -3232578606639392740
+      Dwarf-Warrior_207: 1339311732753178086
+      Dwarf-Warrior_208: -6728803489821019378
+      Dwarf-Warrior_209: -3115258664404269705
+      Dwarf-Warrior_21: 1496486609591748819
+      Dwarf-Warrior_210: 1775565632598887953
+      Dwarf-Warrior_211: 6498915191413872248
+      Dwarf-Warrior_212: 3385368110537524064
+      Dwarf-Warrior_213: -1545476671144192557
+      Dwarf-Warrior_214: 703393051126538285
+      Dwarf-Warrior_215: 6799886668485356176
+      Dwarf-Warrior_216: -34322857533652058
+      Dwarf-Warrior_217: 1708268841679519295
+      Dwarf-Warrior_218: 4007832881888144808
+      Dwarf-Warrior_219: 1462562628526804051
+      Dwarf-Warrior_22: -2251757678658985593
+      Dwarf-Warrior_220: 7325066763510736728
+      Dwarf-Warrior_221: 4895544753664423065
+      Dwarf-Warrior_222: -4359406175073345476
+      Dwarf-Warrior_223: -6423871123638618050
+      Dwarf-Warrior_224: 9090708375214247163
+      Dwarf-Warrior_225: -2700220607656259645
+      Dwarf-Warrior_226: -203204131011845011
+      Dwarf-Warrior_227: -8342102691063291718
+      Dwarf-Warrior_228: 7562943303502340397
+      Dwarf-Warrior_229: -481015886234663077
+      Dwarf-Warrior_23: 8547229821448157979
+      Dwarf-Warrior_230: -728397374378749327
+      Dwarf-Warrior_231: 6307437268894997006
+      Dwarf-Warrior_24: 1399359408440926451
+      Dwarf-Warrior_25: -8955283092869155447
+      Dwarf-Warrior_26: 528087056802767625
+      Dwarf-Warrior_27: -8552962475808018104
+      Dwarf-Warrior_28: 1172453526804724135
+      Dwarf-Warrior_29: 6080120922631374846
+      Dwarf-Warrior_3: 1852393122759838207
+      Dwarf-Warrior_30: -4018220310300516099
+      Dwarf-Warrior_31: 7388679436455445107
+      Dwarf-Warrior_32: -916307739544053748
+      Dwarf-Warrior_33: -4324516056695409592
+      Dwarf-Warrior_34: -1101070359053456840
+      Dwarf-Warrior_35: -3338431746103002320
+      Dwarf-Warrior_36: -6489298916197493443
+      Dwarf-Warrior_37: -8485392242896659551
+      Dwarf-Warrior_38: 7436793972600364301
+      Dwarf-Warrior_39: -7006465716537195820
+      Dwarf-Warrior_4: -4892552984402051864
+      Dwarf-Warrior_40: -6733650869792668955
+      Dwarf-Warrior_41: 5360953403530735662
+      Dwarf-Warrior_42: -7698765995209027303
+      Dwarf-Warrior_43: -4657910078727566533
+      Dwarf-Warrior_44: 1362953219935968503
+      Dwarf-Warrior_45: 2513753843660945400
+      Dwarf-Warrior_46: 3610624775738347810
+      Dwarf-Warrior_47: 6616450738542975307
+      Dwarf-Warrior_48: -2793314334597803670
+      Dwarf-Warrior_49: 2158526930350838865
+      Dwarf-Warrior_5: 4489483959821966478
+      Dwarf-Warrior_50: -3512108519356425930
+      Dwarf-Warrior_51: -4400182308130246387
+      Dwarf-Warrior_52: 1235654917474602902
+      Dwarf-Warrior_53: -2197418489778390833
+      Dwarf-Warrior_54: 3423503630900559576
+      Dwarf-Warrior_55: 1381740269442736351
+      Dwarf-Warrior_56: -6269507434210613036
+      Dwarf-Warrior_57: -2538765796658477316
+      Dwarf-Warrior_58: 1491061281252604093
+      Dwarf-Warrior_59: -7615273759471455354
+      Dwarf-Warrior_6: 5673525427887104609
+      Dwarf-Warrior_60: 7667739026690814119
+      Dwarf-Warrior_61: -7582970905565852656
+      Dwarf-Warrior_62: -8593225665625600278
+      Dwarf-Warrior_63: 8563601009790017242
+      Dwarf-Warrior_64: -7021899246991859381
+      Dwarf-Warrior_65: -9148166705084432303
+      Dwarf-Warrior_66: -1504506967834037172
+      Dwarf-Warrior_67: -3325638712161953947
+      Dwarf-Warrior_68: 7543881116399378580
+      Dwarf-Warrior_69: -8177208362767310369
+      Dwarf-Warrior_7: -3522651832695056150
+      Dwarf-Warrior_70: -8243155729525807109
+      Dwarf-Warrior_71: -4325635618548893506
+      Dwarf-Warrior_72: -102505882191777181
+      Dwarf-Warrior_73: -6613682618772160582
+      Dwarf-Warrior_74: 1994368735010692613
+      Dwarf-Warrior_75: 655632108890441650
+      Dwarf-Warrior_76: -5912912744396468158
+      Dwarf-Warrior_77: -4221486527853265037
+      Dwarf-Warrior_78: -5045662631508632097
+      Dwarf-Warrior_79: -7546827838975333725
+      Dwarf-Warrior_8: 2916365573653089573
+      Dwarf-Warrior_80: 4484451561723010820
+      Dwarf-Warrior_81: -5412548838598833944
+      Dwarf-Warrior_82: 3065107335744574140
+      Dwarf-Warrior_83: -2074183707097904496
+      Dwarf-Warrior_84: -8881131629342837701
+      Dwarf-Warrior_85: 3136198774815683989
+      Dwarf-Warrior_86: 1485371090446687515
+      Dwarf-Warrior_87: -3804759252237232531
+      Dwarf-Warrior_88: -5858645629472689387
+      Dwarf-Warrior_89: -4543230576142890285
+      Dwarf-Warrior_9: 8781879745214040130
+      Dwarf-Warrior_90: -7004301056799259414
+      Dwarf-Warrior_91: -6046251487664830754
+      Dwarf-Warrior_92: 672719248111295633
+      Dwarf-Warrior_93: -143676106527828675
+      Dwarf-Warrior_94: -5756626590057069238
+      Dwarf-Warrior_95: -1978123827115060001
+      Dwarf-Warrior_96: 8742008833728354786
+      Dwarf-Warrior_97: 2541315231906646284
+      Dwarf-Warrior_98: -4871697403116082831
+      Dwarf-Warrior_99: 7684161781965486343
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

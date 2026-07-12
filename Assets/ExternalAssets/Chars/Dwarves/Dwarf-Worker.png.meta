@@ -1,0 +1,6162 @@
+fileFormatVersion: 2
+guid: 23220e0e4c6f69d4ab4a1958a1456ba5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5678661715498382825
+    second: Dwarf-Worker_0
+  - first:
+      213: -4498675010476729213
+    second: Dwarf-Worker_1
+  - first:
+      213: -2229163202133975333
+    second: Dwarf-Worker_2
+  - first:
+      213: 1995533428657655593
+    second: Dwarf-Worker_3
+  - first:
+      213: -6047387329241881283
+    second: Dwarf-Worker_4
+  - first:
+      213: 5184283723386158140
+    second: Dwarf-Worker_5
+  - first:
+      213: 2207519255627665207
+    second: Dwarf-Worker_6
+  - first:
+      213: 1745245780713446507
+    second: Dwarf-Worker_7
+  - first:
+      213: -2041833126014243801
+    second: Dwarf-Worker_8
+  - first:
+      213: 5036443716009327442
+    second: Dwarf-Worker_9
+  - first:
+      213: -3100334312048481729
+    second: Dwarf-Worker_10
+  - first:
+      213: -1946150323108926788
+    second: Dwarf-Worker_11
+  - first:
+      213: 3539208625459386132
+    second: Dwarf-Worker_12
+  - first:
+      213: 8339728523351832792
+    second: Dwarf-Worker_13
+  - first:
+      213: -3592579716174106311
+    second: Dwarf-Worker_14
+  - first:
+      213: 7809835103512623622
+    second: Dwarf-Worker_15
+  - first:
+      213: -672297349950881735
+    second: Dwarf-Worker_16
+  - first:
+      213: -1123105924579727392
+    second: Dwarf-Worker_17
+  - first:
+      213: 3025707078765718346
+    second: Dwarf-Worker_18
+  - first:
+      213: 2692041860582939141
+    second: Dwarf-Worker_19
+  - first:
+      213: -339828207600897010
+    second: Dwarf-Worker_20
+  - first:
+      213: -5552212811273441998
+    second: Dwarf-Worker_21
+  - first:
+      213: -3047511930084110969
+    second: Dwarf-Worker_22
+  - first:
+      213: -2768564857847113266
+    second: Dwarf-Worker_23
+  - first:
+      213: 1750997192197815304
+    second: Dwarf-Worker_24
+  - first:
+      213: -6271286315308694005
+    second: Dwarf-Worker_25
+  - first:
+      213: 7766297901756085204
+    second: Dwarf-Worker_26
+  - first:
+      213: -2949910802131226988
+    second: Dwarf-Worker_27
+  - first:
+      213: -230157056522855967
+    second: Dwarf-Worker_28
+  - first:
+      213: -5072640912812288249
+    second: Dwarf-Worker_29
+  - first:
+      213: -5278907919639444787
+    second: Dwarf-Worker_30
+  - first:
+      213: 1237454489496887813
+    second: Dwarf-Worker_31
+  - first:
+      213: -8201490522716056269
+    second: Dwarf-Worker_32
+  - first:
+      213: -1383901973722083763
+    second: Dwarf-Worker_33
+  - first:
+      213: 421208568364534684
+    second: Dwarf-Worker_34
+  - first:
+      213: 690676277020357836
+    second: Dwarf-Worker_35
+  - first:
+      213: -2273732858893533372
+    second: Dwarf-Worker_36
+  - first:
+      213: -7600748010275178258
+    second: Dwarf-Worker_37
+  - first:
+      213: 2914121918034993267
+    second: Dwarf-Worker_38
+  - first:
+      213: -8553722153220568128
+    second: Dwarf-Worker_39
+  - first:
+      213: 445620503521358107
+    second: Dwarf-Worker_40
+  - first:
+      213: -5415835138317551791
+    second: Dwarf-Worker_41
+  - first:
+      213: -3284461215152417714
+    second: Dwarf-Worker_42
+  - first:
+      213: -3697740308126665213
+    second: Dwarf-Worker_43
+  - first:
+      213: -4204928413038904493
+    second: Dwarf-Worker_44
+  - first:
+      213: -3299678589395622555
+    second: Dwarf-Worker_45
+  - first:
+      213: -9102419677637332752
+    second: Dwarf-Worker_46
+  - first:
+      213: 4345315325451481864
+    second: Dwarf-Worker_47
+  - first:
+      213: 2237055634107713950
+    second: Dwarf-Worker_48
+  - first:
+      213: 4061123947626056999
+    second: Dwarf-Worker_49
+  - first:
+      213: -6110421965139011190
+    second: Dwarf-Worker_50
+  - first:
+      213: -5412860219311368694
+    second: Dwarf-Worker_51
+  - first:
+      213: 5019250736138914468
+    second: Dwarf-Worker_52
+  - first:
+      213: -8431183401534644649
+    second: Dwarf-Worker_53
+  - first:
+      213: -4474501487680858385
+    second: Dwarf-Worker_54
+  - first:
+      213: -463457457752441061
+    second: Dwarf-Worker_55
+  - first:
+      213: 242143278776969961
+    second: Dwarf-Worker_56
+  - first:
+      213: 2840280018879524236
+    second: Dwarf-Worker_57
+  - first:
+      213: 3655101820661012726
+    second: Dwarf-Worker_58
+  - first:
+      213: 8162336141821198120
+    second: Dwarf-Worker_59
+  - first:
+      213: -6306548782444154676
+    second: Dwarf-Worker_60
+  - first:
+      213: 4098334028940966334
+    second: Dwarf-Worker_61
+  - first:
+      213: -8572561755965382062
+    second: Dwarf-Worker_62
+  - first:
+      213: -457362044245931458
+    second: Dwarf-Worker_63
+  - first:
+      213: -1484716262885783655
+    second: Dwarf-Worker_64
+  - first:
+      213: -3839809331970222167
+    second: Dwarf-Worker_65
+  - first:
+      213: -7872952129402216237
+    second: Dwarf-Worker_66
+  - first:
+      213: -335105213635116111
+    second: Dwarf-Worker_67
+  - first:
+      213: -2602215384921129541
+    second: Dwarf-Worker_68
+  - first:
+      213: -345520498309027752
+    second: Dwarf-Worker_69
+  - first:
+      213: 6465658316094197891
+    second: Dwarf-Worker_70
+  - first:
+      213: -8163304836619796657
+    second: Dwarf-Worker_71
+  - first:
+      213: 7019364542404708973
+    second: Dwarf-Worker_72
+  - first:
+      213: 5840195814713465412
+    second: Dwarf-Worker_73
+  - first:
+      213: 7593723810372147969
+    second: Dwarf-Worker_74
+  - first:
+      213: -4103966761401803430
+    second: Dwarf-Worker_75
+  - first:
+      213: 1766507009804253114
+    second: Dwarf-Worker_76
+  - first:
+      213: -596855469539396807
+    second: Dwarf-Worker_77
+  - first:
+      213: -7361188754170587830
+    second: Dwarf-Worker_78
+  - first:
+      213: -1560916670694671934
+    second: Dwarf-Worker_79
+  - first:
+      213: -3834929783692015515
+    second: Dwarf-Worker_80
+  - first:
+      213: -2850575475905058447
+    second: Dwarf-Worker_81
+  - first:
+      213: -3177127925339596023
+    second: Dwarf-Worker_82
+  - first:
+      213: -2556758012546184160
+    second: Dwarf-Worker_83
+  - first:
+      213: 6370192112065780650
+    second: Dwarf-Worker_84
+  - first:
+      213: 6642332834461999174
+    second: Dwarf-Worker_85
+  - first:
+      213: -8142082196831544996
+    second: Dwarf-Worker_86
+  - first:
+      213: 6308079324181907876
+    second: Dwarf-Worker_87
+  - first:
+      213: 7378769510237162700
+    second: Dwarf-Worker_88
+  - first:
+      213: 7377127821827403813
+    second: Dwarf-Worker_89
+  - first:
+      213: -2723445304881546853
+    second: Dwarf-Worker_90
+  - first:
+      213: 4187620206022990524
+    second: Dwarf-Worker_91
+  - first:
+      213: 7521024129800043966
+    second: Dwarf-Worker_92
+  - first:
+      213: -2321467521637984238
+    second: Dwarf-Worker_93
+  - first:
+      213: -6742927774494258024
+    second: Dwarf-Worker_94
+  - first:
+      213: -1785889926701007245
+    second: Dwarf-Worker_95
+  - first:
+      213: -3227886218936088530
+    second: Dwarf-Worker_96
+  - first:
+      213: -5354224070732794177
+    second: Dwarf-Worker_97
+  - first:
+      213: 4038041082149459464
+    second: Dwarf-Worker_98
+  - first:
+      213: -1278097081027429056
+    second: Dwarf-Worker_99
+  - first:
+      213: 5076517896125250722
+    second: Dwarf-Worker_100
+  - first:
+      213: -2073581531062053248
+    second: Dwarf-Worker_101
+  - first:
+      213: 4522005840627584765
+    second: Dwarf-Worker_102
+  - first:
+      213: -1535913445946933451
+    second: Dwarf-Worker_103
+  - first:
+      213: -2455186694320076810
+    second: Dwarf-Worker_104
+  - first:
+      213: 3677599661799612263
+    second: Dwarf-Worker_105
+  - first:
+      213: 8030516563696524754
+    second: Dwarf-Worker_106
+  - first:
+      213: -1693514306155840463
+    second: Dwarf-Worker_107
+  - first:
+      213: 6714503952406290581
+    second: Dwarf-Worker_108
+  - first:
+      213: -3011183614550789911
+    second: Dwarf-Worker_109
+  - first:
+      213: -1156795338683768160
+    second: Dwarf-Worker_110
+  - first:
+      213: -2465727008046286998
+    second: Dwarf-Worker_111
+  - first:
+      213: -334740971936618353
+    second: Dwarf-Worker_112
+  - first:
+      213: -7134332830633943229
+    second: Dwarf-Worker_113
+  - first:
+      213: -2513781781534114713
+    second: Dwarf-Worker_114
+  - first:
+      213: 2064956901638078212
+    second: Dwarf-Worker_115
+  - first:
+      213: -1963055737929348650
+    second: Dwarf-Worker_116
+  - first:
+      213: 7680371840158594159
+    second: Dwarf-Worker_117
+  - first:
+      213: -1999807539343809134
+    second: Dwarf-Worker_118
+  - first:
+      213: -8119805168450235180
+    second: Dwarf-Worker_119
+  - first:
+      213: 5380959800463204163
+    second: Dwarf-Worker_120
+  - first:
+      213: 7215501493589624259
+    second: Dwarf-Worker_121
+  - first:
+      213: 621167722512168268
+    second: Dwarf-Worker_122
+  - first:
+      213: -5562078837065199363
+    second: Dwarf-Worker_123
+  - first:
+      213: 1425067953965735766
+    second: Dwarf-Worker_124
+  - first:
+      213: -546416164813530976
+    second: Dwarf-Worker_125
+  - first:
+      213: 2735152833924394114
+    second: Dwarf-Worker_126
+  - first:
+      213: -7002046860671887140
+    second: Dwarf-Worker_127
+  - first:
+      213: 5719871647981374059
+    second: Dwarf-Worker_128
+  - first:
+      213: -612440676350685532
+    second: Dwarf-Worker_129
+  - first:
+      213: 4592829846719472530
+    second: Dwarf-Worker_130
+  - first:
+      213: -1925053824825177619
+    second: Dwarf-Worker_131
+  - first:
+      213: 1961307950943311483
+    second: Dwarf-Worker_132
+  - first:
+      213: 6329235917112524058
+    second: Dwarf-Worker_133
+  - first:
+      213: -6426806806773902134
+    second: Dwarf-Worker_134
+  - first:
+      213: 5981078799304889641
+    second: Dwarf-Worker_135
+  - first:
+      213: -2399124401649088996
+    second: Dwarf-Worker_136
+  - first:
+      213: -3485021444486360213
+    second: Dwarf-Worker_137
+  - first:
+      213: 2159943219166426589
+    second: Dwarf-Worker_138
+  - first:
+      213: 1040145687075124276
+    second: Dwarf-Worker_139
+  - first:
+      213: 8138362338807484039
+    second: Dwarf-Worker_140
+  - first:
+      213: -5858404588842837144
+    second: Dwarf-Worker_141
+  - first:
+      213: -8302947390922250229
+    second: Dwarf-Worker_142
+  - first:
+      213: -8164097749567294307
+    second: Dwarf-Worker_143
+  - first:
+      213: -3995230796048688433
+    second: Dwarf-Worker_144
+  - first:
+      213: -4283657691533277918
+    second: Dwarf-Worker_145
+  - first:
+      213: 6479183539129594774
+    second: Dwarf-Worker_146
+  - first:
+      213: 206248388244016007
+    second: Dwarf-Worker_147
+  - first:
+      213: 4499710679791312438
+    second: Dwarf-Worker_148
+  - first:
+      213: 3424900690667168524
+    second: Dwarf-Worker_149
+  - first:
+      213: 2997713742017535134
+    second: Dwarf-Worker_150
+  - first:
+      213: 5656565164428254306
+    second: Dwarf-Worker_151
+  - first:
+      213: 3292453006730744837
+    second: Dwarf-Worker_152
+  - first:
+      213: 4031329419707238986
+    second: Dwarf-Worker_153
+  - first:
+      213: -5099374837302295876
+    second: Dwarf-Worker_154
+  - first:
+      213: 8035745160115164489
+    second: Dwarf-Worker_155
+  - first:
+      213: -1641181154716155412
+    second: Dwarf-Worker_156
+  - first:
+      213: -5159574078521141124
+    second: Dwarf-Worker_157
+  - first:
+      213: -2930694009974423392
+    second: Dwarf-Worker_158
+  - first:
+      213: -4580477137476333313
+    second: Dwarf-Worker_159
+  - first:
+      213: 8371454886798770615
+    second: Dwarf-Worker_160
+  - first:
+      213: 1836520037839489878
+    second: Dwarf-Worker_161
+  - first:
+      213: 2745624783969942826
+    second: Dwarf-Worker_162
+  - first:
+      213: 6421901966174690809
+    second: Dwarf-Worker_163
+  - first:
+      213: -6665406606775095076
+    second: Dwarf-Worker_164
+  - first:
+      213: 5388750736225812160
+    second: Dwarf-Worker_165
+  - first:
+      213: -8020330302765376294
+    second: Dwarf-Worker_166
+  - first:
+      213: -824977035854133672
+    second: Dwarf-Worker_167
+  - first:
+      213: 1695194094823134223
+    second: Dwarf-Worker_168
+  - first:
+      213: -6208924759085426535
+    second: Dwarf-Worker_169
+  - first:
+      213: -8767274382647303520
+    second: Dwarf-Worker_170
+  - first:
+      213: 52293445325850986
+    second: Dwarf-Worker_171
+  - first:
+      213: 1912701598728434836
+    second: Dwarf-Worker_172
+  - first:
+      213: -4762362053931819363
+    second: Dwarf-Worker_173
+  - first:
+      213: 1982740251599766079
+    second: Dwarf-Worker_174
+  - first:
+      213: 6620251038937120344
+    second: Dwarf-Worker_175
+  - first:
+      213: 7176964951821435389
+    second: Dwarf-Worker_176
+  - first:
+      213: 2389717303189727904
+    second: Dwarf-Worker_177
+  - first:
+      213: -3019836429578626726
+    second: Dwarf-Worker_178
+  - first:
+      213: 3500892426948124550
+    second: Dwarf-Worker_179
+  - first:
+      213: 879732343489997195
+    second: Dwarf-Worker_180
+  - first:
+      213: 4856458116124488820
+    second: Dwarf-Worker_181
+  - first:
+      213: -4928963968845663811
+    second: Dwarf-Worker_182
+  - first:
+      213: 634111491104753260
+    second: Dwarf-Worker_183
+  - first:
+      213: -3099753972374453005
+    second: Dwarf-Worker_184
+  - first:
+      213: 1920554293424602197
+    second: Dwarf-Worker_185
+  - first:
+      213: 678818629246724845
+    second: Dwarf-Worker_186
+  - first:
+      213: -1781003338279523806
+    second: Dwarf-Worker_187
+  - first:
+      213: -7992969704606870328
+    second: Dwarf-Worker_188
+  - first:
+      213: -1094588474856787512
+    second: Dwarf-Worker_189
+  - first:
+      213: 2685227420808516573
+    second: Dwarf-Worker_190
+  - first:
+      213: 3385157265648058201
+    second: Dwarf-Worker_191
+  - first:
+      213: 6181734710931647627
+    second: Dwarf-Worker_192
+  - first:
+      213: -2509103459757186894
+    second: Dwarf-Worker_193
+  - first:
+      213: 8402359511150810563
+    second: Dwarf-Worker_194
+  - first:
+      213: 1682506315456255226
+    second: Dwarf-Worker_195
+  - first:
+      213: 4986708883677315235
+    second: Dwarf-Worker_196
+  - first:
+      213: 4439111887398450666
+    second: Dwarf-Worker_197
+  - first:
+      213: -4569232792124164697
+    second: Dwarf-Worker_198
+  - first:
+      213: 4996634416806331476
+    second: Dwarf-Worker_199
+  - first:
+      213: -3132169486414367152
+    second: Dwarf-Worker_200
+  - first:
+      213: -8260820748036627312
+    second: Dwarf-Worker_201
+  - first:
+      213: -8243675569187336979
+    second: Dwarf-Worker_202
+  - first:
+      213: 5316098614725182517
+    second: Dwarf-Worker_203
+  - first:
+      213: 7722408422904545786
+    second: Dwarf-Worker_204
+  - first:
+      213: -6775858608875031249
+    second: Dwarf-Worker_205
+  - first:
+      213: -814493588096766593
+    second: Dwarf-Worker_206
+  - first:
+      213: -5941469273012185604
+    second: Dwarf-Worker_207
+  - first:
+      213: -8497205947922782532
+    second: Dwarf-Worker_208
+  - first:
+      213: 8710319113677513465
+    second: Dwarf-Worker_209
+  - first:
+      213: -2103728237681928849
+    second: Dwarf-Worker_210
+  - first:
+      213: -8134117456980118944
+    second: Dwarf-Worker_211
+  - first:
+      213: 1281563392543763303
+    second: Dwarf-Worker_212
+  - first:
+      213: -6946275288813551073
+    second: Dwarf-Worker_213
+  - first:
+      213: 4181223720976186527
+    second: Dwarf-Worker_214
+  - first:
+      213: 7244100991879978968
+    second: Dwarf-Worker_215
+  - first:
+      213: -1496787710725678113
+    second: Dwarf-Worker_216
+  - first:
+      213: 7190239657446996456
+    second: Dwarf-Worker_217
+  - first:
+      213: 5382675175641348007
+    second: Dwarf-Worker_218
+  - first:
+      213: 2499112450925602287
+    second: Dwarf-Worker_219
+  - first:
+      213: 6278015914858111573
+    second: Dwarf-Worker_220
+  - first:
+      213: -8421640241782334300
+    second: Dwarf-Worker_221
+  - first:
+      213: -2372042798852640525
+    second: Dwarf-Worker_222
+  - first:
+      213: 7764015471913568495
+    second: Dwarf-Worker_223
+  - first:
+      213: -4043685390805543140
+    second: Dwarf-Worker_224
+  - first:
+      213: -614772141851840099
+    second: Dwarf-Worker_225
+  - first:
+      213: 4701001079048291992
+    second: Dwarf-Worker_226
+  - first:
+      213: -1116173176153635607
+    second: Dwarf-Worker_227
+  - first:
+      213: 1179808894637556774
+    second: Dwarf-Worker_228
+  - first:
+      213: -8790789551490766851
+    second: Dwarf-Worker_229
+  - first:
+      213: -774106865312677796
+    second: Dwarf-Worker_230
+  - first:
+      213: -1979454456905696289
+    second: Dwarf-Worker_231
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dwarf-Worker_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 232
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71acb10b1475131b0800000000000000
+      internalID: -5678661715498382825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 232
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38c9b98b9ee7191c0800000000000000
+      internalID: -4498675010476729213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 231
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bde9e66d0eb6011e0800000000000000
+      internalID: -2229163202133975333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 232
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92f8e80a41f81bb10800000000000000
+      internalID: 1995533428657655593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_4
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 231
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d35e655b34d531ca0800000000000000
+      internalID: -6047387329241881283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_5
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 232
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3c7543349642f740800000000000000
+      internalID: 5184283723386158140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_6
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 232
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73f858a211fa2ae10800000000000000
+      internalID: 2207519255627665207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_7
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 231
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6c9c257acb583810800000000000000
+      internalID: 1745245780713446507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_8
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 232
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72cab490793f9a3e0800000000000000
+      internalID: -2041833126014243801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_9
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 231
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25bfbff10ea05e540800000000000000
+      internalID: 5036443716009327442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_10
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 231
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3a25659e5669f4d0800000000000000
+      internalID: -3100334312048481729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_11
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 231
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbaa49f9792edf4e0800000000000000
+      internalID: -1946150323108926788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_12
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 232
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 417518a4e7bcd1130800000000000000
+      internalID: 3539208625459386132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_13
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 232
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d8349df7eaacb370800000000000000
+      internalID: 8339728523351832792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_14
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 232
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9313b2e48c7942ec0800000000000000
+      internalID: -3592579716174106311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_15
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 228
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60afe3bf5ab126c60800000000000000
+      internalID: 7809835103512623622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_16
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 232
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 930cdb84f158ba6f0800000000000000
+      internalID: -672297349950881735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_17
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 232
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e7e940bc1de960f0800000000000000
+      internalID: -1123105924579727392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_18
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 232
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4b2738ae887df920800000000000000
+      internalID: 3025707078765718346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_19
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 232
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50a17842fcd0c5520800000000000000
+      internalID: 2692041860582939141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_20
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 233
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e047a41bb00b84bf0800000000000000
+      internalID: -339828207600897010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_21
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 232
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23d6ca27dd392f2b0800000000000000
+      internalID: -5552212811273441998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_22
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 232
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78d4296cb0015b5d0800000000000000
+      internalID: -3047511930084110969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_23
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 232
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec994662ee41499d0800000000000000
+      internalID: -2768564857847113266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_24
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 232
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80c38ab4baacc4810800000000000000
+      internalID: 1750997192197815304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_25
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 232
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b06c14ba25ae7f8a0800000000000000
+      internalID: -6271286315308694005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_26
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 231
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d378064bce67cb60800000000000000
+      internalID: 7766297901756085204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_27
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 231
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49e61e731cfcf07d0800000000000000
+      internalID: -2949910802131226988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_28
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 235
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e9d76360615eccf0800000000000000
+      internalID: -230157056522855967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_29
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 200
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 707d5be37fb5a99b0800000000000000
+      internalID: -5072640912812288249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_30
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 200
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc205e7473d8db6b0800000000000000
+      internalID: -5278907919639444787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_31
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 199
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 502ac284d425c2110800000000000000
+      internalID: 1237454489496887813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_32
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 200
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 335d6cca2d37e2e80800000000000000
+      internalID: -8201490522716056269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_33
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 199
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4e4554bc746bcce0800000000000000
+      internalID: -1383901973722083763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_34
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 200
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9b08b516fe68d500800000000000000
+      internalID: 421208568364534684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_35
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 200
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc476922a66c59900800000000000000
+      internalID: 690676277020357836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_36
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 200
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44f7487f2041270e0800000000000000
+      internalID: -2273732858893533372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_37
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 200
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee87a4484f7b48690800000000000000
+      internalID: -7600748010275178258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_38
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 200
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 370e7acd17a017820800000000000000
+      internalID: 2914121918034993267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_39
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 199
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cb06ed65031b4980800000000000000
+      internalID: -8553722153220568128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_40
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 199
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b117509ac792f2600800000000000000
+      internalID: 445620503521358107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_41
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 200
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 157f082d2a617d4b0800000000000000
+      internalID: -5415835138317551791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_42
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 200
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e44da483def3b62d0800000000000000
+      internalID: -3284461215152417714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_43
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 200
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 306777ef7ccfeacc0800000000000000
+      internalID: -3697740308126665213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_44
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 200
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35b7ed213e715a5c0800000000000000
+      internalID: -4204928413038904493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_45
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 200
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 565ac1e2ecf2532d0800000000000000
+      internalID: -3299678589395622555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_46
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 200
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f0b6e5a785bda180800000000000000
+      internalID: -9102419677637332752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_47
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 200
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 803b89a1449ad4c30800000000000000
+      internalID: 4345315325451481864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_48
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 200
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e99c6cd2f3e9b0f10800000000000000
+      internalID: 2237055634107713950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_49
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 201
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72d451fa6b20c5830800000000000000
+      internalID: 4061123947626056999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_50
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 200
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a89152cd89b633ba0800000000000000
+      internalID: -6110421965139011190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_51
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 200
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a065a112f48a1e4b0800000000000000
+      internalID: -5412860219311368694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_52
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 199
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aa8d2e83f5f7a540800000000000000
+      internalID: 5019250736138914468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_53
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 199
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75e9b5bdd5b6efa80800000000000000
+      internalID: -8431183401534644649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_54
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 200
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe653d79a9067e1c0800000000000000
+      internalID: -4474501487680858385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_55
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 199
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1ff82ec5e77199f0800000000000000
+      internalID: -463457457752441061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_56
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 199
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eaef3477044c5300800000000000000
+      internalID: 242143278776969961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_57
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 203
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8d24f3f0a3ba6720800000000000000
+      internalID: 2840280018879524236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_58
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 168
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f812668db789b230800000000000000
+      internalID: 3655101820661012726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_59
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 168
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82fb59e9971764170800000000000000
+      internalID: 8162336141821198120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_60
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 167
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc07ebfbb43aa78a0800000000000000
+      internalID: -6306548782444154676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_61
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 168
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb9fbedd51530e830800000000000000
+      internalID: 4098334028940966334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_62
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 167
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 252a5989084280980800000000000000
+      internalID: -8572561755965382062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_63
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 168
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3a89fad4af17a9f0800000000000000
+      internalID: -457362044245931458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_64
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 168
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 997827edc6a356be0800000000000000
+      internalID: -1484716262885783655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_65
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 168
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a75faab1c146bac0800000000000000
+      internalID: -3839809331970222167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_66
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 168
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d0635140c7adb290800000000000000
+      internalID: -7872952129402216237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_67
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 168
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b3c5ea6597795bf0800000000000000
+      internalID: -335105213635116111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_68
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 168
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbd38b005e213ebd0800000000000000
+      internalID: -2602215384921129541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_69
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 168
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 858acabffe6743bf0800000000000000
+      internalID: -345520498309027752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_70
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 168
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38058d16bf1aab950800000000000000
+      internalID: 6465658316094197891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_71
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 168
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4f7c0c808d16be80800000000000000
+      internalID: -8163304836619796657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_72
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 168
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6a41037cdac96160800000000000000
+      internalID: 7019364542404708973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_73
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 168
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44a18ba962b8c0150800000000000000
+      internalID: 5840195814713465412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_74
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 168
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10b58af7293526960800000000000000
+      internalID: 7593723810372147969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_75
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 168
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5d92a869f7cb07c0800000000000000
+      internalID: -4103966761401803430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_76
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 168
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab7be9c14c4e38810800000000000000
+      internalID: 1766507009804253114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_77
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 168
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 933fadbdc1b87b7f0800000000000000
+      internalID: -596855469539396807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_78
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 168
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a45df0f44ddc7d990800000000000000
+      internalID: -7361188754170587830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_79
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 168
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c9324fde82865ae0800000000000000
+      internalID: -1560916670694671934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_80
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 168
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 568c8781ea797cac0800000000000000
+      internalID: -3834929783692015515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_81
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 166
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1792d3925b8b078d0800000000000000
+      internalID: -2850575475905058447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_82
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 167
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90bd82c2cf298e3d0800000000000000
+      internalID: -3177127925339596023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_83
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 168
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02c0d854222948cd0800000000000000
+      internalID: -2556758012546184160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_84
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 167
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aab1da6a9f7776850800000000000000
+      internalID: 6370192112065780650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_85
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 167
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6406506358e4e2c50800000000000000
+      internalID: 6642332834461999174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_86
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 171
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c59d2dd6163810f80800000000000000
+      internalID: -8142082196831544996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_87
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 136
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a949d449bcca8750800000000000000
+      internalID: 6308079324181907876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_88
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 136
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccc4b2176c7a66660800000000000000
+      internalID: 7378769510237162700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_89
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 135
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5207ca21ba2d06660800000000000000
+      internalID: 7377127821827403813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_90
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 136
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b997455bce0643ad0800000000000000
+      internalID: -2723445304881546853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_91
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 135
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cba9f32f36a6d1a30800000000000000
+      internalID: 4187620206022990524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_92
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 136
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebd7fd3199b006860800000000000000
+      internalID: 7521024129800043966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_93
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 136
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2185927b69d78cfd0800000000000000
+      internalID: -2321467521637984238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_94
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 136
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89c87272aee4c62a0800000000000000
+      internalID: -6742927774494258024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_95
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 136
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37eb90fd29e3737e0800000000000000
+      internalID: -1785889926701007245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_96
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 136
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e288fe0069e3433d0800000000000000
+      internalID: -3227886218936088530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_97
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 136
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb630285399f1b5b0800000000000000
+      internalID: -5354224070732794177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_98
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 136
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 806d3f148f00a0830800000000000000
+      internalID: 4038041082149459464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_99
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 136
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04d75e8f979434ee0800000000000000
+      internalID: -1278097081027429056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_100
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 136
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ac7576412a637640800000000000000
+      internalID: 5076517896125250722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_101
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 136
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0865c3475982933e0800000000000000
+      internalID: -2073581531062053248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_102
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 136
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfe49da7a5461ce30800000000000000
+      internalID: 4522005840627584765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_103
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 136
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53f3698cbd65faae0800000000000000
+      internalID: -1535913445946933451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_104
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 136
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f749cba5bc6dedd0800000000000000
+      internalID: -2455186694320076810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_105
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 136
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76f99ab5865790330800000000000000
+      internalID: 3677599661799612263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_106
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 136
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dd95066440227f60800000000000000
+      internalID: 8030516563696524754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_107
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 135
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13cf98f06bd6f78e0800000000000000
+      internalID: -1693514306155840463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_108
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 136
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 590222e05c5be2d50800000000000000
+      internalID: 6714503952406290581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_109
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 136
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e0393dd4702636d0800000000000000
+      internalID: -3011183614550789911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_110
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 132
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a22de7b4cc32ffe0800000000000000
+      internalID: -1156795338683768160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_111
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 133
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a677054a95af7cdd0800000000000000
+      internalID: -2465727008046286998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_112
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 136
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f88e2fb0cd2ca5bf0800000000000000
+      internalID: -334740971936618353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_113
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 135
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34f18a00712cdfc90800000000000000
+      internalID: -7134332830633943229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_114
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 135
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76c7fccc9c04d1dd0800000000000000
+      internalID: -2513781781534114713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_115
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 139
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40ff0a68c5338ac10800000000000000
+      internalID: 2064956901638078212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_116
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 104
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d9cd620533d1c4e0800000000000000
+      internalID: -1963055737929348650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_117
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 104
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f64f09b0f79269a60800000000000000
+      internalID: 7680371840158594159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_118
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 103
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 295a34e63a14f34e0800000000000000
+      internalID: -1999807539343809134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_119
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 104
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d494294838a05f80800000000000000
+      internalID: -8119805168450235180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_120
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 103
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34f1441dd620daa40800000000000000
+      internalID: 5380959800463204163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_121
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 104
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c5c5b9016c922460800000000000000
+      internalID: 7215501493589624259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_122
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 104
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c45b646a0c4de9800800000000000000
+      internalID: 621167722512168268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_123
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 104
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df0d20054c68fc2b0800000000000000
+      internalID: -5562078837065199363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_124
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 104
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65f9be8f0cbd6c310800000000000000
+      internalID: 1425067953965735766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_125
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 104
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a812c4a46dba68f0800000000000000
+      internalID: -546416164813530976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_126
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 104
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28c6770d20735f520800000000000000
+      internalID: 2735152833924394114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_127
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 104
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd853098a7bb3de90800000000000000
+      internalID: -7002046860671887140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_128
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 104
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6a02ca65f0116f40800000000000000
+      internalID: 5719871647981374059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_129
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 104
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ae0e10237c2087f0800000000000000
+      internalID: -612440676350685532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_130
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 104
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 293a68769620dbf30800000000000000
+      internalID: 4592829846719472530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_131
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 104
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de9c9c5eeb5d845e0800000000000000
+      internalID: -1925053824825177619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_132
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 104
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b76102f9037f73b10800000000000000
+      internalID: 1961307950943311483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_133
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 104
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1db22b6886f5d750800000000000000
+      internalID: 6329235917112524058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_134
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 104
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac4dd2a82456fc6a0800000000000000
+      internalID: -6426806806773902134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_135
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 104
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92510369a7f010350800000000000000
+      internalID: 5981078799304889641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_136
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 103
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c160cbb511994bed0800000000000000
+      internalID: -2399124401649088996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_137
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 104
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6395cee577b2afc0800000000000000
+      internalID: -3485021444486360213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_138
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 104
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd5bd69f9e8a9fd10800000000000000
+      internalID: 2159943219166426589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_139
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 100
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43474c0ddf65f6e00800000000000000
+      internalID: 1040145687075124276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_140
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 101
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78e8902ad6541f070800000000000000
+      internalID: 8138362338807484039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_141
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 104
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86b118bc014c2bea0800000000000000
+      internalID: -5858404588842837144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_142
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 103
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b08a25fb65106cc80800000000000000
+      internalID: -8302947390922250229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_143
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 103
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d94b97d1a5c43be80800000000000000
+      internalID: -8164097749567294307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_144
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 107
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fca11d532c61e88c0800000000000000
+      internalID: -3995230796048688433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_145
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 72
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2250acc76046d84c0800000000000000
+      internalID: -4283657691533277918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_146
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 72
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 693b064c91faae950800000000000000
+      internalID: 6479183539129594774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_147
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 71
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78b08ccf0ddbcd200800000000000000
+      internalID: 206248388244016007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_148
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 72
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63e1ef4d50f227e30800000000000000
+      internalID: 4499710679791312438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_149
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 71
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c03e4324801b78f20800000000000000
+      internalID: 3424900690667168524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_150
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 72
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9c134b04c40a9920800000000000000
+      internalID: 2997713742017535134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_151
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 72
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26c589a1c08208e40800000000000000
+      internalID: 5656565164428254306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_152
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 72
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5045ad1c09421bd20800000000000000
+      internalID: 3292453006730744837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_153
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 72
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4a4b329fb822f730800000000000000
+      internalID: 4031329419707238986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_154
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 72
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb208066a916b39b0800000000000000
+      internalID: -5099374837302295876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_155
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 72
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9459a3ed5a3b48f60800000000000000
+      internalID: 8035745160115164489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_156
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 72
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce104156f6a5939e0800000000000000
+      internalID: -1641181154716155412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_157
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 72
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c781f6156b28568b0800000000000000
+      internalID: -5159574078521141124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_158
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 72
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a00c1e43551457d0800000000000000
+      internalID: -2930694009974423392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_159
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 72
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff0dce6df40ee60c0800000000000000
+      internalID: -4580477137476333313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_160
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 72
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b149dc9dd16d2470800000000000000
+      internalID: 8371454886798770615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_161
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 72
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65b4f4e7e31ac7910800000000000000
+      internalID: 1836520037839489878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_162
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 72
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2d790fa13b6a1620800000000000000
+      internalID: 2745624783969942826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_163
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 72
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fd993440dd2f1950800000000000000
+      internalID: 6421901966174690809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_164
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 72
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd0f0a78108bf73a0800000000000000
+      internalID: -6665406606775095076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_165
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 71
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ce3dd76e30b8ca40800000000000000
+      internalID: 5388750736225812160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_166
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 72
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adc5e5a451012b090800000000000000
+      internalID: -8020330302765376294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_167
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 72
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8564f0eb1c71d84f0800000000000000
+      internalID: -824977035854133672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_168
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 68
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f04d5473c0a868710800000000000000
+      internalID: 1695194094823134223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_169
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 69
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 998d591f3d775d9a0800000000000000
+      internalID: -6208924759085426535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_170
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 72
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a2ece56662645680800000000000000
+      internalID: -8767274382647303520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_171
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 71
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a698ab88c98c9b000800000000000000
+      internalID: 52293445325850986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_172
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 71
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 494b78958f74b8a10800000000000000
+      internalID: 1912701598728434836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_173
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 75
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9e189ba1f0b8edb0800000000000000
+      internalID: -4762362053931819363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_174
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 40
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f32097af0cb148b10800000000000000
+      internalID: 1982740251599766079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_175
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 40
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85ef1cb8e3bdfdb50800000000000000
+      internalID: 6620251038937120344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_176
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 39
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df1ceb63993b99360800000000000000
+      internalID: 7176964951821435389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_177
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 40
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aa6a3ad93bf92120800000000000000
+      internalID: 2389717303189727904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_178
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 39
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a599e2f54c26716d0800000000000000
+      internalID: -3019836429578626726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_179
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 40
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68f19112d1ba59030800000000000000
+      internalID: 3500892426948124550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_180
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 40
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b89a427c7ef653c00800000000000000
+      internalID: 879732343489997195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_181
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 40
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 474b92e0dea956340800000000000000
+      internalID: 4856458116124488820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_182
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 40
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db13146926dc89bb0800000000000000
+      internalID: -4928963968845663811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_183
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 40
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c66ca4f9a01dcc800800000000000000
+      internalID: 634111491104753260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_184
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 40
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f4c3817f267bf4d0800000000000000
+      internalID: -3099753972374453005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_185
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 40
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55cbc6f44fd27aa10800000000000000
+      internalID: 1920554293424602197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_186
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 40
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dea2b2f52f5ab6900800000000000000
+      internalID: 678818629246724845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_187
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 40
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22a601666ea9847e0800000000000000
+      internalID: -1781003338279523806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_188
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 40
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c4d278f664431190800000000000000
+      internalID: -7992969704606870328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_189
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 40
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c1bcecd49d3fc0f0800000000000000
+      internalID: -1094588474856787512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_190
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 40
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd31e6ebc18d34520800000000000000
+      internalID: 2685227420808516573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_191
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 40
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95ff8c7099e7afe20800000000000000
+      internalID: 3385157265648058201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_192
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 40
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8c68c4a7fee9c550800000000000000
+      internalID: 6181734710931647627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_193
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 40
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b0287872bfdd2dd0800000000000000
+      internalID: -2509103459757186894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_194
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 40
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c5d441357d2b9470800000000000000
+      internalID: 8402359511150810563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_195
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 40
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af41f116496795710800000000000000
+      internalID: 1682506315456255226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_196
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 40
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a00fd91f49543540800000000000000
+      internalID: 4986708883677315235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_197
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 38
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae5399efdb4ea9d30800000000000000
+      internalID: 4439111887398450666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_198
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 39
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a57f510cf2d690c0800000000000000
+      internalID: -4569232792124164697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_199
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 40
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4548b3e578c975540800000000000000
+      internalID: 4996634416806331476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_200
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 39
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05634f1727c4884d0800000000000000
+      internalID: -3132169486414367152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_201
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 39
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 094a9102c4bab5d80800000000000000
+      internalID: -8260820748036627312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_202
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 43
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: decc5072fb4989d80800000000000000
+      internalID: -8243675569187336979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_203
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 8
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53404a1368396c940800000000000000
+      internalID: 5316098614725182517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_204
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 8
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af1c5b9ab818b2b60800000000000000
+      internalID: 7722408422904545786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_205
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 7
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f253bb9ce7057f1a0800000000000000
+      internalID: -6775858608875031249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_206
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 8
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7da8a1a56652b4f0800000000000000
+      internalID: -814493588096766593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_207
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 7
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf5d53aec29ab8da0800000000000000
+      internalID: -5941469273012185604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_208
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 8
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb6e9b2e53cd31a80800000000000000
+      internalID: -8497205947922782532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_209
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 8
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f22b0ba51541e870800000000000000
+      internalID: 8710319113677513465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_210
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 8
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f659209505e0ec2e0800000000000000
+      internalID: -2103728237681928849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_211
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 8
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 062756fe44fcd1f80800000000000000
+      internalID: -8134117456980118944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_212
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 8
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76b27b19d1709c110800000000000000
+      internalID: 1281563392543763303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_213
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 7
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f12c1328d6fd99f90800000000000000
+      internalID: -6946275288813551073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_214
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 7
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9cf83732d0b60a30800000000000000
+      internalID: 4181223720976186527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_215
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 7
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8df9f02a877388460800000000000000
+      internalID: 7244100991879978968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_216
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 8
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdb9606e1875a3be0800000000000000
+      internalID: -1496787710725678113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_217
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 8
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e9fd087fdcd8c360800000000000000
+      internalID: 7190239657446996456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_218
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 7
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a77a69bd8a13ba40800000000000000
+      internalID: 5382675175641348007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_219
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 8
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe52d238881aea220800000000000000
+      internalID: 2499112450925602287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_220
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 8
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 552ed53563eff1750800000000000000
+      internalID: 6278015914858111573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_221
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 8
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4acdd62e1d2502b80800000000000000
+      internalID: -8421640241782334300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_222
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 8
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f07d5e54afc41fd0800000000000000
+      internalID: -2372042798852640525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_223
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 9
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe88b0aafe25fbb60800000000000000
+      internalID: 7764015471913568495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_224
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 8
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c175999bf81f1e7c0800000000000000
+      internalID: -4043685390805543140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_225
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 8
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d917d138ef3e777f0800000000000000
+      internalID: -614772141851840099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_226
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 7
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 896c66d039f4d3140800000000000000
+      internalID: 4701001079048291992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_227
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 7
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e40b87f86e8280f0800000000000000
+      internalID: -1116173176153635607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_228
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 8
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 624c7b350f58f5010800000000000000
+      internalID: 1179808894637556774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_229
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 7
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df76d208a77d00680800000000000000
+      internalID: -8790789551490766851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_230
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 7
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c50c8da48e1d145f0800000000000000
+      internalID: -774106865312677796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Worker_231
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 11
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdb7217b8a09784e0800000000000000
+      internalID: -1979454456905696289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Dwarf-Worker_0: -5678661715498382825
+      Dwarf-Worker_1: -4498675010476729213
+      Dwarf-Worker_10: -3100334312048481729
+      Dwarf-Worker_100: 5076517896125250722
+      Dwarf-Worker_101: -2073581531062053248
+      Dwarf-Worker_102: 4522005840627584765
+      Dwarf-Worker_103: -1535913445946933451
+      Dwarf-Worker_104: -2455186694320076810
+      Dwarf-Worker_105: 3677599661799612263
+      Dwarf-Worker_106: 8030516563696524754
+      Dwarf-Worker_107: -1693514306155840463
+      Dwarf-Worker_108: 6714503952406290581
+      Dwarf-Worker_109: -3011183614550789911
+      Dwarf-Worker_11: -1946150323108926788
+      Dwarf-Worker_110: -1156795338683768160
+      Dwarf-Worker_111: -2465727008046286998
+      Dwarf-Worker_112: -334740971936618353
+      Dwarf-Worker_113: -7134332830633943229
+      Dwarf-Worker_114: -2513781781534114713
+      Dwarf-Worker_115: 2064956901638078212
+      Dwarf-Worker_116: -1963055737929348650
+      Dwarf-Worker_117: 7680371840158594159
+      Dwarf-Worker_118: -1999807539343809134
+      Dwarf-Worker_119: -8119805168450235180
+      Dwarf-Worker_12: 3539208625459386132
+      Dwarf-Worker_120: 5380959800463204163
+      Dwarf-Worker_121: 7215501493589624259
+      Dwarf-Worker_122: 621167722512168268
+      Dwarf-Worker_123: -5562078837065199363
+      Dwarf-Worker_124: 1425067953965735766
+      Dwarf-Worker_125: -546416164813530976
+      Dwarf-Worker_126: 2735152833924394114
+      Dwarf-Worker_127: -7002046860671887140
+      Dwarf-Worker_128: 5719871647981374059
+      Dwarf-Worker_129: -612440676350685532
+      Dwarf-Worker_13: 8339728523351832792
+      Dwarf-Worker_130: 4592829846719472530
+      Dwarf-Worker_131: -1925053824825177619
+      Dwarf-Worker_132: 1961307950943311483
+      Dwarf-Worker_133: 6329235917112524058
+      Dwarf-Worker_134: -6426806806773902134
+      Dwarf-Worker_135: 5981078799304889641
+      Dwarf-Worker_136: -2399124401649088996
+      Dwarf-Worker_137: -3485021444486360213
+      Dwarf-Worker_138: 2159943219166426589
+      Dwarf-Worker_139: 1040145687075124276
+      Dwarf-Worker_14: -3592579716174106311
+      Dwarf-Worker_140: 8138362338807484039
+      Dwarf-Worker_141: -5858404588842837144
+      Dwarf-Worker_142: -8302947390922250229
+      Dwarf-Worker_143: -8164097749567294307
+      Dwarf-Worker_144: -3995230796048688433
+      Dwarf-Worker_145: -4283657691533277918
+      Dwarf-Worker_146: 6479183539129594774
+      Dwarf-Worker_147: 206248388244016007
+      Dwarf-Worker_148: 4499710679791312438
+      Dwarf-Worker_149: 3424900690667168524
+      Dwarf-Worker_15: 7809835103512623622
+      Dwarf-Worker_150: 2997713742017535134
+      Dwarf-Worker_151: 5656565164428254306
+      Dwarf-Worker_152: 3292453006730744837
+      Dwarf-Worker_153: 4031329419707238986
+      Dwarf-Worker_154: -5099374837302295876
+      Dwarf-Worker_155: 8035745160115164489
+      Dwarf-Worker_156: -1641181154716155412
+      Dwarf-Worker_157: -5159574078521141124
+      Dwarf-Worker_158: -2930694009974423392
+      Dwarf-Worker_159: -4580477137476333313
+      Dwarf-Worker_16: -672297349950881735
+      Dwarf-Worker_160: 8371454886798770615
+      Dwarf-Worker_161: 1836520037839489878
+      Dwarf-Worker_162: 2745624783969942826
+      Dwarf-Worker_163: 6421901966174690809
+      Dwarf-Worker_164: -6665406606775095076
+      Dwarf-Worker_165: 5388750736225812160
+      Dwarf-Worker_166: -8020330302765376294
+      Dwarf-Worker_167: -824977035854133672
+      Dwarf-Worker_168: 1695194094823134223
+      Dwarf-Worker_169: -6208924759085426535
+      Dwarf-Worker_17: -1123105924579727392
+      Dwarf-Worker_170: -8767274382647303520
+      Dwarf-Worker_171: 52293445325850986
+      Dwarf-Worker_172: 1912701598728434836
+      Dwarf-Worker_173: -4762362053931819363
+      Dwarf-Worker_174: 1982740251599766079
+      Dwarf-Worker_175: 6620251038937120344
+      Dwarf-Worker_176: 7176964951821435389
+      Dwarf-Worker_177: 2389717303189727904
+      Dwarf-Worker_178: -3019836429578626726
+      Dwarf-Worker_179: 3500892426948124550
+      Dwarf-Worker_18: 3025707078765718346
+      Dwarf-Worker_180: 879732343489997195
+      Dwarf-Worker_181: 4856458116124488820
+      Dwarf-Worker_182: -4928963968845663811
+      Dwarf-Worker_183: 634111491104753260
+      Dwarf-Worker_184: -3099753972374453005
+      Dwarf-Worker_185: 1920554293424602197
+      Dwarf-Worker_186: 678818629246724845
+      Dwarf-Worker_187: -1781003338279523806
+      Dwarf-Worker_188: -7992969704606870328
+      Dwarf-Worker_189: -1094588474856787512
+      Dwarf-Worker_19: 2692041860582939141
+      Dwarf-Worker_190: 2685227420808516573
+      Dwarf-Worker_191: 3385157265648058201
+      Dwarf-Worker_192: 6181734710931647627
+      Dwarf-Worker_193: -2509103459757186894
+      Dwarf-Worker_194: 8402359511150810563
+      Dwarf-Worker_195: 1682506315456255226
+      Dwarf-Worker_196: 4986708883677315235
+      Dwarf-Worker_197: 4439111887398450666
+      Dwarf-Worker_198: -4569232792124164697
+      Dwarf-Worker_199: 4996634416806331476
+      Dwarf-Worker_2: -2229163202133975333
+      Dwarf-Worker_20: -339828207600897010
+      Dwarf-Worker_200: -3132169486414367152
+      Dwarf-Worker_201: -8260820748036627312
+      Dwarf-Worker_202: -8243675569187336979
+      Dwarf-Worker_203: 5316098614725182517
+      Dwarf-Worker_204: 7722408422904545786
+      Dwarf-Worker_205: -6775858608875031249
+      Dwarf-Worker_206: -814493588096766593
+      Dwarf-Worker_207: -5941469273012185604
+      Dwarf-Worker_208: -8497205947922782532
+      Dwarf-Worker_209: 8710319113677513465
+      Dwarf-Worker_21: -5552212811273441998
+      Dwarf-Worker_210: -2103728237681928849
+      Dwarf-Worker_211: -8134117456980118944
+      Dwarf-Worker_212: 1281563392543763303
+      Dwarf-Worker_213: -6946275288813551073
+      Dwarf-Worker_214: 4181223720976186527
+      Dwarf-Worker_215: 7244100991879978968
+      Dwarf-Worker_216: -1496787710725678113
+      Dwarf-Worker_217: 7190239657446996456
+      Dwarf-Worker_218: 5382675175641348007
+      Dwarf-Worker_219: 2499112450925602287
+      Dwarf-Worker_22: -3047511930084110969
+      Dwarf-Worker_220: 6278015914858111573
+      Dwarf-Worker_221: -8421640241782334300
+      Dwarf-Worker_222: -2372042798852640525
+      Dwarf-Worker_223: 7764015471913568495
+      Dwarf-Worker_224: -4043685390805543140
+      Dwarf-Worker_225: -614772141851840099
+      Dwarf-Worker_226: 4701001079048291992
+      Dwarf-Worker_227: -1116173176153635607
+      Dwarf-Worker_228: 1179808894637556774
+      Dwarf-Worker_229: -8790789551490766851
+      Dwarf-Worker_23: -2768564857847113266
+      Dwarf-Worker_230: -774106865312677796
+      Dwarf-Worker_231: -1979454456905696289
+      Dwarf-Worker_24: 1750997192197815304
+      Dwarf-Worker_25: -6271286315308694005
+      Dwarf-Worker_26: 7766297901756085204
+      Dwarf-Worker_27: -2949910802131226988
+      Dwarf-Worker_28: -230157056522855967
+      Dwarf-Worker_29: -5072640912812288249
+      Dwarf-Worker_3: 1995533428657655593
+      Dwarf-Worker_30: -5278907919639444787
+      Dwarf-Worker_31: 1237454489496887813
+      Dwarf-Worker_32: -8201490522716056269
+      Dwarf-Worker_33: -1383901973722083763
+      Dwarf-Worker_34: 421208568364534684
+      Dwarf-Worker_35: 690676277020357836
+      Dwarf-Worker_36: -2273732858893533372
+      Dwarf-Worker_37: -7600748010275178258
+      Dwarf-Worker_38: 2914121918034993267
+      Dwarf-Worker_39: -8553722153220568128
+      Dwarf-Worker_4: -6047387329241881283
+      Dwarf-Worker_40: 445620503521358107
+      Dwarf-Worker_41: -5415835138317551791
+      Dwarf-Worker_42: -3284461215152417714
+      Dwarf-Worker_43: -3697740308126665213
+      Dwarf-Worker_44: -4204928413038904493
+      Dwarf-Worker_45: -3299678589395622555
+      Dwarf-Worker_46: -9102419677637332752
+      Dwarf-Worker_47: 4345315325451481864
+      Dwarf-Worker_48: 2237055634107713950
+      Dwarf-Worker_49: 4061123947626056999
+      Dwarf-Worker_5: 5184283723386158140
+      Dwarf-Worker_50: -6110421965139011190
+      Dwarf-Worker_51: -5412860219311368694
+      Dwarf-Worker_52: 5019250736138914468
+      Dwarf-Worker_53: -8431183401534644649
+      Dwarf-Worker_54: -4474501487680858385
+      Dwarf-Worker_55: -463457457752441061
+      Dwarf-Worker_56: 242143278776969961
+      Dwarf-Worker_57: 2840280018879524236
+      Dwarf-Worker_58: 3655101820661012726
+      Dwarf-Worker_59: 8162336141821198120
+      Dwarf-Worker_6: 2207519255627665207
+      Dwarf-Worker_60: -6306548782444154676
+      Dwarf-Worker_61: 4098334028940966334
+      Dwarf-Worker_62: -8572561755965382062
+      Dwarf-Worker_63: -457362044245931458
+      Dwarf-Worker_64: -1484716262885783655
+      Dwarf-Worker_65: -3839809331970222167
+      Dwarf-Worker_66: -7872952129402216237
+      Dwarf-Worker_67: -335105213635116111
+      Dwarf-Worker_68: -2602215384921129541
+      Dwarf-Worker_69: -345520498309027752
+      Dwarf-Worker_7: 1745245780713446507
+      Dwarf-Worker_70: 6465658316094197891
+      Dwarf-Worker_71: -8163304836619796657
+      Dwarf-Worker_72: 7019364542404708973
+      Dwarf-Worker_73: 5840195814713465412
+      Dwarf-Worker_74: 7593723810372147969
+      Dwarf-Worker_75: -4103966761401803430
+      Dwarf-Worker_76: 1766507009804253114
+      Dwarf-Worker_77: -596855469539396807
+      Dwarf-Worker_78: -7361188754170587830
+      Dwarf-Worker_79: -1560916670694671934
+      Dwarf-Worker_8: -2041833126014243801
+      Dwarf-Worker_80: -3834929783692015515
+      Dwarf-Worker_81: -2850575475905058447
+      Dwarf-Worker_82: -3177127925339596023
+      Dwarf-Worker_83: -2556758012546184160
+      Dwarf-Worker_84: 6370192112065780650
+      Dwarf-Worker_85: 6642332834461999174
+      Dwarf-Worker_86: -8142082196831544996
+      Dwarf-Worker_87: 6308079324181907876
+      Dwarf-Worker_88: 7378769510237162700
+      Dwarf-Worker_89: 7377127821827403813
+      Dwarf-Worker_9: 5036443716009327442
+      Dwarf-Worker_90: -2723445304881546853
+      Dwarf-Worker_91: 4187620206022990524
+      Dwarf-Worker_92: 7521024129800043966
+      Dwarf-Worker_93: -2321467521637984238
+      Dwarf-Worker_94: -6742927774494258024
+      Dwarf-Worker_95: -1785889926701007245
+      Dwarf-Worker_96: -3227886218936088530
+      Dwarf-Worker_97: -5354224070732794177
+      Dwarf-Worker_98: 4038041082149459464
+      Dwarf-Worker_99: -1278097081027429056
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

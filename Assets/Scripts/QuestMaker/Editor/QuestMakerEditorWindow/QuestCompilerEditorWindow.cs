@@ -90,16 +90,9 @@ namespace QuestMaker.Editor.Window
 
             Button saveAssetBtn = new(() => { compiler.SaveQuestAsset(); ResetGraph(); }) { text = "Save as prefab" };
             {
-
-                //saveAssetBtn.style.marginLeft = buttonOffset;
-                //saveAssetBtn.style.marginRight = buttonOffset;
                 saveAssetBtn.style.marginTop = 15;
-                saveAssetBtn.style.marginLeft = Screen.width * 0.15f;
-                saveAssetBtn.style.marginRight = Screen.width * 0.15f;
-                saveAssetBtn.style.flexDirection = FlexDirection.Row;
-                saveAssetBtn.style.flexGrow = 0;
-                saveAssetBtn.style.width = Screen.width * ( (1 - 0.15f * 2f) - 0.1f);//* 1.3f;
-                saveAssetBtn.style.maxWidth = saveAssetBtn.style.width;
+                saveAssetBtn.style.alignSelf = Align.Center;
+                saveAssetBtn.style.width = Length.Percent(60);
                 saveAssetBtn.SetEnabled(false);
                 body.Add(saveAssetBtn);
             }

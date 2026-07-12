@@ -1,0 +1,6162 @@
+fileFormatVersion: 2
+guid: 2688210601bee8d44b3730a210a02d0e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8449450287968594634
+    second: Dwarf-Crusader_0
+  - first:
+      213: -5917432233599110404
+    second: Dwarf-Crusader_1
+  - first:
+      213: -7964173123350393626
+    second: Dwarf-Crusader_2
+  - first:
+      213: 2422018362054780401
+    second: Dwarf-Crusader_3
+  - first:
+      213: -2811668332069577992
+    second: Dwarf-Crusader_4
+  - first:
+      213: -4062187088648742514
+    second: Dwarf-Crusader_5
+  - first:
+      213: -3184306107663285138
+    second: Dwarf-Crusader_6
+  - first:
+      213: -2853173658731970273
+    second: Dwarf-Crusader_7
+  - first:
+      213: -7648684871493515933
+    second: Dwarf-Crusader_8
+  - first:
+      213: 6035201263860350955
+    second: Dwarf-Crusader_9
+  - first:
+      213: -319909121862886676
+    second: Dwarf-Crusader_10
+  - first:
+      213: 2249470038000688405
+    second: Dwarf-Crusader_11
+  - first:
+      213: -6059965408988498369
+    second: Dwarf-Crusader_12
+  - first:
+      213: 4607123362752306733
+    second: Dwarf-Crusader_13
+  - first:
+      213: 5810387072684126179
+    second: Dwarf-Crusader_14
+  - first:
+      213: 5491249446641894844
+    second: Dwarf-Crusader_15
+  - first:
+      213: -1833262642911047696
+    second: Dwarf-Crusader_16
+  - first:
+      213: -725131098461722610
+    second: Dwarf-Crusader_17
+  - first:
+      213: 1880711980190627468
+    second: Dwarf-Crusader_18
+  - first:
+      213: 869567847732225205
+    second: Dwarf-Crusader_19
+  - first:
+      213: -4949640685496912550
+    second: Dwarf-Crusader_20
+  - first:
+      213: -1961348576606922337
+    second: Dwarf-Crusader_21
+  - first:
+      213: 515983611481417157
+    second: Dwarf-Crusader_22
+  - first:
+      213: 8970816201791487468
+    second: Dwarf-Crusader_23
+  - first:
+      213: -2888613988290054715
+    second: Dwarf-Crusader_24
+  - first:
+      213: -1104400066511197879
+    second: Dwarf-Crusader_25
+  - first:
+      213: 2068358609652553515
+    second: Dwarf-Crusader_26
+  - first:
+      213: -352429557601673066
+    second: Dwarf-Crusader_27
+  - first:
+      213: -4177061730137162912
+    second: Dwarf-Crusader_28
+  - first:
+      213: 6283564477517658910
+    second: Dwarf-Crusader_29
+  - first:
+      213: -8867021067508824319
+    second: Dwarf-Crusader_30
+  - first:
+      213: -4848737662719543525
+    second: Dwarf-Crusader_31
+  - first:
+      213: -4413370086892491183
+    second: Dwarf-Crusader_32
+  - first:
+      213: -3985985068237588626
+    second: Dwarf-Crusader_33
+  - first:
+      213: -2668724402409786262
+    second: Dwarf-Crusader_34
+  - first:
+      213: 7119104845590648412
+    second: Dwarf-Crusader_35
+  - first:
+      213: 43576696731651508
+    second: Dwarf-Crusader_36
+  - first:
+      213: 8764804595162952339
+    second: Dwarf-Crusader_37
+  - first:
+      213: -5873684216131663062
+    second: Dwarf-Crusader_38
+  - first:
+      213: 210176546082671270
+    second: Dwarf-Crusader_39
+  - first:
+      213: 915818934087172535
+    second: Dwarf-Crusader_40
+  - first:
+      213: 8465785430931303416
+    second: Dwarf-Crusader_41
+  - first:
+      213: 6142215538075213198
+    second: Dwarf-Crusader_42
+  - first:
+      213: 2967606870299320186
+    second: Dwarf-Crusader_43
+  - first:
+      213: 5324664816589987024
+    second: Dwarf-Crusader_44
+  - first:
+      213: -3139797674143119852
+    second: Dwarf-Crusader_45
+  - first:
+      213: -5023152254932579988
+    second: Dwarf-Crusader_46
+  - first:
+      213: 3141396786216330055
+    second: Dwarf-Crusader_47
+  - first:
+      213: -8088510109514083370
+    second: Dwarf-Crusader_48
+  - first:
+      213: 4033996914145288817
+    second: Dwarf-Crusader_49
+  - first:
+      213: 6596952118601405663
+    second: Dwarf-Crusader_50
+  - first:
+      213: 8379875787435031535
+    second: Dwarf-Crusader_51
+  - first:
+      213: 5852741865026029594
+    second: Dwarf-Crusader_52
+  - first:
+      213: 3934944988906148693
+    second: Dwarf-Crusader_53
+  - first:
+      213: 17761182133030891
+    second: Dwarf-Crusader_54
+  - first:
+      213: 4939784179718487847
+    second: Dwarf-Crusader_55
+  - first:
+      213: -2379548677443814294
+    second: Dwarf-Crusader_56
+  - first:
+      213: 4574784423353024063
+    second: Dwarf-Crusader_57
+  - first:
+      213: 4973670803950672721
+    second: Dwarf-Crusader_58
+  - first:
+      213: 2345010175813059226
+    second: Dwarf-Crusader_59
+  - first:
+      213: 1107575539447278763
+    second: Dwarf-Crusader_60
+  - first:
+      213: -765059997821514182
+    second: Dwarf-Crusader_61
+  - first:
+      213: -3366679620163652678
+    second: Dwarf-Crusader_62
+  - first:
+      213: -854515433381229450
+    second: Dwarf-Crusader_63
+  - first:
+      213: -3597620996207601847
+    second: Dwarf-Crusader_64
+  - first:
+      213: -2161255544342859328
+    second: Dwarf-Crusader_65
+  - first:
+      213: -4110598733963409215
+    second: Dwarf-Crusader_66
+  - first:
+      213: 8640088636406699099
+    second: Dwarf-Crusader_67
+  - first:
+      213: 5783698530972636594
+    second: Dwarf-Crusader_68
+  - first:
+      213: -5222354899838631564
+    second: Dwarf-Crusader_69
+  - first:
+      213: -3391011065356474071
+    second: Dwarf-Crusader_70
+  - first:
+      213: -9120889320245809095
+    second: Dwarf-Crusader_71
+  - first:
+      213: -1131827287684788261
+    second: Dwarf-Crusader_72
+  - first:
+      213: 5092716051422962756
+    second: Dwarf-Crusader_73
+  - first:
+      213: 8093134231726605494
+    second: Dwarf-Crusader_74
+  - first:
+      213: -7230437657490247487
+    second: Dwarf-Crusader_75
+  - first:
+      213: -7906824771759417791
+    second: Dwarf-Crusader_76
+  - first:
+      213: 3588009365615203686
+    second: Dwarf-Crusader_77
+  - first:
+      213: -7906712310626085961
+    second: Dwarf-Crusader_78
+  - first:
+      213: 3594102201747725332
+    second: Dwarf-Crusader_79
+  - first:
+      213: 4439736449835732869
+    second: Dwarf-Crusader_80
+  - first:
+      213: 154441246698823885
+    second: Dwarf-Crusader_81
+  - first:
+      213: -5466251391857952897
+    second: Dwarf-Crusader_82
+  - first:
+      213: 7462208392620979877
+    second: Dwarf-Crusader_83
+  - first:
+      213: -510393120433890806
+    second: Dwarf-Crusader_84
+  - first:
+      213: 6574153024680324925
+    second: Dwarf-Crusader_85
+  - first:
+      213: -5954076408206935354
+    second: Dwarf-Crusader_86
+  - first:
+      213: -3961620453028413254
+    second: Dwarf-Crusader_87
+  - first:
+      213: -5445179218523549477
+    second: Dwarf-Crusader_88
+  - first:
+      213: -2504479905326055519
+    second: Dwarf-Crusader_89
+  - first:
+      213: 7321769166141328254
+    second: Dwarf-Crusader_90
+  - first:
+      213: 1714097098126142792
+    second: Dwarf-Crusader_91
+  - first:
+      213: -8651786233240946762
+    second: Dwarf-Crusader_92
+  - first:
+      213: 3764410472646055539
+    second: Dwarf-Crusader_93
+  - first:
+      213: 1166030016361570967
+    second: Dwarf-Crusader_94
+  - first:
+      213: -3051044049380363890
+    second: Dwarf-Crusader_95
+  - first:
+      213: 234079510135193657
+    second: Dwarf-Crusader_96
+  - first:
+      213: 2314696406536236625
+    second: Dwarf-Crusader_97
+  - first:
+      213: -2597129423614826881
+    second: Dwarf-Crusader_98
+  - first:
+      213: -70574148047116104
+    second: Dwarf-Crusader_99
+  - first:
+      213: -5057263140525488771
+    second: Dwarf-Crusader_100
+  - first:
+      213: 1247345949319229679
+    second: Dwarf-Crusader_101
+  - first:
+      213: -8362791309660501317
+    second: Dwarf-Crusader_102
+  - first:
+      213: 2790964203423940557
+    second: Dwarf-Crusader_103
+  - first:
+      213: -7621420528354393440
+    second: Dwarf-Crusader_104
+  - first:
+      213: 6231065339314007721
+    second: Dwarf-Crusader_105
+  - first:
+      213: -7183071079242972583
+    second: Dwarf-Crusader_106
+  - first:
+      213: -7879272272916327903
+    second: Dwarf-Crusader_107
+  - first:
+      213: 7061562176577335563
+    second: Dwarf-Crusader_108
+  - first:
+      213: 6140717679681469012
+    second: Dwarf-Crusader_109
+  - first:
+      213: 6862442190946867648
+    second: Dwarf-Crusader_110
+  - first:
+      213: -6931882939762549118
+    second: Dwarf-Crusader_111
+  - first:
+      213: 4957721048283723648
+    second: Dwarf-Crusader_112
+  - first:
+      213: 7324605400830890972
+    second: Dwarf-Crusader_113
+  - first:
+      213: 5931103944187063559
+    second: Dwarf-Crusader_114
+  - first:
+      213: 458446212392579669
+    second: Dwarf-Crusader_115
+  - first:
+      213: 3362409309334551792
+    second: Dwarf-Crusader_116
+  - first:
+      213: 4694768413731371371
+    second: Dwarf-Crusader_117
+  - first:
+      213: 8109739524529374802
+    second: Dwarf-Crusader_118
+  - first:
+      213: 4539709776412434258
+    second: Dwarf-Crusader_119
+  - first:
+      213: 5687951225606428148
+    second: Dwarf-Crusader_120
+  - first:
+      213: -7091242073662241006
+    second: Dwarf-Crusader_121
+  - first:
+      213: -3865635946396583183
+    second: Dwarf-Crusader_122
+  - first:
+      213: -5780204482967711024
+    second: Dwarf-Crusader_123
+  - first:
+      213: 6089018687075084219
+    second: Dwarf-Crusader_124
+  - first:
+      213: -8507518859380321833
+    second: Dwarf-Crusader_125
+  - first:
+      213: 590726061524366347
+    second: Dwarf-Crusader_126
+  - first:
+      213: 1083752542670593079
+    second: Dwarf-Crusader_127
+  - first:
+      213: 1657389389417623967
+    second: Dwarf-Crusader_128
+  - first:
+      213: 2506277703135346747
+    second: Dwarf-Crusader_129
+  - first:
+      213: 9198648075713435812
+    second: Dwarf-Crusader_130
+  - first:
+      213: 8391105156740018249
+    second: Dwarf-Crusader_131
+  - first:
+      213: -6902341510824692617
+    second: Dwarf-Crusader_132
+  - first:
+      213: 2301044768721129608
+    second: Dwarf-Crusader_133
+  - first:
+      213: -5973978780551440183
+    second: Dwarf-Crusader_134
+  - first:
+      213: 3876333689905858338
+    second: Dwarf-Crusader_135
+  - first:
+      213: 8216496944731508692
+    second: Dwarf-Crusader_136
+  - first:
+      213: 8537758119711783035
+    second: Dwarf-Crusader_137
+  - first:
+      213: -1061480131061668312
+    second: Dwarf-Crusader_138
+  - first:
+      213: 1018756994248459056
+    second: Dwarf-Crusader_139
+  - first:
+      213: -2004818112878417027
+    second: Dwarf-Crusader_140
+  - first:
+      213: -2975769305665614553
+    second: Dwarf-Crusader_141
+  - first:
+      213: 1532425337810010
+    second: Dwarf-Crusader_142
+  - first:
+      213: -1686431033216038024
+    second: Dwarf-Crusader_143
+  - first:
+      213: -8303915355701954909
+    second: Dwarf-Crusader_144
+  - first:
+      213: -238175417666143641
+    second: Dwarf-Crusader_145
+  - first:
+      213: -1178638513651035680
+    second: Dwarf-Crusader_146
+  - first:
+      213: 6632167601408752040
+    second: Dwarf-Crusader_147
+  - first:
+      213: 2178049514045721618
+    second: Dwarf-Crusader_148
+  - first:
+      213: 8158463958680883728
+    second: Dwarf-Crusader_149
+  - first:
+      213: 2245093077863304923
+    second: Dwarf-Crusader_150
+  - first:
+      213: -2181726690775460363
+    second: Dwarf-Crusader_151
+  - first:
+      213: -1781738975785329468
+    second: Dwarf-Crusader_152
+  - first:
+      213: -5079246561474426962
+    second: Dwarf-Crusader_153
+  - first:
+      213: -7017277486939761872
+    second: Dwarf-Crusader_154
+  - first:
+      213: 4784522965707091594
+    second: Dwarf-Crusader_155
+  - first:
+      213: 5771088299056083375
+    second: Dwarf-Crusader_156
+  - first:
+      213: -5365030068622148162
+    second: Dwarf-Crusader_157
+  - first:
+      213: -4517900770023359557
+    second: Dwarf-Crusader_158
+  - first:
+      213: 885639069319732201
+    second: Dwarf-Crusader_159
+  - first:
+      213: 4405602832695381129
+    second: Dwarf-Crusader_160
+  - first:
+      213: -3871034581384412808
+    second: Dwarf-Crusader_161
+  - first:
+      213: -7986209138664553838
+    second: Dwarf-Crusader_162
+  - first:
+      213: 8728160019191074900
+    second: Dwarf-Crusader_163
+  - first:
+      213: -232691838906701451
+    second: Dwarf-Crusader_164
+  - first:
+      213: 6428754263655603561
+    second: Dwarf-Crusader_165
+  - first:
+      213: 5711158719622559819
+    second: Dwarf-Crusader_166
+  - first:
+      213: 932531167484222156
+    second: Dwarf-Crusader_167
+  - first:
+      213: 6385990870927442043
+    second: Dwarf-Crusader_168
+  - first:
+      213: 2016386299292889228
+    second: Dwarf-Crusader_169
+  - first:
+      213: -3204002579279115332
+    second: Dwarf-Crusader_170
+  - first:
+      213: 4374407429192465033
+    second: Dwarf-Crusader_171
+  - first:
+      213: 8070925197993566355
+    second: Dwarf-Crusader_172
+  - first:
+      213: 8582786805436514614
+    second: Dwarf-Crusader_173
+  - first:
+      213: -2810659080543775799
+    second: Dwarf-Crusader_174
+  - first:
+      213: 8551984194835989565
+    second: Dwarf-Crusader_175
+  - first:
+      213: -2454220295735740003
+    second: Dwarf-Crusader_176
+  - first:
+      213: -7842463424308301483
+    second: Dwarf-Crusader_177
+  - first:
+      213: -6473633318722836787
+    second: Dwarf-Crusader_178
+  - first:
+      213: -5247076497602507859
+    second: Dwarf-Crusader_179
+  - first:
+      213: -9175115724819654019
+    second: Dwarf-Crusader_180
+  - first:
+      213: -480974124663628940
+    second: Dwarf-Crusader_181
+  - first:
+      213: -7449921844718299856
+    second: Dwarf-Crusader_182
+  - first:
+      213: 9089607593370743196
+    second: Dwarf-Crusader_183
+  - first:
+      213: -828857213937542752
+    second: Dwarf-Crusader_184
+  - first:
+      213: 5445369039754132927
+    second: Dwarf-Crusader_185
+  - first:
+      213: -2300671778066030518
+    second: Dwarf-Crusader_186
+  - first:
+      213: -2939313214883040805
+    second: Dwarf-Crusader_187
+  - first:
+      213: -3084126136632935471
+    second: Dwarf-Crusader_188
+  - first:
+      213: -2284580712992354972
+    second: Dwarf-Crusader_189
+  - first:
+      213: 8565834306305921727
+    second: Dwarf-Crusader_190
+  - first:
+      213: 2901414016312244136
+    second: Dwarf-Crusader_191
+  - first:
+      213: 4148080845260664159
+    second: Dwarf-Crusader_192
+  - first:
+      213: -4756148936719371540
+    second: Dwarf-Crusader_193
+  - first:
+      213: -1974559214198466940
+    second: Dwarf-Crusader_194
+  - first:
+      213: 5025731094087771738
+    second: Dwarf-Crusader_195
+  - first:
+      213: -284280322566010924
+    second: Dwarf-Crusader_196
+  - first:
+      213: 8672648105337533820
+    second: Dwarf-Crusader_197
+  - first:
+      213: 1963771032745955722
+    second: Dwarf-Crusader_198
+  - first:
+      213: -933586350615720079
+    second: Dwarf-Crusader_199
+  - first:
+      213: -3516955145276912321
+    second: Dwarf-Crusader_200
+  - first:
+      213: 577721938256405322
+    second: Dwarf-Crusader_201
+  - first:
+      213: -2588195910284199787
+    second: Dwarf-Crusader_202
+  - first:
+      213: 6633864283070465960
+    second: Dwarf-Crusader_203
+  - first:
+      213: 5081596152196121386
+    second: Dwarf-Crusader_204
+  - first:
+      213: -2288972114036302507
+    second: Dwarf-Crusader_205
+  - first:
+      213: -4919514390776865728
+    second: Dwarf-Crusader_206
+  - first:
+      213: -6653592192122290807
+    second: Dwarf-Crusader_207
+  - first:
+      213: -3088330261755151624
+    second: Dwarf-Crusader_208
+  - first:
+      213: 2030596935288857396
+    second: Dwarf-Crusader_209
+  - first:
+      213: 5343706402509538114
+    second: Dwarf-Crusader_210
+  - first:
+      213: -3384183567314348377
+    second: Dwarf-Crusader_211
+  - first:
+      213: -7993320694532620226
+    second: Dwarf-Crusader_212
+  - first:
+      213: 2651865383471390735
+    second: Dwarf-Crusader_213
+  - first:
+      213: -2893451010681752444
+    second: Dwarf-Crusader_214
+  - first:
+      213: -5557484370088812110
+    second: Dwarf-Crusader_215
+  - first:
+      213: -5598286007645244708
+    second: Dwarf-Crusader_216
+  - first:
+      213: 3417499851714126621
+    second: Dwarf-Crusader_217
+  - first:
+      213: 8719153569382261462
+    second: Dwarf-Crusader_218
+  - first:
+      213: 1104539938196315407
+    second: Dwarf-Crusader_219
+  - first:
+      213: 6892377269018567719
+    second: Dwarf-Crusader_220
+  - first:
+      213: 4732603910837766835
+    second: Dwarf-Crusader_221
+  - first:
+      213: -4672643748336412673
+    second: Dwarf-Crusader_222
+  - first:
+      213: 2374845191769242802
+    second: Dwarf-Crusader_223
+  - first:
+      213: 2466190962736803764
+    second: Dwarf-Crusader_224
+  - first:
+      213: -625074161273947598
+    second: Dwarf-Crusader_225
+  - first:
+      213: 4843492670382214071
+    second: Dwarf-Crusader_226
+  - first:
+      213: -7159968243755666498
+    second: Dwarf-Crusader_227
+  - first:
+      213: -8845480107291853380
+    second: Dwarf-Crusader_228
+  - first:
+      213: 8984673174638214050
+    second: Dwarf-Crusader_229
+  - first:
+      213: -4761002566231169158
+    second: Dwarf-Crusader_230
+  - first:
+      213: 3861776017309228557
+    second: Dwarf-Crusader_231
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dwarf-Crusader_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 232
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acaa0b1154a724570800000000000000
+      internalID: 8449450287968594634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 232
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf2f0e54cbe01eda0800000000000000
+      internalID: -5917432233599110404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 231
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ec8cf48db2997190800000000000000
+      internalID: -7964173123350393626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 232
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f5afbd2edcbc9120800000000000000
+      internalID: 2422018362054780401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_4
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 231
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fa17c08c82faf8d0800000000000000
+      internalID: -2811668332069577992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_5
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 232
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e89d9e18d5630a7c0800000000000000
+      internalID: -4062187088648742514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_6
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 232
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e648f9c57721fc3d0800000000000000
+      internalID: -3184306107663285138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_7
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 231
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1187c49cad7768d0800000000000000
+      internalID: -2853173658731970273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_8
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 232
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36589b342a96ad590800000000000000
+      internalID: -7648684871493515933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_9
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 231
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bef7268d29751c350800000000000000
+      internalID: 6035201263860350955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_10
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 231
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cea94fe39547f8bf0800000000000000
+      internalID: -319909121862886676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_11
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 231
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51d5ae3d419b73f10800000000000000
+      internalID: 2249470038000688405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_12
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 232
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f36f51e419da6eba0800000000000000
+      internalID: -6059965408988498369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_13
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 232
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2e1141f94acfef30800000000000000
+      internalID: 4607123362752306733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_14
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 232
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3efebd20244a2a050800000000000000
+      internalID: 5810387072684126179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_15
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 228
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb586202746d43c40800000000000000
+      internalID: 5491249446641894844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_16
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 232
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ff0b4dd651fe86e0800000000000000
+      internalID: -1833262642911047696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_17
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 232
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e08a99c9b11dfe5f0800000000000000
+      internalID: -725131098461722610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_18
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 232
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c867510e491a91a10800000000000000
+      internalID: 1880711980190627468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_19
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 232
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b42e20b953511c00800000000000000
+      internalID: 869567847732225205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_20
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 233
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a55b22755085f4bb0800000000000000
+      internalID: -4949640685496912550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_21
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 232
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9950aa7cd3e7c4e0800000000000000
+      internalID: -1961348576606922337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_22
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 232
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c5e5406c54292700800000000000000
+      internalID: 515983611481417157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_23
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 232
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cedb91d5ecdbe7c70800000000000000
+      internalID: 8970816201791487468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_24
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 232
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c53fb6d1e499e7d0800000000000000
+      internalID: -2888613988290054715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_25
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 232
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 949aea9adf16ca0f0800000000000000
+      internalID: -1104400066511197879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_26
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 231
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b271674623944bc10800000000000000
+      internalID: 2068358609652553515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_27
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 231
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 690edc24f2beb1bf0800000000000000
+      internalID: -352429557601673066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_28
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 235
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06bbb4acc781806c0800000000000000
+      internalID: -4177061730137162912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_29
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 200
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1bf3bdb994b33750800000000000000
+      internalID: 6283564477517658910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_30
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 200
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1074b3f815302f480800000000000000
+      internalID: -8867021067508824319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_31
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 199
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b173b8419c2d5bcb0800000000000000
+      internalID: -4848737662719543525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_32
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 200
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15e207cf94f80c2c0800000000000000
+      internalID: -4413370086892491183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_33
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 199
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e67ffa7f2bfeea8c0800000000000000
+      internalID: -3985985068237588626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_34
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 200
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a64b2f6ab49c6fad0800000000000000
+      internalID: -2668724402409786262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_35
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 200
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c56513073242cc260800000000000000
+      internalID: 7119104845590648412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_36
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 200
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bdcc2956c0da9000800000000000000
+      internalID: 43576696731651508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_37
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 200
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39236646757d2a970800000000000000
+      internalID: 8764804595162952339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_38
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 200
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2b47a6535b7c7ea0800000000000000
+      internalID: -5873684216131663062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_39
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 199
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aa40618472bae200800000000000000
+      internalID: 210176546082671270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_40
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 199
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b1c7d4e774a5bc00800000000000000
+      internalID: 915818934087172535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_41
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 200
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fb665beef28c7570800000000000000
+      internalID: 8465785430931303416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_42
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 200
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8d9bd03d788d3550800000000000000
+      internalID: 6142215538075213198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_43
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 200
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7f1339b9be0f2920800000000000000
+      internalID: 2967606870299320186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_44
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 200
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dcdddc707205e940800000000000000
+      internalID: 5324664816589987024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_45
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 200
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4160a1696a23d64d0800000000000000
+      internalID: -3139797674143119852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_46
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 200
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c698a0053ad2a4ab0800000000000000
+      internalID: -5023152254932579988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_47
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 200
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7436af4bbbb789b20800000000000000
+      internalID: 3141396786216330055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_48
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 200
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d3d14009e6dfbf80800000000000000
+      internalID: -8088510109514083370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_49
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 201
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 172e6a402d2abf730800000000000000
+      internalID: 4033996914145288817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_50
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 200
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd45f7deff41d8b50800000000000000
+      internalID: 6596952118601405663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_51
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 200
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feb36f351ac4b4470800000000000000
+      internalID: 8379875787435031535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_52
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 199
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a180fe297bd193150800000000000000
+      internalID: 5852741865026029594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_53
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 199
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55354728e9bbb9630800000000000000
+      internalID: 3934944988906148693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_54
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 200
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bef84d773b91f3000800000000000000
+      internalID: 17761182133030891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_55
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 199
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72ff6331a83ad8440800000000000000
+      internalID: 4939784179718487847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_56
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 199
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6cf533d5152afed0800000000000000
+      internalID: -2379548677443814294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_57
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 203
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3e72fdd136ec7f30800000000000000
+      internalID: 4574784423353024063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_58
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 168
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15b163b9e37060540800000000000000
+      internalID: 4973670803950672721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_59
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 168
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a92830c94562b8020800000000000000
+      internalID: 2345010175813059226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_60
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 167
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bacaaaeb516ee5f00800000000000000
+      internalID: 1107575539447278763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_61
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 168
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3eccf54cf5f165f0800000000000000
+      internalID: -765059997821514182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_62
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 167
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab3399f09b62741d0800000000000000
+      internalID: -3366679620163652678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_63
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 168
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67c0932adb62424f0800000000000000
+      internalID: -854515433381229450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_64
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 168
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9471f84d3cea21ec0800000000000000
+      internalID: -3597620996207601847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_65
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 168
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c1b992888da102e0800000000000000
+      internalID: -2161255544342859328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_66
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 168
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c8c0f7fa3834f6c0800000000000000
+      internalID: -4110598733963409215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_67
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 168
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5419e076d2c7e770800000000000000
+      internalID: 8640088636406699099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_68
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 168
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b5929aab23d34050800000000000000
+      internalID: 5783698530972636594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_69
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 168
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 471091843e77687b0800000000000000
+      internalID: -5222354899838631564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_70
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 168
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92922040765b0f0d0800000000000000
+      internalID: -3391011065356474071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_71
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 168
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 930381fdc771c6180800000000000000
+      internalID: -9120889320245809095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_72
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 168
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdf447a1411fa40f0800000000000000
+      internalID: -1131827287684788261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_73
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 168
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 444eef23446fca640800000000000000
+      internalID: 5092716051422962756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_74
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 168
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b44e9954b6905070800000000000000
+      internalID: 8093134231726605494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_75
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 168
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c0bfae424358ab90800000000000000
+      internalID: -7230437657490247487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_76
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 168
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 146550223c0554290800000000000000
+      internalID: -7906824771759417791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_77
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 168
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 665d448028b2bc130800000000000000
+      internalID: 3588009365615203686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_78
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 168
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b39ce78b07b54290800000000000000
+      internalID: -7906712310626085961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_79
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 168
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41c5f9df8e0d0e130800000000000000
+      internalID: 3594102201747725332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_80
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 168
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58f00d447cc1d9d30800000000000000
+      internalID: 4439736449835732869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_81
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 166
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc0e620ee7fa42200800000000000000
+      internalID: 154441246698823885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_82
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 167
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f77725f0259f324b0800000000000000
+      internalID: -5466251391857952897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_83
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 168
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a6bc122ff61f8760800000000000000
+      internalID: 7462208392620979877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_84
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 167
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0a1cb04928bae8f0800000000000000
+      internalID: -510393120433890806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_85
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 167
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3f612738551c3b50800000000000000
+      internalID: 6574153024680324925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_86
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 171
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6caba438d0fde5da0800000000000000
+      internalID: -5954076408206935354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_87
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 136
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab0c152003f7509c0800000000000000
+      internalID: -3961620453028413254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_88
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 136
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd0909db956de64b0800000000000000
+      internalID: -5445179218523549477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_89
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 135
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1afbfef9bcc4e3dd0800000000000000
+      internalID: -2504479905326055519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_90
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 136
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7b0343a3462c9560800000000000000
+      internalID: 7321769166141328254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_91
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 135
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84d2654aa32b9c710800000000000000
+      internalID: 1714097098126142792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_92
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 136
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b7fe0f824eaee780800000000000000
+      internalID: -8651786233240946762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_93
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 136
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37614d2516fdd3430800000000000000
+      internalID: 3764410472646055539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_94
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 136
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 792acaa3f129e2010800000000000000
+      internalID: 1166030016361570967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_95
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 136
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e813d9a2a9388a5d0800000000000000
+      internalID: -3051044049380363890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_96
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 136
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9304ec2031e9f3300800000000000000
+      internalID: 234079510135193657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_97
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 136
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15e27723e147f1020800000000000000
+      internalID: 2314696406536236625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_98
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 136
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7629b5ac8425fbd0800000000000000
+      internalID: -2597129423614826881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_99
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 136
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b8635faf25450ff0800000000000000
+      internalID: -70574148047116104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_100
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 136
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d754d4dd7fdf0d9b0800000000000000
+      internalID: -5057263140525488771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_101
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 136
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe0f13d38867f4110800000000000000
+      internalID: 1247345949319229679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_102
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 136
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bba46f0ac9561fb80800000000000000
+      internalID: -8362791309660501317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_103
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 136
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcf3ae5e72f7bb620800000000000000
+      internalID: 2790964203423940557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_104
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 136
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a20193d8664b3690800000000000000
+      internalID: -7621420528354393440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_105
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 136
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ae6f0a99e0397650800000000000000
+      internalID: 6231065339314007721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_106
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 136
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 952475539ea905c90800000000000000
+      internalID: -7183071079242972583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_107
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 135
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 122dc3c2d9337a290800000000000000
+      internalID: -7879272272916327903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_108
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 136
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b01f936c265bff160800000000000000
+      internalID: 7061562176577335563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_109
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 136
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45aff5bd136383550800000000000000
+      internalID: 6140717679681469012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_110
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 133
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c99a0b50da4c3f50800000000000000
+      internalID: 6862442190946867648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_111
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 134
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28edcd661310dcf90800000000000000
+      internalID: -6931882939762549118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_112
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 136
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 087bd6ab60d5dc440800000000000000
+      internalID: 4957721048283723648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_113
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 135
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd3de6cfdc936a560800000000000000
+      internalID: 7324605400830890972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_114
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 135
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70d2037ec938f4250800000000000000
+      internalID: 5931103944187063559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_115
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 139
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5527846b66abc5600800000000000000
+      internalID: 458446212392579669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_116
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 104
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fc3a58b37da9ae20800000000000000
+      internalID: 3362409309334551792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_117
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 104
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b69be239ffa272140800000000000000
+      internalID: 4694768413731371371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_118
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 103
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 256c48c51259b8070800000000000000
+      internalID: 8109739524529374802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_119
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 104
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25f5e6e3df9400f30800000000000000
+      internalID: 4539709776412434258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_120
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 103
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f5d40ee089afee40800000000000000
+      internalID: 5687951225606428148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_121
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 104
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 217ce0fa7e8d69d90800000000000000
+      internalID: -7091242073662241006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_122
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 104
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fafc0876908a5ac0800000000000000
+      internalID: -3865635946396583183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_123
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 104
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d2d697c5a698cfa0800000000000000
+      internalID: -5780204482967711024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_124
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 104
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb763d12c3a808450800000000000000
+      internalID: 6089018687075084219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_125
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 104
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d113b21ca83fe980800000000000000
+      internalID: -8507518859380321833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_126
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 104
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b04b9b0293ea23800800000000000000
+      internalID: 590726061524366347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_127
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 104
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73c9e4212334a0f00800000000000000
+      internalID: 1083752542670593079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_128
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 104
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f913db25eda300710800000000000000
+      internalID: 1657389389417623967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_129
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 104
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b304ddbca4618c220800000000000000
+      internalID: 2506277703135346747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_130
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 104
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a8dab630b928af70800000000000000
+      internalID: 9198648075713435812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_131
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 104
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 940ff6c9ea1337470800000000000000
+      internalID: 8391105156740018249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_132
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 104
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7747cd057f4f530a0800000000000000
+      internalID: -6902341510824692617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_133
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 104
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 880d4e39604feef10800000000000000
+      internalID: 2301044768721129608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_134
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 104
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c8928953f9281da0800000000000000
+      internalID: -5973978780551440183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_135
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 104
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 227c7b904f08bc530800000000000000
+      internalID: 3876333689905858338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_136
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 103
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dfcdc8307cd60270800000000000000
+      internalID: 8216496944731508692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_137
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 104
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b78b0af56c53c7670800000000000000
+      internalID: 8537758119711783035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_138
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 104
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8262febd17dd441f0800000000000000
+      internalID: -1061480131061668312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_139
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 100
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 033cf92b61a532e00800000000000000
+      internalID: 1018756994248459056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_140
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 101
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7bec9e5c847d24e0800000000000000
+      internalID: -2004818112878417027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_141
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 104
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72d4a423591f3b6d0800000000000000
+      internalID: -2975769305665614553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_142
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 103
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5ca7e39bb1750000800000000000000
+      internalID: 1532425337810010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_143
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 103
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87b86fe09e79898e0800000000000000
+      internalID: -1686431033216038024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_144
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 107
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a63972eaf092cc80800000000000000
+      internalID: -8303915355701954909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_145
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 72
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76a77c338b4d1bcf0800000000000000
+      internalID: -238175417666143641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_146
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 72
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e15c3b3482a4afe0800000000000000
+      internalID: -1178638513651035680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_147
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 71
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a9b2d47b413a0c50800000000000000
+      internalID: 6632167601408752040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_148
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 72
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21c48e34e7cf93e10800000000000000
+      internalID: 2178049514045721618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_149
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 71
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 012500abebfa83170800000000000000
+      internalID: 8158463958680883728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_150
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 72
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bde0bb1624c282f10800000000000000
+      internalID: 2245093077863304923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_151
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 72
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f5175f4223f8b1e0800000000000000
+      internalID: -2181726690775460363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_152
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 72
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ccd8d177ddf547e0800000000000000
+      internalID: -1781738975785329468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_153
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 72
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea741b0d924e289b0800000000000000
+      internalID: -5079246561474426962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_154
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 72
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0331c940e4f9d9e90800000000000000
+      internalID: -7017277486939761872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_155
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 72
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8e6baea94a066240800000000000000
+      internalID: 4784522965707091594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_156
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 72
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa1b6a04b36071050800000000000000
+      internalID: 5771088299056083375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_157
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 72
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebdbc76e3959b85b0800000000000000
+      internalID: -5365030068622148162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_158
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 72
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbb3b40cf213d41c0800000000000000
+      internalID: -4517900770023359557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_159
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 72
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eb920e8a0c6a4c00800000000000000
+      internalID: 885639069319732201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_160
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 72
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98c43483f68d32d30800000000000000
+      internalID: 4405602832695381129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_161
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 72
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 871445fce82574ac0800000000000000
+      internalID: -3871034581384412808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_162
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 72
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 292cbe3e9194b2190800000000000000
+      internalID: -7986209138664553838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_163
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 72
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45096ae2b47a02970800000000000000
+      internalID: 8728160019191074900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_164
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 72
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57965df510055ccf0800000000000000
+      internalID: -232691838906701451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_165
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 71
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96d587911f5873950800000000000000
+      internalID: 6428754263655603561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_166
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 72
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b483af2b89c124f40800000000000000
+      internalID: 5711158719622559819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_167
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 72
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cca90e3f72401fc00800000000000000
+      internalID: 932531167484222156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_168
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 69
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b708488dcd89f9850800000000000000
+      internalID: 6385990870927442043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_169
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 70
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c80315be7a4abfb10800000000000000
+      internalID: 2016386299292889228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_170
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 72
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbb02a231a81983d0800000000000000
+      internalID: -3204002579279115332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_171
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 71
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98ab8d7516405bc30800000000000000
+      internalID: 4374407429192465033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_172
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 71
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 390e72bb4bfa10070800000000000000
+      internalID: 8070925197993566355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_173
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 75
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63104f0402f2c1770800000000000000
+      internalID: 8582786805436514614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_174
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 40
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c3567f25788ef8d0800000000000000
+      internalID: -2810659080543775799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_175
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 40
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3444f99050cea670800000000000000
+      internalID: 8551984194835989565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_176
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 39
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d99fd10e4abd0fdd0800000000000000
+      internalID: -2454220295735740003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_177
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 40
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5513c161119f92390800000000000000
+      internalID: -7842463424308301483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_178
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 39
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc6646f9bc80926a0800000000000000
+      internalID: -6473633318722836787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_179
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 40
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dab0a13c9b3ae27b0800000000000000
+      internalID: -5247076497602507859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_180
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 40
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7a16013cd07ba080800000000000000
+      internalID: -9175115724819654019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_181
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 40
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47b1549f49c3359f0800000000000000
+      internalID: -480974124663628940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_182
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 40
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0359429bd8f8c9890800000000000000
+      internalID: -7449921844718299856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_183
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 40
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c917e8682f5c42e70800000000000000
+      internalID: 9089607593370743196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_184
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 40
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a99bb161ce4f74f0800000000000000
+      internalID: -828857213937542752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_185
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 40
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbd74757a46d19b40800000000000000
+      internalID: 5445369039754132927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_186
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 40
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a40ab93153f5210e0800000000000000
+      internalID: -2300671778066030518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_187
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 40
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd1f84744367537d0800000000000000
+      internalID: -2939313214883040805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_188
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 40
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dbfe7f7e9bf235d0800000000000000
+      internalID: -3084126136632935471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_189
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 40
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46dc16d12f98b40e0800000000000000
+      internalID: -2284580712992354972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_190
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 40
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb21838fae4ffd670800000000000000
+      internalID: 8565834306305921727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_191
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 40
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a771aceca4e34820800000000000000
+      internalID: 2901414016312244136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_192
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 40
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5d2d512d81f09930800000000000000
+      internalID: 4148080845260664159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_193
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 40
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce27dffbdb3cefdb0800000000000000
+      internalID: -4756148936719371540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_194
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 40
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 486d9b93bd4f894e0800000000000000
+      internalID: -1974559214198466940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_195
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 40
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a56acb77dcbfeb540800000000000000
+      internalID: 5025731094087771738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_196
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 40
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d7c1d48d880e0cf0800000000000000
+      internalID: -284280322566010924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_197
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 38
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c75bb9c808f6b5870800000000000000
+      internalID: 8672648105337533820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_198
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 39
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a81560b8957b04b10800000000000000
+      internalID: 1963771032745955722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_199
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 40
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17f8564192c3b03f0800000000000000
+      internalID: -933586350615720079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_200
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 39
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3d89c2dde3413fc0800000000000000
+      internalID: -3516955145276912321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_201
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 39
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4329bcba0b740800800000000000000
+      internalID: 577721938256405322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_202
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 43
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 598346e4881e41cd0800000000000000
+      internalID: -2588195910284199787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_203
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 8
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a70190fa68301c50800000000000000
+      internalID: 6633864283070465960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_204
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 8
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2344a7e6c4758640800000000000000
+      internalID: 5081596152196121386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_205
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 7
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55d57126dffeb30e0800000000000000
+      internalID: -2288972114036302507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_206
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 8
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04c925ee9bf5abbb0800000000000000
+      internalID: -4919514390776865728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_207
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 7
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98dfc3c4721b9a3a0800000000000000
+      internalID: -6653592192122290807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_208
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 8
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fabef65dfb0425d0800000000000000
+      internalID: -3088330261755151624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_209
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 8
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 433a3e177212e2c10800000000000000
+      internalID: 2030596935288857396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_210
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 8
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 243cf8139a8a82a40800000000000000
+      internalID: 5343706402509538114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_211
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 8
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a69387c9f6f801d0800000000000000
+      internalID: -3384183567314348377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_212
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 8
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e30ca92cd25021190800000000000000
+      internalID: -7993320694532620226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_213
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 7
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f00a7fd14815dc420800000000000000
+      internalID: 2651865383471390735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_214
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 7
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 484b15dc2a568d7d0800000000000000
+      internalID: -2893451010681752444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_215
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 7
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b122140969dfd2b0800000000000000
+      internalID: -5557484370088812110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_216
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 8
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd2f34b7984ee42b0800000000000000
+      internalID: -5598286007645244708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_217
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 8
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d13ee5922066d6f20800000000000000
+      internalID: 3417499851714126621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_218
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 7
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d2eb1da9f7a00970800000000000000
+      internalID: 8719153569382261462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_219
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 8
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0d5c60c83d145f00800000000000000
+      internalID: 1104539938196315407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_220
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 8
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72424d9db94a6af50800000000000000
+      internalID: 6892377269018567719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_221
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 8
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ba0c18be269da140800000000000000
+      internalID: 4732603910837766835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_222
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 8
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff75572844f672fb0800000000000000
+      internalID: -4672643748336412673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_223
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 9
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bc33f39e1525f020800000000000000
+      internalID: 2374845191769242802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_224
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 8
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bfa43a3d9ba93220800000000000000
+      internalID: 2466190962736803764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_225
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 8
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23abdf2bc5a4357f0800000000000000
+      internalID: -625074161273947598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_226
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 7
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bb075afbea873340800000000000000
+      internalID: 4843492670382214071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_227
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 7
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb3bdd341dea2ac90800000000000000
+      internalID: -7159968243755666498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_228
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 8
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbdb51135ba8e3580800000000000000
+      internalID: -8845480107291853380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_229
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 7
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2abba4546a8ffac70800000000000000
+      internalID: 8984673174638214050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_230
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 7
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a77611114658dedb0800000000000000
+      internalID: -4761002566231169158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Crusader_231
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 11
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0ed6d1c3d8c79530800000000000000
+      internalID: 3861776017309228557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Dwarf-Crusader_0: 8449450287968594634
+      Dwarf-Crusader_1: -5917432233599110404
+      Dwarf-Crusader_10: -319909121862886676
+      Dwarf-Crusader_100: -5057263140525488771
+      Dwarf-Crusader_101: 1247345949319229679
+      Dwarf-Crusader_102: -8362791309660501317
+      Dwarf-Crusader_103: 2790964203423940557
+      Dwarf-Crusader_104: -7621420528354393440
+      Dwarf-Crusader_105: 6231065339314007721
+      Dwarf-Crusader_106: -7183071079242972583
+      Dwarf-Crusader_107: -7879272272916327903
+      Dwarf-Crusader_108: 7061562176577335563
+      Dwarf-Crusader_109: 6140717679681469012
+      Dwarf-Crusader_11: 2249470038000688405
+      Dwarf-Crusader_110: 6862442190946867648
+      Dwarf-Crusader_111: -6931882939762549118
+      Dwarf-Crusader_112: 4957721048283723648
+      Dwarf-Crusader_113: 7324605400830890972
+      Dwarf-Crusader_114: 5931103944187063559
+      Dwarf-Crusader_115: 458446212392579669
+      Dwarf-Crusader_116: 3362409309334551792
+      Dwarf-Crusader_117: 4694768413731371371
+      Dwarf-Crusader_118: 8109739524529374802
+      Dwarf-Crusader_119: 4539709776412434258
+      Dwarf-Crusader_12: -6059965408988498369
+      Dwarf-Crusader_120: 5687951225606428148
+      Dwarf-Crusader_121: -7091242073662241006
+      Dwarf-Crusader_122: -3865635946396583183
+      Dwarf-Crusader_123: -5780204482967711024
+      Dwarf-Crusader_124: 6089018687075084219
+      Dwarf-Crusader_125: -8507518859380321833
+      Dwarf-Crusader_126: 590726061524366347
+      Dwarf-Crusader_127: 1083752542670593079
+      Dwarf-Crusader_128: 1657389389417623967
+      Dwarf-Crusader_129: 2506277703135346747
+      Dwarf-Crusader_13: 4607123362752306733
+      Dwarf-Crusader_130: 9198648075713435812
+      Dwarf-Crusader_131: 8391105156740018249
+      Dwarf-Crusader_132: -6902341510824692617
+      Dwarf-Crusader_133: 2301044768721129608
+      Dwarf-Crusader_134: -5973978780551440183
+      Dwarf-Crusader_135: 3876333689905858338
+      Dwarf-Crusader_136: 8216496944731508692
+      Dwarf-Crusader_137: 8537758119711783035
+      Dwarf-Crusader_138: -1061480131061668312
+      Dwarf-Crusader_139: 1018756994248459056
+      Dwarf-Crusader_14: 5810387072684126179
+      Dwarf-Crusader_140: -2004818112878417027
+      Dwarf-Crusader_141: -2975769305665614553
+      Dwarf-Crusader_142: 1532425337810010
+      Dwarf-Crusader_143: -1686431033216038024
+      Dwarf-Crusader_144: -8303915355701954909
+      Dwarf-Crusader_145: -238175417666143641
+      Dwarf-Crusader_146: -1178638513651035680
+      Dwarf-Crusader_147: 6632167601408752040
+      Dwarf-Crusader_148: 2178049514045721618
+      Dwarf-Crusader_149: 8158463958680883728
+      Dwarf-Crusader_15: 5491249446641894844
+      Dwarf-Crusader_150: 2245093077863304923
+      Dwarf-Crusader_151: -2181726690775460363
+      Dwarf-Crusader_152: -1781738975785329468
+      Dwarf-Crusader_153: -5079246561474426962
+      Dwarf-Crusader_154: -7017277486939761872
+      Dwarf-Crusader_155: 4784522965707091594
+      Dwarf-Crusader_156: 5771088299056083375
+      Dwarf-Crusader_157: -5365030068622148162
+      Dwarf-Crusader_158: -4517900770023359557
+      Dwarf-Crusader_159: 885639069319732201
+      Dwarf-Crusader_16: -1833262642911047696
+      Dwarf-Crusader_160: 4405602832695381129
+      Dwarf-Crusader_161: -3871034581384412808
+      Dwarf-Crusader_162: -7986209138664553838
+      Dwarf-Crusader_163: 8728160019191074900
+      Dwarf-Crusader_164: -232691838906701451
+      Dwarf-Crusader_165: 6428754263655603561
+      Dwarf-Crusader_166: 5711158719622559819
+      Dwarf-Crusader_167: 932531167484222156
+      Dwarf-Crusader_168: 6385990870927442043
+      Dwarf-Crusader_169: 2016386299292889228
+      Dwarf-Crusader_17: -725131098461722610
+      Dwarf-Crusader_170: -3204002579279115332
+      Dwarf-Crusader_171: 4374407429192465033
+      Dwarf-Crusader_172: 8070925197993566355
+      Dwarf-Crusader_173: 8582786805436514614
+      Dwarf-Crusader_174: -2810659080543775799
+      Dwarf-Crusader_175: 8551984194835989565
+      Dwarf-Crusader_176: -2454220295735740003
+      Dwarf-Crusader_177: -7842463424308301483
+      Dwarf-Crusader_178: -6473633318722836787
+      Dwarf-Crusader_179: -5247076497602507859
+      Dwarf-Crusader_18: 1880711980190627468
+      Dwarf-Crusader_180: -9175115724819654019
+      Dwarf-Crusader_181: -480974124663628940
+      Dwarf-Crusader_182: -7449921844718299856
+      Dwarf-Crusader_183: 9089607593370743196
+      Dwarf-Crusader_184: -828857213937542752
+      Dwarf-Crusader_185: 5445369039754132927
+      Dwarf-Crusader_186: -2300671778066030518
+      Dwarf-Crusader_187: -2939313214883040805
+      Dwarf-Crusader_188: -3084126136632935471
+      Dwarf-Crusader_189: -2284580712992354972
+      Dwarf-Crusader_19: 869567847732225205
+      Dwarf-Crusader_190: 8565834306305921727
+      Dwarf-Crusader_191: 2901414016312244136
+      Dwarf-Crusader_192: 4148080845260664159
+      Dwarf-Crusader_193: -4756148936719371540
+      Dwarf-Crusader_194: -1974559214198466940
+      Dwarf-Crusader_195: 5025731094087771738
+      Dwarf-Crusader_196: -284280322566010924
+      Dwarf-Crusader_197: 8672648105337533820
+      Dwarf-Crusader_198: 1963771032745955722
+      Dwarf-Crusader_199: -933586350615720079
+      Dwarf-Crusader_2: -7964173123350393626
+      Dwarf-Crusader_20: -4949640685496912550
+      Dwarf-Crusader_200: -3516955145276912321
+      Dwarf-Crusader_201: 577721938256405322
+      Dwarf-Crusader_202: -2588195910284199787
+      Dwarf-Crusader_203: 6633864283070465960
+      Dwarf-Crusader_204: 5081596152196121386
+      Dwarf-Crusader_205: -2288972114036302507
+      Dwarf-Crusader_206: -4919514390776865728
+      Dwarf-Crusader_207: -6653592192122290807
+      Dwarf-Crusader_208: -3088330261755151624
+      Dwarf-Crusader_209: 2030596935288857396
+      Dwarf-Crusader_21: -1961348576606922337
+      Dwarf-Crusader_210: 5343706402509538114
+      Dwarf-Crusader_211: -3384183567314348377
+      Dwarf-Crusader_212: -7993320694532620226
+      Dwarf-Crusader_213: 2651865383471390735
+      Dwarf-Crusader_214: -2893451010681752444
+      Dwarf-Crusader_215: -5557484370088812110
+      Dwarf-Crusader_216: -5598286007645244708
+      Dwarf-Crusader_217: 3417499851714126621
+      Dwarf-Crusader_218: 8719153569382261462
+      Dwarf-Crusader_219: 1104539938196315407
+      Dwarf-Crusader_22: 515983611481417157
+      Dwarf-Crusader_220: 6892377269018567719
+      Dwarf-Crusader_221: 4732603910837766835
+      Dwarf-Crusader_222: -4672643748336412673
+      Dwarf-Crusader_223: 2374845191769242802
+      Dwarf-Crusader_224: 2466190962736803764
+      Dwarf-Crusader_225: -625074161273947598
+      Dwarf-Crusader_226: 4843492670382214071
+      Dwarf-Crusader_227: -7159968243755666498
+      Dwarf-Crusader_228: -8845480107291853380
+      Dwarf-Crusader_229: 8984673174638214050
+      Dwarf-Crusader_23: 8970816201791487468
+      Dwarf-Crusader_230: -4761002566231169158
+      Dwarf-Crusader_231: 3861776017309228557
+      Dwarf-Crusader_24: -2888613988290054715
+      Dwarf-Crusader_25: -1104400066511197879
+      Dwarf-Crusader_26: 2068358609652553515
+      Dwarf-Crusader_27: -352429557601673066
+      Dwarf-Crusader_28: -4177061730137162912
+      Dwarf-Crusader_29: 6283564477517658910
+      Dwarf-Crusader_3: 2422018362054780401
+      Dwarf-Crusader_30: -8867021067508824319
+      Dwarf-Crusader_31: -4848737662719543525
+      Dwarf-Crusader_32: -4413370086892491183
+      Dwarf-Crusader_33: -3985985068237588626
+      Dwarf-Crusader_34: -2668724402409786262
+      Dwarf-Crusader_35: 7119104845590648412
+      Dwarf-Crusader_36: 43576696731651508
+      Dwarf-Crusader_37: 8764804595162952339
+      Dwarf-Crusader_38: -5873684216131663062
+      Dwarf-Crusader_39: 210176546082671270
+      Dwarf-Crusader_4: -2811668332069577992
+      Dwarf-Crusader_40: 915818934087172535
+      Dwarf-Crusader_41: 8465785430931303416
+      Dwarf-Crusader_42: 6142215538075213198
+      Dwarf-Crusader_43: 2967606870299320186
+      Dwarf-Crusader_44: 5324664816589987024
+      Dwarf-Crusader_45: -3139797674143119852
+      Dwarf-Crusader_46: -5023152254932579988
+      Dwarf-Crusader_47: 3141396786216330055
+      Dwarf-Crusader_48: -8088510109514083370
+      Dwarf-Crusader_49: 4033996914145288817
+      Dwarf-Crusader_5: -4062187088648742514
+      Dwarf-Crusader_50: 6596952118601405663
+      Dwarf-Crusader_51: 8379875787435031535
+      Dwarf-Crusader_52: 5852741865026029594
+      Dwarf-Crusader_53: 3934944988906148693
+      Dwarf-Crusader_54: 17761182133030891
+      Dwarf-Crusader_55: 4939784179718487847
+      Dwarf-Crusader_56: -2379548677443814294
+      Dwarf-Crusader_57: 4574784423353024063
+      Dwarf-Crusader_58: 4973670803950672721
+      Dwarf-Crusader_59: 2345010175813059226
+      Dwarf-Crusader_6: -3184306107663285138
+      Dwarf-Crusader_60: 1107575539447278763
+      Dwarf-Crusader_61: -765059997821514182
+      Dwarf-Crusader_62: -3366679620163652678
+      Dwarf-Crusader_63: -854515433381229450
+      Dwarf-Crusader_64: -3597620996207601847
+      Dwarf-Crusader_65: -2161255544342859328
+      Dwarf-Crusader_66: -4110598733963409215
+      Dwarf-Crusader_67: 8640088636406699099
+      Dwarf-Crusader_68: 5783698530972636594
+      Dwarf-Crusader_69: -5222354899838631564
+      Dwarf-Crusader_7: -2853173658731970273
+      Dwarf-Crusader_70: -3391011065356474071
+      Dwarf-Crusader_71: -9120889320245809095
+      Dwarf-Crusader_72: -1131827287684788261
+      Dwarf-Crusader_73: 5092716051422962756
+      Dwarf-Crusader_74: 8093134231726605494
+      Dwarf-Crusader_75: -7230437657490247487
+      Dwarf-Crusader_76: -7906824771759417791
+      Dwarf-Crusader_77: 3588009365615203686
+      Dwarf-Crusader_78: -7906712310626085961
+      Dwarf-Crusader_79: 3594102201747725332
+      Dwarf-Crusader_8: -7648684871493515933
+      Dwarf-Crusader_80: 4439736449835732869
+      Dwarf-Crusader_81: 154441246698823885
+      Dwarf-Crusader_82: -5466251391857952897
+      Dwarf-Crusader_83: 7462208392620979877
+      Dwarf-Crusader_84: -510393120433890806
+      Dwarf-Crusader_85: 6574153024680324925
+      Dwarf-Crusader_86: -5954076408206935354
+      Dwarf-Crusader_87: -3961620453028413254
+      Dwarf-Crusader_88: -5445179218523549477
+      Dwarf-Crusader_89: -2504479905326055519
+      Dwarf-Crusader_9: 6035201263860350955
+      Dwarf-Crusader_90: 7321769166141328254
+      Dwarf-Crusader_91: 1714097098126142792
+      Dwarf-Crusader_92: -8651786233240946762
+      Dwarf-Crusader_93: 3764410472646055539
+      Dwarf-Crusader_94: 1166030016361570967
+      Dwarf-Crusader_95: -3051044049380363890
+      Dwarf-Crusader_96: 234079510135193657
+      Dwarf-Crusader_97: 2314696406536236625
+      Dwarf-Crusader_98: -2597129423614826881
+      Dwarf-Crusader_99: -70574148047116104
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -13,7 +13,7 @@ namespace QuestMaker.Runtime.Game
     internal class Player : MonoBehaviour, IGameReference
     {
         //consts
-        public const ushort MAX_LEVEL = 20;
+        public const ushort MAX_LEVEL = 60;
         private const float _nextLevelModifier = 1.5f;
 
         //public getters
@@ -24,7 +24,7 @@ namespace QuestMaker.Runtime.Game
         private uint _level = 1;
         [SerializeField, ReadOnlyInspector]
         private uint _currentExp = 0;
-        [SerializeField, ReadOnlyInspector] // by current formula u need 886.062 exp to reach max level (20);
+        [SerializeField, ReadOnlyInspector]
         private uint _expToNextLevel = 200;
 
 
@@ -48,6 +48,8 @@ namespace QuestMaker.Runtime.Game
         [Command()]
         public void AddExp(int expToAdd)
         {
+            uint positiveExpToAdd = Convert.ToUInt32(Mathf.Abs(expToAdd));
+
             if (_level == MAX_LEVEL)
             {
                 if (_currentExp < _expToNextLevel)
@@ -55,21 +57,17 @@ namespace QuestMaker.Runtime.Game
                 return;
             }
 
-            if (expToAdd < 0)
-            {
-                ConsoleLogger.LogError(this, "Exp to add cannot be <= 0");
-                return;
-            }
-            if (_currentExp + expToAdd < _expToNextLevel)
-                _currentExp += (uint)expToAdd;
+            if (_currentExp + positiveExpToAdd < _expToNextLevel)
+                _currentExp += positiveExpToAdd;
             else
             {
-                uint difference = (uint)(_currentExp + expToAdd) - _expToNextLevel;
+                uint difference = (_currentExp + positiveExpToAdd) - _expToNextLevel;
 
                 //Next Level
                 //https://stackoverflow.com/questions/39904658/convert-float-to-ushort
-                uint expToNext = Convert.ToUInt32(_expToNextLevel * _nextLevelModifier);
-                _expToNextLevel = expToNext;
+
+                _expToNextLevel *= Convert.ToUInt32(_nextLevelModifier);
+
                 _level++;
 
                 if (_level == MAX_LEVEL)

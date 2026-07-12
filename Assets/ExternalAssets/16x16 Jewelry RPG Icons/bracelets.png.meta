@@ -1,0 +1,1274 @@
+fileFormatVersion: 2
+guid: 1c92031746837aa4f8a3d43762c3362b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3512985198010166387
+    second: bracelets_0
+  - first:
+      213: 3985044090362793666
+    second: bracelets_1
+  - first:
+      213: 6840505430109795457
+    second: bracelets_2
+  - first:
+      213: 210095048987770070
+    second: bracelets_3
+  - first:
+      213: 5116860980191248386
+    second: bracelets_4
+  - first:
+      213: 296617933867675439
+    second: bracelets_5
+  - first:
+      213: 2731307071577926114
+    second: bracelets_6
+  - first:
+      213: -7829208003840034931
+    second: bracelets_7
+  - first:
+      213: -6464555879682059468
+    second: bracelets_8
+  - first:
+      213: -1694195688125819881
+    second: bracelets_9
+  - first:
+      213: -3769689052279121856
+    second: bracelets_10
+  - first:
+      213: -1415199784114282956
+    second: bracelets_11
+  - first:
+      213: 6312511217645479295
+    second: bracelets_12
+  - first:
+      213: 8694222393680199055
+    second: bracelets_13
+  - first:
+      213: 1434809588287876431
+    second: bracelets_14
+  - first:
+      213: 3341167127686443310
+    second: bracelets_15
+  - first:
+      213: -1711541092575182135
+    second: bracelets_16
+  - first:
+      213: -8747183429789909819
+    second: bracelets_17
+  - first:
+      213: -3689735553341782009
+    second: bracelets_18
+  - first:
+      213: 6785116744369403143
+    second: bracelets_19
+  - first:
+      213: -7341256400205917546
+    second: bracelets_20
+  - first:
+      213: -2547074679592362409
+    second: bracelets_21
+  - first:
+      213: 3846000970470947607
+    second: bracelets_22
+  - first:
+      213: 2105355188325346657
+    second: bracelets_23
+  - first:
+      213: 6472411687310983145
+    second: bracelets_24
+  - first:
+      213: -4090461676897313506
+    second: bracelets_25
+  - first:
+      213: 4732573317473492099
+    second: bracelets_26
+  - first:
+      213: 8574941484245655206
+    second: bracelets_27
+  - first:
+      213: -4507182034167391470
+    second: bracelets_28
+  - first:
+      213: 1305031234889979039
+    second: bracelets_29
+  - first:
+      213: -294216850563992013
+    second: bracelets_30
+  - first:
+      213: 1115019831680293622
+    second: bracelets_31
+  - first:
+      213: -134136694080337016
+    second: bracelets_32
+  - first:
+      213: -2671568159316092844
+    second: bracelets_33
+  - first:
+      213: 4673622546013342090
+    second: bracelets_34
+  - first:
+      213: -4212251655726716248
+    second: bracelets_35
+  - first:
+      213: 1320805588405007026
+    second: bracelets_36
+  - first:
+      213: 6841143354333659925
+    second: bracelets_37
+  - first:
+      213: -2393813148094152587
+    second: bracelets_38
+  - first:
+      213: -2993998570263118123
+    second: bracelets_39
+  - first:
+      213: -700823602697916681
+    second: bracelets_40
+  - first:
+      213: -6950627903248236548
+    second: bracelets_41
+  - first:
+      213: -5993655810476385757
+    second: bracelets_42
+  - first:
+      213: -862732356341635413
+    second: bracelets_43
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bracelets_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 688
+        width: 480
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d831663339e5f3fc0800000000000000
+      internalID: -3512985198010166387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bracelets_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 672
+        width: 480
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ce085c8c78bd4730800000000000000
+      internalID: 3985044090362793666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bracelets_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 656
+        width: 480
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18433d5327b5eee50800000000000000
+      internalID: 6840505430109795457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bracelets_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 480
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dcfbfb75586ae200800000000000000
+      internalID: 210095048987770070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bracelets_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 624
+        width: 480
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2004b5183fdb20740800000000000000
+      internalID: 5116860980191248386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bracelets_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 608
+        width: 480
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2f6136707ccd1400800000000000000
+      internalID: 296617933867675439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bracelets_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 592
+        width: 480
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e92aed7f4d87e520800000000000000
+      internalID: 2731307071577926114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bracelets_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 480
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d87387a2dc0195390800000000000000
+      internalID: -7829208003840034931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bracelets_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 560
+        width: 480
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43353e89da84946a0800000000000000
+      internalID: -6464555879682059468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bracelets_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 544
+        width: 480
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71413457ff10d78e0800000000000000
+      internalID: -1694195688125819881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bracelets_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 528
+        width: 480
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 048593597cf5fabc0800000000000000
+      internalID: -3769689052279121856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bracelets_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 480
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43e98ad5b433c5ce0800000000000000
+      internalID: -1415199784114282956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bracelets_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 496
+        width: 480
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f756d60e18b8a9750800000000000000
+      internalID: 6312511217645479295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bracelets_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 480
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8dfd8df33518a870800000000000000
+      internalID: 8694222393680199055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bracelets_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 464
+        width: 480
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4d2936f7b779e310800000000000000
+      internalID: 1434809588287876431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bracelets_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 480
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2176f4ecc53e5e20800000000000000
+      internalID: 3341167127686443310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bracelets_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 480
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c28296c1726f38e0800000000000000
+      internalID: -1711541092575182135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bracelets_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 480
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cc7032e303cb9680800000000000000
+      internalID: -8747183429789909819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bracelets_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 480
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7080fe3301d6bccc0800000000000000
+      internalID: -3689735553341782009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bracelets_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 480
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70571bbdab3992e50800000000000000
+      internalID: 6785116744369403143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bracelets_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 368
+        width: 480
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 692d9ac133e9e1a90800000000000000
+      internalID: -7341256400205917546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bracelets_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 480
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75e518ae219f6acd0800000000000000
+      internalID: -2547074679592362409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bracelets_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 480
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71b7ab2718dbf5530800000000000000
+      internalID: 3846000970470947607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bracelets_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 480
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16d682e9369b73d10800000000000000
+      internalID: 2105355188325346657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bracelets_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 304
+        width: 480
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eff1462320a2d950800000000000000
+      internalID: 6472411687310983145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bracelets_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 480
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1ddf2de6c2cb37c0800000000000000
+      internalID: -4090461676897313506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bracelets_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 272
+        width: 480
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38cdf75ab5a7da140800000000000000
+      internalID: 4732573317473492099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bracelets_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 480
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ae193219df400770800000000000000
+      internalID: 8574941484245655206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bracelets_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 480
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21b1e6be1d54371c0800000000000000
+      internalID: -4507182034167391470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bracelets_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 480
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9418686ef66c1210800000000000000
+      internalID: 1305031234889979039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bracelets_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 208
+        width: 480
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 336f23f455bbaebf0800000000000000
+      internalID: -294216850563992013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bracelets_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 480
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fad1d811a8597f00800000000000000
+      internalID: 1115019831680293622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bracelets_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 480
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88b0ffd2363732ef0800000000000000
+      internalID: -134136694080337016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bracelets_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 480
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45858b6e9eeacead0800000000000000
+      internalID: -2671568159316092844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bracelets_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 480
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a89c16591fa0cd040800000000000000
+      internalID: 4673622546013342090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bracelets_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 480
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aaabd3cf631b85c0800000000000000
+      internalID: -4212251655726716248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bracelets_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 480
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b23b3a4fa1745210800000000000000
+      internalID: 1320805588405007026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bracelets_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 480
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 513059482af90fe50800000000000000
+      internalID: 6841143354333659925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bracelets_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 480
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5704031ff9777ced0800000000000000
+      internalID: -2393813148094152587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bracelets_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 480
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5de7079c92e2376d0800000000000000
+      internalID: -2993998570263118123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bracelets_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 480
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fe2bfe75ac2646f0800000000000000
+      internalID: -700823602697916681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bracelets_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 480
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cff78fc7fb86a8f90800000000000000
+      internalID: -6950627903248236548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bracelets_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 480
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32a599ecbc142dca0800000000000000
+      internalID: -5993655810476385757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bracelets_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 480
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba6650c2e75f604f0800000000000000
+      internalID: -862732356341635413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      bracelets_0: -3512985198010166387
+      bracelets_1: 3985044090362793666
+      bracelets_10: -3769689052279121856
+      bracelets_11: -1415199784114282956
+      bracelets_12: 6312511217645479295
+      bracelets_13: 8694222393680199055
+      bracelets_14: 1434809588287876431
+      bracelets_15: 3341167127686443310
+      bracelets_16: -1711541092575182135
+      bracelets_17: -8747183429789909819
+      bracelets_18: -3689735553341782009
+      bracelets_19: 6785116744369403143
+      bracelets_2: 6840505430109795457
+      bracelets_20: -7341256400205917546
+      bracelets_21: -2547074679592362409
+      bracelets_22: 3846000970470947607
+      bracelets_23: 2105355188325346657
+      bracelets_24: 6472411687310983145
+      bracelets_25: -4090461676897313506
+      bracelets_26: 4732573317473492099
+      bracelets_27: 8574941484245655206
+      bracelets_28: -4507182034167391470
+      bracelets_29: 1305031234889979039
+      bracelets_3: 210095048987770070
+      bracelets_30: -294216850563992013
+      bracelets_31: 1115019831680293622
+      bracelets_32: -134136694080337016
+      bracelets_33: -2671568159316092844
+      bracelets_34: 4673622546013342090
+      bracelets_35: -4212251655726716248
+      bracelets_36: 1320805588405007026
+      bracelets_37: 6841143354333659925
+      bracelets_38: -2393813148094152587
+      bracelets_39: -2993998570263118123
+      bracelets_4: 5116860980191248386
+      bracelets_40: -700823602697916681
+      bracelets_41: -6950627903248236548
+      bracelets_42: -5993655810476385757
+      bracelets_43: -862732356341635413
+      bracelets_5: 296617933867675439
+      bracelets_6: 2731307071577926114
+      bracelets_7: -7829208003840034931
+      bracelets_8: -6464555879682059468
+      bracelets_9: -1694195688125819881
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

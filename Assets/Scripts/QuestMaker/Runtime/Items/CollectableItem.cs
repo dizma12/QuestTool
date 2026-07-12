@@ -5,22 +5,39 @@ using QuestMaker.Runtime.Events;
 using QuestMaker.Runtime.Game;
 using UnityEngine;
 
-namespace QuestMaker.Runtime
+internal class CollectableItem : MonoBehaviour, ICollectable
 {
-    internal abstract class CollectableItem : MonoBehaviour, ICollectable
+    [SerializeField, ReadOnlyInspector] protected string ID = string.Empty;
+    [SerializeField, ReadOnlyInspector] protected Item _item = null;
+
+    [Tooltip("How many items a pickup will will add. EX -> if 2: every pickup will award 2 items")]
+    [SerializeField] protected int _itemsPerPickUp = 1;
+
+
+    public Item Item { get => _item; set { if (_item == null && value != null) _item = value; } }
+
+    /// <summary>
+    /// How many items a pickup will will add. EX -> if 2: every pickup will award 2 items
+    /// </summary>
+    public int ItemsPerPickup { get => _itemsPerPickUp; set { if (value >= 1 && value != _itemsPerPickUp) _itemsPerPickUp = value; } }
+    
+
+    protected virtual void Start()
     {
-        [SerializeField] protected Item _item = null;
-        [SerializeField] protected int _amount = 1;
-        [SerializeField, ReadOnlyInspector] protected string ID = string.Empty;
+        ID = _item.ID;
+        ValidateItemsPerPickUp();
+    }
 
-        protected virtual void Start()
-        {
-            ID = _item.ID;
-        }
+    public virtual void Collect()
+    {
+        ReferenceManager.Instance.RequestReference<GameEventManager>().RequestBus<GameEventBus>().FireItemCollected(new ItemStack(_item, _itemsPerPickUp));
+    }
 
-        public virtual void Collect()
-        {
-            ReferenceManager.Instance.RequestReference<GameEventManager>().RequestBus<GameEventBus>().FireItemCollected(new ItemStack(_item, _amount));
-        }
+    private void ValidateItemsPerPickUp()
+    {
+        if (_itemsPerPickUp == 0)
+            _itemsPerPickUp = 1;
+        if (_itemsPerPickUp < 0)
+            _itemsPerPickUp = Mathf.Abs(_itemsPerPickUp);
     }
 }

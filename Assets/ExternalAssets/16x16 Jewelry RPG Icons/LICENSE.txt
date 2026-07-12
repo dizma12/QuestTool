@@ -1,0 +1,127 @@
+PIXEL ART ASSET PACK LICENSE
+Version 1.1
+
+Copyright (c) 2025 Kurt Gabriel Averilla Sotelo
+
+This license governs the use of all files, graphics, sprites, tilesets, animations, icons, visual effects, and other digital assets included in this package ("Assets").
+
+By downloading, purchasing, or using these Assets, you agree to the terms of this License.
+
+==================================================
+1. LICENSE GRANT
+==================================================
+
+The Creator grants you a non-exclusive, non-transferable, worldwide, perpetual license to use the Assets in personal and commercial projects, subject to the restrictions outlined in this Agreement.
+
+==================================================
+2. PERMITTED USES
+==================================================
+
+You MAY:
+
+✓ Use the Assets in commercial games.
+
+✓ Use the Assets in free games.
+
+✓ Use the Assets in game jams.
+
+✓ Use the Assets in prototypes and educational projects.
+
+✓ Modify, recolor, resize, animate, or otherwise edit the Assets.
+
+✓ Combine the Assets with your own artwork.
+
+✓ Use the Assets in videos, livestreams, screenshots, promotional materials, and game trailers.
+
+✓ Use the Assets in software applications and interactive media.
+
+✓ Publish finished projects on any platform, including Steam, itch.io, Epic Games Store, Google Play, Apple App Store, and similar services.
+
+==================================================
+3. RESTRICTIONS
+==================================================
+
+You MAY NOT:
+
+✗ Redistribute the original Assets.
+
+✗ Resell the original Assets.
+
+✗ Upload the original Assets to another asset marketplace.
+
+✗ Include the Assets in another asset pack, bundle, template, starter kit, or resource collection.
+
+✗ Share the Assets with individuals who have not purchased or legally obtained a license.
+
+✗ Claim authorship or ownership of the original Assets.
+
+✗ Sell modified versions of the Assets as standalone art resources.
+
+✗ Mint, sell, or distribute the Assets as NFTs or blockchain-based collectibles without explicit written permission from the Creator.
+
+==================================================
+4. TEAM LICENSE
+==================================================
+
+The Assets may be shared internally among members of a single development team working on the same project.
+
+The Assets may not be shared outside that project team.
+
+==================================================
+5. MODIFICATIONS
+==================================================
+
+Modified versions of the Assets remain subject to this License.
+
+Creating modifications does not transfer ownership of the original Assets.
+
+==================================================
+6. OWNERSHIP
+==================================================
+
+The Creator retains all copyright and intellectual property rights to the Assets.
+
+Purchasing or downloading the Assets grants a license to use them; it does not transfer ownership.
+
+==================================================
+7. ATTRIBUTION
+==================================================
+
+Attribution is appreciated but not required.
+
+==================================================
+8. COMMERCIAL USE
+==================================================
+
+Commercial use is permitted.
+
+You may sell games and products that use these Assets, provided the Assets are incorporated into a larger finished work and are not distributed as standalone resources.
+
+==================================================
+9. WARRANTY DISCLAIMER
+==================================================
+
+The Assets are provided "AS IS" without warranty of any kind.
+
+The Creator shall not be liable for any claim, damages, losses, or other liabilities arising from the use of the Assets.
+
+==================================================
+10. TERMINATION
+==================================================
+
+This License automatically terminates if you violate any of its terms.
+
+Upon termination, you must cease distribution of projects that violate this License and discontinue unauthorized use of the Assets.
+
+==================================================
+11. CONTACT
+==================================================
+
+Creator: Kurt Gabriel Averilla Sotelo
+Email: kurtgabrielsotelo@gmail.com
+
+==================================================
+12. ACCEPTANCE
+==================================================
+
+By downloading, purchasing, or using these Assets, you acknowledge that you have read and agree to this License Agreement.

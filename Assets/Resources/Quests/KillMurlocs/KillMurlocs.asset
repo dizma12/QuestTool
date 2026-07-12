@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca184911a1cf05c41a8bccbc419e7cf6, type: 3}
+  m_Name: KillMurlocs
+  m_EditorClassIdentifier: QuestMaker.Domain::QuestMaker.Domain.QuestSO
+  _objectives:
+  - rid: 2370604503514480804
+  _qType: 0
+  _prerequisites:
+    rid: 2370604503514480805
+  _rewards:
+    rid: 2370604503514480806
+  _specialEvent:
+    rid: -2
+  _handInGiverGuid: 028598315bb02434c9c5cce8db34da64
+  _turnInGiverGuid: 0b32d0742bd2d944cab7589649ccf3b8
+  references:
+    version: 2
+    RefIds:
+    - rid: -2
+      type: {class: , ns: , asm: }
+    - rid: 2370604503514480804
+      type: {class: ObjectiveData, ns: QuestMaker.Domain.Objectives, asm: QuestMaker.Domain}
+      data:
+        id: Slay_1
+        desc: Murlocs
+        _steps:
+        - rid: 2370604503514480807
+    - rid: 2370604503514480805
+      type: {class: PrerequisiteData, ns: QuestMaker.Domain, asm: QuestMaker.Domain}
+      data:
+        _level: 1
+        _items: []
+        _reps: []
+        _quests:
+        - CollectRings
+        _inGameTimeConstraint: 0
+    - rid: 2370604503514480806
+      type: {class: RewardData, ns: QuestMaker.Domain, asm: QuestMaker.Domain}
+      data:
+        _exp: 700000
+        _items:
+        - _item: {fileID: 11400000, guid: 19884ee631746f740a07d71d670f96e1, type: 2}
+          _amount: 1
+        _abilities: []
+        _reps: []
+    - rid: 2370604503514480807
+      type: {class: SlayStepData, ns: QuestMaker.Domain.Steps, asm: QuestMaker.Domain}
+      data:
+        stepId: Slay_[Mrrrlglglll]_15
+        enemyID: Mrrrlglglll
+        amount: 15

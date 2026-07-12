@@ -155,11 +155,12 @@ namespace QuestMaker.Runtime.Game
             else if (AvailableTurnIns.Any())
                 _indicators.ActivateTurnInIndicator();
 
+            else if (_questsTurnIns.Any(q => q.Status == QuestStatus.IN_PROGRESS))
+                _indicators.ActivateInProgressTurnInIndicator();
+
             else if (_questsHandIns.Any(q => q.Status == QuestStatus.MISSING_REQUIRMENTS))
                 _indicators.ActivateMissingReqHandInIndicator();
 
-            else if (_questsTurnIns.Any(q => q.Status == QuestStatus.IN_PROGRESS))
-                _indicators.ActivateInProgressTurnInIndicator();
             else
                 _indicators.DeactivateIndicators();
         }

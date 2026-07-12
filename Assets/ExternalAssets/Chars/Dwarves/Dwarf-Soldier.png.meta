@@ -1,0 +1,6162 @@
+fileFormatVersion: 2
+guid: bcee12b4e13888341b35bf961e513794
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5664736063312716802
+    second: Dwarf-Soldier_0
+  - first:
+      213: 8583036210194761292
+    second: Dwarf-Soldier_1
+  - first:
+      213: -952179165045023375
+    second: Dwarf-Soldier_2
+  - first:
+      213: 8028337378539342139
+    second: Dwarf-Soldier_3
+  - first:
+      213: -210105402822821517
+    second: Dwarf-Soldier_4
+  - first:
+      213: -5487348372019527587
+    second: Dwarf-Soldier_5
+  - first:
+      213: -4993607163120444087
+    second: Dwarf-Soldier_6
+  - first:
+      213: -1638674925789921855
+    second: Dwarf-Soldier_7
+  - first:
+      213: 4620969078686249164
+    second: Dwarf-Soldier_8
+  - first:
+      213: -8177697221311736231
+    second: Dwarf-Soldier_9
+  - first:
+      213: 4654259081573245946
+    second: Dwarf-Soldier_10
+  - first:
+      213: -2813073967891135107
+    second: Dwarf-Soldier_11
+  - first:
+      213: -4642422640600966272
+    second: Dwarf-Soldier_12
+  - first:
+      213: 4738285957909197739
+    second: Dwarf-Soldier_13
+  - first:
+      213: 8287327160080422238
+    second: Dwarf-Soldier_14
+  - first:
+      213: -4732320331505702975
+    second: Dwarf-Soldier_15
+  - first:
+      213: 4325263286597589576
+    second: Dwarf-Soldier_16
+  - first:
+      213: -1878996520725878861
+    second: Dwarf-Soldier_17
+  - first:
+      213: 7179671716237163996
+    second: Dwarf-Soldier_18
+  - first:
+      213: 8934989890749909280
+    second: Dwarf-Soldier_19
+  - first:
+      213: 7325849079584662655
+    second: Dwarf-Soldier_20
+  - first:
+      213: -2770432525628859586
+    second: Dwarf-Soldier_21
+  - first:
+      213: -2418071322264264839
+    second: Dwarf-Soldier_22
+  - first:
+      213: 8907418207419282185
+    second: Dwarf-Soldier_23
+  - first:
+      213: 3435399434230389322
+    second: Dwarf-Soldier_24
+  - first:
+      213: -2661856694229566122
+    second: Dwarf-Soldier_25
+  - first:
+      213: -3395560726991476280
+    second: Dwarf-Soldier_26
+  - first:
+      213: -5412395519328140756
+    second: Dwarf-Soldier_27
+  - first:
+      213: 7409979018945337790
+    second: Dwarf-Soldier_28
+  - first:
+      213: 8573070655951783593
+    second: Dwarf-Soldier_29
+  - first:
+      213: -51566334693278639
+    second: Dwarf-Soldier_30
+  - first:
+      213: -6587734191546857760
+    second: Dwarf-Soldier_31
+  - first:
+      213: -6029449625536044298
+    second: Dwarf-Soldier_32
+  - first:
+      213: 8661232709557420812
+    second: Dwarf-Soldier_33
+  - first:
+      213: -2517002932435583116
+    second: Dwarf-Soldier_34
+  - first:
+      213: 5268345100863958452
+    second: Dwarf-Soldier_35
+  - first:
+      213: -6367404483411014342
+    second: Dwarf-Soldier_36
+  - first:
+      213: -2337019557506266747
+    second: Dwarf-Soldier_37
+  - first:
+      213: -4483893325017757909
+    second: Dwarf-Soldier_38
+  - first:
+      213: 6302252120349104975
+    second: Dwarf-Soldier_39
+  - first:
+      213: 4253796610388791848
+    second: Dwarf-Soldier_40
+  - first:
+      213: 2113897439902781831
+    second: Dwarf-Soldier_41
+  - first:
+      213: 3316665486006553496
+    second: Dwarf-Soldier_42
+  - first:
+      213: 5039746100139341666
+    second: Dwarf-Soldier_43
+  - first:
+      213: 9088213026633047680
+    second: Dwarf-Soldier_44
+  - first:
+      213: -2129360850442997147
+    second: Dwarf-Soldier_45
+  - first:
+      213: -5813820357668632598
+    second: Dwarf-Soldier_46
+  - first:
+      213: 3640508579972744502
+    second: Dwarf-Soldier_47
+  - first:
+      213: -8783515872453965391
+    second: Dwarf-Soldier_48
+  - first:
+      213: -8329292926046005553
+    second: Dwarf-Soldier_49
+  - first:
+      213: 2426839949848331425
+    second: Dwarf-Soldier_50
+  - first:
+      213: 3802555139412838338
+    second: Dwarf-Soldier_51
+  - first:
+      213: -7343395206263293760
+    second: Dwarf-Soldier_52
+  - first:
+      213: 1526769110943232222
+    second: Dwarf-Soldier_53
+  - first:
+      213: -3321110542909825328
+    second: Dwarf-Soldier_54
+  - first:
+      213: -6203776864439749845
+    second: Dwarf-Soldier_55
+  - first:
+      213: 7620427612237512448
+    second: Dwarf-Soldier_56
+  - first:
+      213: -1646073210607655362
+    second: Dwarf-Soldier_57
+  - first:
+      213: -2379273998285042166
+    second: Dwarf-Soldier_58
+  - first:
+      213: 5539938884390607409
+    second: Dwarf-Soldier_59
+  - first:
+      213: -4729185154151386327
+    second: Dwarf-Soldier_60
+  - first:
+      213: 6861604748047685385
+    second: Dwarf-Soldier_61
+  - first:
+      213: 6297681275234489944
+    second: Dwarf-Soldier_62
+  - first:
+      213: 7414352144723829495
+    second: Dwarf-Soldier_63
+  - first:
+      213: 1179863520753294312
+    second: Dwarf-Soldier_64
+  - first:
+      213: -374880992676712376
+    second: Dwarf-Soldier_65
+  - first:
+      213: -5831803652976390788
+    second: Dwarf-Soldier_66
+  - first:
+      213: 3194111496667338396
+    second: Dwarf-Soldier_67
+  - first:
+      213: 8801866893840653607
+    second: Dwarf-Soldier_68
+  - first:
+      213: -275793714519962132
+    second: Dwarf-Soldier_69
+  - first:
+      213: 5488550987131722825
+    second: Dwarf-Soldier_70
+  - first:
+      213: 4870323342181522028
+    second: Dwarf-Soldier_71
+  - first:
+      213: -5421106388048608079
+    second: Dwarf-Soldier_72
+  - first:
+      213: -5697793272235828144
+    second: Dwarf-Soldier_73
+  - first:
+      213: 3577438180622447423
+    second: Dwarf-Soldier_74
+  - first:
+      213: -1561328840175594214
+    second: Dwarf-Soldier_75
+  - first:
+      213: -7078631117013530657
+    second: Dwarf-Soldier_76
+  - first:
+      213: 6833619230635247915
+    second: Dwarf-Soldier_77
+  - first:
+      213: 3996240730762658818
+    second: Dwarf-Soldier_78
+  - first:
+      213: -4655647288660432548
+    second: Dwarf-Soldier_79
+  - first:
+      213: 7607903756665997643
+    second: Dwarf-Soldier_80
+  - first:
+      213: -8927993869496449288
+    second: Dwarf-Soldier_81
+  - first:
+      213: -8216010748988838684
+    second: Dwarf-Soldier_82
+  - first:
+      213: 6504963865913158463
+    second: Dwarf-Soldier_83
+  - first:
+      213: 825745879262502615
+    second: Dwarf-Soldier_84
+  - first:
+      213: -2855198248527084216
+    second: Dwarf-Soldier_85
+  - first:
+      213: 9117662782968920869
+    second: Dwarf-Soldier_86
+  - first:
+      213: 1308133396290975919
+    second: Dwarf-Soldier_87
+  - first:
+      213: -8802271534444854558
+    second: Dwarf-Soldier_88
+  - first:
+      213: 7720635847811854309
+    second: Dwarf-Soldier_89
+  - first:
+      213: -8787539390165751992
+    second: Dwarf-Soldier_90
+  - first:
+      213: -5913293569022622329
+    second: Dwarf-Soldier_91
+  - first:
+      213: 1560469551935807668
+    second: Dwarf-Soldier_92
+  - first:
+      213: -504145663934246605
+    second: Dwarf-Soldier_93
+  - first:
+      213: 7330480799167484197
+    second: Dwarf-Soldier_94
+  - first:
+      213: 2491957880317595717
+    second: Dwarf-Soldier_95
+  - first:
+      213: -7844403174111232160
+    second: Dwarf-Soldier_96
+  - first:
+      213: 5231786555429223221
+    second: Dwarf-Soldier_97
+  - first:
+      213: 5632034127285300239
+    second: Dwarf-Soldier_98
+  - first:
+      213: -9035375634970666600
+    second: Dwarf-Soldier_99
+  - first:
+      213: -7655102922329504819
+    second: Dwarf-Soldier_100
+  - first:
+      213: -3302868555694505058
+    second: Dwarf-Soldier_101
+  - first:
+      213: 7641100551968750046
+    second: Dwarf-Soldier_102
+  - first:
+      213: 155142080308856170
+    second: Dwarf-Soldier_103
+  - first:
+      213: -1217216475312985033
+    second: Dwarf-Soldier_104
+  - first:
+      213: 2346216243986750932
+    second: Dwarf-Soldier_105
+  - first:
+      213: 7085179788488306934
+    second: Dwarf-Soldier_106
+  - first:
+      213: 4191451042753494930
+    second: Dwarf-Soldier_107
+  - first:
+      213: -7769033048790167168
+    second: Dwarf-Soldier_108
+  - first:
+      213: -9188993093050103502
+    second: Dwarf-Soldier_109
+  - first:
+      213: -7782214679681783213
+    second: Dwarf-Soldier_110
+  - first:
+      213: 2381180379420741129
+    second: Dwarf-Soldier_111
+  - first:
+      213: -3465813825913313297
+    second: Dwarf-Soldier_112
+  - first:
+      213: -5669718754003142617
+    second: Dwarf-Soldier_113
+  - first:
+      213: 1365282396779852288
+    second: Dwarf-Soldier_114
+  - first:
+      213: -7054196457258000305
+    second: Dwarf-Soldier_115
+  - first:
+      213: -851796455610610713
+    second: Dwarf-Soldier_116
+  - first:
+      213: -2025350148595093030
+    second: Dwarf-Soldier_117
+  - first:
+      213: 4376318684763673420
+    second: Dwarf-Soldier_118
+  - first:
+      213: -7105514336982916012
+    second: Dwarf-Soldier_119
+  - first:
+      213: -5980968334742533643
+    second: Dwarf-Soldier_120
+  - first:
+      213: -2830364417234870130
+    second: Dwarf-Soldier_121
+  - first:
+      213: -1779223283121577793
+    second: Dwarf-Soldier_122
+  - first:
+      213: 9154978698850690964
+    second: Dwarf-Soldier_123
+  - first:
+      213: -8291018453715669392
+    second: Dwarf-Soldier_124
+  - first:
+      213: -8269916802086032588
+    second: Dwarf-Soldier_125
+  - first:
+      213: -2083812777711161051
+    second: Dwarf-Soldier_126
+  - first:
+      213: 1303215183024820968
+    second: Dwarf-Soldier_127
+  - first:
+      213: 5879262782173177097
+    second: Dwarf-Soldier_128
+  - first:
+      213: 2550088594872089925
+    second: Dwarf-Soldier_129
+  - first:
+      213: -7726699101127500138
+    second: Dwarf-Soldier_130
+  - first:
+      213: 2306769868787593334
+    second: Dwarf-Soldier_131
+  - first:
+      213: -6294764474458145392
+    second: Dwarf-Soldier_132
+  - first:
+      213: -4494046683183390261
+    second: Dwarf-Soldier_133
+  - first:
+      213: 5264329364832247849
+    second: Dwarf-Soldier_134
+  - first:
+      213: 9083174599515846722
+    second: Dwarf-Soldier_135
+  - first:
+      213: 2351204245508595606
+    second: Dwarf-Soldier_136
+  - first:
+      213: 2178420565314369873
+    second: Dwarf-Soldier_137
+  - first:
+      213: 4739878349386943176
+    second: Dwarf-Soldier_138
+  - first:
+      213: 356075338281383760
+    second: Dwarf-Soldier_139
+  - first:
+      213: 658248856536719492
+    second: Dwarf-Soldier_140
+  - first:
+      213: 4762919123958981285
+    second: Dwarf-Soldier_141
+  - first:
+      213: 4649527236160004890
+    second: Dwarf-Soldier_142
+  - first:
+      213: -7057978884181883577
+    second: Dwarf-Soldier_143
+  - first:
+      213: -15609738341242428
+    second: Dwarf-Soldier_144
+  - first:
+      213: 1617218687737997607
+    second: Dwarf-Soldier_145
+  - first:
+      213: -3871128990951570768
+    second: Dwarf-Soldier_146
+  - first:
+      213: -8554837857036950319
+    second: Dwarf-Soldier_147
+  - first:
+      213: 6755175996377328283
+    second: Dwarf-Soldier_148
+  - first:
+      213: 4664977806322036724
+    second: Dwarf-Soldier_149
+  - first:
+      213: -4712813999781920974
+    second: Dwarf-Soldier_150
+  - first:
+      213: 8993066308710084860
+    second: Dwarf-Soldier_151
+  - first:
+      213: -1323907429983375181
+    second: Dwarf-Soldier_152
+  - first:
+      213: -1854297602655555637
+    second: Dwarf-Soldier_153
+  - first:
+      213: 5474753760246872458
+    second: Dwarf-Soldier_154
+  - first:
+      213: 5488668123682831486
+    second: Dwarf-Soldier_155
+  - first:
+      213: 9215012668343653805
+    second: Dwarf-Soldier_156
+  - first:
+      213: 491412616036553551
+    second: Dwarf-Soldier_157
+  - first:
+      213: 202956357104275429
+    second: Dwarf-Soldier_158
+  - first:
+      213: 5697360607065350827
+    second: Dwarf-Soldier_159
+  - first:
+      213: 5986709902934639448
+    second: Dwarf-Soldier_160
+  - first:
+      213: 2850687887418648269
+    second: Dwarf-Soldier_161
+  - first:
+      213: -3050965243591371177
+    second: Dwarf-Soldier_162
+  - first:
+      213: 4807487316057189334
+    second: Dwarf-Soldier_163
+  - first:
+      213: -4745218173340776674
+    second: Dwarf-Soldier_164
+  - first:
+      213: -769020904292246082
+    second: Dwarf-Soldier_165
+  - first:
+      213: -2223154152608804785
+    second: Dwarf-Soldier_166
+  - first:
+      213: -4298558811635375094
+    second: Dwarf-Soldier_167
+  - first:
+      213: -7252853929425679361
+    second: Dwarf-Soldier_168
+  - first:
+      213: -454897690291905648
+    second: Dwarf-Soldier_169
+  - first:
+      213: 8099629016490151052
+    second: Dwarf-Soldier_170
+  - first:
+      213: 8486681084276906413
+    second: Dwarf-Soldier_171
+  - first:
+      213: -8616975872755564287
+    second: Dwarf-Soldier_172
+  - first:
+      213: 2970997271221585805
+    second: Dwarf-Soldier_173
+  - first:
+      213: 6991162182487924839
+    second: Dwarf-Soldier_174
+  - first:
+      213: -2086655247113844008
+    second: Dwarf-Soldier_175
+  - first:
+      213: -7621114943109854728
+    second: Dwarf-Soldier_176
+  - first:
+      213: 1283180146589873438
+    second: Dwarf-Soldier_177
+  - first:
+      213: 8805757460680074168
+    second: Dwarf-Soldier_178
+  - first:
+      213: -1710944297022327184
+    second: Dwarf-Soldier_179
+  - first:
+      213: -5629390731913181226
+    second: Dwarf-Soldier_180
+  - first:
+      213: -6975867011454757606
+    second: Dwarf-Soldier_181
+  - first:
+      213: -6539532092707826424
+    second: Dwarf-Soldier_182
+  - first:
+      213: -2980253824290034280
+    second: Dwarf-Soldier_183
+  - first:
+      213: -7279997488218601229
+    second: Dwarf-Soldier_184
+  - first:
+      213: 6018589333214143406
+    second: Dwarf-Soldier_185
+  - first:
+      213: 4256924241584183058
+    second: Dwarf-Soldier_186
+  - first:
+      213: -5549136483391837669
+    second: Dwarf-Soldier_187
+  - first:
+      213: -4218607012765668641
+    second: Dwarf-Soldier_188
+  - first:
+      213: 4529758094431455447
+    second: Dwarf-Soldier_189
+  - first:
+      213: -4926156924525323314
+    second: Dwarf-Soldier_190
+  - first:
+      213: -7864757209838069062
+    second: Dwarf-Soldier_191
+  - first:
+      213: -3990840708037533372
+    second: Dwarf-Soldier_192
+  - first:
+      213: 149963135925287118
+    second: Dwarf-Soldier_193
+  - first:
+      213: 1950094039130968586
+    second: Dwarf-Soldier_194
+  - first:
+      213: 2263989888694587059
+    second: Dwarf-Soldier_195
+  - first:
+      213: 5348889803779509738
+    second: Dwarf-Soldier_196
+  - first:
+      213: 5304412829898562683
+    second: Dwarf-Soldier_197
+  - first:
+      213: -4743444320085411036
+    second: Dwarf-Soldier_198
+  - first:
+      213: -6770299612495511679
+    second: Dwarf-Soldier_199
+  - first:
+      213: 4651519937558487761
+    second: Dwarf-Soldier_200
+  - first:
+      213: 1253093825752004739
+    second: Dwarf-Soldier_201
+  - first:
+      213: -5395708074955299179
+    second: Dwarf-Soldier_202
+  - first:
+      213: -7728364122439484715
+    second: Dwarf-Soldier_203
+  - first:
+      213: -425417692951087534
+    second: Dwarf-Soldier_204
+  - first:
+      213: 5220950934917485703
+    second: Dwarf-Soldier_205
+  - first:
+      213: 1433574970826375763
+    second: Dwarf-Soldier_206
+  - first:
+      213: 5790751979725127481
+    second: Dwarf-Soldier_207
+  - first:
+      213: 2694473182100092427
+    second: Dwarf-Soldier_208
+  - first:
+      213: -8602315416897406257
+    second: Dwarf-Soldier_209
+  - first:
+      213: 1294472462435589276
+    second: Dwarf-Soldier_210
+  - first:
+      213: 6226222069737467600
+    second: Dwarf-Soldier_211
+  - first:
+      213: -7808058377494085870
+    second: Dwarf-Soldier_212
+  - first:
+      213: 3521863757965284688
+    second: Dwarf-Soldier_213
+  - first:
+      213: 1318679607591095198
+    second: Dwarf-Soldier_214
+  - first:
+      213: -4024016604002473853
+    second: Dwarf-Soldier_215
+  - first:
+      213: -1018014718425926219
+    second: Dwarf-Soldier_216
+  - first:
+      213: -6733811242836845282
+    second: Dwarf-Soldier_217
+  - first:
+      213: -7131060781479414476
+    second: Dwarf-Soldier_218
+  - first:
+      213: 740702314714540813
+    second: Dwarf-Soldier_219
+  - first:
+      213: 3015056267168247462
+    second: Dwarf-Soldier_220
+  - first:
+      213: 2809466794175730841
+    second: Dwarf-Soldier_221
+  - first:
+      213: 5994270377928894260
+    second: Dwarf-Soldier_222
+  - first:
+      213: -2669834098711996472
+    second: Dwarf-Soldier_223
+  - first:
+      213: -7012860499218901655
+    second: Dwarf-Soldier_224
+  - first:
+      213: 5921978735865289939
+    second: Dwarf-Soldier_225
+  - first:
+      213: 141505248943235114
+    second: Dwarf-Soldier_226
+  - first:
+      213: -4277008962551826529
+    second: Dwarf-Soldier_227
+  - first:
+      213: 4825878768797794109
+    second: Dwarf-Soldier_228
+  - first:
+      213: 618271345685561663
+    second: Dwarf-Soldier_229
+  - first:
+      213: -7945259472857225406
+    second: Dwarf-Soldier_230
+  - first:
+      213: -6030741278089719382
+    second: Dwarf-Soldier_231
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dwarf-Soldier_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 232
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2046910cf6f2d9e40800000000000000
+      internalID: 5664736063312716802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 232
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4649f255f11d1770800000000000000
+      internalID: 8583036210194761292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 231
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17d96f0281e29c2f0800000000000000
+      internalID: -952179165045023375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 232
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3904d05f426a6f60800000000000000
+      internalID: 8028337378539342139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_4
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 231
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 379fa53df3e851df0800000000000000
+      internalID: -210105402822821517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_5
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 232
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5045f69ab509d3b0800000000000000
+      internalID: -5487348372019527587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_6
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 232
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94d1c5e0eb423bab0800000000000000
+      internalID: -4993607163120444087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_7
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 231
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cdb3f946d14249e0800000000000000
+      internalID: -1638674925789921855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_8
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 232
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc07825e4eaf02040800000000000000
+      internalID: 4620969078686249164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_9
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 231
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 956d30b54bbf28e80800000000000000
+      internalID: -8177697221311736231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_10
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 231
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af32fc1b9ff379040800000000000000
+      internalID: 4654259081573245946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_11
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 231
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7543f86124f5f8d0800000000000000
+      internalID: -2813073967891135107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_12
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 232
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08b9fb9743dc29fb0800000000000000
+      internalID: -4642422640600966272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_13
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 232
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba3366569f5c1c140800000000000000
+      internalID: 4738285957909197739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_14
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 232
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e555a0ad420820370800000000000000
+      internalID: 8287327160080422238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_15
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 228
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c76e3d3bbb635eb0800000000000000
+      internalID: -4732320331505702975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_16
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 232
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84a10bdfa0c660c30800000000000000
+      internalID: 4325263286597589576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_17
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 232
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b760f7ae967ce5e0800000000000000
+      internalID: -1878996520725878861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_18
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 232
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdd3c3ae26153a360800000000000000
+      internalID: 7179671716237163996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_19
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 232
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 029cadd47f57ffb70800000000000000
+      internalID: 8934989890749909280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_20
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 233
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7424c28ce4aaa560800000000000000
+      internalID: 7325849079584662655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_21
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 232
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3b14bbdb427d89d0800000000000000
+      internalID: -2770432525628859586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_22
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 232
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97f11e2a1f8417ed0800000000000000
+      internalID: -2418071322264264839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_23
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 232
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 903b2178aa18d9b70800000000000000
+      internalID: 8907418207419282185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_24
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 232
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4a51ea759dfcaf20800000000000000
+      internalID: 3435399434230389322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_25
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 232
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65d7371907f2f0bd0800000000000000
+      internalID: -2661856694229566122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_26
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 231
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c9e76e528b80e0d0800000000000000
+      internalID: -3395560726991476280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_27
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 231
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c22c78683fe43e4b0800000000000000
+      internalID: -5412395519328140756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_28
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 235
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb9955178a885d660800000000000000
+      internalID: 7409979018945337790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_29
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 200
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a6c45ae65aa9f670800000000000000
+      internalID: 8573070655951783593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_30
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 200
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15cfc3a11bcc84ff0800000000000000
+      internalID: -51566334693278639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_31
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 199
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e68726f7aaa394a0800000000000000
+      internalID: -6587734191546857760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_32
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 200
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f2efcec287135ca0800000000000000
+      internalID: -6029449625536044298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_33
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 199
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c030a2a9241e23870800000000000000
+      internalID: 8661232709557420812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_34
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 200
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47f7f892b2fc11dd0800000000000000
+      internalID: -2517002932435583116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_35
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 200
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bd6a23d4fbec1940800000000000000
+      internalID: 5268345100863958452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_36
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 200
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3d8e09bb5f62a7a0800000000000000
+      internalID: -6367404483411014342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_37
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 200
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 589c2b1381d319fd0800000000000000
+      internalID: -2337019557506266747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_38
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 200
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b27429f07c206c1c0800000000000000
+      internalID: -4483893325017757909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_39
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 199
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4b5c56a9e8167750800000000000000
+      internalID: 6302252120349104975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_40
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 199
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8221cf4ca75880b30800000000000000
+      internalID: 4253796610388791848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_41
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 200
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 781530d8582165d10800000000000000
+      internalID: 2113897439902781831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_42
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 200
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89b0834efa9270e20800000000000000
+      internalID: 3316665486006553496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_43
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 200
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26737f85066c0f540800000000000000
+      internalID: 5039746100139341666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_44
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 200
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08e5a87a891df1e70800000000000000
+      internalID: 9088213026633047680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_45
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 200
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 562b8be969df272e0800000000000000
+      internalID: -2129360850442997147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_46
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 200
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae70a390039215fa0800000000000000
+      internalID: -5813820357668632598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_47
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 200
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6358907e34fa58230800000000000000
+      internalID: 3640508579972744502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_48
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 200
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b9406fd9deaa1680800000000000000
+      internalID: -8783515872453965391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_49
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 201
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc69ad8d638686c80800000000000000
+      internalID: -8329292926046005553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_50
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 200
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a4cf61931edda120800000000000000
+      internalID: 2426839949848331425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_51
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 200
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c7c983a0c365c430800000000000000
+      internalID: 3802555139412838338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_52
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 199
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c8be5587f4071a90800000000000000
+      internalID: -7343395206263293760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_53
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 199
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed07fcfca6c203510800000000000000
+      internalID: 1526769110943232222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_54
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 200
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0de1e06ae8b09e1d0800000000000000
+      internalID: -3321110542909825328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_55
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 199
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2338419fc1c7e9a0800000000000000
+      internalID: -6203776864439749845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_56
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 199
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00fbeffd98231c960800000000000000
+      internalID: 7620427612237512448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_57
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 203
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e36a17fd229f729e0800000000000000
+      internalID: -1646073210607655362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_58
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 168
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0e85ec87ee1bfed0800000000000000
+      internalID: -2379273998285042166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_59
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 168
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13ad9714011d1ec40800000000000000
+      internalID: 5539938884390607409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_60
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 167
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92371c9982f8e5eb0800000000000000
+      internalID: -4729185154151386327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_61
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 168
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 907148cf921593f50800000000000000
+      internalID: 6861604748047685385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_62
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 167
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8561bf6d0cbd56750800000000000000
+      internalID: 6297681275234489944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_63
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 168
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f26be12ef115e660800000000000000
+      internalID: 7414352144723829495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_64
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 168
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eb11f5fe97bf5010800000000000000
+      internalID: 1179863520753294312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_65
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 168
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 840757e29b72ccaf0800000000000000
+      internalID: -374880992676712376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_66
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 168
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7d4480d975411fa0800000000000000
+      internalID: -5831803652976390788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_67
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 168
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9619dbab73c35c20800000000000000
+      internalID: 3194111496667338396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_68
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 168
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72d94af3e43862a70800000000000000
+      internalID: 8801866893840653607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_69
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 168
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ced80cee31f2c2cf0800000000000000
+      internalID: -275793714519962132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_70
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 168
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94c1b9f0b004b2c40800000000000000
+      internalID: 5488550987131722825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_71
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 168
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6ad500964dd69340800000000000000
+      internalID: 4870323342181522028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_72
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 168
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b403ca567c54c4b0800000000000000
+      internalID: -5421106388048608079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_73
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 168
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05cd5c4053f5de0b0800000000000000
+      internalID: -5697793272235828144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_74
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 168
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f33bbe9321d95a130800000000000000
+      internalID: 3577438180622447423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_75
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 168
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a15d2cf21bb055ae0800000000000000
+      internalID: -1561328840175594214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_76
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 168
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd7c166d086a3cd90800000000000000
+      internalID: -7078631117013530657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_77
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 168
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b29ca44fb74e5de50800000000000000
+      internalID: 6833619230635247915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_78
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 168
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2044e0a85cf757730800000000000000
+      internalID: 3996240730762658818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_79
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 168
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5962e72571d36fb0800000000000000
+      internalID: -4655647288660432548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_80
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 168
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b49cf658824b49960800000000000000
+      internalID: 7607903756665997643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_81
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 166
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f68cc3d0e4691480800000000000000
+      internalID: -8927993869496449288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_82
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 167
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ecaabb01cddafd80800000000000000
+      internalID: -8216010748988838684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_83
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 168
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3b6188db26464a50800000000000000
+      internalID: 6504963865913158463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_84
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 167
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7de1f209083a57b00800000000000000
+      internalID: 825745879262502615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_85
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 167
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 845c939025c4068d0800000000000000
+      internalID: -2855198248527084216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_86
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 171
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52b79a06ef1788e70800000000000000
+      internalID: 9117662782968920869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_87
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 136
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa8bfb4a46c672210800000000000000
+      internalID: 1308133396290975919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_88
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 136
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e2c1e40dac08d580800000000000000
+      internalID: -8802271534444854558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_89
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 135
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5efe8fcd565352b60800000000000000
+      internalID: 7720635847811854309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_90
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 136
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 847ea67ab736c0680800000000000000
+      internalID: -8787539390165751992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_91
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 135
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7850ec534d2cfeda0800000000000000
+      internalID: -5913293569022622329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_92
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 136
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b062fd2ac6e7a510800000000000000
+      internalID: 1560469551935807668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_93
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 136
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3315522903ae009f0800000000000000
+      internalID: -504145663934246605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_94
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 136
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5211333c2791bb560800000000000000
+      internalID: 7330480799167484197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_95
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 136
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 540d09b3d76359220800000000000000
+      internalID: 2491957880317595717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_96
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 136
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06f3724efd4132390800000000000000
+      internalID: -7844403174111232160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_97
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 136
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53bf509272a0b9840800000000000000
+      internalID: 5231786555429223221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_98
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 136
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0ca7bfe231092e40800000000000000
+      internalID: 5632034127285300239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_99
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 136
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8999a514bb5eb9280800000000000000
+      internalID: -9035375634970666600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_100
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 136
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc3ce7b537c93c590800000000000000
+      internalID: -7655102922329504819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_101
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 136
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9385064c8ad922d0800000000000000
+      internalID: -3302868555694505058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_102
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 136
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed9732db774aa0a60800000000000000
+      internalID: 7641100551968750046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_103
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 136
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a65468a66ec272200800000000000000
+      internalID: 155142080308856170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_104
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 136
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73c673690149b1fe0800000000000000
+      internalID: -1217216475312985033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_105
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 136
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ddd41d3e3f6f8020800000000000000
+      internalID: 2346216243986750932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_106
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 136
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f07f9e8a7d935260800000000000000
+      internalID: 7085179788488306934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_107
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 135
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29f33c024860b2a30800000000000000
+      internalID: 4191451042753494930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_108
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 136
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 081979eaa99de2490800000000000000
+      internalID: -7769033048790167168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_109
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 136
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2390b3d97732a7080800000000000000
+      internalID: -9188993093050103502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_110
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 132
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35aacb31bf4000490800000000000000
+      internalID: -7782214679681783213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_111
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 133
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90ec08560f6ab0120800000000000000
+      internalID: 2381180379420741129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_112
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 136
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe7acc020b4f6efc0800000000000000
+      internalID: -3465813825913313297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_113
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 135
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 728b54b25dc1151b0800000000000000
+      internalID: -5669718754003142617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_114
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 135
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00238263b1572f210800000000000000
+      internalID: 1365282396779852288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_115
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 139
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f40615562b57a1e90800000000000000
+      internalID: -7054196457258000305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_116
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 104
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eb846af2afcd24f0800000000000000
+      internalID: -851796455610610713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_117
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 104
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad1743745c284e3e0800000000000000
+      internalID: -2025350148595093030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_118
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 103
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c435e3538aecbbc30800000000000000
+      internalID: 4376318684763673420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_119
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 104
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45420bd6b54246d90800000000000000
+      internalID: -7105514336982916012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_120
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 103
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f9cfc2fcf45ffca0800000000000000
+      internalID: -5980968334742533643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_121
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 104
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e806fc5fe8688b8d0800000000000000
+      internalID: -2830364417234870130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_122
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 104
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb02f69c9ddee47e0800000000000000
+      internalID: -1779223283121577793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_123
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 104
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49763471f940d0f70800000000000000
+      internalID: 9154978698850690964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_124
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 104
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07ea110e4a260fc80800000000000000
+      internalID: -8291018453715669392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_125
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 104
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43ba0a10c7a5b3d80800000000000000
+      internalID: -8269916802086032588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_126
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 104
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5213b16b15fc413e0800000000000000
+      internalID: -2083812777711161051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_127
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 104
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e21712ed43f51210800000000000000
+      internalID: 1303215183024820968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_128
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 104
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9056b98c956579150800000000000000
+      internalID: 5879262782173177097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_129
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 104
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54d302be01cb36320800000000000000
+      internalID: 2550088594872089925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_130
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 104
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69e17f6fa1045c490800000000000000
+      internalID: -7726699101127500138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_131
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 104
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 670b8af49fa430020800000000000000
+      internalID: 2306769868787593334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_132
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 104
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09d7c23cf0184a8a0800000000000000
+      internalID: -6294764474458145392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_133
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 104
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc1e4d42a50f1a1c0800000000000000
+      internalID: -4494046683183390261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_134
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 104
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 920eb7b6aa7ae0940800000000000000
+      internalID: 5264329364832247849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_135
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 104
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2483efc6c2bed0e70800000000000000
+      internalID: 9083174599515846722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_136
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 103
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69f1ee7ddc721a020800000000000000
+      internalID: 2351204245508595606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_137
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 104
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 159f7fe56fd4b3e10800000000000000
+      internalID: 2178420565314369873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_138
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 104
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ca06cdee3e67c140800000000000000
+      internalID: 4739878349386943176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_139
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 100
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 057f98332a801f400800000000000000
+      internalID: 356075338281383760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_140
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 101
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 480ada3f8d1922900800000000000000
+      internalID: 658248856536719492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_141
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 104
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a26d7d45b9491240800000000000000
+      internalID: 4762919123958981285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_142
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 103
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1322d41360768040800000000000000
+      internalID: 4649527236160004890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_143
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 103
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 745812089950d0e90800000000000000
+      internalID: -7057978884181883577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_144
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 107
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c92223960b88cff0800000000000000
+      internalID: -15609738341242428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_145
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 72
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7292fbef3d3817610800000000000000
+      internalID: 1617218687737997607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_146
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 72
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b28d9e51bcf64ac0800000000000000
+      internalID: -3871128990951570768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_147
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 71
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d4af346b4c174980800000000000000
+      internalID: -8554837857036950319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_148
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 72
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9ae05b37c43fbd50800000000000000
+      internalID: 6755175996377328283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_149
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 71
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ffe7e649945db040800000000000000
+      internalID: 4664977806322036724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_150
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 72
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23fb28203a8b89eb0800000000000000
+      internalID: -4712813999781920974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_151
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 72
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf0b234192acdcc70800000000000000
+      internalID: 8993066308710084860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_152
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 72
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b03750f43980ade0800000000000000
+      internalID: -1323907429983375181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_153
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 72
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcf6bd5a7263446e0800000000000000
+      internalID: -1854297602655555637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_154
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 72
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a89bf38d98b3afb40800000000000000
+      internalID: 5474753760246872458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_155
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 72
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7cff1a049aab2c40800000000000000
+      internalID: 5488668123682831486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_156
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 72
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da51959d23d42ef70800000000000000
+      internalID: 9215012668343653805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_157
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 72
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f431101bb29d1d600800000000000000
+      internalID: 491412616036553551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_158
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 72
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ef8b124bbb01d200800000000000000
+      internalID: 202956357104275429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_159
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 72
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba22f654947111f40800000000000000
+      internalID: 5697360607065350827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_160
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 72
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8538bb110f0151350800000000000000
+      internalID: 5986709902934639448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_161
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 72
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc6e81fa78daf8720800000000000000
+      internalID: 2850687887418648269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_162
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 72
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7565ca1964bc8a5d0800000000000000
+      internalID: -3050965243591371177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_163
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 72
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dbe8c72e30a7b240800000000000000
+      internalID: 4807487316057189334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_164
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 72
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e178b4c6639952eb0800000000000000
+      internalID: -4745218173340776674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_165
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 71
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebd9fcedf83e355f0800000000000000
+      internalID: -769020904292246082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_166
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 72
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4051d4b315c521e0800000000000000
+      internalID: -2223154152608804785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_167
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 72
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a04295a19837854c0800000000000000
+      internalID: -4298558811635375094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_168
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 68
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffb49c847cfa85b90800000000000000
+      internalID: -7252853929425679361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_169
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 69
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09b5109f5f0efa9f0800000000000000
+      internalID: -454897690291905648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_170
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 72
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8c87544da9a76070800000000000000
+      internalID: 8099629016490151052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_171
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 71
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da91a565b7fb6c570800000000000000
+      internalID: 8486681084276906413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_172
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 71
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1010b42391a5a6880800000000000000
+      internalID: -8616975872755564287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_173
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 75
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8741d3f64a1b3920800000000000000
+      internalID: 2970997271221585805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_174
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 40
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7606656d6f8950160800000000000000
+      internalID: 6991162182487924839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_175
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 40
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8da031bbb16ba03e0800000000000000
+      internalID: -2086655247113844008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_176
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 39
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f9048f665c5c3690800000000000000
+      internalID: -7621114943109854728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_177
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 40
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e15b2547b85cec110800000000000000
+      internalID: 1283180146589873438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_178
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 39
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b3e41e61c5543a70800000000000000
+      internalID: 8805757460680074168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_179
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 40
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 076f0811a318148e0800000000000000
+      internalID: -1710944297022327184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_180
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 40
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d7407284f260e1b0800000000000000
+      internalID: -5629390731913181226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_181
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 40
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a159fdda9edb03f90800000000000000
+      internalID: -6975867011454757606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_182
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 40
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80512e8a53aee35a0800000000000000
+      internalID: -6539532092707826424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_183
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 40
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89d61b6dfe204a6d0800000000000000
+      internalID: -2980253824290034280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_184
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 40
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f88ef40bd048fa90800000000000000
+      internalID: -7279997488218601229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_185
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 40
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea32f275c13568350800000000000000
+      internalID: 6018589333214143406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_186
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 40
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 217df572b02a31b30800000000000000
+      internalID: 4256924241584183058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_187
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 40
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1ae449d4c18df2b0800000000000000
+      internalID: -5549136483391837669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_188
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 40
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fda6125e54f7475c0800000000000000
+      internalID: -4218607012765668641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_189
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 40
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d88909bcfeecde30800000000000000
+      internalID: 4529758094431455447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_190
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 40
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecb56d58066c2abb0800000000000000
+      internalID: -4926156924525323314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_191
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 40
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abad8e6acf4cad290800000000000000
+      internalID: -7864757209838069062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_192
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 40
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 441214a358fad98c0800000000000000
+      internalID: -3990840708037533372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_193
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 40
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec8fa367da6c41200800000000000000
+      internalID: 149963135925287118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_194
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 40
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0212015230201b10800000000000000
+      internalID: 1950094039130968586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_195
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 40
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3be87b20fce4b6f10800000000000000
+      internalID: 2263989888694587059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_196
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 40
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aed8cf8dfe21b3a40800000000000000
+      internalID: 5348889803779509738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_197
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 38
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7cd0246d5f0d9940800000000000000
+      internalID: 5304412829898562683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_198
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 39
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42bf671d586eb2eb0800000000000000
+      internalID: -4743444320085411036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_199
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 40
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18f7d3e7f501b02a0800000000000000
+      internalID: -6770299612495511679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_200
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 39
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d222d70db48d8040800000000000000
+      internalID: 4651519937558487761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_201
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 39
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 388fe220232e36110800000000000000
+      internalID: 1253093825752004739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_202
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 43
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5962590f7189e15b0800000000000000
+      internalID: -5395708074955299179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_203
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 8
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dafe1bf6c55fb490800000000000000
+      internalID: -7728364122439484715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_204
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 8
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 256fb7abcdc981af0800000000000000
+      internalID: -425417692951087534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_205
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 7
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7841089a63b847840800000000000000
+      internalID: 5220950934917485703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_206
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 8
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3524ffe27d415e310800000000000000
+      internalID: 1433574970826375763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_207
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 7
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93ff7edae32ec5050800000000000000
+      internalID: 5790751979725127481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_208
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 8
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0674eb4511b46520800000000000000
+      internalID: 2694473182100092427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_209
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 8
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcab6f194bf6e9880800000000000000
+      internalID: -8602315416897406257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_210
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 8
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9c9ffe98d3e6f110800000000000000
+      internalID: 1294472462435589276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_211
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 8
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0de26670cfbf76650800000000000000
+      internalID: 6226222069737467600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_212
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 8
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21fb3f7464434a390800000000000000
+      internalID: -7808058377494085870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_213
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 7
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 055d7d0ad6c20e030800000000000000
+      internalID: 3521863757965284688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_214
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 7
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9bc40fcd14ec4210800000000000000
+      internalID: 1318679607591095198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_215
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 7
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 388a8240832d728c0800000000000000
+      internalID: -4024016604002473853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_216
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 8
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b57a1cd1094fd1f0800000000000000
+      internalID: -1018014718425926219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_217
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 8
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1d9d261a52bc82a0800000000000000
+      internalID: -6733811242836845282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_218
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 7
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43533305002690d90800000000000000
+      internalID: -7131060781479414476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_219
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 8
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0baed0b4d0874a00800000000000000
+      internalID: 740702314714540813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_220
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 8
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aee06653b1a7d920800000000000000
+      internalID: 3015056267168247462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_221
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 8
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99499130a2b3df620800000000000000
+      internalID: 2809466794175730841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_222
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 8
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4372914562def2350800000000000000
+      internalID: 5994270377928894260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_223
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 9
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c7db095808d2fad0800000000000000
+      internalID: -2669834098711996472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_224
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 8
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96550bc18805dae90800000000000000
+      internalID: -7012860499218901655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_225
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 8
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dcdaa6c8481f2250800000000000000
+      internalID: 5921978735865289939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_226
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 7
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a206d11364ab6f100800000000000000
+      internalID: 141505248943235114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_227
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 7
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f97bfe5520305a4c0800000000000000
+      internalID: -4277008962551826529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_228
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 8
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3fba4feb27f8f240800000000000000
+      internalID: 4825878768797794109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_229
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 7
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f31046e538a849800800000000000000
+      internalID: 618271345685561663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_230
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 7
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 247a900fa94ccb190800000000000000
+      internalID: -7945259472857225406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Soldier_231
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 11
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa15d2382c08e4ca0800000000000000
+      internalID: -6030741278089719382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Dwarf-Soldier_0: 5664736063312716802
+      Dwarf-Soldier_1: 8583036210194761292
+      Dwarf-Soldier_10: 4654259081573245946
+      Dwarf-Soldier_100: -7655102922329504819
+      Dwarf-Soldier_101: -3302868555694505058
+      Dwarf-Soldier_102: 7641100551968750046
+      Dwarf-Soldier_103: 155142080308856170
+      Dwarf-Soldier_104: -1217216475312985033
+      Dwarf-Soldier_105: 2346216243986750932
+      Dwarf-Soldier_106: 7085179788488306934
+      Dwarf-Soldier_107: 4191451042753494930
+      Dwarf-Soldier_108: -7769033048790167168
+      Dwarf-Soldier_109: -9188993093050103502
+      Dwarf-Soldier_11: -2813073967891135107
+      Dwarf-Soldier_110: -7782214679681783213
+      Dwarf-Soldier_111: 2381180379420741129
+      Dwarf-Soldier_112: -3465813825913313297
+      Dwarf-Soldier_113: -5669718754003142617
+      Dwarf-Soldier_114: 1365282396779852288
+      Dwarf-Soldier_115: -7054196457258000305
+      Dwarf-Soldier_116: -851796455610610713
+      Dwarf-Soldier_117: -2025350148595093030
+      Dwarf-Soldier_118: 4376318684763673420
+      Dwarf-Soldier_119: -7105514336982916012
+      Dwarf-Soldier_12: -4642422640600966272
+      Dwarf-Soldier_120: -5980968334742533643
+      Dwarf-Soldier_121: -2830364417234870130
+      Dwarf-Soldier_122: -1779223283121577793
+      Dwarf-Soldier_123: 9154978698850690964
+      Dwarf-Soldier_124: -8291018453715669392
+      Dwarf-Soldier_125: -8269916802086032588
+      Dwarf-Soldier_126: -2083812777711161051
+      Dwarf-Soldier_127: 1303215183024820968
+      Dwarf-Soldier_128: 5879262782173177097
+      Dwarf-Soldier_129: 2550088594872089925
+      Dwarf-Soldier_13: 4738285957909197739
+      Dwarf-Soldier_130: -7726699101127500138
+      Dwarf-Soldier_131: 2306769868787593334
+      Dwarf-Soldier_132: -6294764474458145392
+      Dwarf-Soldier_133: -4494046683183390261
+      Dwarf-Soldier_134: 5264329364832247849
+      Dwarf-Soldier_135: 9083174599515846722
+      Dwarf-Soldier_136: 2351204245508595606
+      Dwarf-Soldier_137: 2178420565314369873
+      Dwarf-Soldier_138: 4739878349386943176
+      Dwarf-Soldier_139: 356075338281383760
+      Dwarf-Soldier_14: 8287327160080422238
+      Dwarf-Soldier_140: 658248856536719492
+      Dwarf-Soldier_141: 4762919123958981285
+      Dwarf-Soldier_142: 4649527236160004890
+      Dwarf-Soldier_143: -7057978884181883577
+      Dwarf-Soldier_144: -15609738341242428
+      Dwarf-Soldier_145: 1617218687737997607
+      Dwarf-Soldier_146: -3871128990951570768
+      Dwarf-Soldier_147: -8554837857036950319
+      Dwarf-Soldier_148: 6755175996377328283
+      Dwarf-Soldier_149: 4664977806322036724
+      Dwarf-Soldier_15: -4732320331505702975
+      Dwarf-Soldier_150: -4712813999781920974
+      Dwarf-Soldier_151: 8993066308710084860
+      Dwarf-Soldier_152: -1323907429983375181
+      Dwarf-Soldier_153: -1854297602655555637
+      Dwarf-Soldier_154: 5474753760246872458
+      Dwarf-Soldier_155: 5488668123682831486
+      Dwarf-Soldier_156: 9215012668343653805
+      Dwarf-Soldier_157: 491412616036553551
+      Dwarf-Soldier_158: 202956357104275429
+      Dwarf-Soldier_159: 5697360607065350827
+      Dwarf-Soldier_16: 4325263286597589576
+      Dwarf-Soldier_160: 5986709902934639448
+      Dwarf-Soldier_161: 2850687887418648269
+      Dwarf-Soldier_162: -3050965243591371177
+      Dwarf-Soldier_163: 4807487316057189334
+      Dwarf-Soldier_164: -4745218173340776674
+      Dwarf-Soldier_165: -769020904292246082
+      Dwarf-Soldier_166: -2223154152608804785
+      Dwarf-Soldier_167: -4298558811635375094
+      Dwarf-Soldier_168: -7252853929425679361
+      Dwarf-Soldier_169: -454897690291905648
+      Dwarf-Soldier_17: -1878996520725878861
+      Dwarf-Soldier_170: 8099629016490151052
+      Dwarf-Soldier_171: 8486681084276906413
+      Dwarf-Soldier_172: -8616975872755564287
+      Dwarf-Soldier_173: 2970997271221585805
+      Dwarf-Soldier_174: 6991162182487924839
+      Dwarf-Soldier_175: -2086655247113844008
+      Dwarf-Soldier_176: -7621114943109854728
+      Dwarf-Soldier_177: 1283180146589873438
+      Dwarf-Soldier_178: 8805757460680074168
+      Dwarf-Soldier_179: -1710944297022327184
+      Dwarf-Soldier_18: 7179671716237163996
+      Dwarf-Soldier_180: -5629390731913181226
+      Dwarf-Soldier_181: -6975867011454757606
+      Dwarf-Soldier_182: -6539532092707826424
+      Dwarf-Soldier_183: -2980253824290034280
+      Dwarf-Soldier_184: -7279997488218601229
+      Dwarf-Soldier_185: 6018589333214143406
+      Dwarf-Soldier_186: 4256924241584183058
+      Dwarf-Soldier_187: -5549136483391837669
+      Dwarf-Soldier_188: -4218607012765668641
+      Dwarf-Soldier_189: 4529758094431455447
+      Dwarf-Soldier_19: 8934989890749909280
+      Dwarf-Soldier_190: -4926156924525323314
+      Dwarf-Soldier_191: -7864757209838069062
+      Dwarf-Soldier_192: -3990840708037533372
+      Dwarf-Soldier_193: 149963135925287118
+      Dwarf-Soldier_194: 1950094039130968586
+      Dwarf-Soldier_195: 2263989888694587059
+      Dwarf-Soldier_196: 5348889803779509738
+      Dwarf-Soldier_197: 5304412829898562683
+      Dwarf-Soldier_198: -4743444320085411036
+      Dwarf-Soldier_199: -6770299612495511679
+      Dwarf-Soldier_2: -952179165045023375
+      Dwarf-Soldier_20: 7325849079584662655
+      Dwarf-Soldier_200: 4651519937558487761
+      Dwarf-Soldier_201: 1253093825752004739
+      Dwarf-Soldier_202: -5395708074955299179
+      Dwarf-Soldier_203: -7728364122439484715
+      Dwarf-Soldier_204: -425417692951087534
+      Dwarf-Soldier_205: 5220950934917485703
+      Dwarf-Soldier_206: 1433574970826375763
+      Dwarf-Soldier_207: 5790751979725127481
+      Dwarf-Soldier_208: 2694473182100092427
+      Dwarf-Soldier_209: -8602315416897406257
+      Dwarf-Soldier_21: -2770432525628859586
+      Dwarf-Soldier_210: 1294472462435589276
+      Dwarf-Soldier_211: 6226222069737467600
+      Dwarf-Soldier_212: -7808058377494085870
+      Dwarf-Soldier_213: 3521863757965284688
+      Dwarf-Soldier_214: 1318679607591095198
+      Dwarf-Soldier_215: -4024016604002473853
+      Dwarf-Soldier_216: -1018014718425926219
+      Dwarf-Soldier_217: -6733811242836845282
+      Dwarf-Soldier_218: -7131060781479414476
+      Dwarf-Soldier_219: 740702314714540813
+      Dwarf-Soldier_22: -2418071322264264839
+      Dwarf-Soldier_220: 3015056267168247462
+      Dwarf-Soldier_221: 2809466794175730841
+      Dwarf-Soldier_222: 5994270377928894260
+      Dwarf-Soldier_223: -2669834098711996472
+      Dwarf-Soldier_224: -7012860499218901655
+      Dwarf-Soldier_225: 5921978735865289939
+      Dwarf-Soldier_226: 141505248943235114
+      Dwarf-Soldier_227: -4277008962551826529
+      Dwarf-Soldier_228: 4825878768797794109
+      Dwarf-Soldier_229: 618271345685561663
+      Dwarf-Soldier_23: 8907418207419282185
+      Dwarf-Soldier_230: -7945259472857225406
+      Dwarf-Soldier_231: -6030741278089719382
+      Dwarf-Soldier_24: 3435399434230389322
+      Dwarf-Soldier_25: -2661856694229566122
+      Dwarf-Soldier_26: -3395560726991476280
+      Dwarf-Soldier_27: -5412395519328140756
+      Dwarf-Soldier_28: 7409979018945337790
+      Dwarf-Soldier_29: 8573070655951783593
+      Dwarf-Soldier_3: 8028337378539342139
+      Dwarf-Soldier_30: -51566334693278639
+      Dwarf-Soldier_31: -6587734191546857760
+      Dwarf-Soldier_32: -6029449625536044298
+      Dwarf-Soldier_33: 8661232709557420812
+      Dwarf-Soldier_34: -2517002932435583116
+      Dwarf-Soldier_35: 5268345100863958452
+      Dwarf-Soldier_36: -6367404483411014342
+      Dwarf-Soldier_37: -2337019557506266747
+      Dwarf-Soldier_38: -4483893325017757909
+      Dwarf-Soldier_39: 6302252120349104975
+      Dwarf-Soldier_4: -210105402822821517
+      Dwarf-Soldier_40: 4253796610388791848
+      Dwarf-Soldier_41: 2113897439902781831
+      Dwarf-Soldier_42: 3316665486006553496
+      Dwarf-Soldier_43: 5039746100139341666
+      Dwarf-Soldier_44: 9088213026633047680
+      Dwarf-Soldier_45: -2129360850442997147
+      Dwarf-Soldier_46: -5813820357668632598
+      Dwarf-Soldier_47: 3640508579972744502
+      Dwarf-Soldier_48: -8783515872453965391
+      Dwarf-Soldier_49: -8329292926046005553
+      Dwarf-Soldier_5: -5487348372019527587
+      Dwarf-Soldier_50: 2426839949848331425
+      Dwarf-Soldier_51: 3802555139412838338
+      Dwarf-Soldier_52: -7343395206263293760
+      Dwarf-Soldier_53: 1526769110943232222
+      Dwarf-Soldier_54: -3321110542909825328
+      Dwarf-Soldier_55: -6203776864439749845
+      Dwarf-Soldier_56: 7620427612237512448
+      Dwarf-Soldier_57: -1646073210607655362
+      Dwarf-Soldier_58: -2379273998285042166
+      Dwarf-Soldier_59: 5539938884390607409
+      Dwarf-Soldier_6: -4993607163120444087
+      Dwarf-Soldier_60: -4729185154151386327
+      Dwarf-Soldier_61: 6861604748047685385
+      Dwarf-Soldier_62: 6297681275234489944
+      Dwarf-Soldier_63: 7414352144723829495
+      Dwarf-Soldier_64: 1179863520753294312
+      Dwarf-Soldier_65: -374880992676712376
+      Dwarf-Soldier_66: -5831803652976390788
+      Dwarf-Soldier_67: 3194111496667338396
+      Dwarf-Soldier_68: 8801866893840653607
+      Dwarf-Soldier_69: -275793714519962132
+      Dwarf-Soldier_7: -1638674925789921855
+      Dwarf-Soldier_70: 5488550987131722825
+      Dwarf-Soldier_71: 4870323342181522028
+      Dwarf-Soldier_72: -5421106388048608079
+      Dwarf-Soldier_73: -5697793272235828144
+      Dwarf-Soldier_74: 3577438180622447423
+      Dwarf-Soldier_75: -1561328840175594214
+      Dwarf-Soldier_76: -7078631117013530657
+      Dwarf-Soldier_77: 6833619230635247915
+      Dwarf-Soldier_78: 3996240730762658818
+      Dwarf-Soldier_79: -4655647288660432548
+      Dwarf-Soldier_8: 4620969078686249164
+      Dwarf-Soldier_80: 7607903756665997643
+      Dwarf-Soldier_81: -8927993869496449288
+      Dwarf-Soldier_82: -8216010748988838684
+      Dwarf-Soldier_83: 6504963865913158463
+      Dwarf-Soldier_84: 825745879262502615
+      Dwarf-Soldier_85: -2855198248527084216
+      Dwarf-Soldier_86: 9117662782968920869
+      Dwarf-Soldier_87: 1308133396290975919
+      Dwarf-Soldier_88: -8802271534444854558
+      Dwarf-Soldier_89: 7720635847811854309
+      Dwarf-Soldier_9: -8177697221311736231
+      Dwarf-Soldier_90: -8787539390165751992
+      Dwarf-Soldier_91: -5913293569022622329
+      Dwarf-Soldier_92: 1560469551935807668
+      Dwarf-Soldier_93: -504145663934246605
+      Dwarf-Soldier_94: 7330480799167484197
+      Dwarf-Soldier_95: 2491957880317595717
+      Dwarf-Soldier_96: -7844403174111232160
+      Dwarf-Soldier_97: 5231786555429223221
+      Dwarf-Soldier_98: 5632034127285300239
+      Dwarf-Soldier_99: -9035375634970666600
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

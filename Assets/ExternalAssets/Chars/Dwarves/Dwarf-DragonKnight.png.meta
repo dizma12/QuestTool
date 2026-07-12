@@ -1,0 +1,6162 @@
+fileFormatVersion: 2
+guid: 079722d07ccd9284fa42922ac84dcf15
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3218303847866246755
+    second: Dwarf-DragonKnight_0
+  - first:
+      213: -8254993510439858406
+    second: Dwarf-DragonKnight_1
+  - first:
+      213: 1350015640545328839
+    second: Dwarf-DragonKnight_2
+  - first:
+      213: -5060201682643350845
+    second: Dwarf-DragonKnight_3
+  - first:
+      213: 195202663493019831
+    second: Dwarf-DragonKnight_4
+  - first:
+      213: 3073504040922701661
+    second: Dwarf-DragonKnight_5
+  - first:
+      213: 7192970688000613842
+    second: Dwarf-DragonKnight_6
+  - first:
+      213: 2122544736451285051
+    second: Dwarf-DragonKnight_7
+  - first:
+      213: 5269458086272242593
+    second: Dwarf-DragonKnight_8
+  - first:
+      213: 1594786180356534031
+    second: Dwarf-DragonKnight_9
+  - first:
+      213: 6633950417703884177
+    second: Dwarf-DragonKnight_10
+  - first:
+      213: -4773321058236043353
+    second: Dwarf-DragonKnight_11
+  - first:
+      213: -1981160954131758723
+    second: Dwarf-DragonKnight_12
+  - first:
+      213: -8876954252304544047
+    second: Dwarf-DragonKnight_13
+  - first:
+      213: 3810621658653000985
+    second: Dwarf-DragonKnight_14
+  - first:
+      213: -5335176055205984148
+    second: Dwarf-DragonKnight_15
+  - first:
+      213: -7920569863067244005
+    second: Dwarf-DragonKnight_16
+  - first:
+      213: -3310143802658618476
+    second: Dwarf-DragonKnight_17
+  - first:
+      213: 8509417139590592687
+    second: Dwarf-DragonKnight_18
+  - first:
+      213: -1595354352711268938
+    second: Dwarf-DragonKnight_19
+  - first:
+      213: -7230534854360596825
+    second: Dwarf-DragonKnight_20
+  - first:
+      213: -7373158498458051522
+    second: Dwarf-DragonKnight_21
+  - first:
+      213: 160872289070722105
+    second: Dwarf-DragonKnight_22
+  - first:
+      213: 2022585705895515716
+    second: Dwarf-DragonKnight_23
+  - first:
+      213: 4392016491595461605
+    second: Dwarf-DragonKnight_24
+  - first:
+      213: -8193342274247904392
+    second: Dwarf-DragonKnight_25
+  - first:
+      213: 4370631739103876467
+    second: Dwarf-DragonKnight_26
+  - first:
+      213: -1993657077120710022
+    second: Dwarf-DragonKnight_27
+  - first:
+      213: -120698872779350684
+    second: Dwarf-DragonKnight_28
+  - first:
+      213: 7182155214567519962
+    second: Dwarf-DragonKnight_29
+  - first:
+      213: 7135549654013751076
+    second: Dwarf-DragonKnight_30
+  - first:
+      213: -98018767777966611
+    second: Dwarf-DragonKnight_31
+  - first:
+      213: 6892098272432342655
+    second: Dwarf-DragonKnight_32
+  - first:
+      213: 8299628960379059764
+    second: Dwarf-DragonKnight_33
+  - first:
+      213: 323672394935578733
+    second: Dwarf-DragonKnight_34
+  - first:
+      213: -8462911008369773736
+    second: Dwarf-DragonKnight_35
+  - first:
+      213: 5486608377305261051
+    second: Dwarf-DragonKnight_36
+  - first:
+      213: -8454493718093818685
+    second: Dwarf-DragonKnight_37
+  - first:
+      213: 8638333629951520042
+    second: Dwarf-DragonKnight_38
+  - first:
+      213: 2994468455484008334
+    second: Dwarf-DragonKnight_39
+  - first:
+      213: 5447342978154613682
+    second: Dwarf-DragonKnight_40
+  - first:
+      213: 4247908576878215139
+    second: Dwarf-DragonKnight_41
+  - first:
+      213: -5683329467327983891
+    second: Dwarf-DragonKnight_42
+  - first:
+      213: 7680944804167651221
+    second: Dwarf-DragonKnight_43
+  - first:
+      213: 3785463190264436728
+    second: Dwarf-DragonKnight_44
+  - first:
+      213: 4625517451691443189
+    second: Dwarf-DragonKnight_45
+  - first:
+      213: 2575900894798939712
+    second: Dwarf-DragonKnight_46
+  - first:
+      213: 2776702722425958375
+    second: Dwarf-DragonKnight_47
+  - first:
+      213: 3149937028359110062
+    second: Dwarf-DragonKnight_48
+  - first:
+      213: 4747136854878065572
+    second: Dwarf-DragonKnight_49
+  - first:
+      213: -7299179679390220527
+    second: Dwarf-DragonKnight_50
+  - first:
+      213: 8897804774042941500
+    second: Dwarf-DragonKnight_51
+  - first:
+      213: -6543416421508689989
+    second: Dwarf-DragonKnight_52
+  - first:
+      213: -2944576597045864568
+    second: Dwarf-DragonKnight_53
+  - first:
+      213: 2518552168733707771
+    second: Dwarf-DragonKnight_54
+  - first:
+      213: 5054864523529123759
+    second: Dwarf-DragonKnight_55
+  - first:
+      213: -4588231618766546705
+    second: Dwarf-DragonKnight_56
+  - first:
+      213: -1792089008796337209
+    second: Dwarf-DragonKnight_57
+  - first:
+      213: -2141310029451159810
+    second: Dwarf-DragonKnight_58
+  - first:
+      213: 5605107946237521683
+    second: Dwarf-DragonKnight_59
+  - first:
+      213: -2465392291721818820
+    second: Dwarf-DragonKnight_60
+  - first:
+      213: -8448254875613478989
+    second: Dwarf-DragonKnight_61
+  - first:
+      213: 3617609674157080816
+    second: Dwarf-DragonKnight_62
+  - first:
+      213: -1942588337952616542
+    second: Dwarf-DragonKnight_63
+  - first:
+      213: 7991191552236767644
+    second: Dwarf-DragonKnight_64
+  - first:
+      213: 1485928284013480330
+    second: Dwarf-DragonKnight_65
+  - first:
+      213: -323554296709036560
+    second: Dwarf-DragonKnight_66
+  - first:
+      213: 1969024418009057319
+    second: Dwarf-DragonKnight_67
+  - first:
+      213: -8040489108547283315
+    second: Dwarf-DragonKnight_68
+  - first:
+      213: 6340685353158597722
+    second: Dwarf-DragonKnight_69
+  - first:
+      213: -7420755791616551667
+    second: Dwarf-DragonKnight_70
+  - first:
+      213: -4307078318480785028
+    second: Dwarf-DragonKnight_71
+  - first:
+      213: -1596758706718243527
+    second: Dwarf-DragonKnight_72
+  - first:
+      213: -4597240610847313311
+    second: Dwarf-DragonKnight_73
+  - first:
+      213: -3284180708780617761
+    second: Dwarf-DragonKnight_74
+  - first:
+      213: -1954696612866196641
+    second: Dwarf-DragonKnight_75
+  - first:
+      213: 3678355136139076344
+    second: Dwarf-DragonKnight_76
+  - first:
+      213: 6752023687714559726
+    second: Dwarf-DragonKnight_77
+  - first:
+      213: -85327346045813270
+    second: Dwarf-DragonKnight_78
+  - first:
+      213: 3531299979117736388
+    second: Dwarf-DragonKnight_79
+  - first:
+      213: 8208203883844326536
+    second: Dwarf-DragonKnight_80
+  - first:
+      213: 2994639258754881274
+    second: Dwarf-DragonKnight_81
+  - first:
+      213: 6494248643787297463
+    second: Dwarf-DragonKnight_82
+  - first:
+      213: -65248388372560009
+    second: Dwarf-DragonKnight_83
+  - first:
+      213: 2427906200656271025
+    second: Dwarf-DragonKnight_84
+  - first:
+      213: -5942119873019456030
+    second: Dwarf-DragonKnight_85
+  - first:
+      213: 8150431506910403787
+    second: Dwarf-DragonKnight_86
+  - first:
+      213: -7085971459911767105
+    second: Dwarf-DragonKnight_87
+  - first:
+      213: 4321559678690938757
+    second: Dwarf-DragonKnight_88
+  - first:
+      213: 1663638143317856753
+    second: Dwarf-DragonKnight_89
+  - first:
+      213: -8708173789799550649
+    second: Dwarf-DragonKnight_90
+  - first:
+      213: 1651787635652512083
+    second: Dwarf-DragonKnight_91
+  - first:
+      213: -9160851469482683132
+    second: Dwarf-DragonKnight_92
+  - first:
+      213: 6102019392956531732
+    second: Dwarf-DragonKnight_93
+  - first:
+      213: 2121936334837877234
+    second: Dwarf-DragonKnight_94
+  - first:
+      213: -8792299538017359149
+    second: Dwarf-DragonKnight_95
+  - first:
+      213: 8438093919231203248
+    second: Dwarf-DragonKnight_96
+  - first:
+      213: 4866808269783405737
+    second: Dwarf-DragonKnight_97
+  - first:
+      213: -6962946708783117424
+    second: Dwarf-DragonKnight_98
+  - first:
+      213: -3701907373003967827
+    second: Dwarf-DragonKnight_99
+  - first:
+      213: 7055024647047960715
+    second: Dwarf-DragonKnight_100
+  - first:
+      213: 2132258271095535228
+    second: Dwarf-DragonKnight_101
+  - first:
+      213: -6165897699414802022
+    second: Dwarf-DragonKnight_102
+  - first:
+      213: 3646918097668566316
+    second: Dwarf-DragonKnight_103
+  - first:
+      213: -5255955096124634622
+    second: Dwarf-DragonKnight_104
+  - first:
+      213: 8437656552046577549
+    second: Dwarf-DragonKnight_105
+  - first:
+      213: -2618870313025279309
+    second: Dwarf-DragonKnight_106
+  - first:
+      213: -8334201052216697383
+    second: Dwarf-DragonKnight_107
+  - first:
+      213: -1719468451032989366
+    second: Dwarf-DragonKnight_108
+  - first:
+      213: -2612395306356831224
+    second: Dwarf-DragonKnight_109
+  - first:
+      213: -5226830765069255243
+    second: Dwarf-DragonKnight_110
+  - first:
+      213: 8084583247283779792
+    second: Dwarf-DragonKnight_111
+  - first:
+      213: -1366526331451049820
+    second: Dwarf-DragonKnight_112
+  - first:
+      213: 7168419215988161362
+    second: Dwarf-DragonKnight_113
+  - first:
+      213: -367151751800699060
+    second: Dwarf-DragonKnight_114
+  - first:
+      213: -1882912948077076008
+    second: Dwarf-DragonKnight_115
+  - first:
+      213: -3173319765055688679
+    second: Dwarf-DragonKnight_116
+  - first:
+      213: -4156575469361446533
+    second: Dwarf-DragonKnight_117
+  - first:
+      213: 7297774015524837775
+    second: Dwarf-DragonKnight_118
+  - first:
+      213: 6767624328174126925
+    second: Dwarf-DragonKnight_119
+  - first:
+      213: -5967067462071321729
+    second: Dwarf-DragonKnight_120
+  - first:
+      213: 830544375509507079
+    second: Dwarf-DragonKnight_121
+  - first:
+      213: 9220261863220884998
+    second: Dwarf-DragonKnight_122
+  - first:
+      213: -902771117514834625
+    second: Dwarf-DragonKnight_123
+  - first:
+      213: 6147572519011273758
+    second: Dwarf-DragonKnight_124
+  - first:
+      213: -6377745511100036157
+    second: Dwarf-DragonKnight_125
+  - first:
+      213: 4583589891164394656
+    second: Dwarf-DragonKnight_126
+  - first:
+      213: 1838420017647601052
+    second: Dwarf-DragonKnight_127
+  - first:
+      213: -5803588264999379365
+    second: Dwarf-DragonKnight_128
+  - first:
+      213: 847970768486149790
+    second: Dwarf-DragonKnight_129
+  - first:
+      213: -2888891898046805653
+    second: Dwarf-DragonKnight_130
+  - first:
+      213: 56108938535602249
+    second: Dwarf-DragonKnight_131
+  - first:
+      213: -1628539314816504759
+    second: Dwarf-DragonKnight_132
+  - first:
+      213: 4569471869256690258
+    second: Dwarf-DragonKnight_133
+  - first:
+      213: -1929222545379807642
+    second: Dwarf-DragonKnight_134
+  - first:
+      213: -7144206606601312585
+    second: Dwarf-DragonKnight_135
+  - first:
+      213: -4230669399018069999
+    second: Dwarf-DragonKnight_136
+  - first:
+      213: 292482624388782613
+    second: Dwarf-DragonKnight_137
+  - first:
+      213: -6497099900871745516
+    second: Dwarf-DragonKnight_138
+  - first:
+      213: -8011519860348040086
+    second: Dwarf-DragonKnight_139
+  - first:
+      213: -7628955631063140192
+    second: Dwarf-DragonKnight_140
+  - first:
+      213: -562213296468983745
+    second: Dwarf-DragonKnight_141
+  - first:
+      213: -4462106660771503448
+    second: Dwarf-DragonKnight_142
+  - first:
+      213: -1437536328312214127
+    second: Dwarf-DragonKnight_143
+  - first:
+      213: 3529825702002792352
+    second: Dwarf-DragonKnight_144
+  - first:
+      213: 6671061790343642700
+    second: Dwarf-DragonKnight_145
+  - first:
+      213: -269246272794522587
+    second: Dwarf-DragonKnight_146
+  - first:
+      213: -5666882855821759819
+    second: Dwarf-DragonKnight_147
+  - first:
+      213: -2772426072187763725
+    second: Dwarf-DragonKnight_148
+  - first:
+      213: 935168103400382643
+    second: Dwarf-DragonKnight_149
+  - first:
+      213: 5749186010400156437
+    second: Dwarf-DragonKnight_150
+  - first:
+      213: 7642347019738698891
+    second: Dwarf-DragonKnight_151
+  - first:
+      213: -7331134085452339031
+    second: Dwarf-DragonKnight_152
+  - first:
+      213: -1405173980995311572
+    second: Dwarf-DragonKnight_153
+  - first:
+      213: -752985167158220613
+    second: Dwarf-DragonKnight_154
+  - first:
+      213: 4877937940688628172
+    second: Dwarf-DragonKnight_155
+  - first:
+      213: -1298770893074213228
+    second: Dwarf-DragonKnight_156
+  - first:
+      213: -1838775196718026495
+    second: Dwarf-DragonKnight_157
+  - first:
+      213: -8405981825559867662
+    second: Dwarf-DragonKnight_158
+  - first:
+      213: 6648585353640178758
+    second: Dwarf-DragonKnight_159
+  - first:
+      213: -3301329217023072474
+    second: Dwarf-DragonKnight_160
+  - first:
+      213: -4960066059564219358
+    second: Dwarf-DragonKnight_161
+  - first:
+      213: 4237629387101878323
+    second: Dwarf-DragonKnight_162
+  - first:
+      213: -1795981035011905928
+    second: Dwarf-DragonKnight_163
+  - first:
+      213: -8632338950855493811
+    second: Dwarf-DragonKnight_164
+  - first:
+      213: 1077095586598392908
+    second: Dwarf-DragonKnight_165
+  - first:
+      213: -5392754747164030318
+    second: Dwarf-DragonKnight_166
+  - first:
+      213: -7521731298603203624
+    second: Dwarf-DragonKnight_167
+  - first:
+      213: -8316226789403322293
+    second: Dwarf-DragonKnight_168
+  - first:
+      213: -449747585818962523
+    second: Dwarf-DragonKnight_169
+  - first:
+      213: 6934532496212892567
+    second: Dwarf-DragonKnight_170
+  - first:
+      213: -8605469481881426818
+    second: Dwarf-DragonKnight_171
+  - first:
+      213: -5101402872741922823
+    second: Dwarf-DragonKnight_172
+  - first:
+      213: 3777024495382359184
+    second: Dwarf-DragonKnight_173
+  - first:
+      213: 2278096377571510451
+    second: Dwarf-DragonKnight_174
+  - first:
+      213: -5679256946367961484
+    second: Dwarf-DragonKnight_175
+  - first:
+      213: -407657279952739511
+    second: Dwarf-DragonKnight_176
+  - first:
+      213: 5667164135215384966
+    second: Dwarf-DragonKnight_177
+  - first:
+      213: 3504152771487338127
+    second: Dwarf-DragonKnight_178
+  - first:
+      213: -2305333778408668830
+    second: Dwarf-DragonKnight_179
+  - first:
+      213: -878328371483149830
+    second: Dwarf-DragonKnight_180
+  - first:
+      213: -1025912318994683676
+    second: Dwarf-DragonKnight_181
+  - first:
+      213: 1312571861877559968
+    second: Dwarf-DragonKnight_182
+  - first:
+      213: -2902000824409452967
+    second: Dwarf-DragonKnight_183
+  - first:
+      213: 6517565852383357327
+    second: Dwarf-DragonKnight_184
+  - first:
+      213: 4634576436397794148
+    second: Dwarf-DragonKnight_185
+  - first:
+      213: 740578580238737459
+    second: Dwarf-DragonKnight_186
+  - first:
+      213: -1425676590582470246
+    second: Dwarf-DragonKnight_187
+  - first:
+      213: 1819862505320504345
+    second: Dwarf-DragonKnight_188
+  - first:
+      213: -552928932420565378
+    second: Dwarf-DragonKnight_189
+  - first:
+      213: -1893923923690338230
+    second: Dwarf-DragonKnight_190
+  - first:
+      213: 3807797416930668315
+    second: Dwarf-DragonKnight_191
+  - first:
+      213: -6378373664564275384
+    second: Dwarf-DragonKnight_192
+  - first:
+      213: -1337397977490474375
+    second: Dwarf-DragonKnight_193
+  - first:
+      213: -3805905192492805138
+    second: Dwarf-DragonKnight_194
+  - first:
+      213: -3344987583831253756
+    second: Dwarf-DragonKnight_195
+  - first:
+      213: 1495648833700291490
+    second: Dwarf-DragonKnight_196
+  - first:
+      213: 1671101705842805838
+    second: Dwarf-DragonKnight_197
+  - first:
+      213: 1695488764827744066
+    second: Dwarf-DragonKnight_198
+  - first:
+      213: 8249348163311214181
+    second: Dwarf-DragonKnight_199
+  - first:
+      213: 2862894270567247925
+    second: Dwarf-DragonKnight_200
+  - first:
+      213: 4666196663734013668
+    second: Dwarf-DragonKnight_201
+  - first:
+      213: -5017469172516350079
+    second: Dwarf-DragonKnight_202
+  - first:
+      213: 3333121827070090208
+    second: Dwarf-DragonKnight_203
+  - first:
+      213: 7202050534891976452
+    second: Dwarf-DragonKnight_204
+  - first:
+      213: -8974368435993217808
+    second: Dwarf-DragonKnight_205
+  - first:
+      213: -1439162096759134903
+    second: Dwarf-DragonKnight_206
+  - first:
+      213: -325989001425367929
+    second: Dwarf-DragonKnight_207
+  - first:
+      213: 3301571811443680692
+    second: Dwarf-DragonKnight_208
+  - first:
+      213: 5543076153363927034
+    second: Dwarf-DragonKnight_209
+  - first:
+      213: -4585589822776990092
+    second: Dwarf-DragonKnight_210
+  - first:
+      213: -5860847358971864310
+    second: Dwarf-DragonKnight_211
+  - first:
+      213: -5249319829192240114
+    second: Dwarf-DragonKnight_212
+  - first:
+      213: 39102529967619034
+    second: Dwarf-DragonKnight_213
+  - first:
+      213: 1294216452590772664
+    second: Dwarf-DragonKnight_214
+  - first:
+      213: 3378936717695796978
+    second: Dwarf-DragonKnight_215
+  - first:
+      213: -4542140190552631857
+    second: Dwarf-DragonKnight_216
+  - first:
+      213: 8913264645435241010
+    second: Dwarf-DragonKnight_217
+  - first:
+      213: -109067213861000817
+    second: Dwarf-DragonKnight_218
+  - first:
+      213: -1171101380079683608
+    second: Dwarf-DragonKnight_219
+  - first:
+      213: 4122929632028480158
+    second: Dwarf-DragonKnight_220
+  - first:
+      213: -1369804478631891084
+    second: Dwarf-DragonKnight_221
+  - first:
+      213: -189479627191246323
+    second: Dwarf-DragonKnight_222
+  - first:
+      213: 1482056507763337201
+    second: Dwarf-DragonKnight_223
+  - first:
+      213: 8737437569034070077
+    second: Dwarf-DragonKnight_224
+  - first:
+      213: 7621639267777565708
+    second: Dwarf-DragonKnight_225
+  - first:
+      213: 1361540205783872629
+    second: Dwarf-DragonKnight_226
+  - first:
+      213: 6124814822212607160
+    second: Dwarf-DragonKnight_227
+  - first:
+      213: 9155524344924548352
+    second: Dwarf-DragonKnight_228
+  - first:
+      213: 5002984272162377530
+    second: Dwarf-DragonKnight_229
+  - first:
+      213: 3783104035087357198
+    second: Dwarf-DragonKnight_230
+  - first:
+      213: -2915268513510204179
+    second: Dwarf-DragonKnight_231
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 232
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 366275f5c46b9ac20800000000000000
+      internalID: 3218303847866246755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 232
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1fc31b932f507d80800000000000000
+      internalID: -8254993510439858406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 231
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cefce782183cb210800000000000000
+      internalID: 1350015640545328839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 232
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ca8536316d86c9b0800000000000000
+      internalID: -5060201682643350845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_4
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 231
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b826b8c9cf75b200800000000000000
+      internalID: 195202663493019831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_5
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 232
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5fdcee14a747aa20800000000000000
+      internalID: 3073504040922701661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_6
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 232
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ddd2121bb092d360800000000000000
+      internalID: 7192970688000613842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_7
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 231
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b30dd0c213bc47d10800000000000000
+      internalID: 2122544736451285051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_8
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 232
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a3111fe530e02940800000000000000
+      internalID: 5269458086272242593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_9
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 231
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0f6adcd491d12610800000000000000
+      internalID: 1594786180356534031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_10
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 231
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1955bc8b1c6801c50800000000000000
+      internalID: 6633950417703884177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_11
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 231
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7afe2f4a9c1c1cdb0800000000000000
+      internalID: -4773321058236043353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_12
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 232
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d714a1edb908184e0800000000000000
+      internalID: -1981160954131758723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_13
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 232
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1de8effb329bec480800000000000000
+      internalID: -8876954252304544047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_14
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 232
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9150c61853c02e430800000000000000
+      internalID: 3810621658653000985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_15
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 228
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c68074f05a5a5f5b0800000000000000
+      internalID: -5335176055205984148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_16
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 232
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1a663dacab741290800000000000000
+      internalID: -7920569863067244005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_17
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 232
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4938217dfb10012d0800000000000000
+      internalID: -3310143802658618476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_18
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 232
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa8faeabdc5871670800000000000000
+      internalID: 8509417139590592687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_19
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 232
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b585c33ba92cd9e0800000000000000
+      internalID: -1595354352711268938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_20
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 233
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ae71c5ebdaf7ab90800000000000000
+      internalID: -7230534854360596825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_21
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 232
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3c51ca09674da990800000000000000
+      internalID: -7373158498458051522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_22
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 232
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93ca34c9e788b3200800000000000000
+      internalID: 160872289070722105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_23
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 232
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4465fafbbfaa11c10800000000000000
+      internalID: 2022585705895515716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_24
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 232
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e3743daab393fc30800000000000000
+      internalID: 4392016491595461605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_25
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 232
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 873334c9c966b4e80800000000000000
+      internalID: -8193342274247904392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_26
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 231
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 375955df86a97ac30800000000000000
+      internalID: 4370631739103876467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_27
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 231
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7ac642837b1554e0800000000000000
+      internalID: -1993657077120710022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_28
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 235
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46d5233c301335ef0800000000000000
+      internalID: -120698872779350684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_29
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 200
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad6340e6d142ca360800000000000000
+      internalID: 7182155214567519962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_30
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 200
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42fa6a4ca90960360800000000000000
+      internalID: 7135549654013751076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_31
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 199
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de5d5453374c3aef0800000000000000
+      internalID: -98018767777966611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_32
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 200
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f76c965ecd6a5af50800000000000000
+      internalID: 6892098272432342655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_33
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 199
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43e30fee0943e2370800000000000000
+      internalID: 8299628960379059764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_34
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 200
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d603cbb045aed7400800000000000000
+      internalID: 323672394935578733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_35
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 200
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 853706cb643bd8a80800000000000000
+      internalID: -8462911008369773736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_36
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 200
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf366f6ff39542c40800000000000000
+      internalID: 5486608377305261051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_37
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 200
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c41f39d1ca9baa80800000000000000
+      internalID: -8454493718093818685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_38
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 200
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2d22982ba681e770800000000000000
+      internalID: 8638333629951520042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_39
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 199
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e87ac34e13d7e8920800000000000000
+      internalID: 2994468455484008334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_40
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 199
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bbcf9ec399d89b40800000000000000
+      internalID: 5447342978154613682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_41
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 200
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ef3923285a93fa30800000000000000
+      internalID: 4247908576878215139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_42
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 200
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deec76606f1c021b0800000000000000
+      internalID: -5683329467327983891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_43
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 200
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59f8bcf9a92389a60800000000000000
+      internalID: 7680944804167651221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_44
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 200
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f7570e17baa88430800000000000000
+      internalID: 3785463190264436728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_45
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 200
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f340728d93213040800000000000000
+      internalID: 4625517451691443189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_46
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 200
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0460a1357307fb320800000000000000
+      internalID: 2575900894798939712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_47
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 200
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ef2f091a64d88620800000000000000
+      internalID: 2776702722425958375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_48
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 200
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eadb138c903d6bb20800000000000000
+      internalID: 3149937028359110062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_49
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 201
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a31c2f61d731e140800000000000000
+      internalID: 4747136854878065572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_50
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 200
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11f323a11ca14ba90800000000000000
+      internalID: -7299179679390220527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_51
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 200
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c38ba95ac4a5b7b70800000000000000
+      internalID: 8897804774042941500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_52
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 199
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbf4482ee6d1135a0800000000000000
+      internalID: -6543416421508689989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_53
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 199
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 887172f9f23c227d0800000000000000
+      internalID: -2944576597045864568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_54
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 200
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfd89a58ad1b3f220800000000000000
+      internalID: 2518552168733707771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_55
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 199
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa77da8908c762640800000000000000
+      internalID: 5054864523529123759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_56
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 199
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe85438f6a35350c0800000000000000
+      internalID: -4588231618766546705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_57
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 203
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cbffc89a883127e0800000000000000
+      internalID: -1792089008796337209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_58
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 168
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef615949fd98842e0800000000000000
+      internalID: -2141310029451159810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_59
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 168
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31fe43fdaf759cd40800000000000000
+      internalID: 5605107946237521683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_60
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 167
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3d4febd5ca29cdd0800000000000000
+      internalID: -2465392291721818820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_61
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 168
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bfb81f83f4c1ca80800000000000000
+      internalID: -8448254875613478989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_62
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 167
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f0462ce4d4543230800000000000000
+      internalID: 3617609674157080816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_63
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 168
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2af848be23a8a05e0800000000000000
+      internalID: -1942588337952616542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_64
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 168
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c99cc2ba06a66ee60800000000000000
+      internalID: 7991191552236767644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_65
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 168
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a89445ac6e31f9410800000000000000
+      internalID: 1485928284013480330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_66
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 168
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f54b17d411828bf0800000000000000
+      internalID: -323554296709036560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_67
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 168
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 728008d9641635b10800000000000000
+      internalID: 1969024418009057319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_68
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 168
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8654a091c17a6090800000000000000
+      internalID: -8040489108547283315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_69
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 168
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5c5a8bfbb3aef750800000000000000
+      internalID: 6340685353158597722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_70
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 168
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d05d5c3aced240990800000000000000
+      internalID: -7420755791616551667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_71
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 168
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c718a27d61f2a34c0800000000000000
+      internalID: -4307078318480785028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_72
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 168
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9350c0e8a6c27d9e0800000000000000
+      internalID: -1596758706718243527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_73
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 168
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 162327b85025330c0800000000000000
+      internalID: -4597240610847313311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_74
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 168
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdfc0f2bb0f3c62d0800000000000000
+      internalID: -3284180708780617761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_75
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 168
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5b737a79c58fd4e0800000000000000
+      internalID: -1954696612866196641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_76
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 168
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f2ad4fe1842c0330800000000000000
+      internalID: 3678355136139076344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_77
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 168
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee6df3d25c104bd50800000000000000
+      internalID: 6752023687714559726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_78
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 168
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aedff491b3bd0def0800000000000000
+      internalID: -85327346045813270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_79
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 168
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c138a21f92b10130800000000000000
+      internalID: 3531299979117736388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_80
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 168
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 884d58481f569e170800000000000000
+      internalID: 8208203883844326536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_81
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 166
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af616802a881f8920800000000000000
+      internalID: 2994639258754881274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_82
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 167
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b21108cbb4302a50800000000000000
+      internalID: 6494248643787297463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_83
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 168
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77703ecbfe0381ff0800000000000000
+      internalID: -65248388372560009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_84
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 167
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b6d51e63d7a1b120800000000000000
+      internalID: 2427906200656271025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_85
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 167
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e5d2eb4579598da0800000000000000
+      internalID: -5942119873019456030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_86
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 171
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bccdb8fc5462c1170800000000000000
+      internalID: 8150431506910403787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_87
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 136
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbb2763108299ad90800000000000000
+      internalID: -7085971459911767105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_88
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 136
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58f460491a349fb30800000000000000
+      internalID: 4321559678690938757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_89
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 135
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f15047b31e661710800000000000000
+      internalID: 1663638143317856753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_90
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 136
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74171a8731a562780800000000000000
+      internalID: -8708173789799550649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_91
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 135
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35943736a145ce610800000000000000
+      internalID: 1651787635652512083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_92
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 136
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4059e51ff1e1ed080800000000000000
+      internalID: -9160851469482683132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_93
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 136
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41408b9de4abea450800000000000000
+      internalID: 6102019392956531732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_94
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 136
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f98102aad1a27d10800000000000000
+      internalID: 2121936334837877234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_95
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 136
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dae4ad572a7bf580800000000000000
+      internalID: -8792299538017359149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_96
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 136
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b7d82d66b12a1570800000000000000
+      internalID: 8438093919231203248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_97
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 136
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a49f5ef5506a8340800000000000000
+      internalID: 4866808269783405737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_98
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 136
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09bc1011cd4ae5f90800000000000000
+      internalID: -6962946708783117424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_99
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 136
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da2f2b89bde20acc0800000000000000
+      internalID: -3701907373003967827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_100
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 136
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b885be0998b78e160800000000000000
+      internalID: 7055024647047960715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_101
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 136
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c76b902b99d479d10800000000000000
+      internalID: 2132258271095535228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_102
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 136
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a918bf0f5b45e6aa0800000000000000
+      internalID: -6165897699414802022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_103
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 136
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2d6a7800b47c9230800000000000000
+      internalID: 3646918097668566316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_104
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 136
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20a4614ffa81f07b0800000000000000
+      internalID: -5255955096124634622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_105
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 136
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d87cb71fde3981570800000000000000
+      internalID: 8437656552046577549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_106
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 136
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3baef4f5357e7abd0800000000000000
+      internalID: -2618870313025279309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_107
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 135
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dddfebac48f65c80800000000000000
+      internalID: -8334201052216697383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_108
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 136
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4100bdcd883328e0800000000000000
+      internalID: -1719468451032989366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_109
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 136
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80c04b75f48eebbd0800000000000000
+      internalID: -2612395306356831224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_110
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 132
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bdb6f2bc119677b0800000000000000
+      internalID: -5226830765069255243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_111
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 133
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d87c6321a5323070800000000000000
+      internalID: 8084583247283779792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_112
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 136
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a874adaa8f190de0800000000000000
+      internalID: -1366526331451049820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_113
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 135
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25bfe0a0c475b7360800000000000000
+      internalID: 7168419215988161362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_114
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 135
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c47c14f4d6d97eaf0800000000000000
+      internalID: -367151751800699060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_115
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 139
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d1e1ea56ac8ed5e0800000000000000
+      internalID: -1882912948077076008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_116
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 104
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91031259c7a16f3d0800000000000000
+      internalID: -3173319765055688679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_117
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 104
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b71cb9212a0e056c0800000000000000
+      internalID: -4156575469361446533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_118
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 103
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f891f664dc6e64560800000000000000
+      internalID: 7297774015524837775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_119
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 104
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d474c16587e6bed50800000000000000
+      internalID: 6767624328174126925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_120
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 103
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7b727412c7b03da0800000000000000
+      internalID: -5967067462071321729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_121
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 104
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70c517885bfa68b00800000000000000
+      internalID: 830544375509507079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_122
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 104
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 606bc554053f4ff70800000000000000
+      internalID: 9220261863220884998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_123
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 104
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3dbb03a376b873f0800000000000000
+      internalID: -902771117514834625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_124
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 104
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1cce9282a0905550800000000000000
+      internalID: 6147572519011273758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_125
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 104
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cb4a079f32bd77a0800000000000000
+      internalID: -6377745511100036157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_126
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 104
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a4dcea98be2c9f30800000000000000
+      internalID: 4583589891164394656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_127
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 104
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c954ad30441638910800000000000000
+      internalID: 1838420017647601052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_128
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 104
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5e1612c833857fa0800000000000000
+      internalID: -5803588264999379365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_129
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 104
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9e2883dbe894cb00800000000000000
+      internalID: 847970768486149790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_130
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 104
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b698a6eef1898e7d0800000000000000
+      internalID: -2888891898046805653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_131
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 104
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 948832648c657c000800000000000000
+      internalID: 56108938535602249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_132
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 104
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94caa9d1f144669e0800000000000000
+      internalID: -1628539314816504759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_133
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 104
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25a6f2a74760a6f30800000000000000
+      internalID: 4569471869256690258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_134
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 104
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66e26f101560a35e0800000000000000
+      internalID: -1929222545379807642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_135
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 104
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b6a78361fdaadc90800000000000000
+      internalID: -7144206606601312585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_136
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 103
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 110a96db894a945c0800000000000000
+      internalID: -4230669399018069999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_137
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 104
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51adaa1b56b1f0400800000000000000
+      internalID: 292482624388782613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_138
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 104
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4106052301aa5d5a0800000000000000
+      internalID: -6497099900871745516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_139
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 101
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6cc7f4422d51d090800000000000000
+      internalID: -8011519860348040086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_140
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 102
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a8f3430641802690800000000000000
+      internalID: -7628955631063140192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_141
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 104
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3007ff4cfd9238f0800000000000000
+      internalID: -562213296468983745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_142
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 103
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a26fce12a96312c0800000000000000
+      internalID: -4462106660771503448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_143
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 103
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19d2b376358dc0ce0800000000000000
+      internalID: -1437536328312214127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_144
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 107
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a79bee26c57cf030800000000000000
+      internalID: 3529825702002792352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_145
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 72
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4e3d108a5f549c50800000000000000
+      internalID: 6671061790343642700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_146
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 72
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52c0cf001f1734cf0800000000000000
+      internalID: -269246272794522587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_147
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 71
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ba2efa21103b51b0800000000000000
+      internalID: -5666882855821759819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_148
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 72
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f387312d2d5689d0800000000000000
+      internalID: -2772426072187763725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_149
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 71
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b0a4707f626afc00800000000000000
+      internalID: 935168103400382643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_150
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 72
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51beb89473639cf40800000000000000
+      internalID: 5749186010400156437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_151
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 72
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b845ac1af121f0a60800000000000000
+      internalID: 7642347019738698891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_152
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 72
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a8eadb2464924a90800000000000000
+      internalID: -7331134085452339031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_153
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 72
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c28272f85b1df7ce0800000000000000
+      internalID: -1405173980995311572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_154
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 72
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb8656edafbdc85f0800000000000000
+      internalID: -752985167158220613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_155
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 72
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc9652f66bae1b340800000000000000
+      internalID: 4877937940688628172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_156
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 72
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 496d1b101c6d9fde0800000000000000
+      internalID: -1298770893074213228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_157
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 72
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 101b2d963bb5b76e0800000000000000
+      internalID: -1838775196718026495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_158
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 72
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fe4d130114f75b80800000000000000
+      internalID: -8405981825559867662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_159
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 72
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64476964725844c50800000000000000
+      internalID: 6648585353640178758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_160
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 72
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 627a8bc71925f22d0800000000000000
+      internalID: -3301329217023072474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_161
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 72
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2240439c23e4a2bb0800000000000000
+      internalID: -4960066059564219358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_162
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 72
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 338b6f3c9751fca30800000000000000
+      internalID: 4237629387101878323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_163
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 72
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 876e6c0a3c46317e0800000000000000
+      internalID: -1795981035011905928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_164
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 72
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d477d75d575c33880800000000000000
+      internalID: -8632338950855493811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_165
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 71
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c449654babc92fe00800000000000000
+      internalID: 1077095586598392908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_166
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 72
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29a8c7621261925b0800000000000000
+      internalID: -5392754747164030318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_167
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 72
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d381da5c317d9790800000000000000
+      internalID: -7521731298603203624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_168
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 68
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b48170adbc3d69c80800000000000000
+      internalID: -8316226789403322293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_169
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 69
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a5dbac14fc22c9f0800000000000000
+      internalID: -449747585818962523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_170
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 72
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79b1c2880986c3060800000000000000
+      internalID: 6934532496212892567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_171
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 71
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e742ef6991b339880800000000000000
+      internalID: -8605469481881426818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_172
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 71
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f77f0a9d1d2439b0800000000000000
+      internalID: -5101402872741922823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_173
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 75
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09ce63b54cfaa6430800000000000000
+      internalID: 3777024495382359184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_174
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 40
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b80145e59c6d9f10800000000000000
+      internalID: 2278096377571510451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_175
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 40
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4766193b5e93f21b0800000000000000
+      internalID: -5679256946367961484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_176
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 39
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 943a05e1dd5b75af0800000000000000
+      internalID: -407657279952739511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_177
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 40
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 689c85b41cfc5ae40800000000000000
+      internalID: 5667164135215384966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_178
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 39
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8e043f316041a030800000000000000
+      internalID: 3504152771487338127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_179
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 40
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2610e39842fc100e0800000000000000
+      internalID: -2305333778408668830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_180
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 40
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af9799deffc8fc3f0800000000000000
+      internalID: -878328371483149830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_181
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 40
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e8ef9f6e2a33c1f0800000000000000
+      internalID: -1025912318994683676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_182
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 40
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a292617721373210800000000000000
+      internalID: 1312571861877559968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_183
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 40
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95e0f2b20a50ab7d0800000000000000
+      internalID: -2902000824409452967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_184
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 40
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f89a6877c9b037a50800000000000000
+      internalID: 6517565852383357327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_185
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 40
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 463e2efb6b2515040800000000000000
+      internalID: 4634576436397794148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_186
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 40
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 330a4638b40174a00800000000000000
+      internalID: 740578580238737459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_187
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 40
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a99edb5c1baf63ce0800000000000000
+      internalID: -1425676590582470246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_188
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 40
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91c5ea97e43714910800000000000000
+      internalID: 1819862505320504345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_189
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 40
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e764905c01a9358f0800000000000000
+      internalID: -552928932420565378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_190
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 40
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a48c2d0d93e67b5e0800000000000000
+      internalID: -1893923923690338230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_191
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 40
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1f6dcc739308d430800000000000000
+      internalID: 3807797416930668315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_192
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 40
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84790f632f67b77a0800000000000000
+      internalID: -6378373664564275384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_193
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 40
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97aba5410ab907de0800000000000000
+      internalID: -1337397977490474375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_194
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 40
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee3d6a85465be2bc0800000000000000
+      internalID: -3805905192492805138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_195
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 40
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40d55a7d3873491d0800000000000000
+      internalID: -3344987583831253756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_196
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 40
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a3ee61a0bc91c410800000000000000
+      internalID: 1495648833700291490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_197
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 38
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4c4f48c522f03710800000000000000
+      internalID: 1671101705842805838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_198
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 39
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 247393c6c06978710800000000000000
+      internalID: 1695488764827744066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_199
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 40
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56e9fa692729b7270800000000000000
+      internalID: 8249348163311214181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_200
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 39
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53079aabb2b0bb720800000000000000
+      internalID: 2862894270567247925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_201
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 39
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ee8af1a429a1c040800000000000000
+      internalID: 4666196663734013668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_202
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 43
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18790bc0f5e5e5ab0800000000000000
+      internalID: -5017469172516350079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_203
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 8
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eb1d9f54a0a14e20800000000000000
+      internalID: 3333121827070090208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_204
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 8
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 407f5aaadc2d2f360800000000000000
+      internalID: 7202050534891976452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_205
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 7
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f47529a473a47380800000000000000
+      internalID: -8974368435993217808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_206
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 8
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9452770b2b1170ce0800000000000000
+      internalID: -1439162096759134903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_207
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 7
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78c4b59fabad97bf0800000000000000
+      internalID: -325989001425367929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_208
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 8
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b52b8de11a81dd20800000000000000
+      internalID: 3301571811443680692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_209
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 8
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aff023c9466fcec40800000000000000
+      internalID: 5543076153363927034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_210
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 8
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4762bb70a56bc50c0800000000000000
+      internalID: -4585589822776990092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_211
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 8
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0b12bd01661aaea0800000000000000
+      internalID: -5860847358971864310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_212
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 8
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e04159c6d6ba627b0800000000000000
+      internalID: -5249319829192240114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_213
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 7
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adbf9883b8bea8000800000000000000
+      internalID: 39102529967619034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_214
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 7
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b1a32fa10bf5f110800000000000000
+      internalID: 1294216452590772664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_215
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 7
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f648c8da0564ee20800000000000000
+      internalID: 3378936717695796978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_216
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 8
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc5d51edf8317f0c0800000000000000
+      internalID: -4542140190552631857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_217
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 8
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 232373478f642bb70800000000000000
+      internalID: 8913264645435241010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_218
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 7
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f896c2562f38c7ef0800000000000000
+      internalID: -109067213861000817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_219
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 8
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e77164ef796fbfe0800000000000000
+      internalID: -1171101380079683608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_220
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 8
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e925df6f7a6973930800000000000000
+      internalID: 4122929632028480158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_221
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 8
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47f286f851a7dfce0800000000000000
+      internalID: -1369804478631891084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_222
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 8
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d02a7117845de5df0800000000000000
+      internalID: -189479627191246323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_223
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 9
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f72a42aa82519410800000000000000
+      internalID: 1482056507763337201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_224
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 8
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d38ad651d2d914970800000000000000
+      internalID: 8737437569034070077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_225
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 8
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c04dc0a688085c960800000000000000
+      internalID: 7621639267777565708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_226
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 7
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 574f8297a9925e210800000000000000
+      internalID: 1361540205783872629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_227
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 7
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bc970151a6bff450800000000000000
+      internalID: 6124814822212607160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_228
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 8
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00d2ba732e4fe0f70800000000000000
+      internalID: 9155524344924548352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_229
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 7
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3fca1740bb2e6540800000000000000
+      internalID: 5002984272162377530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_230
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 7
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e059abf7319408430800000000000000
+      internalID: 3783104035087357198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-DragonKnight_231
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 11
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: decd7539bb2ea87d0800000000000000
+      internalID: -2915268513510204179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Dwarf-DragonKnight_0: 3218303847866246755
+      Dwarf-DragonKnight_1: -8254993510439858406
+      Dwarf-DragonKnight_10: 6633950417703884177
+      Dwarf-DragonKnight_100: 7055024647047960715
+      Dwarf-DragonKnight_101: 2132258271095535228
+      Dwarf-DragonKnight_102: -6165897699414802022
+      Dwarf-DragonKnight_103: 3646918097668566316
+      Dwarf-DragonKnight_104: -5255955096124634622
+      Dwarf-DragonKnight_105: 8437656552046577549
+      Dwarf-DragonKnight_106: -2618870313025279309
+      Dwarf-DragonKnight_107: -8334201052216697383
+      Dwarf-DragonKnight_108: -1719468451032989366
+      Dwarf-DragonKnight_109: -2612395306356831224
+      Dwarf-DragonKnight_11: -4773321058236043353
+      Dwarf-DragonKnight_110: -5226830765069255243
+      Dwarf-DragonKnight_111: 8084583247283779792
+      Dwarf-DragonKnight_112: -1366526331451049820
+      Dwarf-DragonKnight_113: 7168419215988161362
+      Dwarf-DragonKnight_114: -367151751800699060
+      Dwarf-DragonKnight_115: -1882912948077076008
+      Dwarf-DragonKnight_116: -3173319765055688679
+      Dwarf-DragonKnight_117: -4156575469361446533
+      Dwarf-DragonKnight_118: 7297774015524837775
+      Dwarf-DragonKnight_119: 6767624328174126925
+      Dwarf-DragonKnight_12: -1981160954131758723
+      Dwarf-DragonKnight_120: -5967067462071321729
+      Dwarf-DragonKnight_121: 830544375509507079
+      Dwarf-DragonKnight_122: 9220261863220884998
+      Dwarf-DragonKnight_123: -902771117514834625
+      Dwarf-DragonKnight_124: 6147572519011273758
+      Dwarf-DragonKnight_125: -6377745511100036157
+      Dwarf-DragonKnight_126: 4583589891164394656
+      Dwarf-DragonKnight_127: 1838420017647601052
+      Dwarf-DragonKnight_128: -5803588264999379365
+      Dwarf-DragonKnight_129: 847970768486149790
+      Dwarf-DragonKnight_13: -8876954252304544047
+      Dwarf-DragonKnight_130: -2888891898046805653
+      Dwarf-DragonKnight_131: 56108938535602249
+      Dwarf-DragonKnight_132: -1628539314816504759
+      Dwarf-DragonKnight_133: 4569471869256690258
+      Dwarf-DragonKnight_134: -1929222545379807642
+      Dwarf-DragonKnight_135: -7144206606601312585
+      Dwarf-DragonKnight_136: -4230669399018069999
+      Dwarf-DragonKnight_137: 292482624388782613
+      Dwarf-DragonKnight_138: -6497099900871745516
+      Dwarf-DragonKnight_139: -8011519860348040086
+      Dwarf-DragonKnight_14: 3810621658653000985
+      Dwarf-DragonKnight_140: -7628955631063140192
+      Dwarf-DragonKnight_141: -562213296468983745
+      Dwarf-DragonKnight_142: -4462106660771503448
+      Dwarf-DragonKnight_143: -1437536328312214127
+      Dwarf-DragonKnight_144: 3529825702002792352
+      Dwarf-DragonKnight_145: 6671061790343642700
+      Dwarf-DragonKnight_146: -269246272794522587
+      Dwarf-DragonKnight_147: -5666882855821759819
+      Dwarf-DragonKnight_148: -2772426072187763725
+      Dwarf-DragonKnight_149: 935168103400382643
+      Dwarf-DragonKnight_15: -5335176055205984148
+      Dwarf-DragonKnight_150: 5749186010400156437
+      Dwarf-DragonKnight_151: 7642347019738698891
+      Dwarf-DragonKnight_152: -7331134085452339031
+      Dwarf-DragonKnight_153: -1405173980995311572
+      Dwarf-DragonKnight_154: -752985167158220613
+      Dwarf-DragonKnight_155: 4877937940688628172
+      Dwarf-DragonKnight_156: -1298770893074213228
+      Dwarf-DragonKnight_157: -1838775196718026495
+      Dwarf-DragonKnight_158: -8405981825559867662
+      Dwarf-DragonKnight_159: 6648585353640178758
+      Dwarf-DragonKnight_16: -7920569863067244005
+      Dwarf-DragonKnight_160: -3301329217023072474
+      Dwarf-DragonKnight_161: -4960066059564219358
+      Dwarf-DragonKnight_162: 4237629387101878323
+      Dwarf-DragonKnight_163: -1795981035011905928
+      Dwarf-DragonKnight_164: -8632338950855493811
+      Dwarf-DragonKnight_165: 1077095586598392908
+      Dwarf-DragonKnight_166: -5392754747164030318
+      Dwarf-DragonKnight_167: -7521731298603203624
+      Dwarf-DragonKnight_168: -8316226789403322293
+      Dwarf-DragonKnight_169: -449747585818962523
+      Dwarf-DragonKnight_17: -3310143802658618476
+      Dwarf-DragonKnight_170: 6934532496212892567
+      Dwarf-DragonKnight_171: -8605469481881426818
+      Dwarf-DragonKnight_172: -5101402872741922823
+      Dwarf-DragonKnight_173: 3777024495382359184
+      Dwarf-DragonKnight_174: 2278096377571510451
+      Dwarf-DragonKnight_175: -5679256946367961484
+      Dwarf-DragonKnight_176: -407657279952739511
+      Dwarf-DragonKnight_177: 5667164135215384966
+      Dwarf-DragonKnight_178: 3504152771487338127
+      Dwarf-DragonKnight_179: -2305333778408668830
+      Dwarf-DragonKnight_18: 8509417139590592687
+      Dwarf-DragonKnight_180: -878328371483149830
+      Dwarf-DragonKnight_181: -1025912318994683676
+      Dwarf-DragonKnight_182: 1312571861877559968
+      Dwarf-DragonKnight_183: -2902000824409452967
+      Dwarf-DragonKnight_184: 6517565852383357327
+      Dwarf-DragonKnight_185: 4634576436397794148
+      Dwarf-DragonKnight_186: 740578580238737459
+      Dwarf-DragonKnight_187: -1425676590582470246
+      Dwarf-DragonKnight_188: 1819862505320504345
+      Dwarf-DragonKnight_189: -552928932420565378
+      Dwarf-DragonKnight_19: -1595354352711268938
+      Dwarf-DragonKnight_190: -1893923923690338230
+      Dwarf-DragonKnight_191: 3807797416930668315
+      Dwarf-DragonKnight_192: -6378373664564275384
+      Dwarf-DragonKnight_193: -1337397977490474375
+      Dwarf-DragonKnight_194: -3805905192492805138
+      Dwarf-DragonKnight_195: -3344987583831253756
+      Dwarf-DragonKnight_196: 1495648833700291490
+      Dwarf-DragonKnight_197: 1671101705842805838
+      Dwarf-DragonKnight_198: 1695488764827744066
+      Dwarf-DragonKnight_199: 8249348163311214181
+      Dwarf-DragonKnight_2: 1350015640545328839
+      Dwarf-DragonKnight_20: -7230534854360596825
+      Dwarf-DragonKnight_200: 2862894270567247925
+      Dwarf-DragonKnight_201: 4666196663734013668
+      Dwarf-DragonKnight_202: -5017469172516350079
+      Dwarf-DragonKnight_203: 3333121827070090208
+      Dwarf-DragonKnight_204: 7202050534891976452
+      Dwarf-DragonKnight_205: -8974368435993217808
+      Dwarf-DragonKnight_206: -1439162096759134903
+      Dwarf-DragonKnight_207: -325989001425367929
+      Dwarf-DragonKnight_208: 3301571811443680692
+      Dwarf-DragonKnight_209: 5543076153363927034
+      Dwarf-DragonKnight_21: -7373158498458051522
+      Dwarf-DragonKnight_210: -4585589822776990092
+      Dwarf-DragonKnight_211: -5860847358971864310
+      Dwarf-DragonKnight_212: -5249319829192240114
+      Dwarf-DragonKnight_213: 39102529967619034
+      Dwarf-DragonKnight_214: 1294216452590772664
+      Dwarf-DragonKnight_215: 3378936717695796978
+      Dwarf-DragonKnight_216: -4542140190552631857
+      Dwarf-DragonKnight_217: 8913264645435241010
+      Dwarf-DragonKnight_218: -109067213861000817
+      Dwarf-DragonKnight_219: -1171101380079683608
+      Dwarf-DragonKnight_22: 160872289070722105
+      Dwarf-DragonKnight_220: 4122929632028480158
+      Dwarf-DragonKnight_221: -1369804478631891084
+      Dwarf-DragonKnight_222: -189479627191246323
+      Dwarf-DragonKnight_223: 1482056507763337201
+      Dwarf-DragonKnight_224: 8737437569034070077
+      Dwarf-DragonKnight_225: 7621639267777565708
+      Dwarf-DragonKnight_226: 1361540205783872629
+      Dwarf-DragonKnight_227: 6124814822212607160
+      Dwarf-DragonKnight_228: 9155524344924548352
+      Dwarf-DragonKnight_229: 5002984272162377530
+      Dwarf-DragonKnight_23: 2022585705895515716
+      Dwarf-DragonKnight_230: 3783104035087357198
+      Dwarf-DragonKnight_231: -2915268513510204179
+      Dwarf-DragonKnight_24: 4392016491595461605
+      Dwarf-DragonKnight_25: -8193342274247904392
+      Dwarf-DragonKnight_26: 4370631739103876467
+      Dwarf-DragonKnight_27: -1993657077120710022
+      Dwarf-DragonKnight_28: -120698872779350684
+      Dwarf-DragonKnight_29: 7182155214567519962
+      Dwarf-DragonKnight_3: -5060201682643350845
+      Dwarf-DragonKnight_30: 7135549654013751076
+      Dwarf-DragonKnight_31: -98018767777966611
+      Dwarf-DragonKnight_32: 6892098272432342655
+      Dwarf-DragonKnight_33: 8299628960379059764
+      Dwarf-DragonKnight_34: 323672394935578733
+      Dwarf-DragonKnight_35: -8462911008369773736
+      Dwarf-DragonKnight_36: 5486608377305261051
+      Dwarf-DragonKnight_37: -8454493718093818685
+      Dwarf-DragonKnight_38: 8638333629951520042
+      Dwarf-DragonKnight_39: 2994468455484008334
+      Dwarf-DragonKnight_4: 195202663493019831
+      Dwarf-DragonKnight_40: 5447342978154613682
+      Dwarf-DragonKnight_41: 4247908576878215139
+      Dwarf-DragonKnight_42: -5683329467327983891
+      Dwarf-DragonKnight_43: 7680944804167651221
+      Dwarf-DragonKnight_44: 3785463190264436728
+      Dwarf-DragonKnight_45: 4625517451691443189
+      Dwarf-DragonKnight_46: 2575900894798939712
+      Dwarf-DragonKnight_47: 2776702722425958375
+      Dwarf-DragonKnight_48: 3149937028359110062
+      Dwarf-DragonKnight_49: 4747136854878065572
+      Dwarf-DragonKnight_5: 3073504040922701661
+      Dwarf-DragonKnight_50: -7299179679390220527
+      Dwarf-DragonKnight_51: 8897804774042941500
+      Dwarf-DragonKnight_52: -6543416421508689989
+      Dwarf-DragonKnight_53: -2944576597045864568
+      Dwarf-DragonKnight_54: 2518552168733707771
+      Dwarf-DragonKnight_55: 5054864523529123759
+      Dwarf-DragonKnight_56: -4588231618766546705
+      Dwarf-DragonKnight_57: -1792089008796337209
+      Dwarf-DragonKnight_58: -2141310029451159810
+      Dwarf-DragonKnight_59: 5605107946237521683
+      Dwarf-DragonKnight_6: 7192970688000613842
+      Dwarf-DragonKnight_60: -2465392291721818820
+      Dwarf-DragonKnight_61: -8448254875613478989
+      Dwarf-DragonKnight_62: 3617609674157080816
+      Dwarf-DragonKnight_63: -1942588337952616542
+      Dwarf-DragonKnight_64: 7991191552236767644
+      Dwarf-DragonKnight_65: 1485928284013480330
+      Dwarf-DragonKnight_66: -323554296709036560
+      Dwarf-DragonKnight_67: 1969024418009057319
+      Dwarf-DragonKnight_68: -8040489108547283315
+      Dwarf-DragonKnight_69: 6340685353158597722
+      Dwarf-DragonKnight_7: 2122544736451285051
+      Dwarf-DragonKnight_70: -7420755791616551667
+      Dwarf-DragonKnight_71: -4307078318480785028
+      Dwarf-DragonKnight_72: -1596758706718243527
+      Dwarf-DragonKnight_73: -4597240610847313311
+      Dwarf-DragonKnight_74: -3284180708780617761
+      Dwarf-DragonKnight_75: -1954696612866196641
+      Dwarf-DragonKnight_76: 3678355136139076344
+      Dwarf-DragonKnight_77: 6752023687714559726
+      Dwarf-DragonKnight_78: -85327346045813270
+      Dwarf-DragonKnight_79: 3531299979117736388
+      Dwarf-DragonKnight_8: 5269458086272242593
+      Dwarf-DragonKnight_80: 8208203883844326536
+      Dwarf-DragonKnight_81: 2994639258754881274
+      Dwarf-DragonKnight_82: 6494248643787297463
+      Dwarf-DragonKnight_83: -65248388372560009
+      Dwarf-DragonKnight_84: 2427906200656271025
+      Dwarf-DragonKnight_85: -5942119873019456030
+      Dwarf-DragonKnight_86: 8150431506910403787
+      Dwarf-DragonKnight_87: -7085971459911767105
+      Dwarf-DragonKnight_88: 4321559678690938757
+      Dwarf-DragonKnight_89: 1663638143317856753
+      Dwarf-DragonKnight_9: 1594786180356534031
+      Dwarf-DragonKnight_90: -8708173789799550649
+      Dwarf-DragonKnight_91: 1651787635652512083
+      Dwarf-DragonKnight_92: -9160851469482683132
+      Dwarf-DragonKnight_93: 6102019392956531732
+      Dwarf-DragonKnight_94: 2121936334837877234
+      Dwarf-DragonKnight_95: -8792299538017359149
+      Dwarf-DragonKnight_96: 8438093919231203248
+      Dwarf-DragonKnight_97: 4866808269783405737
+      Dwarf-DragonKnight_98: -6962946708783117424
+      Dwarf-DragonKnight_99: -3701907373003967827
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,6162 @@
+fileFormatVersion: 2
+guid: 3a7a4ee19b350504c976a521cd6fe278
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2801368424736192653
+    second: Dwarf-Archer_0
+  - first:
+      213: -158724450804014124
+    second: Dwarf-Archer_1
+  - first:
+      213: -9024922786517777494
+    second: Dwarf-Archer_2
+  - first:
+      213: -8323627753333217030
+    second: Dwarf-Archer_3
+  - first:
+      213: -6804784785278574197
+    second: Dwarf-Archer_4
+  - first:
+      213: 90381680896161017
+    second: Dwarf-Archer_5
+  - first:
+      213: -8205214756901545077
+    second: Dwarf-Archer_6
+  - first:
+      213: -231047595262742613
+    second: Dwarf-Archer_7
+  - first:
+      213: 4003373931125780288
+    second: Dwarf-Archer_8
+  - first:
+      213: 8970982195144499938
+    second: Dwarf-Archer_9
+  - first:
+      213: -3408757049722586475
+    second: Dwarf-Archer_10
+  - first:
+      213: 526195153344140723
+    second: Dwarf-Archer_11
+  - first:
+      213: -996605061292015845
+    second: Dwarf-Archer_12
+  - first:
+      213: -4219065669087523313
+    second: Dwarf-Archer_13
+  - first:
+      213: 4025022648962172685
+    second: Dwarf-Archer_14
+  - first:
+      213: -4964435180713466302
+    second: Dwarf-Archer_15
+  - first:
+      213: 672959653960973291
+    second: Dwarf-Archer_16
+  - first:
+      213: 9058766112353667120
+    second: Dwarf-Archer_17
+  - first:
+      213: -6731421646510962522
+    second: Dwarf-Archer_18
+  - first:
+      213: 8855738796918267391
+    second: Dwarf-Archer_19
+  - first:
+      213: 7973457664690749886
+    second: Dwarf-Archer_20
+  - first:
+      213: -6448972542602099946
+    second: Dwarf-Archer_21
+  - first:
+      213: 920449521386174442
+    second: Dwarf-Archer_22
+  - first:
+      213: 7508272164784258557
+    second: Dwarf-Archer_23
+  - first:
+      213: -3231630864846121276
+    second: Dwarf-Archer_24
+  - first:
+      213: 4705044926444598555
+    second: Dwarf-Archer_25
+  - first:
+      213: -5195101178213154001
+    second: Dwarf-Archer_26
+  - first:
+      213: -6372904459454399168
+    second: Dwarf-Archer_27
+  - first:
+      213: 4288037203649720464
+    second: Dwarf-Archer_28
+  - first:
+      213: -8485475685056958413
+    second: Dwarf-Archer_29
+  - first:
+      213: 8521068128076847274
+    second: Dwarf-Archer_30
+  - first:
+      213: 9187452607967697046
+    second: Dwarf-Archer_31
+  - first:
+      213: 902191211452815950
+    second: Dwarf-Archer_32
+  - first:
+      213: 5818431705568754126
+    second: Dwarf-Archer_33
+  - first:
+      213: -6767260113507320957
+    second: Dwarf-Archer_34
+  - first:
+      213: 8916655075264847077
+    second: Dwarf-Archer_35
+  - first:
+      213: 7130686398701363780
+    second: Dwarf-Archer_36
+  - first:
+      213: 3761601258822978286
+    second: Dwarf-Archer_37
+  - first:
+      213: 144112879654332024
+    second: Dwarf-Archer_38
+  - first:
+      213: 954767207070671777
+    second: Dwarf-Archer_39
+  - first:
+      213: -2556005112442421632
+    second: Dwarf-Archer_40
+  - first:
+      213: -5356347094655073908
+    second: Dwarf-Archer_41
+  - first:
+      213: 2003679537920468612
+    second: Dwarf-Archer_42
+  - first:
+      213: -9013323350213115943
+    second: Dwarf-Archer_43
+  - first:
+      213: 4677965362186884628
+    second: Dwarf-Archer_44
+  - first:
+      213: 1920802757529876211
+    second: Dwarf-Archer_45
+  - first:
+      213: 6026688086900327916
+    second: Dwarf-Archer_46
+  - first:
+      213: -2974719286868880283
+    second: Dwarf-Archer_47
+  - first:
+      213: 6886146606107750995
+    second: Dwarf-Archer_48
+  - first:
+      213: 5283319318279990438
+    second: Dwarf-Archer_49
+  - first:
+      213: 8036072415128479892
+    second: Dwarf-Archer_50
+  - first:
+      213: -4533342249823400175
+    second: Dwarf-Archer_51
+  - first:
+      213: 7398122647843275021
+    second: Dwarf-Archer_52
+  - first:
+      213: -8484059600725633250
+    second: Dwarf-Archer_53
+  - first:
+      213: 3715052867323354200
+    second: Dwarf-Archer_54
+  - first:
+      213: -4469226383226229835
+    second: Dwarf-Archer_55
+  - first:
+      213: -7411048964088697960
+    second: Dwarf-Archer_56
+  - first:
+      213: 5924241317267826261
+    second: Dwarf-Archer_57
+  - first:
+      213: 8372950068885967521
+    second: Dwarf-Archer_58
+  - first:
+      213: 1094998957827240013
+    second: Dwarf-Archer_59
+  - first:
+      213: 259852106907318563
+    second: Dwarf-Archer_60
+  - first:
+      213: -4048616663865269252
+    second: Dwarf-Archer_61
+  - first:
+      213: 5317847682102832833
+    second: Dwarf-Archer_62
+  - first:
+      213: 3415620022764726462
+    second: Dwarf-Archer_63
+  - first:
+      213: -1203914426845198403
+    second: Dwarf-Archer_64
+  - first:
+      213: 6601855386414533168
+    second: Dwarf-Archer_65
+  - first:
+      213: 1088420111207741371
+    second: Dwarf-Archer_66
+  - first:
+      213: -2647886366159505465
+    second: Dwarf-Archer_67
+  - first:
+      213: 4421807223078216133
+    second: Dwarf-Archer_68
+  - first:
+      213: 6745274531447729220
+    second: Dwarf-Archer_69
+  - first:
+      213: -1835838292998527842
+    second: Dwarf-Archer_70
+  - first:
+      213: -2422710792914910256
+    second: Dwarf-Archer_71
+  - first:
+      213: 3672760236146248376
+    second: Dwarf-Archer_72
+  - first:
+      213: 6208511182892664983
+    second: Dwarf-Archer_73
+  - first:
+      213: 8719035296372182043
+    second: Dwarf-Archer_74
+  - first:
+      213: -8203336106786209451
+    second: Dwarf-Archer_75
+  - first:
+      213: -6144171409711277346
+    second: Dwarf-Archer_76
+  - first:
+      213: 7963757373281440598
+    second: Dwarf-Archer_77
+  - first:
+      213: 8164764202547243042
+    second: Dwarf-Archer_78
+  - first:
+      213: -5383427700632958683
+    second: Dwarf-Archer_79
+  - first:
+      213: -7545531819007219726
+    second: Dwarf-Archer_80
+  - first:
+      213: 491666284014702771
+    second: Dwarf-Archer_81
+  - first:
+      213: -456870538752506738
+    second: Dwarf-Archer_82
+  - first:
+      213: 8192889449404408168
+    second: Dwarf-Archer_83
+  - first:
+      213: -1487429773870801940
+    second: Dwarf-Archer_84
+  - first:
+      213: 5875989749887742829
+    second: Dwarf-Archer_85
+  - first:
+      213: -3308981963131203259
+    second: Dwarf-Archer_86
+  - first:
+      213: 992513686053504585
+    second: Dwarf-Archer_87
+  - first:
+      213: 1371741358566773399
+    second: Dwarf-Archer_88
+  - first:
+      213: -1445455519232061642
+    second: Dwarf-Archer_89
+  - first:
+      213: 2822641992072987811
+    second: Dwarf-Archer_90
+  - first:
+      213: 3557772055206597726
+    second: Dwarf-Archer_91
+  - first:
+      213: -5895206853882886666
+    second: Dwarf-Archer_92
+  - first:
+      213: -6816540398377739439
+    second: Dwarf-Archer_93
+  - first:
+      213: -5667489779963978933
+    second: Dwarf-Archer_94
+  - first:
+      213: 6109004504507149036
+    second: Dwarf-Archer_95
+  - first:
+      213: 1934970762956295432
+    second: Dwarf-Archer_96
+  - first:
+      213: 6478360073498469926
+    second: Dwarf-Archer_97
+  - first:
+      213: 2791899115882553148
+    second: Dwarf-Archer_98
+  - first:
+      213: 4210372507792006795
+    second: Dwarf-Archer_99
+  - first:
+      213: -3617744562193724423
+    second: Dwarf-Archer_100
+  - first:
+      213: 6666192843513363691
+    second: Dwarf-Archer_101
+  - first:
+      213: 3941826635802984234
+    second: Dwarf-Archer_102
+  - first:
+      213: -6587801094069136818
+    second: Dwarf-Archer_103
+  - first:
+      213: -5454937416394218815
+    second: Dwarf-Archer_104
+  - first:
+      213: 8406803098195619520
+    second: Dwarf-Archer_105
+  - first:
+      213: 670098303428999224
+    second: Dwarf-Archer_106
+  - first:
+      213: -7427465721419363516
+    second: Dwarf-Archer_107
+  - first:
+      213: -1053803830638026650
+    second: Dwarf-Archer_108
+  - first:
+      213: 4431576598471116631
+    second: Dwarf-Archer_109
+  - first:
+      213: 3345369387580966924
+    second: Dwarf-Archer_110
+  - first:
+      213: -5793727940797018425
+    second: Dwarf-Archer_111
+  - first:
+      213: 7021502023156106708
+    second: Dwarf-Archer_112
+  - first:
+      213: 6035606928054278542
+    second: Dwarf-Archer_113
+  - first:
+      213: 3454905097964357471
+    second: Dwarf-Archer_114
+  - first:
+      213: 4731780541544512405
+    second: Dwarf-Archer_115
+  - first:
+      213: -331170180308883821
+    second: Dwarf-Archer_116
+  - first:
+      213: 5850826725948064513
+    second: Dwarf-Archer_117
+  - first:
+      213: 2186386594704282042
+    second: Dwarf-Archer_118
+  - first:
+      213: -4144198530567040232
+    second: Dwarf-Archer_119
+  - first:
+      213: -8533420406130891637
+    second: Dwarf-Archer_120
+  - first:
+      213: 5785635321840269685
+    second: Dwarf-Archer_121
+  - first:
+      213: 3387110612940864431
+    second: Dwarf-Archer_122
+  - first:
+      213: 2542902339274101234
+    second: Dwarf-Archer_123
+  - first:
+      213: 7205392346808739828
+    second: Dwarf-Archer_124
+  - first:
+      213: -1496795088687927591
+    second: Dwarf-Archer_125
+  - first:
+      213: -3765395892135809843
+    second: Dwarf-Archer_126
+  - first:
+      213: -1321855373911806880
+    second: Dwarf-Archer_127
+  - first:
+      213: -3250577314787676556
+    second: Dwarf-Archer_128
+  - first:
+      213: 5441357047400037568
+    second: Dwarf-Archer_129
+  - first:
+      213: 7861900963073885148
+    second: Dwarf-Archer_130
+  - first:
+      213: 3736956788198642379
+    second: Dwarf-Archer_131
+  - first:
+      213: 4667212292980026006
+    second: Dwarf-Archer_132
+  - first:
+      213: 5578585173549193601
+    second: Dwarf-Archer_133
+  - first:
+      213: -5916202088613080926
+    second: Dwarf-Archer_134
+  - first:
+      213: 2177316422201465275
+    second: Dwarf-Archer_135
+  - first:
+      213: -3970786305806765077
+    second: Dwarf-Archer_136
+  - first:
+      213: 5676791962880364679
+    second: Dwarf-Archer_137
+  - first:
+      213: -4980760471725278804
+    second: Dwarf-Archer_138
+  - first:
+      213: 3121139561739632734
+    second: Dwarf-Archer_139
+  - first:
+      213: -143919133169290527
+    second: Dwarf-Archer_140
+  - first:
+      213: 5829779005444727147
+    second: Dwarf-Archer_141
+  - first:
+      213: 8403766673152366275
+    second: Dwarf-Archer_142
+  - first:
+      213: -5107747682968409700
+    second: Dwarf-Archer_143
+  - first:
+      213: -1110861196969653689
+    second: Dwarf-Archer_144
+  - first:
+      213: -8479649053830488560
+    second: Dwarf-Archer_145
+  - first:
+      213: 225852725103071528
+    second: Dwarf-Archer_146
+  - first:
+      213: 1026604592223976477
+    second: Dwarf-Archer_147
+  - first:
+      213: 7105852705901100648
+    second: Dwarf-Archer_148
+  - first:
+      213: 4913949277972587227
+    second: Dwarf-Archer_149
+  - first:
+      213: 8633291258865729846
+    second: Dwarf-Archer_150
+  - first:
+      213: 7933905725499191822
+    second: Dwarf-Archer_151
+  - first:
+      213: 3351237186670058601
+    second: Dwarf-Archer_152
+  - first:
+      213: 2011195118740957119
+    second: Dwarf-Archer_153
+  - first:
+      213: -4129701788564704299
+    second: Dwarf-Archer_154
+  - first:
+      213: 2397369886476590028
+    second: Dwarf-Archer_155
+  - first:
+      213: 8148381965337967927
+    second: Dwarf-Archer_156
+  - first:
+      213: 3822336366365236636
+    second: Dwarf-Archer_157
+  - first:
+      213: 7280248179767769907
+    second: Dwarf-Archer_158
+  - first:
+      213: -476644631382605348
+    second: Dwarf-Archer_159
+  - first:
+      213: 36153175066000827
+    second: Dwarf-Archer_160
+  - first:
+      213: 4416666217391150606
+    second: Dwarf-Archer_161
+  - first:
+      213: 6366736520916540906
+    second: Dwarf-Archer_162
+  - first:
+      213: -6733623128239876161
+    second: Dwarf-Archer_163
+  - first:
+      213: -8560877250131877201
+    second: Dwarf-Archer_164
+  - first:
+      213: 874388241536009172
+    second: Dwarf-Archer_165
+  - first:
+      213: -1869096968029538843
+    second: Dwarf-Archer_166
+  - first:
+      213: -2012153064514929737
+    second: Dwarf-Archer_167
+  - first:
+      213: 2521885645762100385
+    second: Dwarf-Archer_168
+  - first:
+      213: -929007679396327550
+    second: Dwarf-Archer_169
+  - first:
+      213: -382362886047670490
+    second: Dwarf-Archer_170
+  - first:
+      213: 2271064915190788125
+    second: Dwarf-Archer_171
+  - first:
+      213: -241008554757702496
+    second: Dwarf-Archer_172
+  - first:
+      213: 7792969490908347070
+    second: Dwarf-Archer_173
+  - first:
+      213: -7772539580053967476
+    second: Dwarf-Archer_174
+  - first:
+      213: -3502675894899249498
+    second: Dwarf-Archer_175
+  - first:
+      213: -4597236840465682628
+    second: Dwarf-Archer_176
+  - first:
+      213: -3306924103143215622
+    second: Dwarf-Archer_177
+  - first:
+      213: 581933497078458434
+    second: Dwarf-Archer_178
+  - first:
+      213: 832499061587637840
+    second: Dwarf-Archer_179
+  - first:
+      213: 6723843849277811797
+    second: Dwarf-Archer_180
+  - first:
+      213: 7420109815615534533
+    second: Dwarf-Archer_181
+  - first:
+      213: -7455745319711247486
+    second: Dwarf-Archer_182
+  - first:
+      213: -1020620137964289157
+    second: Dwarf-Archer_183
+  - first:
+      213: 2477216325471195286
+    second: Dwarf-Archer_184
+  - first:
+      213: 5413069978234200917
+    second: Dwarf-Archer_185
+  - first:
+      213: -8710293157057677612
+    second: Dwarf-Archer_186
+  - first:
+      213: -6648592265863418403
+    second: Dwarf-Archer_187
+  - first:
+      213: -3617715951157383502
+    second: Dwarf-Archer_188
+  - first:
+      213: 3933615546722082166
+    second: Dwarf-Archer_189
+  - first:
+      213: 2815601085742956966
+    second: Dwarf-Archer_190
+  - first:
+      213: -7546045710257140069
+    second: Dwarf-Archer_191
+  - first:
+      213: -2680063493076914275
+    second: Dwarf-Archer_192
+  - first:
+      213: -8968436568885525743
+    second: Dwarf-Archer_193
+  - first:
+      213: -7859634722082932781
+    second: Dwarf-Archer_194
+  - first:
+      213: 5531116991953352948
+    second: Dwarf-Archer_195
+  - first:
+      213: 8046250332496242851
+    second: Dwarf-Archer_196
+  - first:
+      213: 8822514784743713277
+    second: Dwarf-Archer_197
+  - first:
+      213: 1658557524635906976
+    second: Dwarf-Archer_198
+  - first:
+      213: 5534269654122729674
+    second: Dwarf-Archer_199
+  - first:
+      213: -1976431422577604096
+    second: Dwarf-Archer_200
+  - first:
+      213: -2905457862164878104
+    second: Dwarf-Archer_201
+  - first:
+      213: -9010824828432728864
+    second: Dwarf-Archer_202
+  - first:
+      213: -1641556310055920493
+    second: Dwarf-Archer_203
+  - first:
+      213: -3896782993153332333
+    second: Dwarf-Archer_204
+  - first:
+      213: 8058732482368391462
+    second: Dwarf-Archer_205
+  - first:
+      213: 174641996653993581
+    second: Dwarf-Archer_206
+  - first:
+      213: -3127290901006809120
+    second: Dwarf-Archer_207
+  - first:
+      213: 2626710052455345262
+    second: Dwarf-Archer_208
+  - first:
+      213: 6569905272204521307
+    second: Dwarf-Archer_209
+  - first:
+      213: -7657401941700637382
+    second: Dwarf-Archer_210
+  - first:
+      213: 8571795802576623325
+    second: Dwarf-Archer_211
+  - first:
+      213: 6719865386334068537
+    second: Dwarf-Archer_212
+  - first:
+      213: 875381989735989814
+    second: Dwarf-Archer_213
+  - first:
+      213: -6754120446400972268
+    second: Dwarf-Archer_214
+  - first:
+      213: 2794159652787719284
+    second: Dwarf-Archer_215
+  - first:
+      213: 8381233553506977043
+    second: Dwarf-Archer_216
+  - first:
+      213: -321478474846392781
+    second: Dwarf-Archer_217
+  - first:
+      213: 3289223370947004845
+    second: Dwarf-Archer_218
+  - first:
+      213: 4071343353655537108
+    second: Dwarf-Archer_219
+  - first:
+      213: -1762697424120890883
+    second: Dwarf-Archer_220
+  - first:
+      213: 7661030744996103981
+    second: Dwarf-Archer_221
+  - first:
+      213: 7486834994685030288
+    second: Dwarf-Archer_222
+  - first:
+      213: 7143027122440589008
+    second: Dwarf-Archer_223
+  - first:
+      213: -3604746564076094401
+    second: Dwarf-Archer_224
+  - first:
+      213: -3927594630597815535
+    second: Dwarf-Archer_225
+  - first:
+      213: -6749320725301139261
+    second: Dwarf-Archer_226
+  - first:
+      213: -7098664955016645020
+    second: Dwarf-Archer_227
+  - first:
+      213: -5816994044413399975
+    second: Dwarf-Archer_228
+  - first:
+      213: -56919186050197111
+    second: Dwarf-Archer_229
+  - first:
+      213: 2661591766543152793
+    second: Dwarf-Archer_230
+  - first:
+      213: 7169297448702641284
+    second: Dwarf-Archer_231
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dwarf-Archer_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 232
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3778a9e824a8f19d0800000000000000
+      internalID: -2801368424736192653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 232
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d368a4f3f81ccdf0800000000000000
+      internalID: -158724450804014124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 231
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa38740ba8801c280800000000000000
+      internalID: -9024922786517777494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 232
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af8adf7a8a88c7c80800000000000000
+      internalID: -8323627753333217030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_4
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 231
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b81ec748a4c8091a0800000000000000
+      internalID: -6804784785278574197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_5
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 232
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f4b400f8a9114100800000000000000
+      internalID: 90381680896161017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_6
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 232
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8b1715d6a8312e80800000000000000
+      internalID: -8205214756901545077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_7
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 231
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bafe72eaf672bccf0800000000000000
+      internalID: -231047595262742613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_8
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 232
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04fafcb2167de8730800000000000000
+      internalID: 4003373931125780288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_9
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 231
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e221f3b6c45f7c70800000000000000
+      internalID: 8970982195144499938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_10
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 231
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59a3dad0689a1b0d0800000000000000
+      internalID: -3408757049722586475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_11
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 231
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b51c9d34bb6d4700800000000000000
+      internalID: 526195153344140723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_12
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 232
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1f355c1af85b22f0800000000000000
+      internalID: -996605061292015845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_13
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 232
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0e0ef5a02ed275c0800000000000000
+      internalID: -4219065669087523313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_14
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 232
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d07ca4416c0cbd730800000000000000
+      internalID: 4025022648962172685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_15
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 228
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2462f1f7188ca1bb0800000000000000
+      internalID: -4964435180713466302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_16
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 232
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beb73826d35d65900800000000000000
+      internalID: 672959653960973291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_17
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 232
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 038cf26a8c337bd70800000000000000
+      internalID: 9058766112353667120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_18
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 232
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a8c6565daf2592a0800000000000000
+      internalID: -6731421646510962522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_19
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 232
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffd55fd1487e5ea70800000000000000
+      internalID: 8855738796918267391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_20
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 233
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb10287308967ae60800000000000000
+      internalID: 7973457664690749886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_21
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 232
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61344fff3a5a086a0800000000000000
+      internalID: -6448972542602099946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_22
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 232
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae7b6e386f716cc00800000000000000
+      internalID: 920449521386174442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_23
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 232
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfd3bead0cdb23860800000000000000
+      internalID: 7508272164784258557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_24
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 232
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c698afa9d0f623d0800000000000000
+      internalID: -3231630864846121276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_25
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 232
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b15fbf4ae6dab4140800000000000000
+      internalID: 4705044926444598555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_26
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 231
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f234464d00b47e7b0800000000000000
+      internalID: -5195101178213154001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_27
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 231
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04db7b2c825ee87a0800000000000000
+      internalID: -6372904459454399168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_28
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 235
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09073332e1b228b30800000000000000
+      internalID: 4288037203649720464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_29
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 200
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33037f982d88d3a80800000000000000
+      internalID: -8485475685056958413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_30
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 200
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa85ce0e05ae04670800000000000000
+      internalID: 8521068128076847274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_31
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 199
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69896a04873608f70800000000000000
+      internalID: 9187452607967697046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_32
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 200
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4adf16702a358c00800000000000000
+      internalID: 902191211452815950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_33
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 199
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec9bb401fc83fb050800000000000000
+      internalID: 5818431705568754126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_34
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 200
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38bf9bff7ccd512a0800000000000000
+      internalID: -6767260113507320957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_35
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 200
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ec58d96c825ebb70800000000000000
+      internalID: 8916655075264847077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_36
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 200
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 442ed47ef7945f260800000000000000
+      internalID: 7130686398701363780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_37
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 200
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eea4ec24a64e33430800000000000000
+      internalID: 3761601258822978286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_38
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 200
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 876ea5786edfff100800000000000000
+      internalID: 144112879654332024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_39
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 199
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a3a3ac57b3004d00800000000000000
+      internalID: 954767207070671777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_40
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 199
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08e79cc74ee378cd0800000000000000
+      internalID: -2556005112442421632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_41
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 200
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c81836152be6aa5b0800000000000000
+      internalID: -5356347094655073908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_42
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 200
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 486e77d7cef7ecb10800000000000000
+      internalID: 2003679537920468612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_43
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 200
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9df30d8ea2e3ae280800000000000000
+      internalID: -9013323350213115943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_44
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 200
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4161bb446b87be040800000000000000
+      internalID: 4677965362186884628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_45
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 200
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f6b82e5eef08aa10800000000000000
+      internalID: 1920802757529876211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_46
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 200
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce5c5cf52e813a350800000000000000
+      internalID: 6026688086900327916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_47
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 200
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5645dafb19ca7b6d0800000000000000
+      internalID: -2974719286868880283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_48
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 200
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35270589ad1809f50800000000000000
+      internalID: 6886146606107750995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_49
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 201
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aca9018dee125940800000000000000
+      internalID: 5283319318279990438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_50
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 200
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4986c0dd84dd58f60800000000000000
+      internalID: 8036072415128479892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_51
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 200
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11f81021e355611c0800000000000000
+      internalID: -4533342249823400175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_52
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 199
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d01887de9596ba660800000000000000
+      internalID: 7398122647843275021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_53
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 199
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e17918d5eb0924a80800000000000000
+      internalID: -8484059600725633250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_54
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 200
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85cda9e46e48e8330800000000000000
+      internalID: 3715052867323354200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_55
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 199
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bb2ffe884e1af1c0800000000000000
+      internalID: -4469226383226229835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_56
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 199
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89b677a8b3aa62990800000000000000
+      internalID: -7411048964088697960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_57
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 203
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 556e07f0712273250800000000000000
+      internalID: 5924241317267826261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_58
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 168
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a2d702d9b1b23470800000000000000
+      internalID: 8372950068885967521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_59
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 168
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4037b620c7323f00800000000000000
+      internalID: 1094998957827240013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_60
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 167
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 329f85e4d1e2b9300800000000000000
+      internalID: 259852106907318563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_61
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 168
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf3659e389c60d7c0800000000000000
+      internalID: -4048616663865269252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_62
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 167
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ceaf5daa4accc940800000000000000
+      internalID: 5317847682102832833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_63
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 168
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb86a906058b66f20800000000000000
+      internalID: 3415620022764726462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_64
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 168
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db78ce71536da4fe0800000000000000
+      internalID: -1203914426845198403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_65
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 168
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03accbdee708e9b50800000000000000
+      internalID: 6601855386414533168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_66
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 168
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb7bdee0358da1f00800000000000000
+      internalID: 1088420111207741371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_67
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 168
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c7767b0161d04bd0800000000000000
+      internalID: -2647886366159505465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_68
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 168
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c165dcdd3a6d5d30800000000000000
+      internalID: 4421807223078216133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_69
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 168
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44c6e67c2770c9d50800000000000000
+      internalID: 6745274531447729220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_70
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 168
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9463c89ccac586e0800000000000000
+      internalID: -1835838292998527842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_71
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 168
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d34dc2be5dc06ed0800000000000000
+      internalID: -2422710792914910256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_72
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 168
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ba4da4c9f348f230800000000000000
+      internalID: 3672760236146248376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_73
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 168
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7988b58d600192650800000000000000
+      internalID: 6208511182892664983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_74
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 168
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1c4b58186c300970800000000000000
+      internalID: 8719035296372182043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_75
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 168
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5514fd52645e72e80800000000000000
+      internalID: -8203336106786209451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_76
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 168
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eda5c05f7a48bbaa0800000000000000
+      internalID: -6144171409711277346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_77
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 168
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65396df1323f48e60800000000000000
+      internalID: 7963757373281440598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_78
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 168
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22867af88c11f4170800000000000000
+      internalID: 8164764202547243042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_79
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 168
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52946c567093a45b0800000000000000
+      internalID: -5383427700632958683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_80
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 168
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f7eaaed9c2e84790800000000000000
+      internalID: -7545531819007219726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_81
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 165
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b09bbe51efb2d600800000000000000
+      internalID: 491666284014702771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_82
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 167
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e84c0556aaed8a9f0800000000000000
+      internalID: -456870538752506738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_83
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 168
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 861abc3eb8df2b170800000000000000
+      internalID: 8192889449404408168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_84
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 167
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceb571c50869b5be0800000000000000
+      internalID: -1487429773870801940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_85
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 167
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6335e19b85bb8150800000000000000
+      internalID: 5875989749887742829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_86
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 171
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 541d36faf622412d0800000000000000
+      internalID: -3308981963131203259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_87
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 136
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 946ceeb50fd16cd00800000000000000
+      internalID: 992513686053504585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_88
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 136
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79295117f77690310800000000000000
+      internalID: 1371741358566773399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_89
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 135
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63f8b851dd5b0fbe0800000000000000
+      internalID: -1445455519232061642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_90
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 136
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a48c91dfe90c2720800000000000000
+      internalID: 2822641992072987811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_91
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 135
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e54966695debf5130800000000000000
+      internalID: 3557772055206597726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_92
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 136
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f5ccdcb994003ea0800000000000000
+      internalID: -5895206853882886666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_93
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 136
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15b589d8f98c661a0800000000000000
+      internalID: -6816540398377739439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_94
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 136
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4b1711a2180951b0800000000000000
+      internalID: -5667489779963978933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_95
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 136
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceae86eda3b87c450800000000000000
+      internalID: 6109004504507149036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_96
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 136
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80dc6c038a56ada10800000000000000
+      internalID: 1934970762956295432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_97
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 136
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62623fbb922c7e950800000000000000
+      internalID: 6478360073498469926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_98
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 136
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3f18ea2471deb620800000000000000
+      internalID: 2791899115882553148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_99
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 136
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8e53030d7f3e6a30800000000000000
+      internalID: 4210372507792006795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_100
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 136
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fb87520d703bcdc0800000000000000
+      internalID: -3617744562193724423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_101
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 136
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bec7dd97213138c50800000000000000
+      internalID: 6666192843513363691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_102
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 136
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2fb539c07e24b630800000000000000
+      internalID: 3941826635802984234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_103
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 136
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4254110fcd6394a0800000000000000
+      internalID: -6587801094069136818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_104
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 136
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c2e5df325b2c44b0800000000000000
+      internalID: -5454937416394218815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_105
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 136
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ce6a9c60e6faa470800000000000000
+      internalID: 8406803098195619520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_106
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 136
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8383a7c4bdaac4900800000000000000
+      internalID: 670098303428999224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_107
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 135
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44b886d57475ce890800000000000000
+      internalID: -7427465721419363516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_108
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 136
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 660efd3dff22061f0800000000000000
+      internalID: -1053803830638026650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_109
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 136
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7570ec2df6f108d30800000000000000
+      internalID: 4431576598471116631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_110
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 129
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c08ca35cbb32d6e20800000000000000
+      internalID: 3345369387580966924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_111
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 130
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cec983622b889fa0800000000000000
+      internalID: -5793727940797018425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_112
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 136
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d508e773e2617160800000000000000
+      internalID: 7021502023156106708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_113
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 135
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e89df86e588c2c350800000000000000
+      internalID: 6035606928054278542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_114
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 135
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f570ad8b1e942ff20800000000000000
+      internalID: 3454905097964357471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_115
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 139
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59bbddd1559aaa140800000000000000
+      internalID: 4731780541544512405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_116
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 104
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 396ac72c972776bf0800000000000000
+      internalID: -331170180308883821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_117
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 104
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1030f7288ef423150800000000000000
+      internalID: 5850826725948064513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_118
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 103
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab1560f160b975e10800000000000000
+      internalID: 2186386594704282042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_119
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 104
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8131bd2b469dc76c0800000000000000
+      internalID: -4144198530567040232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_120
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 103
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b84af754a53339980800000000000000
+      internalID: -8533420406130891637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_121
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 104
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 579fd3eeba4ba4050800000000000000
+      internalID: 5785635321840269685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_122
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 104
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fabbb43282f610f20800000000000000
+      internalID: 3387110612940864431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_123
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 104
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f151f664343a4320800000000000000
+      internalID: 2542902339274101234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_124
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 104
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f76ad2e922bef360800000000000000
+      internalID: 7205392346808739828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_125
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 104
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dee4351cc05a3be0800000000000000
+      internalID: -1496795088687927591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_126
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 104
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcca782d260aebbc0800000000000000
+      internalID: -3765395892135809843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_127
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 104
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06cab897a83d7ade0800000000000000
+      internalID: -1321855373911806880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_128
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 104
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47e232d8721a3e2d0800000000000000
+      internalID: -3250577314787676556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_129
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 104
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ccf852b765938b40800000000000000
+      internalID: 5441357047400037568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_130
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 104
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd3025395451b1d60800000000000000
+      internalID: 7861900963073885148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_131
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 104
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc2909d46665cd330800000000000000
+      internalID: 3736956788198642379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_132
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 104
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69a296e3ad445c040800000000000000
+      internalID: 4667212292980026006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_133
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 104
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18919a2a8ad1b6d40800000000000000
+      internalID: 5578585173549193601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_134
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 104
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a01bc8bb8d65eda0800000000000000
+      internalID: -5916202088613080926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_135
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 104
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb951f400c1673e10800000000000000
+      internalID: 2177316422201465275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_136
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 103
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be3f66b94eee4e8c0800000000000000
+      internalID: -3970786305806765077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_137
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 104
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 780d64b963408ce40800000000000000
+      internalID: 5676791962880364679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_138
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 104
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca9f18b7db8c0eab0800000000000000
+      internalID: -4980760471725278804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_139
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 97
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e50c8e715e3805b20800000000000000
+      internalID: 3121139561739632734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_140
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 99
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e2ff079f42b00ef0800000000000000
+      internalID: -143919133169290527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_141
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 104
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6120923e1987e050800000000000000
+      internalID: 5829779005444727147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_142
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 103
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c65380a34d20a470800000000000000
+      internalID: 8403766673152366275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_143
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 103
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c99e75a5b82ad19b0800000000000000
+      internalID: -5107747682968409700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_144
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 107
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74acbdf70ad6590f0800000000000000
+      internalID: -1110861196969653689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_145
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 72
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01ed476dc1c325a80800000000000000
+      internalID: -8479649053830488560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_146
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 72
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 821925b5bd3622300800000000000000
+      internalID: 225852725103071528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_147
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 71
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1c7b4cff6b3f3e00800000000000000
+      internalID: 1026604592223976477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_148
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 72
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86ebb79336f0d9260800000000000000
+      internalID: 7105852705901100648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_149
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 71
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd2e7d545dad13440800000000000000
+      internalID: 4913949277972587227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_150
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 72
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6314d27a8ac9fc770800000000000000
+      internalID: 8633291258865729846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_151
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 72
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0231d1c835ea1e60800000000000000
+      internalID: 7933905725499191822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_152
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 72
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96c5c85377cf18e20800000000000000
+      internalID: 3351237186670058601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_153
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 72
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb7ed820e4339eb10800000000000000
+      internalID: 2011195118740957119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_154
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 72
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d33e487a1a50b6c0800000000000000
+      internalID: -4129701788564704299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_155
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 72
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccbd7aeb53b254120800000000000000
+      internalID: 2397369886476590028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_156
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 72
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73d3b2ab93ed41170800000000000000
+      internalID: 8148381965337967927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_157
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 72
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9dd1417caaab0530800000000000000
+      internalID: 3822336366365236636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_158
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 72
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33bfdb7a523a80560800000000000000
+      internalID: 7280248179767769907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_159
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 72
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd1c75eab3e9269f0800000000000000
+      internalID: -476644631382605348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_160
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 72
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbdbf450f11708000800000000000000
+      internalID: 36153175066000827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_161
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 72
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e06511336862b4d30800000000000000
+      internalID: 4416666217391150606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_162
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 72
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aed9cb322213b5850800000000000000
+      internalID: 6366736520916540906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_163
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 72
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb758ede07d5d82a0800000000000000
+      internalID: -6733623128239876161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_164
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 72
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa2aa2c9f77a13980800000000000000
+      internalID: -8560877250131877201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_165
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 71
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d348841973722c00800000000000000
+      internalID: 874388241536009172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_166
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 72
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e5f6d1e532af06e0800000000000000
+      internalID: -1869096968029538843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_167
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 72
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bbbfdbd2756314e0800000000000000
+      internalID: -2012153064514929737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_168
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 65
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ac7ecf12a98ff220800000000000000
+      internalID: 2521885645762100385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_169
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 66
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28fc8fb00708b13f0800000000000000
+      internalID: -929007679396327550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_170
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 72
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62fd5d12bf291baf0800000000000000
+      internalID: -382362886047670490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_171
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 71
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d10bccbf181748f10800000000000000
+      internalID: 2271064915190788125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_172
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 71
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ac36d11ff3c7acf0800000000000000
+      internalID: -241008554757702496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_173
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 75
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eba7c0b8670362c60800000000000000
+      internalID: 7792969490908347070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_174
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 40
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8d2830ce64622490800000000000000
+      internalID: -7772539580053967476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_175
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 40
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aee431e4def36fc0800000000000000
+      internalID: -3502675894899249498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_176
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 39
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3f24b763755330c0800000000000000
+      internalID: -4597236840465682628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_177
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 40
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afda8fc8c027b12d0800000000000000
+      internalID: -3306924103143215622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_178
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 39
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2482340be61731800800000000000000
+      internalID: 581933497078458434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_179
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 40
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 056f6c95c71ad8b00800000000000000
+      internalID: 832499061587637840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_180
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 40
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55c26614b54ef4d50800000000000000
+      internalID: 6723843849277811797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_181
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 40
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c5372a509689f660800000000000000
+      internalID: 7420109815615534533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_182
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 40
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28374da422fd78890800000000000000
+      internalID: -7455745319711247486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_183
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 40
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b73470a546706d1f0800000000000000
+      internalID: -1020620137964289157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_184
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 40
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69052878f17d06220800000000000000
+      internalID: 2477216325471195286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_185
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 40
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5532bfc27761f1b40800000000000000
+      internalID: 5413069978234200917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_186
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 40
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d6bf04d582de1780800000000000000
+      internalID: -8710293157057677612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_187
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 40
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddd2dc85f847bb3a0800000000000000
+      internalID: -6648592265863418403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_188
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 40
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2beeff8828a4bcdc0800000000000000
+      internalID: -3617715951157383502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_189
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 40
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67dd251af72079630800000000000000
+      internalID: 3933615546722082166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_190
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 40
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a1c9e01546031720800000000000000
+      internalID: 2815601085742956966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_191
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 40
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9e434d386f074790800000000000000
+      internalID: -7546045710257140069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_192
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 40
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9f68afd3708ecad0800000000000000
+      internalID: -2680063493076914275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_193
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 40
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11384f81576b98380800000000000000
+      internalID: -8968436568885525743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_194
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 40
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d7bbe5ccd7fce290800000000000000
+      internalID: -7859634722082932781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_195
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 40
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f8b18c599972cc40800000000000000
+      internalID: 5531116991953352948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_196
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 40
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a8ae4aeb060aaf60800000000000000
+      internalID: 8046250332496242851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_197
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 36
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df9e74af37edf6a70800000000000000
+      internalID: 8822514784743713277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_198
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 38
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a3797ff741640710800000000000000
+      internalID: 1658557524635906976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_199
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 40
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac09539bdecadcc40800000000000000
+      internalID: 5534269654122729674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_200
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 39
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00a875eb71e4294e0800000000000000
+      internalID: -1976431422577604096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_201
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 39
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ecebc7d77dbda7d0800000000000000
+      internalID: -2905457862164878104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_202
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 43
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ec3ff75f8e13f280800000000000000
+      internalID: -9010824828432728864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_203
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 8
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39cd05cbb350839e0800000000000000
+      internalID: -1641556310055920493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_204
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 8
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39bef468388dbe9c0800000000000000
+      internalID: -3896782993153332333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_205
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 7
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6294877ee7e56df60800000000000000
+      internalID: 8058732482368391462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_206
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 8
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6e1d6d78f37c6200800000000000000
+      internalID: 174641996653993581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_207
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 7
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e78d20ae71a994d0800000000000000
+      internalID: -3127290901006809120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_208
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 8
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6c6c8430e2f37420800000000000000
+      internalID: 2626710052455345262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_209
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 8
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5f67b5490efc2b50800000000000000
+      internalID: 6569905272204521307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_210
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 8
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3d0c8231817bb590800000000000000
+      internalID: -7657401941700637382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_211
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 8
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd693cbfdd225f670800000000000000
+      internalID: 8571795802576623325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_212
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 8
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93f92ea27f1c14d50800000000000000
+      internalID: 6719865386334068537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_213
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 7
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6320dfc184bf52c00800000000000000
+      internalID: 875381989735989814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_214
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 7
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41a31162d3b8442a0800000000000000
+      internalID: -6754120446400972268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_215
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 7
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47c042e6669d6c620800000000000000
+      internalID: 2794159652787719284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_216
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 8
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3154e50e28f105470800000000000000
+      internalID: 8381233553506977043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_217
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 8
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33ea8d7c701e98bf0800000000000000
+      internalID: -321478474846392781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_218
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 7
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da985349a3ba5ad20800000000000000
+      internalID: 3289223370947004845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_219
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 8
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dd29419531508830800000000000000
+      internalID: 4071343353655537108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_220
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 8
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df937cc2804a987e0800000000000000
+      internalID: -1762697424120890883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_221
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 8
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d27c6d86fd2715a60800000000000000
+      internalID: 7661030744996103981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_222
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 8
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09f2a2eb2c496e760800000000000000
+      internalID: 7486834994685030288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_223
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 9
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0de4d0e8251212360800000000000000
+      internalID: 7143027122440589008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_224
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 8
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3c3fe6491e59fdc0800000000000000
+      internalID: -3604746564076094401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_225
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 8
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1135c752e716e79c0800000000000000
+      internalID: -3927594630597815535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_226
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 7
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c86e3d4f889552a0800000000000000
+      internalID: -6749320725301139261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_227
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 7
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 466f7b075d97c7d90800000000000000
+      internalID: -7098664955016645020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_228
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 8
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95c2d228cb2e54fa0800000000000000
+      internalID: -5816994044413399975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_229
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 7
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 989d2964d48c53ff0800000000000000
+      internalID: -56919186050197111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_230
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 7
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 996b8e52c9fdfe420800000000000000
+      internalID: 2661591766543152793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Archer_231
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 11
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48409078b067e7360800000000000000
+      internalID: 7169297448702641284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Dwarf-Archer_0: -2801368424736192653
+      Dwarf-Archer_1: -158724450804014124
+      Dwarf-Archer_10: -3408757049722586475
+      Dwarf-Archer_100: -3617744562193724423
+      Dwarf-Archer_101: 6666192843513363691
+      Dwarf-Archer_102: 3941826635802984234
+      Dwarf-Archer_103: -6587801094069136818
+      Dwarf-Archer_104: -5454937416394218815
+      Dwarf-Archer_105: 8406803098195619520
+      Dwarf-Archer_106: 670098303428999224
+      Dwarf-Archer_107: -7427465721419363516
+      Dwarf-Archer_108: -1053803830638026650
+      Dwarf-Archer_109: 4431576598471116631
+      Dwarf-Archer_11: 526195153344140723
+      Dwarf-Archer_110: 3345369387580966924
+      Dwarf-Archer_111: -5793727940797018425
+      Dwarf-Archer_112: 7021502023156106708
+      Dwarf-Archer_113: 6035606928054278542
+      Dwarf-Archer_114: 3454905097964357471
+      Dwarf-Archer_115: 4731780541544512405
+      Dwarf-Archer_116: -331170180308883821
+      Dwarf-Archer_117: 5850826725948064513
+      Dwarf-Archer_118: 2186386594704282042
+      Dwarf-Archer_119: -4144198530567040232
+      Dwarf-Archer_12: -996605061292015845
+      Dwarf-Archer_120: -8533420406130891637
+      Dwarf-Archer_121: 5785635321840269685
+      Dwarf-Archer_122: 3387110612940864431
+      Dwarf-Archer_123: 2542902339274101234
+      Dwarf-Archer_124: 7205392346808739828
+      Dwarf-Archer_125: -1496795088687927591
+      Dwarf-Archer_126: -3765395892135809843
+      Dwarf-Archer_127: -1321855373911806880
+      Dwarf-Archer_128: -3250577314787676556
+      Dwarf-Archer_129: 5441357047400037568
+      Dwarf-Archer_13: -4219065669087523313
+      Dwarf-Archer_130: 7861900963073885148
+      Dwarf-Archer_131: 3736956788198642379
+      Dwarf-Archer_132: 4667212292980026006
+      Dwarf-Archer_133: 5578585173549193601
+      Dwarf-Archer_134: -5916202088613080926
+      Dwarf-Archer_135: 2177316422201465275
+      Dwarf-Archer_136: -3970786305806765077
+      Dwarf-Archer_137: 5676791962880364679
+      Dwarf-Archer_138: -4980760471725278804
+      Dwarf-Archer_139: 3121139561739632734
+      Dwarf-Archer_14: 4025022648962172685
+      Dwarf-Archer_140: -143919133169290527
+      Dwarf-Archer_141: 5829779005444727147
+      Dwarf-Archer_142: 8403766673152366275
+      Dwarf-Archer_143: -5107747682968409700
+      Dwarf-Archer_144: -1110861196969653689
+      Dwarf-Archer_145: -8479649053830488560
+      Dwarf-Archer_146: 225852725103071528
+      Dwarf-Archer_147: 1026604592223976477
+      Dwarf-Archer_148: 7105852705901100648
+      Dwarf-Archer_149: 4913949277972587227
+      Dwarf-Archer_15: -4964435180713466302
+      Dwarf-Archer_150: 8633291258865729846
+      Dwarf-Archer_151: 7933905725499191822
+      Dwarf-Archer_152: 3351237186670058601
+      Dwarf-Archer_153: 2011195118740957119
+      Dwarf-Archer_154: -4129701788564704299
+      Dwarf-Archer_155: 2397369886476590028
+      Dwarf-Archer_156: 8148381965337967927
+      Dwarf-Archer_157: 3822336366365236636
+      Dwarf-Archer_158: 7280248179767769907
+      Dwarf-Archer_159: -476644631382605348
+      Dwarf-Archer_16: 672959653960973291
+      Dwarf-Archer_160: 36153175066000827
+      Dwarf-Archer_161: 4416666217391150606
+      Dwarf-Archer_162: 6366736520916540906
+      Dwarf-Archer_163: -6733623128239876161
+      Dwarf-Archer_164: -8560877250131877201
+      Dwarf-Archer_165: 874388241536009172
+      Dwarf-Archer_166: -1869096968029538843
+      Dwarf-Archer_167: -2012153064514929737
+      Dwarf-Archer_168: 2521885645762100385
+      Dwarf-Archer_169: -929007679396327550
+      Dwarf-Archer_17: 9058766112353667120
+      Dwarf-Archer_170: -382362886047670490
+      Dwarf-Archer_171: 2271064915190788125
+      Dwarf-Archer_172: -241008554757702496
+      Dwarf-Archer_173: 7792969490908347070
+      Dwarf-Archer_174: -7772539580053967476
+      Dwarf-Archer_175: -3502675894899249498
+      Dwarf-Archer_176: -4597236840465682628
+      Dwarf-Archer_177: -3306924103143215622
+      Dwarf-Archer_178: 581933497078458434
+      Dwarf-Archer_179: 832499061587637840
+      Dwarf-Archer_18: -6731421646510962522
+      Dwarf-Archer_180: 6723843849277811797
+      Dwarf-Archer_181: 7420109815615534533
+      Dwarf-Archer_182: -7455745319711247486
+      Dwarf-Archer_183: -1020620137964289157
+      Dwarf-Archer_184: 2477216325471195286
+      Dwarf-Archer_185: 5413069978234200917
+      Dwarf-Archer_186: -8710293157057677612
+      Dwarf-Archer_187: -6648592265863418403
+      Dwarf-Archer_188: -3617715951157383502
+      Dwarf-Archer_189: 3933615546722082166
+      Dwarf-Archer_19: 8855738796918267391
+      Dwarf-Archer_190: 2815601085742956966
+      Dwarf-Archer_191: -7546045710257140069
+      Dwarf-Archer_192: -2680063493076914275
+      Dwarf-Archer_193: -8968436568885525743
+      Dwarf-Archer_194: -7859634722082932781
+      Dwarf-Archer_195: 5531116991953352948
+      Dwarf-Archer_196: 8046250332496242851
+      Dwarf-Archer_197: 8822514784743713277
+      Dwarf-Archer_198: 1658557524635906976
+      Dwarf-Archer_199: 5534269654122729674
+      Dwarf-Archer_2: -9024922786517777494
+      Dwarf-Archer_20: 7973457664690749886
+      Dwarf-Archer_200: -1976431422577604096
+      Dwarf-Archer_201: -2905457862164878104
+      Dwarf-Archer_202: -9010824828432728864
+      Dwarf-Archer_203: -1641556310055920493
+      Dwarf-Archer_204: -3896782993153332333
+      Dwarf-Archer_205: 8058732482368391462
+      Dwarf-Archer_206: 174641996653993581
+      Dwarf-Archer_207: -3127290901006809120
+      Dwarf-Archer_208: 2626710052455345262
+      Dwarf-Archer_209: 6569905272204521307
+      Dwarf-Archer_21: -6448972542602099946
+      Dwarf-Archer_210: -7657401941700637382
+      Dwarf-Archer_211: 8571795802576623325
+      Dwarf-Archer_212: 6719865386334068537
+      Dwarf-Archer_213: 875381989735989814
+      Dwarf-Archer_214: -6754120446400972268
+      Dwarf-Archer_215: 2794159652787719284
+      Dwarf-Archer_216: 8381233553506977043
+      Dwarf-Archer_217: -321478474846392781
+      Dwarf-Archer_218: 3289223370947004845
+      Dwarf-Archer_219: 4071343353655537108
+      Dwarf-Archer_22: 920449521386174442
+      Dwarf-Archer_220: -1762697424120890883
+      Dwarf-Archer_221: 7661030744996103981
+      Dwarf-Archer_222: 7486834994685030288
+      Dwarf-Archer_223: 7143027122440589008
+      Dwarf-Archer_224: -3604746564076094401
+      Dwarf-Archer_225: -3927594630597815535
+      Dwarf-Archer_226: -6749320725301139261
+      Dwarf-Archer_227: -7098664955016645020
+      Dwarf-Archer_228: -5816994044413399975
+      Dwarf-Archer_229: -56919186050197111
+      Dwarf-Archer_23: 7508272164784258557
+      Dwarf-Archer_230: 2661591766543152793
+      Dwarf-Archer_231: 7169297448702641284
+      Dwarf-Archer_24: -3231630864846121276
+      Dwarf-Archer_25: 4705044926444598555
+      Dwarf-Archer_26: -5195101178213154001
+      Dwarf-Archer_27: -6372904459454399168
+      Dwarf-Archer_28: 4288037203649720464
+      Dwarf-Archer_29: -8485475685056958413
+      Dwarf-Archer_3: -8323627753333217030
+      Dwarf-Archer_30: 8521068128076847274
+      Dwarf-Archer_31: 9187452607967697046
+      Dwarf-Archer_32: 902191211452815950
+      Dwarf-Archer_33: 5818431705568754126
+      Dwarf-Archer_34: -6767260113507320957
+      Dwarf-Archer_35: 8916655075264847077
+      Dwarf-Archer_36: 7130686398701363780
+      Dwarf-Archer_37: 3761601258822978286
+      Dwarf-Archer_38: 144112879654332024
+      Dwarf-Archer_39: 954767207070671777
+      Dwarf-Archer_4: -6804784785278574197
+      Dwarf-Archer_40: -2556005112442421632
+      Dwarf-Archer_41: -5356347094655073908
+      Dwarf-Archer_42: 2003679537920468612
+      Dwarf-Archer_43: -9013323350213115943
+      Dwarf-Archer_44: 4677965362186884628
+      Dwarf-Archer_45: 1920802757529876211
+      Dwarf-Archer_46: 6026688086900327916
+      Dwarf-Archer_47: -2974719286868880283
+      Dwarf-Archer_48: 6886146606107750995
+      Dwarf-Archer_49: 5283319318279990438
+      Dwarf-Archer_5: 90381680896161017
+      Dwarf-Archer_50: 8036072415128479892
+      Dwarf-Archer_51: -4533342249823400175
+      Dwarf-Archer_52: 7398122647843275021
+      Dwarf-Archer_53: -8484059600725633250
+      Dwarf-Archer_54: 3715052867323354200
+      Dwarf-Archer_55: -4469226383226229835
+      Dwarf-Archer_56: -7411048964088697960
+      Dwarf-Archer_57: 5924241317267826261
+      Dwarf-Archer_58: 8372950068885967521
+      Dwarf-Archer_59: 1094998957827240013
+      Dwarf-Archer_6: -8205214756901545077
+      Dwarf-Archer_60: 259852106907318563
+      Dwarf-Archer_61: -4048616663865269252
+      Dwarf-Archer_62: 5317847682102832833
+      Dwarf-Archer_63: 3415620022764726462
+      Dwarf-Archer_64: -1203914426845198403
+      Dwarf-Archer_65: 6601855386414533168
+      Dwarf-Archer_66: 1088420111207741371
+      Dwarf-Archer_67: -2647886366159505465
+      Dwarf-Archer_68: 4421807223078216133
+      Dwarf-Archer_69: 6745274531447729220
+      Dwarf-Archer_7: -231047595262742613
+      Dwarf-Archer_70: -1835838292998527842
+      Dwarf-Archer_71: -2422710792914910256
+      Dwarf-Archer_72: 3672760236146248376
+      Dwarf-Archer_73: 6208511182892664983
+      Dwarf-Archer_74: 8719035296372182043
+      Dwarf-Archer_75: -8203336106786209451
+      Dwarf-Archer_76: -6144171409711277346
+      Dwarf-Archer_77: 7963757373281440598
+      Dwarf-Archer_78: 8164764202547243042
+      Dwarf-Archer_79: -5383427700632958683
+      Dwarf-Archer_8: 4003373931125780288
+      Dwarf-Archer_80: -7545531819007219726
+      Dwarf-Archer_81: 491666284014702771
+      Dwarf-Archer_82: -456870538752506738
+      Dwarf-Archer_83: 8192889449404408168
+      Dwarf-Archer_84: -1487429773870801940
+      Dwarf-Archer_85: 5875989749887742829
+      Dwarf-Archer_86: -3308981963131203259
+      Dwarf-Archer_87: 992513686053504585
+      Dwarf-Archer_88: 1371741358566773399
+      Dwarf-Archer_89: -1445455519232061642
+      Dwarf-Archer_9: 8970982195144499938
+      Dwarf-Archer_90: 2822641992072987811
+      Dwarf-Archer_91: 3557772055206597726
+      Dwarf-Archer_92: -5895206853882886666
+      Dwarf-Archer_93: -6816540398377739439
+      Dwarf-Archer_94: -5667489779963978933
+      Dwarf-Archer_95: 6109004504507149036
+      Dwarf-Archer_96: 1934970762956295432
+      Dwarf-Archer_97: 6478360073498469926
+      Dwarf-Archer_98: 2791899115882553148
+      Dwarf-Archer_99: 4210372507792006795
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
