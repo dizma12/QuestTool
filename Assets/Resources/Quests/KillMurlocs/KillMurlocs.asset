@@ -13,12 +13,12 @@ MonoBehaviour:
   m_Name: KillMurlocs
   m_EditorClassIdentifier: QuestMaker.Domain::QuestMaker.Domain.QuestSO
   _objectives:
-  - rid: 2370604503514480804
+  - rid: 2370604618821402763
   _qType: 0
   _prerequisites:
-    rid: 2370604503514480805
+    rid: 2370604618821402764
   _rewards:
-    rid: 2370604503514480806
+    rid: 2370604618821402765
   _specialEvent:
     rid: -2
   _handInGiverGuid: 028598315bb02434c9c5cce8db34da64
@@ -28,14 +28,14 @@ MonoBehaviour:
     RefIds:
     - rid: -2
       type: {class: , ns: , asm: }
-    - rid: 2370604503514480804
+    - rid: 2370604618821402763
       type: {class: ObjectiveData, ns: QuestMaker.Domain.Objectives, asm: QuestMaker.Domain}
       data:
         id: Slay_1
         desc: Murlocs
         _steps:
-        - rid: 2370604503514480807
-    - rid: 2370604503514480805
+        - rid: 2370604618821402766
+    - rid: 2370604618821402764
       type: {class: PrerequisiteData, ns: QuestMaker.Domain, asm: QuestMaker.Domain}
       data:
         _level: 1
@@ -44,7 +44,7 @@ MonoBehaviour:
         _quests:
         - CollectRings
         _inGameTimeConstraint: 0
-    - rid: 2370604503514480806
+    - rid: 2370604618821402765
       type: {class: RewardData, ns: QuestMaker.Domain, asm: QuestMaker.Domain}
       data:
         _exp: 700000
@@ -53,7 +53,7 @@ MonoBehaviour:
           _amount: 1
         _abilities: []
         _reps: []
-    - rid: 2370604503514480807
+    - rid: 2370604618821402766
       type: {class: SlayStepData, ns: QuestMaker.Domain.Steps, asm: QuestMaker.Domain}
       data:
         stepId: Slay_[Mrrrlglglll]_15

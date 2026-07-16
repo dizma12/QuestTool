@@ -77,7 +77,7 @@ namespace QuestMaker.Editor.CompilationModules
         {
             TBuilder builder = new();
             _modules.Add(typeof(TBuilder), builder);
-            ConsoleLogger.Log(this, $"Created builder: {typeof(TBuilder).Name}");
+
             return builder;
         }
 
@@ -97,8 +97,7 @@ namespace QuestMaker.Editor.CompilationModules
             }
 
             _reg.Add(type, moduleTypes);
-            ConsoleLogger.Log(this, $"Registered {type.Name} with {moduleTypes.Length} modules: " +
-                      string.Join(", ", moduleTypes.Select(t => t.Name)));
+
             return true;
         }
     }

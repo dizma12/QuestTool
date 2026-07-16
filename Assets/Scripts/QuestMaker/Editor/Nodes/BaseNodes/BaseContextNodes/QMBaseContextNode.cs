@@ -37,7 +37,7 @@ namespace QuestMaker.Editor.Nodes
             if (blocks.Length <= 0)
             {
                 ConsoleLogger.LogWarning(this, "No IComposableNode blocks found.");
-                return null;
+                return Array.Empty<IComposableNode>();
             }
 
             return blocks;
