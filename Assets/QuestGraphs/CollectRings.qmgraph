@@ -1,0 +1,775 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12501, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: CollectRings
+  m_EditorClassIdentifier: UnityEditor.dll::Unity.GraphToolkit.Editor.Implementation.GraphObjectImp
+  m_GraphModel:
+    rid: 2370604503514480706
+  references:
+    version: 2
+    RefIds:
+    - rid: -2
+      type: {class: , ns: , asm: }
+    - rid: 2370604503514480706
+      type: {class: GraphModelImp, ns: Unity.GraphToolkit.Editor.Implementation, asm: UnityEditor.GraphToolkitModule}
+      data:
+        m_Guid:
+          m_Value0: 15891859030641429711
+          m_Value1: 3238837552442340381
+        m_HashGuid:
+          serializedVersion: 2
+          Hash: cf4cf7f596398bdc1d74850698a9f22c
+        m_Name: 
+        m_GraphNodeModels:
+        - rid: 2370604503514480709
+        - rid: 2370604503514480713
+        - rid: 2370604503514480717
+        - rid: 2370604503514480725
+        - rid: 2370604503514480746
+        m_GraphWireModels:
+        - rid: 2370604503514480714
+        - rid: 2370604503514480718
+        - rid: 2370604503514480726
+        - rid: 2370604503514480747
+        m_GraphStickyNoteModels: []
+        m_GraphPlacematModels: []
+        m_GraphVariableModels: []
+        m_GraphPortalModels: []
+        m_SectionModels:
+        - rid: 2370604503514480707
+        m_LocalSubgraphs: []
+        m_LastKnownBounds:
+          serializedVersion: 2
+          x: 81
+          y: -204
+          width: 933
+          height: 790
+        m_GraphElementMetaData:
+        - m_Guid:
+            m_Value0: 54549876642727128
+            m_Value1: 3422384373732307142
+          m_HashGuid:
+            serializedVersion: 2
+            Hash: d8c4d4e3d2ccc100c670299174c07e2f
+          m_Category: 0
+          m_Index: 0
+        - m_Guid:
+            m_Value0: 16669099993637552000
+            m_Value1: 9159921268003063864
+          m_HashGuid:
+            serializedVersion: 2
+            Hash: 807f3ba6208a54e73848dea5dc931e7f
+          m_Category: 4
+          m_Index: 1
+        - m_Guid:
+            m_Value0: 1591734809410376448
+            m_Value1: 16154879567439776618
+          m_HashGuid:
+            serializedVersion: 2
+            Hash: 0093873360fa16166acb76d65fa931e0
+          m_Category: 2
+          m_Index: 0
+        - m_Guid:
+            m_Value0: 11236513440120045385
+            m_Value1: 5020695019765078581
+          m_HashGuid:
+            serializedVersion: 2
+            Hash: 49ff41b0701df09b359aab0a8517ad45
+          m_Category: 4
+          m_Index: 2
+        - m_Guid:
+            m_Value0: 6104543528721545808
+            m_Value1: 2623378294822021031
+          m_HashGuid:
+            serializedVersion: 2
+            Hash: 507a5b01ffb1b754a72756eea81c6824
+          m_Category: 2
+          m_Index: 1
+        - m_Guid:
+            m_Value0: 13194367115366704064
+            m_Value1: 15598910113145184310
+          m_HashGuid:
+            serializedVersion: 2
+            Hash: c0238713fcce1bb7366044f119767ad8
+          m_Category: 4
+          m_Index: 3
+        - m_Guid:
+            m_Value0: 5614015864343951266
+            m_Value1: 798139833989378763
+          m_HashGuid:
+            serializedVersion: 2
+            Hash: a2f7a02daffde84dcbb20646f38f130b
+          m_Category: 2
+          m_Index: 2
+        - m_Guid:
+            m_Value0: 6003025075186562765
+            m_Value1: 4552477017081624087
+          m_HashGuid:
+            serializedVersion: 2
+            Hash: cdf6412080074f5317b6471bbaa52d3f
+          m_Category: 4
+          m_Index: 4
+        - m_Guid:
+            m_Value0: 15745162835494029870
+            m_Value1: 8846551919533990625
+          m_HashGuid:
+            serializedVersion: 2
+            Hash: 2eca4d6c2d0e82dae1a2df8a1944c57a
+          m_Category: 2
+          m_Index: 3
+        m_EntryPoint:
+          rid: 2370604503514480709
+        m_Graph:
+          rid: 2370604503514480708
+    - rid: 2370604503514480707
+      type: {class: SectionModel, ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
+      data:
+        m_Guid:
+          m_Value0: 7754950504220231652
+          m_Value1: 11166965078113729555
+        m_HashGuid:
+          serializedVersion: 2
+          Hash: e487c866651e9f6b133c29cc9207f99a
+        m_Version: 2
+        m_Items: []
+        m_Title: 
+    - rid: 2370604503514480708
+      type: {class: QMGraph, ns: QuestMaker.Editor.Graph, asm: QuestMakerEditor}
+      data: 
+    - rid: 2370604503514480709
+      type: {class: UserNodeModelImp, ns: Unity.GraphToolkit.Editor.Implementation, asm: UnityEditor.GraphToolkitModule}
+      data:
+        m_Guid:
+          m_Value0: 54549876642727128
+          m_Value1: 3422384373732307142
+        m_HashGuid:
+          serializedVersion: 2
+          Hash: d8c4d4e3d2ccc100c670299174c07e2f
+        m_Version: 2
+        m_Position: {x: 81, y: 192}
+        m_Title: 
+        m_Tooltip: 
+        m_NodePreviewModel:
+          rid: -2
+        m_State: 0
+        m_InputConstantsById:
+          m_KeyList:
+          - __option_QUEST_TYPE_OPTION
+          - __option_QUEST_DESC_OPTION
+          m_ValueList:
+          - rid: 2370604503514480710
+          - rid: 2370604503514480711
+        m_InputPortInfos:
+          expandedPortsById:
+            m_KeyList: []
+            m_ValueList: 
+        m_OutputPortInfos:
+          expandedPortsById:
+            m_KeyList: []
+            m_ValueList: 
+        m_Collapsed: 0
+        m_CurrentModeIndex: 0
+        m_ElementColor:
+          m_Color: {r: 0, g: 0, b: 0, a: 0}
+          m_HasUserColor: 0
+        m_Node:
+          rid: 2370604503514480712
+    - rid: 2370604503514480710
+      type: {class: EnumConstant, ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
+      data:
+        m_Value:
+          m_EnumType:
+            m_Identification: QuestMaker.Domain.QuestType, QuestMaker.Domain, Version=0.0.0.0,
+              Culture=neutral, PublicKeyToken=null
+          m_Value: 0
+        m_EnumType:
+          m_Identification: QuestMaker.Domain.QuestType, QuestMaker.Domain, Version=0.0.0.0,
+            Culture=neutral, PublicKeyToken=null
+    - rid: 2370604503514480711
+      type: {class: 'Constant`1[[System.String, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
+      data:
+        m_Value: We need those Rings
+    - rid: 2370604503514480712
+      type: {class: QMStartingNode, ns: QuestMaker.Editor.Nodes, asm: QuestMakerEditor}
+      data: 
+    - rid: 2370604503514480713
+      type: {class: UserContextNodeModelImp, ns: Unity.GraphToolkit.Editor.Implementation, asm: UnityEditor.GraphToolkitModule}
+      data:
+        m_Guid:
+          m_Value0: 16669099993637552000
+          m_Value1: 9159921268003063864
+        m_HashGuid:
+          serializedVersion: 2
+          Hash: 807f3ba6208a54e73848dea5dc931e7f
+        m_Version: 2
+        m_Position: {x: 597, y: -204}
+        m_Title: 
+        m_Tooltip: 
+        m_NodePreviewModel:
+          rid: -2
+        m_State: 0
+        m_InputConstantsById:
+          m_KeyList:
+          - FlowIn
+          m_ValueList:
+          - rid: 2370604503514480715
+        m_InputPortInfos:
+          expandedPortsById:
+            m_KeyList: []
+            m_ValueList: 
+        m_OutputPortInfos:
+          expandedPortsById:
+            m_KeyList: []
+            m_ValueList: 
+        m_Collapsed: 0
+        m_CurrentModeIndex: 0
+        m_ElementColor:
+          m_Color: {r: 0, g: 0, b: 0, a: 0}
+          m_HasUserColor: 0
+        m_Blocks:
+        - rid: 2370604503514480737
+        - rid: 2370604503514480740
+        m_BlockGuids:
+        - serializedVersion: 2
+          Hash: e5fb7d8da33cf91a0f05097ba3d39213
+        - serializedVersion: 2
+          Hash: 8047ef2da2b7c7a5015678c8cb725ded
+        m_Subtitle: 
+        m_Node:
+          rid: 2370604503514480716
+    - rid: 2370604503514480714
+      type: {class: WireModel, ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
+      data:
+        m_Guid:
+          m_Value0: 1591734809410376448
+          m_Value1: 16154879567439776618
+        m_HashGuid:
+          serializedVersion: 2
+          Hash: 0093873360fa16166acb76d65fa931e0
+        m_Version: 2
+        m_FromPortReference:
+          m_NodeModelGuid:
+            m_Value0: 54549876642727128
+            m_Value1: 3422384373732307142
+          m_NodeModelHashGuid:
+            serializedVersion: 2
+            Hash: d8c4d4e3d2ccc100c670299174c07e2f
+          m_UniqueId: CONTEXT_FLOW_PORT
+          m_PortDirection: 2
+          m_PortOrientation: 0
+          m_Title: Context
+        m_ToPortReference:
+          m_NodeModelGuid:
+            m_Value0: 16669099993637552000
+            m_Value1: 9159921268003063864
+          m_NodeModelHashGuid:
+            serializedVersion: 2
+            Hash: 807f3ba6208a54e73848dea5dc931e7f
+          m_UniqueId: FlowIn
+          m_PortDirection: 1
+          m_PortOrientation: 0
+          m_Title: FlowIn
+    - rid: 2370604503514480715
+      type: {class: 'Constant`1[[QuestMaker.Editor.Nodes.IContextFlowHelper, QuestMakerEditor]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
+      data: 
+    - rid: 2370604503514480716
+      type: {class: AcquisitionContextNode, ns: QuestMaker.Editor.Nodes, asm: QuestMakerEditor}
+      data: 
+    - rid: 2370604503514480717
+      type: {class: UserContextNodeModelImp, ns: Unity.GraphToolkit.Editor.Implementation, asm: UnityEditor.GraphToolkitModule}
+      data:
+        m_Guid:
+          m_Value0: 11236513440120045385
+          m_Value1: 5020695019765078581
+        m_HashGuid:
+          serializedVersion: 2
+          Hash: 49ff41b0701df09b359aab0a8517ad45
+        m_Version: 2
+        m_Position: {x: 377, y: -203}
+        m_Title: 
+        m_Tooltip: 
+        m_NodePreviewModel:
+          rid: -2
+        m_State: 0
+        m_InputConstantsById:
+          m_KeyList:
+          - FlowIn
+          m_ValueList:
+          - rid: 2370604503514480719
+        m_InputPortInfos:
+          expandedPortsById:
+            m_KeyList: []
+            m_ValueList: 
+        m_OutputPortInfos:
+          expandedPortsById:
+            m_KeyList: []
+            m_ValueList: 
+        m_Collapsed: 0
+        m_CurrentModeIndex: 0
+        m_ElementColor:
+          m_Color: {r: 0, g: 0, b: 0, a: 0}
+          m_HasUserColor: 0
+        m_Blocks:
+        - rid: 2370604503514480734
+        m_BlockGuids:
+        - serializedVersion: 2
+          Hash: 53d8d68f20cdf59676597cfe5f8e8e71
+        m_Subtitle: 
+        m_Node:
+          rid: 2370604503514480720
+    - rid: 2370604503514480718
+      type: {class: WireModel, ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
+      data:
+        m_Guid:
+          m_Value0: 6104543528721545808
+          m_Value1: 2623378294822021031
+        m_HashGuid:
+          serializedVersion: 2
+          Hash: 507a5b01ffb1b754a72756eea81c6824
+        m_Version: 2
+        m_FromPortReference:
+          m_NodeModelGuid:
+            m_Value0: 54549876642727128
+            m_Value1: 3422384373732307142
+          m_NodeModelHashGuid:
+            serializedVersion: 2
+            Hash: d8c4d4e3d2ccc100c670299174c07e2f
+          m_UniqueId: CONTEXT_FLOW_PORT
+          m_PortDirection: 2
+          m_PortOrientation: 0
+          m_Title: Context
+        m_ToPortReference:
+          m_NodeModelGuid:
+            m_Value0: 11236513440120045385
+            m_Value1: 5020695019765078581
+          m_NodeModelHashGuid:
+            serializedVersion: 2
+            Hash: 49ff41b0701df09b359aab0a8517ad45
+          m_UniqueId: FlowIn
+          m_PortDirection: 1
+          m_PortOrientation: 0
+          m_Title: FlowIn
+    - rid: 2370604503514480719
+      type: {class: 'Constant`1[[QuestMaker.Editor.Nodes.IContextFlowHelper, QuestMakerEditor]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
+      data: 
+    - rid: 2370604503514480720
+      type: {class: RewardNode, ns: QuestMaker.Editor.Nodes, asm: QuestMakerEditor}
+      data: 
+    - rid: 2370604503514480725
+      type: {class: UserContextNodeModelImp, ns: Unity.GraphToolkit.Editor.Implementation, asm: UnityEditor.GraphToolkitModule}
+      data:
+        m_Guid:
+          m_Value0: 13194367115366704064
+          m_Value1: 15598910113145184310
+        m_HashGuid:
+          serializedVersion: 2
+          Hash: c0238713fcce1bb7366044f119767ad8
+        m_Version: 2
+        m_Position: {x: 331, y: 183}
+        m_Title: 
+        m_Tooltip: 
+        m_NodePreviewModel:
+          rid: -2
+        m_State: 0
+        m_InputConstantsById:
+          m_KeyList:
+          - __option_OBJECTIVE_DESCRIPTION
+          - FlowIn
+          m_ValueList:
+          - rid: 2370604503514480727
+          - rid: 2370604503514480728
+        m_InputPortInfos:
+          expandedPortsById:
+            m_KeyList: []
+            m_ValueList: 
+        m_OutputPortInfos:
+          expandedPortsById:
+            m_KeyList: []
+            m_ValueList: 
+        m_Collapsed: 0
+        m_CurrentModeIndex: 0
+        m_ElementColor:
+          m_Color: {r: 0, g: 0, b: 0, a: 0}
+          m_HasUserColor: 0
+        m_Blocks:
+        - rid: 2370604503514480730
+        m_BlockGuids:
+        - serializedVersion: 2
+          Hash: 80d6abd894afbafaf6ea1265f3838d52
+        m_Subtitle: 
+        m_Node:
+          rid: 2370604503514480729
+    - rid: 2370604503514480726
+      type: {class: WireModel, ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
+      data:
+        m_Guid:
+          m_Value0: 5614015864343951266
+          m_Value1: 798139833989378763
+        m_HashGuid:
+          serializedVersion: 2
+          Hash: a2f7a02daffde84dcbb20646f38f130b
+        m_Version: 2
+        m_FromPortReference:
+          m_NodeModelGuid:
+            m_Value0: 54549876642727128
+            m_Value1: 3422384373732307142
+          m_NodeModelHashGuid:
+            serializedVersion: 2
+            Hash: d8c4d4e3d2ccc100c670299174c07e2f
+          m_UniqueId: OBJECTIVE_FLOW_PORT
+          m_PortDirection: 2
+          m_PortOrientation: 0
+          m_Title: Objectives
+        m_ToPortReference:
+          m_NodeModelGuid:
+            m_Value0: 13194367115366704064
+            m_Value1: 15598910113145184310
+          m_NodeModelHashGuid:
+            serializedVersion: 2
+            Hash: c0238713fcce1bb7366044f119767ad8
+          m_UniqueId: FlowIn
+          m_PortDirection: 1
+          m_PortOrientation: 0
+          m_Title: FlowIn
+    - rid: 2370604503514480727
+      type: {class: 'Constant`1[[System.String, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
+      data:
+        m_Value: RingsCollected
+    - rid: 2370604503514480728
+      type: {class: 'Constant`1[[QuestMaker.Editor.Nodes.IObjectiveFlowHelper, QuestMakerEditor]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
+      data: 
+    - rid: 2370604503514480729
+      type: {class: ObjectiveNode, ns: QuestMaker.Editor.Nodes, asm: QuestMakerEditor}
+      data: 
+    - rid: 2370604503514480730
+      type: {class: UserBlockNodeModelImp, ns: Unity.GraphToolkit.Editor.Implementation, asm: UnityEditor.GraphToolkitModule}
+      data:
+        m_Guid:
+          m_Value0: 18066945908975326848
+          m_Value1: 5948555764222323446
+        m_HashGuid:
+          serializedVersion: 2
+          Hash: 80d6abd894afbafaf6ea1265f3838d52
+        m_Version: 2
+        m_Position: {x: 0, y: 0}
+        m_Title: UserBlockNodeModelImp
+        m_Tooltip: 
+        m_NodePreviewModel:
+          rid: -2
+        m_State: 0
+        m_InputConstantsById:
+          m_KeyList:
+          - __option_ITEM_OPTION
+          - __option_AMOUNT_OPTION
+          m_ValueList:
+          - rid: 2370604503514480731
+          - rid: 2370604503514480732
+        m_InputPortInfos:
+          expandedPortsById:
+            m_KeyList: []
+            m_ValueList: 
+        m_OutputPortInfos:
+          expandedPortsById:
+            m_KeyList: []
+            m_ValueList: 
+        m_Collapsed: 0
+        m_CurrentModeIndex: 0
+        m_ElementColor:
+          m_Color: {r: 0, g: 0, b: 0, a: 0}
+          m_HasUserColor: 0
+        m_ContextNodeModel:
+          rid: 2370604503514480725
+        m_Node:
+          rid: 2370604503514480733
+    - rid: 2370604503514480731
+      type: {class: 'Constant`1[[QuestMaker.Domain.Item, QuestMaker.Domain]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
+      data:
+        m_Value: {fileID: 11400000, guid: 1106ae74209db0c41bcac20046adb984, type: 2}
+    - rid: 2370604503514480732
+      type: {class: 'Constant`1[[System.Int32, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
+      data:
+        m_Value: 10
+    - rid: 2370604503514480733
+      type: {class: CollectStepBlockNode, ns: QuestMaker.Editor.Nodes.BlockNodes, asm: QuestMakerEditor}
+      data: 
+    - rid: 2370604503514480734
+      type: {class: UserBlockNodeModelImp, ns: Unity.GraphToolkit.Editor.Implementation, asm: UnityEditor.GraphToolkitModule}
+      data:
+        m_Guid:
+          m_Value0: 10877826014719170643
+          m_Value1: 8182634115921369462
+        m_HashGuid:
+          serializedVersion: 2
+          Hash: 53d8d68f20cdf59676597cfe5f8e8e71
+        m_Version: 2
+        m_Position: {x: 0, y: 0}
+        m_Title: UserBlockNodeModelImp
+        m_Tooltip: 
+        m_NodePreviewModel:
+          rid: -2
+        m_State: 0
+        m_InputConstantsById:
+          m_KeyList:
+          - __option_Block_Option
+          m_ValueList:
+          - rid: 2370604503514480735
+        m_InputPortInfos:
+          expandedPortsById:
+            m_KeyList: []
+            m_ValueList: 
+        m_OutputPortInfos:
+          expandedPortsById:
+            m_KeyList: []
+            m_ValueList: 
+        m_Collapsed: 0
+        m_CurrentModeIndex: 0
+        m_ElementColor:
+          m_Color: {r: 0, g: 0, b: 0, a: 0}
+          m_HasUserColor: 0
+        m_ContextNodeModel:
+          rid: 2370604503514480717
+        m_Node:
+          rid: 2370604503514480736
+    - rid: 2370604503514480735
+      type: {class: 'Constant`1[[System.Int32, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
+      data:
+        m_Value: 5000000
+    - rid: 2370604503514480736
+      type: {class: QMExpRewardBlockNode, ns: QuestMaker.Editor.Nodes.BlockNodes, asm: QuestMakerEditor}
+      data: 
+    - rid: 2370604503514480737
+      type: {class: UserBlockNodeModelImp, ns: Unity.GraphToolkit.Editor.Implementation, asm: UnityEditor.GraphToolkitModule}
+      data:
+        m_Guid:
+          m_Value0: 1943651387338259429
+          m_Value1: 1410422332417705231
+        m_HashGuid:
+          serializedVersion: 2
+          Hash: e5fb7d8da33cf91a0f05097ba3d39213
+        m_Version: 2
+        m_Position: {x: 0, y: 0}
+        m_Title: UserBlockNodeModelImp
+        m_Tooltip: 
+        m_NodePreviewModel:
+          rid: -2
+        m_State: 0
+        m_InputConstantsById:
+          m_KeyList:
+          - __option_ACQUISITION_OPTION
+          m_ValueList:
+          - rid: 2370604503514480738
+        m_InputPortInfos:
+          expandedPortsById:
+            m_KeyList: []
+            m_ValueList: 
+        m_OutputPortInfos:
+          expandedPortsById:
+            m_KeyList: []
+            m_ValueList: 
+        m_Collapsed: 0
+        m_CurrentModeIndex: 0
+        m_ElementColor:
+          m_Color: {r: 0, g: 0, b: 0, a: 0}
+          m_HasUserColor: 0
+        m_ContextNodeModel:
+          rid: 2370604503514480713
+        m_Node:
+          rid: 2370604503514480739
+    - rid: 2370604503514480738
+      type: {class: 'Constant`1[[QuestMaker.Runtime.Game.QuestGiver, QuestMaker.Runtime]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
+      data:
+        m_Value: {fileID: 6363461478000096533, guid: 0b32d0742bd2d944cab7589649ccf3b8, type: 3}
+    - rid: 2370604503514480739
+      type: {class: AcquisitionBlockNode, ns: QuestMaker.Editor.Nodes, asm: QuestMakerEditor}
+      data: 
+    - rid: 2370604503514480740
+      type: {class: UserBlockNodeModelImp, ns: Unity.GraphToolkit.Editor.Implementation, asm: UnityEditor.GraphToolkitModule}
+      data:
+        m_Guid:
+          m_Value0: 11945718443806771072
+          m_Value1: 17103953179390268929
+        m_HashGuid:
+          serializedVersion: 2
+          Hash: 8047ef2da2b7c7a5015678c8cb725ded
+        m_Version: 2
+        m_Position: {x: 0, y: 0}
+        m_Title: UserBlockNodeModelImp
+        m_Tooltip: 
+        m_NodePreviewModel:
+          rid: -2
+        m_State: 0
+        m_InputConstantsById:
+          m_KeyList:
+          - __option_TURN_IN_OPTION
+          m_ValueList:
+          - rid: 2370604503514480741
+        m_InputPortInfos:
+          expandedPortsById:
+            m_KeyList: []
+            m_ValueList: 
+        m_OutputPortInfos:
+          expandedPortsById:
+            m_KeyList: []
+            m_ValueList: 
+        m_Collapsed: 0
+        m_CurrentModeIndex: 0
+        m_ElementColor:
+          m_Color: {r: 0, g: 0, b: 0, a: 0}
+          m_HasUserColor: 0
+        m_ContextNodeModel:
+          rid: 2370604503514480713
+        m_Node:
+          rid: 2370604503514480742
+    - rid: 2370604503514480741
+      type: {class: 'Constant`1[[QuestMaker.Runtime.Game.QuestGiver, QuestMaker.Runtime]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
+      data:
+        m_Value: {fileID: 6363461478000096533, guid: 0b32d0742bd2d944cab7589649ccf3b8, type: 3}
+    - rid: 2370604503514480742
+      type: {class: TurnInBlockNode, ns: QuestMaker.Editor.Nodes, asm: QuestMakerEditor}
+      data: 
+    - rid: 2370604503514480746
+      type: {class: UserContextNodeModelImp, ns: Unity.GraphToolkit.Editor.Implementation, asm: UnityEditor.GraphToolkitModule}
+      data:
+        m_Guid:
+          m_Value0: 6003025075186562765
+          m_Value1: 4552477017081624087
+        m_HashGuid:
+          serializedVersion: 2
+          Hash: cdf6412080074f5317b6471bbaa52d3f
+        m_Version: 2
+        m_Position: {x: 697, y: 235}
+        m_Title: 
+        m_Tooltip: 
+        m_NodePreviewModel:
+          rid: -2
+        m_State: 0
+        m_InputConstantsById:
+          m_KeyList:
+          - __option_OBJECTIVE_DESCRIPTION
+          - FlowIn
+          m_ValueList:
+          - rid: 2370604503514480748
+          - rid: 2370604503514480749
+        m_InputPortInfos:
+          expandedPortsById:
+            m_KeyList: []
+            m_ValueList: 
+        m_OutputPortInfos:
+          expandedPortsById:
+            m_KeyList: []
+            m_ValueList: 
+        m_Collapsed: 0
+        m_CurrentModeIndex: 0
+        m_ElementColor:
+          m_Color: {r: 0, g: 0, b: 0, a: 0}
+          m_HasUserColor: 0
+        m_Blocks:
+        - rid: 2370604503514480751
+        m_BlockGuids:
+        - serializedVersion: 2
+          Hash: 61626d07713a27db0e64bea48286389e
+        m_Subtitle: 
+        m_Node:
+          rid: 2370604503514480750
+    - rid: 2370604503514480747
+      type: {class: WireModel, ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
+      data:
+        m_Guid:
+          m_Value0: 15745162835494029870
+          m_Value1: 8846551919533990625
+        m_HashGuid:
+          serializedVersion: 2
+          Hash: 2eca4d6c2d0e82dae1a2df8a1944c57a
+        m_Version: 2
+        m_FromPortReference:
+          m_NodeModelGuid:
+            m_Value0: 13194367115366704064
+            m_Value1: 15598910113145184310
+          m_NodeModelHashGuid:
+            serializedVersion: 2
+            Hash: c0238713fcce1bb7366044f119767ad8
+          m_UniqueId: OBJECTIVE_FLOW_PORT
+          m_PortDirection: 2
+          m_PortOrientation: 0
+          m_Title: Next Objective
+        m_ToPortReference:
+          m_NodeModelGuid:
+            m_Value0: 6003025075186562765
+            m_Value1: 4552477017081624087
+          m_NodeModelHashGuid:
+            serializedVersion: 2
+            Hash: cdf6412080074f5317b6471bbaa52d3f
+          m_UniqueId: FlowIn
+          m_PortDirection: 1
+          m_PortOrientation: 0
+          m_Title: FlowIn
+    - rid: 2370604503514480748
+      type: {class: 'Constant`1[[System.String, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
+      data:
+        m_Value: 
+    - rid: 2370604503514480749
+      type: {class: 'Constant`1[[QuestMaker.Editor.Nodes.IObjectiveFlowHelper, QuestMakerEditor]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
+      data: 
+    - rid: 2370604503514480750
+      type: {class: ObjectiveNode, ns: QuestMaker.Editor.Nodes, asm: QuestMakerEditor}
+      data: 
+    - rid: 2370604503514480751
+      type: {class: UserBlockNodeModelImp, ns: Unity.GraphToolkit.Editor.Implementation, asm: UnityEditor.GraphToolkitModule}
+      data:
+        m_Guid:
+          m_Value0: 15791654875528258145
+          m_Value1: 11401010352356221966
+        m_HashGuid:
+          serializedVersion: 2
+          Hash: 61626d07713a27db0e64bea48286389e
+        m_Version: 2
+        m_Position: {x: 0, y: 0}
+        m_Title: UserBlockNodeModelImp
+        m_Tooltip: 
+        m_NodePreviewModel:
+          rid: -2
+        m_State: 0
+        m_InputConstantsById:
+          m_KeyList:
+          - __option_ITEM_OPTION
+          - __option_AMOUNT_OPTION
+          m_ValueList:
+          - rid: 2370604503514480752
+          - rid: 2370604503514480753
+        m_InputPortInfos:
+          expandedPortsById:
+            m_KeyList: []
+            m_ValueList: 
+        m_OutputPortInfos:
+          expandedPortsById:
+            m_KeyList: []
+            m_ValueList: 
+        m_Collapsed: 0
+        m_CurrentModeIndex: 0
+        m_ElementColor:
+          m_Color: {r: 0, g: 0, b: 0, a: 0}
+          m_HasUserColor: 0
+        m_ContextNodeModel:
+          rid: 2370604503514480746
+        m_Node:
+          rid: 2370604503514480754
+    - rid: 2370604503514480752
+      type: {class: 'Constant`1[[QuestMaker.Domain.Item, QuestMaker.Domain]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
+      data:
+        m_Value: {fileID: 11400000, guid: 4c49f9a07d6b1ae43871c76721bd5521, type: 2}
+    - rid: 2370604503514480753
+      type: {class: 'Constant`1[[System.Int32, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
+      data:
+        m_Value: 10
+    - rid: 2370604503514480754
+      type: {class: CollectStepBlockNode, ns: QuestMaker.Editor.Nodes.BlockNodes, asm: QuestMakerEditor}
+      data: 

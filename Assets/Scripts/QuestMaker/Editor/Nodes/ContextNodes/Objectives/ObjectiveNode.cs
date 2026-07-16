@@ -41,9 +41,11 @@ namespace QuestMaker.Editor.Nodes
 
         public override bool ProcessNode(ModuleBuilderRegistry reg)
         {
-            module = reg.RequestNewObjectiveModule<ObjectiveModule>() ?? throw new ArgumentNullException(nameof(module));
+            IComposableNode[] nodes = GetBlockNodes();
+            if(nodes.Length <= 0) return false;
 
-            if (!ProcessBlocks(reg))
+            module = reg.RequestNewObjectiveModule<ObjectiveModule>() ?? throw new ArgumentNullException(nameof(module));
+            if (!ProcessBlocks(reg, nodes))
                 return false;
 
             ProcessSubObjectiveNodes(reg);
@@ -51,9 +53,15 @@ namespace QuestMaker.Editor.Nodes
             return true;
         }
 
-        protected virtual bool ProcessBlocks(ModuleBuilderRegistry reg)
+        /// <summary>
+        /// Process Blocks same as parents class ComposeBlocks() with the difference of setting description.
+        /// </summary>
+        /// <param name="reg"></param>
+        /// <param name="nodes"></param>
+        /// <returns></returns>
+        protected virtual bool ProcessBlocks(ModuleBuilderRegistry reg, IComposableNode[] nodes)
         {
-            IComposableNode[] nodes = GetBlockNodes();
+            
             if (nodes == null || nodes.Length == 0)
                 return false;
 
@@ -65,7 +73,11 @@ namespace QuestMaker.Editor.Nodes
             module.SetDescription(RetrieveOptionValue<string>(OBJECTIVE_DESCRIPTION));
             return true;
         }
-
+        /// <summary>
+        /// Reccursion method for next Objective Nodes. Calls ProcessNode() on next Objective Node.
+        /// </summary>
+        /// <param name="reg"></param>
+        /// <returns></returns>
         protected virtual bool ProcessSubObjectiveNodes(ModuleBuilderRegistry reg)
         {
             IPort output = GetOutputPortByName(OBJECTIVE_FLOW_PORT);

@@ -1,0 +1,6164 @@
+fileFormatVersion: 2
+guid: fc79952153e5df649b85298bbde927d9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5622042484943621215
+    second: Dwarf-Sorcerer_0
+  - first:
+      213: -8027199757054315692
+    second: Dwarf-Sorcerer_1
+  - first:
+      213: -6582800481254721681
+    second: Dwarf-Sorcerer_2
+  - first:
+      213: 1557492482040508990
+    second: Dwarf-Sorcerer_3
+  - first:
+      213: -2176633374895429154
+    second: Dwarf-Sorcerer_4
+  - first:
+      213: -4893730667783406407
+    second: Dwarf-Sorcerer_5
+  - first:
+      213: -198983609281371609
+    second: Dwarf-Sorcerer_6
+  - first:
+      213: 1809355040474728000
+    second: Dwarf-Sorcerer_7
+  - first:
+      213: -4186417518862311753
+    second: Dwarf-Sorcerer_8
+  - first:
+      213: -2000941392100502534
+    second: Dwarf-Sorcerer_9
+  - first:
+      213: 2936780530026972988
+    second: Dwarf-Sorcerer_10
+  - first:
+      213: -6482096749328989126
+    second: Dwarf-Sorcerer_11
+  - first:
+      213: -8475279077779744612
+    second: Dwarf-Sorcerer_12
+  - first:
+      213: 5317130589385438556
+    second: Dwarf-Sorcerer_13
+  - first:
+      213: -5222111892887498498
+    second: Dwarf-Sorcerer_14
+  - first:
+      213: 2162612505268707042
+    second: Dwarf-Sorcerer_15
+  - first:
+      213: 8311846412635677534
+    second: Dwarf-Sorcerer_16
+  - first:
+      213: 2943716724523677955
+    second: Dwarf-Sorcerer_17
+  - first:
+      213: 5246219548654502121
+    second: Dwarf-Sorcerer_18
+  - first:
+      213: -5407887668761635405
+    second: Dwarf-Sorcerer_19
+  - first:
+      213: -8979333105508000996
+    second: Dwarf-Sorcerer_20
+  - first:
+      213: -3582808042914003117
+    second: Dwarf-Sorcerer_21
+  - first:
+      213: -7374165048853609734
+    second: Dwarf-Sorcerer_22
+  - first:
+      213: 5588794034800922837
+    second: Dwarf-Sorcerer_23
+  - first:
+      213: 3714725777231709746
+    second: Dwarf-Sorcerer_24
+  - first:
+      213: 223038474066378754
+    second: Dwarf-Sorcerer_25
+  - first:
+      213: 1548941621854075100
+    second: Dwarf-Sorcerer_26
+  - first:
+      213: 6693003654069611951
+    second: Dwarf-Sorcerer_27
+  - first:
+      213: 1058957439240530297
+    second: Dwarf-Sorcerer_28
+  - first:
+      213: -6530530491489433666
+    second: Dwarf-Sorcerer_29
+  - first:
+      213: 3821728073792514062
+    second: Dwarf-Sorcerer_30
+  - first:
+      213: 6154463632327780493
+    second: Dwarf-Sorcerer_31
+  - first:
+      213: 153525650705843550
+    second: Dwarf-Sorcerer_32
+  - first:
+      213: -7340356744580512965
+    second: Dwarf-Sorcerer_33
+  - first:
+      213: 4509497606538824043
+    second: Dwarf-Sorcerer_34
+  - first:
+      213: 5136281417994276054
+    second: Dwarf-Sorcerer_35
+  - first:
+      213: -8331226401431355472
+    second: Dwarf-Sorcerer_36
+  - first:
+      213: -4740656247743594695
+    second: Dwarf-Sorcerer_37
+  - first:
+      213: -2301269563420399506
+    second: Dwarf-Sorcerer_38
+  - first:
+      213: -8375491767873048286
+    second: Dwarf-Sorcerer_39
+  - first:
+      213: 1539723665115028781
+    second: Dwarf-Sorcerer_40
+  - first:
+      213: 1080067245545926014
+    second: Dwarf-Sorcerer_41
+  - first:
+      213: -6960115207996102430
+    second: Dwarf-Sorcerer_42
+  - first:
+      213: -2983133804525528661
+    second: Dwarf-Sorcerer_43
+  - first:
+      213: 7725953444725389122
+    second: Dwarf-Sorcerer_44
+  - first:
+      213: 5649208587840524313
+    second: Dwarf-Sorcerer_45
+  - first:
+      213: 2075029751586900726
+    second: Dwarf-Sorcerer_46
+  - first:
+      213: -6911012854161144251
+    second: Dwarf-Sorcerer_47
+  - first:
+      213: 7429860176664866204
+    second: Dwarf-Sorcerer_48
+  - first:
+      213: -7101836041752703306
+    second: Dwarf-Sorcerer_49
+  - first:
+      213: -1117239736120666337
+    second: Dwarf-Sorcerer_50
+  - first:
+      213: -4173334573965119687
+    second: Dwarf-Sorcerer_51
+  - first:
+      213: 7173268561231803390
+    second: Dwarf-Sorcerer_52
+  - first:
+      213: -3785813120203885577
+    second: Dwarf-Sorcerer_53
+  - first:
+      213: 1516090110882438217
+    second: Dwarf-Sorcerer_54
+  - first:
+      213: -8232524454269771960
+    second: Dwarf-Sorcerer_55
+  - first:
+      213: 1172769091641446673
+    second: Dwarf-Sorcerer_56
+  - first:
+      213: -393997668560817256
+    second: Dwarf-Sorcerer_57
+  - first:
+      213: 2234658030040502453
+    second: Dwarf-Sorcerer_58
+  - first:
+      213: 7281167414741577811
+    second: Dwarf-Sorcerer_59
+  - first:
+      213: -7761243315414213130
+    second: Dwarf-Sorcerer_60
+  - first:
+      213: -7503719727855208528
+    second: Dwarf-Sorcerer_61
+  - first:
+      213: -4974493413545924934
+    second: Dwarf-Sorcerer_62
+  - first:
+      213: 8604992448426678378
+    second: Dwarf-Sorcerer_63
+  - first:
+      213: -5722304889057393
+    second: Dwarf-Sorcerer_64
+  - first:
+      213: -2998050533409864814
+    second: Dwarf-Sorcerer_65
+  - first:
+      213: -2679354898274917443
+    second: Dwarf-Sorcerer_66
+  - first:
+      213: 5222599614748802730
+    second: Dwarf-Sorcerer_67
+  - first:
+      213: 3848890856907571785
+    second: Dwarf-Sorcerer_68
+  - first:
+      213: 4063713877738717650
+    second: Dwarf-Sorcerer_69
+  - first:
+      213: 6801930549377380352
+    second: Dwarf-Sorcerer_70
+  - first:
+      213: 8152475271619157643
+    second: Dwarf-Sorcerer_71
+  - first:
+      213: 4381366262711965592
+    second: Dwarf-Sorcerer_72
+  - first:
+      213: -8305416004168461994
+    second: Dwarf-Sorcerer_73
+  - first:
+      213: 1764368244782695374
+    second: Dwarf-Sorcerer_74
+  - first:
+      213: 6986660141753110185
+    second: Dwarf-Sorcerer_75
+  - first:
+      213: 8692454674749922921
+    second: Dwarf-Sorcerer_76
+  - first:
+      213: 1234760854155248838
+    second: Dwarf-Sorcerer_77
+  - first:
+      213: 6081045645680320896
+    second: Dwarf-Sorcerer_78
+  - first:
+      213: 699064511953219348
+    second: Dwarf-Sorcerer_79
+  - first:
+      213: 6472623527960195630
+    second: Dwarf-Sorcerer_80
+  - first:
+      213: 3005481318648655615
+    second: Dwarf-Sorcerer_81
+  - first:
+      213: -2620243100939691890
+    second: Dwarf-Sorcerer_82
+  - first:
+      213: 2080539713278174627
+    second: Dwarf-Sorcerer_83
+  - first:
+      213: -4032576662414507483
+    second: Dwarf-Sorcerer_84
+  - first:
+      213: -8073791960934668193
+    second: Dwarf-Sorcerer_85
+  - first:
+      213: -4393217253470618606
+    second: Dwarf-Sorcerer_86
+  - first:
+      213: 8261512573999478912
+    second: Dwarf-Sorcerer_87
+  - first:
+      213: 413000653965457090
+    second: Dwarf-Sorcerer_88
+  - first:
+      213: 456479921819492026
+    second: Dwarf-Sorcerer_89
+  - first:
+      213: 8645651386537495554
+    second: Dwarf-Sorcerer_90
+  - first:
+      213: 2509945108838570616
+    second: Dwarf-Sorcerer_91
+  - first:
+      213: -8004121043551516853
+    second: Dwarf-Sorcerer_92
+  - first:
+      213: -2208850103827473625
+    second: Dwarf-Sorcerer_93
+  - first:
+      213: -7833488451742134781
+    second: Dwarf-Sorcerer_94
+  - first:
+      213: 4300376043731865729
+    second: Dwarf-Sorcerer_95
+  - first:
+      213: 4218007730756557858
+    second: Dwarf-Sorcerer_96
+  - first:
+      213: -6693300382354788280
+    second: Dwarf-Sorcerer_97
+  - first:
+      213: -4916763153842306069
+    second: Dwarf-Sorcerer_98
+  - first:
+      213: 1237438784211592108
+    second: Dwarf-Sorcerer_99
+  - first:
+      213: -9109413410883915130
+    second: Dwarf-Sorcerer_100
+  - first:
+      213: -684787283198072314
+    second: Dwarf-Sorcerer_101
+  - first:
+      213: 4884647945617462741
+    second: Dwarf-Sorcerer_102
+  - first:
+      213: -5166028033977366263
+    second: Dwarf-Sorcerer_103
+  - first:
+      213: -4554985592995387040
+    second: Dwarf-Sorcerer_104
+  - first:
+      213: 1856404394732541280
+    second: Dwarf-Sorcerer_105
+  - first:
+      213: -1686277753852767717
+    second: Dwarf-Sorcerer_106
+  - first:
+      213: 278941865944751141
+    second: Dwarf-Sorcerer_107
+  - first:
+      213: 2055779868622210580
+    second: Dwarf-Sorcerer_108
+  - first:
+      213: 1973051926727097145
+    second: Dwarf-Sorcerer_109
+  - first:
+      213: -3838248779388101748
+    second: Dwarf-Sorcerer_110
+  - first:
+      213: -797314551702779484
+    second: Dwarf-Sorcerer_111
+  - first:
+      213: 37466534337122936
+    second: Dwarf-Sorcerer_112
+  - first:
+      213: 2737748189044100700
+    second: Dwarf-Sorcerer_113
+  - first:
+      213: -3857257032838443322
+    second: Dwarf-Sorcerer_114
+  - first:
+      213: -338276550606795338
+    second: Dwarf-Sorcerer_115
+  - first:
+      213: 5513176979628858208
+    second: Dwarf-Sorcerer_116
+  - first:
+      213: 1877019012687141206
+    second: Dwarf-Sorcerer_117
+  - first:
+      213: -6767846558177967526
+    second: Dwarf-Sorcerer_118
+  - first:
+      213: -9049416018238621202
+    second: Dwarf-Sorcerer_119
+  - first:
+      213: -1339099037437780290
+    second: Dwarf-Sorcerer_120
+  - first:
+      213: -6463752202158664182
+    second: Dwarf-Sorcerer_121
+  - first:
+      213: 6120362333496128157
+    second: Dwarf-Sorcerer_122
+  - first:
+      213: 5960241302535852979
+    second: Dwarf-Sorcerer_123
+  - first:
+      213: -942853923636814379
+    second: Dwarf-Sorcerer_124
+  - first:
+      213: -7596557008984452887
+    second: Dwarf-Sorcerer_125
+  - first:
+      213: 841537718218685837
+    second: Dwarf-Sorcerer_126
+  - first:
+      213: -8093083322906985564
+    second: Dwarf-Sorcerer_127
+  - first:
+      213: 227348742238200522
+    second: Dwarf-Sorcerer_128
+  - first:
+      213: 1031379004516063978
+    second: Dwarf-Sorcerer_129
+  - first:
+      213: -7120213907594017756
+    second: Dwarf-Sorcerer_130
+  - first:
+      213: -1468630349925392379
+    second: Dwarf-Sorcerer_131
+  - first:
+      213: -1765748886927862162
+    second: Dwarf-Sorcerer_132
+  - first:
+      213: -5002784515249339240
+    second: Dwarf-Sorcerer_133
+  - first:
+      213: -1193922140391991048
+    second: Dwarf-Sorcerer_134
+  - first:
+      213: 993720612038726336
+    second: Dwarf-Sorcerer_135
+  - first:
+      213: -7600386540103436196
+    second: Dwarf-Sorcerer_136
+  - first:
+      213: -2630550636751694883
+    second: Dwarf-Sorcerer_137
+  - first:
+      213: -4242640921537672649
+    second: Dwarf-Sorcerer_138
+  - first:
+      213: 2667518970891731840
+    second: Dwarf-Sorcerer_139
+  - first:
+      213: 5962493611603532568
+    second: Dwarf-Sorcerer_140
+  - first:
+      213: 8486450322692061602
+    second: Dwarf-Sorcerer_141
+  - first:
+      213: 8117467524785889518
+    second: Dwarf-Sorcerer_142
+  - first:
+      213: -422777284758794082
+    second: Dwarf-Sorcerer_143
+  - first:
+      213: 9137884924763748266
+    second: Dwarf-Sorcerer_144
+  - first:
+      213: 2210222041395673359
+    second: Dwarf-Sorcerer_145
+  - first:
+      213: 6998211003254942029
+    second: Dwarf-Sorcerer_146
+  - first:
+      213: 1833804497940495445
+    second: Dwarf-Sorcerer_147
+  - first:
+      213: -7461281422287804504
+    second: Dwarf-Sorcerer_148
+  - first:
+      213: -6207974060315279167
+    second: Dwarf-Sorcerer_149
+  - first:
+      213: -1649955605039256366
+    second: Dwarf-Sorcerer_150
+  - first:
+      213: 5817143922186122098
+    second: Dwarf-Sorcerer_151
+  - first:
+      213: -2997418442395933165
+    second: Dwarf-Sorcerer_152
+  - first:
+      213: -4399265442131087940
+    second: Dwarf-Sorcerer_153
+  - first:
+      213: -3741394617940671140
+    second: Dwarf-Sorcerer_154
+  - first:
+      213: 2325566604562795425
+    second: Dwarf-Sorcerer_155
+  - first:
+      213: 8232346969725931128
+    second: Dwarf-Sorcerer_156
+  - first:
+      213: -3411969061888714085
+    second: Dwarf-Sorcerer_157
+  - first:
+      213: -1507990722397363067
+    second: Dwarf-Sorcerer_158
+  - first:
+      213: 5030062466213551377
+    second: Dwarf-Sorcerer_159
+  - first:
+      213: -8410394254097694486
+    second: Dwarf-Sorcerer_160
+  - first:
+      213: -1275478697706146958
+    second: Dwarf-Sorcerer_161
+  - first:
+      213: 332474066924089226
+    second: Dwarf-Sorcerer_162
+  - first:
+      213: -748443282883853136
+    second: Dwarf-Sorcerer_163
+  - first:
+      213: 1057992814613989893
+    second: Dwarf-Sorcerer_164
+  - first:
+      213: 474414993085278193
+    second: Dwarf-Sorcerer_165
+  - first:
+      213: -2299174675712295648
+    second: Dwarf-Sorcerer_166
+  - first:
+      213: -7087183047401729931
+    second: Dwarf-Sorcerer_167
+  - first:
+      213: 8576378509683831787
+    second: Dwarf-Sorcerer_168
+  - first:
+      213: 7538859532635149196
+    second: Dwarf-Sorcerer_169
+  - first:
+      213: -1434857881735728980
+    second: Dwarf-Sorcerer_170
+  - first:
+      213: -5838801514948940526
+    second: Dwarf-Sorcerer_171
+  - first:
+      213: 4756651022184046758
+    second: Dwarf-Sorcerer_172
+  - first:
+      213: -204735320649522314
+    second: Dwarf-Sorcerer_173
+  - first:
+      213: -1761098697172644794
+    second: Dwarf-Sorcerer_174
+  - first:
+      213: 3741696065023279820
+    second: Dwarf-Sorcerer_175
+  - first:
+      213: -7742422884751848654
+    second: Dwarf-Sorcerer_176
+  - first:
+      213: 6373171208082136164
+    second: Dwarf-Sorcerer_177
+  - first:
+      213: -8114093157841801644
+    second: Dwarf-Sorcerer_178
+  - first:
+      213: 6084415504961355515
+    second: Dwarf-Sorcerer_179
+  - first:
+      213: -4644619191797080441
+    second: Dwarf-Sorcerer_180
+  - first:
+      213: -4149585587873722425
+    second: Dwarf-Sorcerer_181
+  - first:
+      213: -5669581183621387586
+    second: Dwarf-Sorcerer_182
+  - first:
+      213: -3169560678429810303
+    second: Dwarf-Sorcerer_183
+  - first:
+      213: 2696702960740175223
+    second: Dwarf-Sorcerer_184
+  - first:
+      213: -8777770800269869996
+    second: Dwarf-Sorcerer_185
+  - first:
+      213: 342040372169028755
+    second: Dwarf-Sorcerer_186
+  - first:
+      213: -4456830956229899446
+    second: Dwarf-Sorcerer_187
+  - first:
+      213: -5113665855128301636
+    second: Dwarf-Sorcerer_188
+  - first:
+      213: 4524130772474293449
+    second: Dwarf-Sorcerer_189
+  - first:
+      213: -4053009709804824320
+    second: Dwarf-Sorcerer_190
+  - first:
+      213: -4929632128318727281
+    second: Dwarf-Sorcerer_191
+  - first:
+      213: 4834474763193723791
+    second: Dwarf-Sorcerer_192
+  - first:
+      213: -9002861070349674800
+    second: Dwarf-Sorcerer_193
+  - first:
+      213: 2957618523803873907
+    second: Dwarf-Sorcerer_194
+  - first:
+      213: 1037244471328667203
+    second: Dwarf-Sorcerer_195
+  - first:
+      213: 4556582283035350372
+    second: Dwarf-Sorcerer_196
+  - first:
+      213: -2995026147761317631
+    second: Dwarf-Sorcerer_197
+  - first:
+      213: -8965076005892619903
+    second: Dwarf-Sorcerer_198
+  - first:
+      213: -3448225917895015471
+    second: Dwarf-Sorcerer_199
+  - first:
+      213: 8740494556180812442
+    second: Dwarf-Sorcerer_200
+  - first:
+      213: 5143195958680443126
+    second: Dwarf-Sorcerer_201
+  - first:
+      213: -1443372105329404427
+    second: Dwarf-Sorcerer_202
+  - first:
+      213: -4248482209844803243
+    second: Dwarf-Sorcerer_203
+  - first:
+      213: 5564815855963069477
+    second: Dwarf-Sorcerer_204
+  - first:
+      213: -4629709251838084785
+    second: Dwarf-Sorcerer_205
+  - first:
+      213: 2626171595861112433
+    second: Dwarf-Sorcerer_206
+  - first:
+      213: 8104471550281645731
+    second: Dwarf-Sorcerer_207
+  - first:
+      213: 8127658763983881042
+    second: Dwarf-Sorcerer_208
+  - first:
+      213: 5461718577950583526
+    second: Dwarf-Sorcerer_209
+  - first:
+      213: 2347914017787420117
+    second: Dwarf-Sorcerer_210
+  - first:
+      213: -3006839404153534265
+    second: Dwarf-Sorcerer_211
+  - first:
+      213: -1900381075145977327
+    second: Dwarf-Sorcerer_212
+  - first:
+      213: -3759919135984429653
+    second: Dwarf-Sorcerer_213
+  - first:
+      213: -161143543378341467
+    second: Dwarf-Sorcerer_214
+  - first:
+      213: -5638765350225501509
+    second: Dwarf-Sorcerer_215
+  - first:
+      213: -1383861164362585214
+    second: Dwarf-Sorcerer_216
+  - first:
+      213: -1403085514440717824
+    second: Dwarf-Sorcerer_217
+  - first:
+      213: 6174042869540092025
+    second: Dwarf-Sorcerer_218
+  - first:
+      213: 5277180097956286133
+    second: Dwarf-Sorcerer_219
+  - first:
+      213: -6978605558021078874
+    second: Dwarf-Sorcerer_220
+  - first:
+      213: 8162985194663874554
+    second: Dwarf-Sorcerer_221
+  - first:
+      213: 866028834836479402
+    second: Dwarf-Sorcerer_222
+  - first:
+      213: 3915199424100705019
+    second: Dwarf-Sorcerer_223
+  - first:
+      213: -1453608425656878265
+    second: Dwarf-Sorcerer_224
+  - first:
+      213: -6662114812708189085
+    second: Dwarf-Sorcerer_225
+  - first:
+      213: -1608874842538445078
+    second: Dwarf-Sorcerer_226
+  - first:
+      213: -6830035861084281984
+    second: Dwarf-Sorcerer_227
+  - first:
+      213: 7885143242002023563
+    second: Dwarf-Sorcerer_228
+  - first:
+      213: 3615616249821219574
+    second: Dwarf-Sorcerer_229
+  - first:
+      213: -3137739536698362529
+    second: Dwarf-Sorcerer_230
+  - first:
+      213: -8720800792268474752
+    second: Dwarf-Sorcerer_231
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5c083b6ad1850e40800000000000000
+      internalID: 5622042484943621215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 453fca3d958a99090800000000000000
+      internalID: -8027199757054315692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f67ba87e6d135a4a0800000000000000
+      internalID: -6582800481254721681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e32bd5419235d9510800000000000000
+      internalID: 1557492482040508990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed929135a7b0bc1e0800000000000000
+      internalID: -2176633374895429154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bcb550c2e9f51cb0800000000000000
+      internalID: -4893730667783406407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 722a8ac26711d3df0800000000000000
+      internalID: -198983609281371609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0460f0ca2de1c1910800000000000000
+      internalID: 1809355040474728000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7be5dba727bd6e5c0800000000000000
+      internalID: -4186417518862311753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af35973c76a3b34e0800000000000000
+      internalID: -2000941392100502534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c378a83155a81c820800000000000000
+      internalID: 2936780530026972988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a340880a957fa06a0800000000000000
+      internalID: -6482096749328989126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9853ac2592c16a80800000000000000
+      internalID: -8475279077779744612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_13
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c55bea4891e3ac940800000000000000
+      internalID: 5317130589385438556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_14
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef0191fb6e45787b0800000000000000
+      internalID: -5222111892887498498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_15
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eedb539d94230e10800000000000000
+      internalID: 2162612505268707042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_16
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5321c4364c995370800000000000000
+      internalID: 8311846412635677534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_17
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3093c94b3ce2ad820800000000000000
+      internalID: 2943716724523677955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_18
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e0034342e05ec840800000000000000
+      internalID: 5246219548654502121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_19
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b55f3641d253f4b0800000000000000
+      internalID: -5407887668761635405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_20
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1b5a467d10036380800000000000000
+      internalID: -8979333105508000996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_21
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 357c2b7411f474ec0800000000000000
+      internalID: -3582808042914003117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_22
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af2caf345f3b9a990800000000000000
+      internalID: -7374165048853609734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_23
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d0912f50926f8d40800000000000000
+      internalID: 5588794034800922837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_24
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23602e5b96b5d8330800000000000000
+      internalID: 3714725777231709746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_25
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 200c8f97f44681300800000000000000
+      internalID: 223038474066378754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_26
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd8fd6cc232fe7510800000000000000
+      internalID: 1548941621854075100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_27
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fade531cc5352ec50800000000000000
+      internalID: 6693003654069611951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_28
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 979603e2e2c22be00800000000000000
+      internalID: 1058957439240530297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb74ae34e15ee55a0800000000000000
+      internalID: -6530530491489433666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_30
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e086a8a4f61890530800000000000000
+      internalID: 3821728073792514062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_31
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8825fbd01c096550800000000000000
+      internalID: 6154463632327780493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_32
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e558b3214ce612200800000000000000
+      internalID: 153525650705843550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_33
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b33c2a28e60d12a90800000000000000
+      internalID: -7340356744580512965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_34
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6988394e24f49e30800000000000000
+      internalID: 4509497606538824043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_35
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dc0df98cbcb74740800000000000000
+      internalID: 5136281417994276054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_36
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bff3578ab9816c80800000000000000
+      internalID: -8331226401431355472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_37
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93fb10f724ec53eb0800000000000000
+      internalID: -4740656247743594695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_38
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e68a8e3568f3010e0800000000000000
+      internalID: -2301269563420399506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_39
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 221f7b4cc9644cb80800000000000000
+      internalID: -8375491767873048286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_40
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2d917ff3823e5510800000000000000
+      internalID: 1539723665115028781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_41
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7dac48ff6b2dfe00800000000000000
+      internalID: 1080067245545926014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_42
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e829973814b86f90800000000000000
+      internalID: -6960115207996102430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_43
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba9dbcf2c97c996d0800000000000000
+      internalID: -2983133804525528661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_44
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 247ff0069b9183b60800000000000000
+      internalID: 7725953444725389122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_45
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9101254a745066e40800000000000000
+      internalID: 5649208587840524313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_46
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fa44b9a09cfbcc10800000000000000
+      internalID: 2075029751586900726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_47
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 546019ddc662710a0800000000000000
+      internalID: -6911012854161144251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_48
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9d2ee0377a2c1760800000000000000
+      internalID: 7429860176664866204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_49
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6be83464fb5317d90800000000000000
+      internalID: -7101836041752703306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_50
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f17939f1164ce70f0800000000000000
+      internalID: -1117239736120666337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_51
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93fe3f5f0565516c0800000000000000
+      internalID: -4173334573965119687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_52
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef3f2b630c19c8360800000000000000
+      internalID: 7173268561231803390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_53
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f3fb387607167bc0800000000000000
+      internalID: -3785813120203885577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_54
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94c51aa5ceb3a0510800000000000000
+      internalID: 1516090110882438217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_55
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84f988a60a230cd80800000000000000
+      internalID: -8232524454269771960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_56
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11198d67643864010800000000000000
+      internalID: 1172769091641446673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_57
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 893b91b353d388af0800000000000000
+      internalID: -393997668560817256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b0d90b73a9130f10800000000000000
+      internalID: 2234658030040502453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_59
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35032d9bf27eb0560800000000000000
+      internalID: 7281167414741577811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_60
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fd5c5153568a4490800000000000000
+      internalID: -7761243315414213130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_61
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b77917f9ae6dd790800000000000000
+      internalID: -7503719727855208528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_62
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab6231ca89c07fab0800000000000000
+      internalID: -4974493413545924934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_63
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6814676a031b6770800000000000000
+      internalID: 8604992448426678378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_64
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8f8ac1189babeff0800000000000000
+      internalID: -5722304889057393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_65
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2934f699ce8c466d0800000000000000
+      internalID: -2998050533409864814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_66
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db3ee157ae401dad0800000000000000
+      internalID: -2679354898274917443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_67
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaeb139dda66a7840800000000000000
+      internalID: 5222599614748802730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_68
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 942893197d10a6530800000000000000
+      internalID: 3848890856907571785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_69
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d10177cd36356830800000000000000
+      internalID: 4063713877738717650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_70
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0003486ebcf456e50800000000000000
+      internalID: 6801930549377380352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_71
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8e140dd019632170800000000000000
+      internalID: 8152475271619157643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_72
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 897d3d7076dbdcc30800000000000000
+      internalID: 4381366262711965592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_73
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 651d1bfe52c3dbc80800000000000000
+      internalID: -8305416004168461994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_74
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec38043129b4c7810800000000000000
+      internalID: 1764368244782695374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_75
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ae039bc16a95f060800000000000000
+      internalID: 6986660141753110185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_76
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96e17aad87dc1a870800000000000000
+      internalID: 8692454674749922921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_77
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c44b7e6470c22110800000000000000
+      internalID: 1234760854155248838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_78
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08126b5cbc6346450800000000000000
+      internalID: 6081045645680320896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_79
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41fad06487393b900800000000000000
+      internalID: 699064511953219348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_80
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2237e42ec063d950800000000000000
+      internalID: 6472623527960195630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_81
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffe2029e55d95b920800000000000000
+      internalID: 3005481318648655615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_82
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e88525748c603abd0800000000000000
+      internalID: -2620243100939691890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_83
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a5e90798df8fdc10800000000000000
+      internalID: 2080539713278174627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_84
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 522c04b14e86908c0800000000000000
+      internalID: -4032576662414507483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_85
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f58a5120df024ff80800000000000000
+      internalID: -8073791960934668193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_86
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21c34c92f282803c0800000000000000
+      internalID: -4393217253470618606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_87
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08879a82ae9c6a270800000000000000
+      internalID: 8261512573999478912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_88
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c67d9718e54bb500800000000000000
+      internalID: 413000653965457090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_89
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abe1623021eb55600800000000000000
+      internalID: 456479921819492026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_90
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20c4e6221268bf770800000000000000
+      internalID: 8645651386537495554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_91
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87a5d0a37cd15d220800000000000000
+      internalID: 2509945108838570616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_92
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4702eb8156abe090800000000000000
+      internalID: -8004121043551516853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_93
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72b574798869851e0800000000000000
+      internalID: -2208850103827473625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_94
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30e09c9b1cbd94390800000000000000
+      internalID: -7833488451742134781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_95
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 180dc373a310eab30800000000000000
+      internalID: 4300376043731865729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_96
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22c9893eeaf598a30800000000000000
+      internalID: 4218007730756557858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_97
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 840b1cec3ce9c13a0800000000000000
+      internalID: -6693300382354788280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_98
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be3008236f524cbb0800000000000000
+      internalID: -4916763153842306069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_99
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca3293c94044c2110800000000000000
+      internalID: 1237438784211592108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_100
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 682b51c34ccd49180800000000000000
+      internalID: -9109413410883915130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_101
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60a264618952f76f0800000000000000
+      internalID: -684787283198072314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_102
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d5de533d61c9c340800000000000000
+      internalID: 4884647945617462741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_103
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 909c117bfd49e48b0800000000000000
+      internalID: -5166028033977366263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_104
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 069ec7c8cb079c0c0800000000000000
+      internalID: -4554985592995387040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_105
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 065d18b16f543c910800000000000000
+      internalID: 1856404394732541280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_106
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1256f031532998e0800000000000000
+      internalID: -1686277753852767717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_107
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52c1f9036200fd300800000000000000
+      internalID: 278941865944751141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_108
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41640a506e8978c10800000000000000
+      internalID: 2055779868622210580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_109
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93bf7ff0640b16b10800000000000000
+      internalID: 1973051926727097145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_110
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8bdef0321dcbbac0800000000000000
+      internalID: -3838248779388101748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_111
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a9818bb3ae5fe4f0800000000000000
+      internalID: -797314551702779484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_112
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 872112e4d9b158000800000000000000
+      internalID: 37466534337122936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_113
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5e4174097f6ef520800000000000000
+      internalID: 2737748189044100700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_114
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ce894e4a25487ac0800000000000000
+      internalID: -3857257032838443322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_115
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bdcc3df4433e4bf0800000000000000
+      internalID: -338276550606795338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_116
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06b93aeb04db28c40800000000000000
+      internalID: 5513176979628858208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_117
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6591fdfd8d28c0a10800000000000000
+      internalID: 1877019012687141206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_118
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a52c375b967c312a0800000000000000
+      internalID: -6767846558177967526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_119
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee93828c3140a6280800000000000000
+      internalID: -9049416018238621202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_120
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebe147235809a6de0800000000000000
+      internalID: -1339099037437780290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_121
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a061f2a5e932c46a0800000000000000
+      internalID: -6463752202158664182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_122
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d92b7b08d15efe450800000000000000
+      internalID: 6120362333496128157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_123
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b3d24dc2e707b250800000000000000
+      internalID: 5960241302535852979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_124
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dd5b861a5f4ae2f0800000000000000
+      internalID: -942853923636814379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_125
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e05a7b06ab939690800000000000000
+      internalID: -7596557008984452887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_126
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8d7487981ebdab00800000000000000
+      internalID: 841537718218685837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_127
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4abbd78c8979faf80800000000000000
+      internalID: -8093083322906985564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_128
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac26d3df974b72300800000000000000
+      internalID: 227348742238200522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_129
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aead9f87db1305e00800000000000000
+      internalID: 1031379004516063978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_130
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4240011fc2bef2d90800000000000000
+      internalID: -7120213907594017756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_131
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 500e6565a706e9be0800000000000000
+      internalID: -1468630349925392379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_132
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e669f102ebcce77e0800000000000000
+      internalID: -1765748886927862162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_133
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8940db04df9829ab0800000000000000
+      internalID: -5002784515249339240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_134
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f8167493265e6fe0800000000000000
+      internalID: -1193922140391991048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_135
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c25d86b1a76acd00800000000000000
+      internalID: 993720612038726336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_136
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c587979d5b0068690800000000000000
+      internalID: -7600386540103436196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_137
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd3dcb412286e7bd0800000000000000
+      internalID: -2630550636751694883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_138
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73a06327f8c1f15c0800000000000000
+      internalID: -4242640921537672649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_139
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0830e93fe5ee40520800000000000000
+      internalID: 2667518970891731840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_140
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81b1a2f59580fb250800000000000000
+      internalID: 5962493611603532568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_141
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a93f08fa9de5c570800000000000000
+      internalID: 8486450322692061602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_142
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee0e1a2a4b907a070800000000000000
+      internalID: 8117467524785889518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_143
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9019daac4ef12af0800000000000000
+      internalID: -422777284758794082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_144
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa7b0faace940de70800000000000000
+      internalID: 9137884924763748266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_145
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f09b0248c394cae10800000000000000
+      internalID: 2210222041395673359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_146
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d49ad3054d3ae1160800000000000000
+      internalID: 6998211003254942029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_147
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55cb147997bf27910800000000000000
+      internalID: 1833804497940495445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_148
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a76057f314347890800000000000000
+      internalID: -7461281422287804504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_149
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c08110cb78d8d9a0800000000000000
+      internalID: -6207974060315279167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_150
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dc687a7e1e2a19e0800000000000000
+      internalID: -1649955605039256366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_151
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 273f931a395aab050800000000000000
+      internalID: 5817143922186122098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_152
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31629c1cec70766d0800000000000000
+      internalID: -2997418442395933165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_153
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbdef11836ba2f2c0800000000000000
+      internalID: -4399265442131087940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_154
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c558611fa65e31cc0800000000000000
+      internalID: -3741394617940671140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_155
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ab0a766182164020800000000000000
+      internalID: 2325566604562795425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_156
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87e074eb3fb2f3270800000000000000
+      internalID: 8232346969725931128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_157
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9a1081373046a0d0800000000000000
+      internalID: -3411969061888714085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_158
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 584abea7d6a821be0800000000000000
+      internalID: -1507990722397363067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_159
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11d1fa0a92f5ec540800000000000000
+      internalID: 5030062466213551377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_160
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae0458f6cf6484b80800000000000000
+      internalID: -8410394254097694486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_161
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 273b5a8d1e69c4ee0800000000000000
+      internalID: -1275478697706146958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_162
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8f2a00076f2d9400800000000000000
+      internalID: 332474066924089226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_163
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b44e25bccefc95f0800000000000000
+      internalID: -748443282883853136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_164
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50a8bf10cdebeae00800000000000000
+      internalID: 1057992814613989893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_165
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f7a7f23ce5759600800000000000000
+      internalID: 474414993085278193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_166
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02d389160d0b710e0800000000000000
+      internalID: -2299174675712295648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_167
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5701371619445ad90800000000000000
+      internalID: -7087183047401729931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_168
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be3bff0a0da650770800000000000000
+      internalID: 8576378509683831787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_169
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8319466dc86f9860800000000000000
+      internalID: 7538859532635149196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_170
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca0f8f7db5c561ce0800000000000000
+      internalID: -1434857881735728980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_171
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21da47b15f868fea0800000000000000
+      internalID: -5838801514948940526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_172
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a067c127e4030240800000000000000
+      internalID: 4756651022184046758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_173
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 673a5b38f42a82df0800000000000000
+      internalID: -204735320649522314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_174
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64c0f9cc0125f87e0800000000000000
+      internalID: -1761098697172644794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_175
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc2803d2fbc2de330800000000000000
+      internalID: 3741696065023279820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_176
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23bc28d48636d8490800000000000000
+      internalID: -7742422884751848654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_177
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46c9b7e727d027850800000000000000
+      internalID: 6373171208082136164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_178
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45e69646343f46f80800000000000000
+      internalID: -8114093157841801644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_179
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfeb9174aaf207450800000000000000
+      internalID: 6084415504961355515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_180
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78e19fb047ffa8fb0800000000000000
+      internalID: -4644619191797080441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_181
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cfc4bda4e5b966c0800000000000000
+      internalID: -4149585587873722425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_182
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eba2205c3f99151b0800000000000000
+      internalID: -5669581183621387586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_183
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18125242b557304d0800000000000000
+      internalID: -3169560678429810303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_184
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77d89a71e0d9c6520800000000000000
+      internalID: 2696702960740175223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_185
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45c3e1ab6f71f2680800000000000000
+      internalID: -8777770800269869996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_186
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3943af108eb2fb400800000000000000
+      internalID: 342040372169028755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_187
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4bc3fdcbd72622c0800000000000000
+      internalID: -4456830956229899446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_188
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbf88058ffb9809b0800000000000000
+      internalID: -5113665855128301636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_189
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cc6ebab7f0f8ce30800000000000000
+      internalID: 4524130772474293449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_190
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 009dfd78421d0c7c0800000000000000
+      internalID: -4053009709804824320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_191
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8b953692bd669bb0800000000000000
+      internalID: -4929632128318727281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_192
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8ba0c7de21871340800000000000000
+      internalID: 4834474763193723791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_193
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d65d934e896f0380800000000000000
+      internalID: -9002861070349674800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_194
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 372f17490629b0920800000000000000
+      internalID: 2957618523803873907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_195
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34678c2e958056e00800000000000000
+      internalID: 1037244471328667203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_196
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4651922d17b3c3f30800000000000000
+      internalID: 4556582283035350372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_197
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1091ea146978f66d0800000000000000
+      internalID: -2995026147761317631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_198
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18184642fd6a59380800000000000000
+      internalID: -8965076005892619903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_199
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d382921cc07520d0800000000000000
+      internalID: -3448225917895015471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_200
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a92946e5d797c4970800000000000000
+      internalID: 8740494556180812442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_201
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f85f5f797d406740800000000000000
+      internalID: 5143195958680443126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_202
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f5122fa7bc18fbe0800000000000000
+      internalID: -1443372105329404427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_203
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55942a780fb5a05c0800000000000000
+      internalID: -4248482209844803243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_204
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52cd32f89823a3d40800000000000000
+      internalID: 5564815855963069477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_205
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f49f9d6f6f7ffbfb0800000000000000
+      internalID: -4629709251838084785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_206
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 176b5820729027420800000000000000
+      internalID: 2626171595861112433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_207
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aefbc68fedd87070800000000000000
+      internalID: 8104471550281645731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_208
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25389da659e3bc070800000000000000
+      internalID: 8127658763983881042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_209
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ea65e5fb1cebcb40800000000000000
+      internalID: 5461718577950583526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_210
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dd11610c57759020800000000000000
+      internalID: 2347914017787420117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_211
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c808ca2e7f8546d0800000000000000
+      internalID: -3006839404153534265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_212
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1129c061b7d70a5e0800000000000000
+      internalID: -1900381075145977327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_213
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba5547b777512dbc0800000000000000
+      internalID: -3759919135984429653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_214
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a116131dc083cdf0800000000000000
+      internalID: -161143543378341467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_215
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb227081ac41fb1b0800000000000000
+      internalID: -5638765350225501509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_216
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28ba5bf5a998bcce0800000000000000
+      internalID: -1383861164362585214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_217
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00ac342982d378ce0800000000000000
+      internalID: -1403085514440717824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_218
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97878f2474b9ea550800000000000000
+      internalID: 6174042869540092025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_219
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5be0272e65f4c3940800000000000000
+      internalID: 5277180097956286133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_220
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a0469e1833072f90800000000000000
+      internalID: -6978605558021078874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_221
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aff86b209cfb84170800000000000000
+      internalID: 8162985194663874554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_222
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aad7ca903a0c40c00800000000000000
+      internalID: 866028834836479402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_223
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf22652f125955630800000000000000
+      internalID: 3915199424100705019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_224
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74bf432a6deb3dbe0800000000000000
+      internalID: -1453608425656878265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_225
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36c09af00e96b83a0800000000000000
+      internalID: -6662114812708189085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_226
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae6fe6adad02ca9e0800000000000000
+      internalID: -1608874842538445078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_227
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08364e84296d631a0800000000000000
+      internalID: -6830035861084281984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_228
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b844a965008ad6d60800000000000000
+      internalID: 7885143242002023563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_229
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fa49b6a2df3d2230800000000000000
+      internalID: 3615616249821219574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_230
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f55356d04828474d0800000000000000
+      internalID: -3137739536698362529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Sorcerer_231
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08674eb52ed79f680800000000000000
+      internalID: -8720800792268474752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ba4c8a14b24986946bacefbb5b8f4e20
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":32.0,"y":32.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Dwarf-Sorcerer_0: 5622042484943621215
+      Dwarf-Sorcerer_1: -8027199757054315692
+      Dwarf-Sorcerer_10: 2936780530026972988
+      Dwarf-Sorcerer_100: -9109413410883915130
+      Dwarf-Sorcerer_101: -684787283198072314
+      Dwarf-Sorcerer_102: 4884647945617462741
+      Dwarf-Sorcerer_103: -5166028033977366263
+      Dwarf-Sorcerer_104: -4554985592995387040
+      Dwarf-Sorcerer_105: 1856404394732541280
+      Dwarf-Sorcerer_106: -1686277753852767717
+      Dwarf-Sorcerer_107: 278941865944751141
+      Dwarf-Sorcerer_108: 2055779868622210580
+      Dwarf-Sorcerer_109: 1973051926727097145
+      Dwarf-Sorcerer_11: -6482096749328989126
+      Dwarf-Sorcerer_110: -3838248779388101748
+      Dwarf-Sorcerer_111: -797314551702779484
+      Dwarf-Sorcerer_112: 37466534337122936
+      Dwarf-Sorcerer_113: 2737748189044100700
+      Dwarf-Sorcerer_114: -3857257032838443322
+      Dwarf-Sorcerer_115: -338276550606795338
+      Dwarf-Sorcerer_116: 5513176979628858208
+      Dwarf-Sorcerer_117: 1877019012687141206
+      Dwarf-Sorcerer_118: -6767846558177967526
+      Dwarf-Sorcerer_119: -9049416018238621202
+      Dwarf-Sorcerer_12: -8475279077779744612
+      Dwarf-Sorcerer_120: -1339099037437780290
+      Dwarf-Sorcerer_121: -6463752202158664182
+      Dwarf-Sorcerer_122: 6120362333496128157
+      Dwarf-Sorcerer_123: 5960241302535852979
+      Dwarf-Sorcerer_124: -942853923636814379
+      Dwarf-Sorcerer_125: -7596557008984452887
+      Dwarf-Sorcerer_126: 841537718218685837
+      Dwarf-Sorcerer_127: -8093083322906985564
+      Dwarf-Sorcerer_128: 227348742238200522
+      Dwarf-Sorcerer_129: 1031379004516063978
+      Dwarf-Sorcerer_13: 5317130589385438556
+      Dwarf-Sorcerer_130: -7120213907594017756
+      Dwarf-Sorcerer_131: -1468630349925392379
+      Dwarf-Sorcerer_132: -1765748886927862162
+      Dwarf-Sorcerer_133: -5002784515249339240
+      Dwarf-Sorcerer_134: -1193922140391991048
+      Dwarf-Sorcerer_135: 993720612038726336
+      Dwarf-Sorcerer_136: -7600386540103436196
+      Dwarf-Sorcerer_137: -2630550636751694883
+      Dwarf-Sorcerer_138: -4242640921537672649
+      Dwarf-Sorcerer_139: 2667518970891731840
+      Dwarf-Sorcerer_14: -5222111892887498498
+      Dwarf-Sorcerer_140: 5962493611603532568
+      Dwarf-Sorcerer_141: 8486450322692061602
+      Dwarf-Sorcerer_142: 8117467524785889518
+      Dwarf-Sorcerer_143: -422777284758794082
+      Dwarf-Sorcerer_144: 9137884924763748266
+      Dwarf-Sorcerer_145: 2210222041395673359
+      Dwarf-Sorcerer_146: 6998211003254942029
+      Dwarf-Sorcerer_147: 1833804497940495445
+      Dwarf-Sorcerer_148: -7461281422287804504
+      Dwarf-Sorcerer_149: -6207974060315279167
+      Dwarf-Sorcerer_15: 2162612505268707042
+      Dwarf-Sorcerer_150: -1649955605039256366
+      Dwarf-Sorcerer_151: 5817143922186122098
+      Dwarf-Sorcerer_152: -2997418442395933165
+      Dwarf-Sorcerer_153: -4399265442131087940
+      Dwarf-Sorcerer_154: -3741394617940671140
+      Dwarf-Sorcerer_155: 2325566604562795425
+      Dwarf-Sorcerer_156: 8232346969725931128
+      Dwarf-Sorcerer_157: -3411969061888714085
+      Dwarf-Sorcerer_158: -1507990722397363067
+      Dwarf-Sorcerer_159: 5030062466213551377
+      Dwarf-Sorcerer_16: 8311846412635677534
+      Dwarf-Sorcerer_160: -8410394254097694486
+      Dwarf-Sorcerer_161: -1275478697706146958
+      Dwarf-Sorcerer_162: 332474066924089226
+      Dwarf-Sorcerer_163: -748443282883853136
+      Dwarf-Sorcerer_164: 1057992814613989893
+      Dwarf-Sorcerer_165: 474414993085278193
+      Dwarf-Sorcerer_166: -2299174675712295648
+      Dwarf-Sorcerer_167: -7087183047401729931
+      Dwarf-Sorcerer_168: 8576378509683831787
+      Dwarf-Sorcerer_169: 7538859532635149196
+      Dwarf-Sorcerer_17: 2943716724523677955
+      Dwarf-Sorcerer_170: -1434857881735728980
+      Dwarf-Sorcerer_171: -5838801514948940526
+      Dwarf-Sorcerer_172: 4756651022184046758
+      Dwarf-Sorcerer_173: -204735320649522314
+      Dwarf-Sorcerer_174: -1761098697172644794
+      Dwarf-Sorcerer_175: 3741696065023279820
+      Dwarf-Sorcerer_176: -7742422884751848654
+      Dwarf-Sorcerer_177: 6373171208082136164
+      Dwarf-Sorcerer_178: -8114093157841801644
+      Dwarf-Sorcerer_179: 6084415504961355515
+      Dwarf-Sorcerer_18: 5246219548654502121
+      Dwarf-Sorcerer_180: -4644619191797080441
+      Dwarf-Sorcerer_181: -4149585587873722425
+      Dwarf-Sorcerer_182: -5669581183621387586
+      Dwarf-Sorcerer_183: -3169560678429810303
+      Dwarf-Sorcerer_184: 2696702960740175223
+      Dwarf-Sorcerer_185: -8777770800269869996
+      Dwarf-Sorcerer_186: 342040372169028755
+      Dwarf-Sorcerer_187: -4456830956229899446
+      Dwarf-Sorcerer_188: -5113665855128301636
+      Dwarf-Sorcerer_189: 4524130772474293449
+      Dwarf-Sorcerer_19: -5407887668761635405
+      Dwarf-Sorcerer_190: -4053009709804824320
+      Dwarf-Sorcerer_191: -4929632128318727281
+      Dwarf-Sorcerer_192: 4834474763193723791
+      Dwarf-Sorcerer_193: -9002861070349674800
+      Dwarf-Sorcerer_194: 2957618523803873907
+      Dwarf-Sorcerer_195: 1037244471328667203
+      Dwarf-Sorcerer_196: 4556582283035350372
+      Dwarf-Sorcerer_197: -2995026147761317631
+      Dwarf-Sorcerer_198: -8965076005892619903
+      Dwarf-Sorcerer_199: -3448225917895015471
+      Dwarf-Sorcerer_2: -6582800481254721681
+      Dwarf-Sorcerer_20: -8979333105508000996
+      Dwarf-Sorcerer_200: 8740494556180812442
+      Dwarf-Sorcerer_201: 5143195958680443126
+      Dwarf-Sorcerer_202: -1443372105329404427
+      Dwarf-Sorcerer_203: -4248482209844803243
+      Dwarf-Sorcerer_204: 5564815855963069477
+      Dwarf-Sorcerer_205: -4629709251838084785
+      Dwarf-Sorcerer_206: 2626171595861112433
+      Dwarf-Sorcerer_207: 8104471550281645731
+      Dwarf-Sorcerer_208: 8127658763983881042
+      Dwarf-Sorcerer_209: 5461718577950583526
+      Dwarf-Sorcerer_21: -3582808042914003117
+      Dwarf-Sorcerer_210: 2347914017787420117
+      Dwarf-Sorcerer_211: -3006839404153534265
+      Dwarf-Sorcerer_212: -1900381075145977327
+      Dwarf-Sorcerer_213: -3759919135984429653
+      Dwarf-Sorcerer_214: -161143543378341467
+      Dwarf-Sorcerer_215: -5638765350225501509
+      Dwarf-Sorcerer_216: -1383861164362585214
+      Dwarf-Sorcerer_217: -1403085514440717824
+      Dwarf-Sorcerer_218: 6174042869540092025
+      Dwarf-Sorcerer_219: 5277180097956286133
+      Dwarf-Sorcerer_22: -7374165048853609734
+      Dwarf-Sorcerer_220: -6978605558021078874
+      Dwarf-Sorcerer_221: 8162985194663874554
+      Dwarf-Sorcerer_222: 866028834836479402
+      Dwarf-Sorcerer_223: 3915199424100705019
+      Dwarf-Sorcerer_224: -1453608425656878265
+      Dwarf-Sorcerer_225: -6662114812708189085
+      Dwarf-Sorcerer_226: -1608874842538445078
+      Dwarf-Sorcerer_227: -6830035861084281984
+      Dwarf-Sorcerer_228: 7885143242002023563
+      Dwarf-Sorcerer_229: 3615616249821219574
+      Dwarf-Sorcerer_23: 5588794034800922837
+      Dwarf-Sorcerer_230: -3137739536698362529
+      Dwarf-Sorcerer_231: -8720800792268474752
+      Dwarf-Sorcerer_24: 3714725777231709746
+      Dwarf-Sorcerer_25: 223038474066378754
+      Dwarf-Sorcerer_26: 1548941621854075100
+      Dwarf-Sorcerer_27: 6693003654069611951
+      Dwarf-Sorcerer_28: 1058957439240530297
+      Dwarf-Sorcerer_29: -6530530491489433666
+      Dwarf-Sorcerer_3: 1557492482040508990
+      Dwarf-Sorcerer_30: 3821728073792514062
+      Dwarf-Sorcerer_31: 6154463632327780493
+      Dwarf-Sorcerer_32: 153525650705843550
+      Dwarf-Sorcerer_33: -7340356744580512965
+      Dwarf-Sorcerer_34: 4509497606538824043
+      Dwarf-Sorcerer_35: 5136281417994276054
+      Dwarf-Sorcerer_36: -8331226401431355472
+      Dwarf-Sorcerer_37: -4740656247743594695
+      Dwarf-Sorcerer_38: -2301269563420399506
+      Dwarf-Sorcerer_39: -8375491767873048286
+      Dwarf-Sorcerer_4: -2176633374895429154
+      Dwarf-Sorcerer_40: 1539723665115028781
+      Dwarf-Sorcerer_41: 1080067245545926014
+      Dwarf-Sorcerer_42: -6960115207996102430
+      Dwarf-Sorcerer_43: -2983133804525528661
+      Dwarf-Sorcerer_44: 7725953444725389122
+      Dwarf-Sorcerer_45: 5649208587840524313
+      Dwarf-Sorcerer_46: 2075029751586900726
+      Dwarf-Sorcerer_47: -6911012854161144251
+      Dwarf-Sorcerer_48: 7429860176664866204
+      Dwarf-Sorcerer_49: -7101836041752703306
+      Dwarf-Sorcerer_5: -4893730667783406407
+      Dwarf-Sorcerer_50: -1117239736120666337
+      Dwarf-Sorcerer_51: -4173334573965119687
+      Dwarf-Sorcerer_52: 7173268561231803390
+      Dwarf-Sorcerer_53: -3785813120203885577
+      Dwarf-Sorcerer_54: 1516090110882438217
+      Dwarf-Sorcerer_55: -8232524454269771960
+      Dwarf-Sorcerer_56: 1172769091641446673
+      Dwarf-Sorcerer_57: -393997668560817256
+      Dwarf-Sorcerer_58: 2234658030040502453
+      Dwarf-Sorcerer_59: 7281167414741577811
+      Dwarf-Sorcerer_6: -198983609281371609
+      Dwarf-Sorcerer_60: -7761243315414213130
+      Dwarf-Sorcerer_61: -7503719727855208528
+      Dwarf-Sorcerer_62: -4974493413545924934
+      Dwarf-Sorcerer_63: 8604992448426678378
+      Dwarf-Sorcerer_64: -5722304889057393
+      Dwarf-Sorcerer_65: -2998050533409864814
+      Dwarf-Sorcerer_66: -2679354898274917443
+      Dwarf-Sorcerer_67: 5222599614748802730
+      Dwarf-Sorcerer_68: 3848890856907571785
+      Dwarf-Sorcerer_69: 4063713877738717650
+      Dwarf-Sorcerer_7: 1809355040474728000
+      Dwarf-Sorcerer_70: 6801930549377380352
+      Dwarf-Sorcerer_71: 8152475271619157643
+      Dwarf-Sorcerer_72: 4381366262711965592
+      Dwarf-Sorcerer_73: -8305416004168461994
+      Dwarf-Sorcerer_74: 1764368244782695374
+      Dwarf-Sorcerer_75: 6986660141753110185
+      Dwarf-Sorcerer_76: 8692454674749922921
+      Dwarf-Sorcerer_77: 1234760854155248838
+      Dwarf-Sorcerer_78: 6081045645680320896
+      Dwarf-Sorcerer_79: 699064511953219348
+      Dwarf-Sorcerer_8: -4186417518862311753
+      Dwarf-Sorcerer_80: 6472623527960195630
+      Dwarf-Sorcerer_81: 3005481318648655615
+      Dwarf-Sorcerer_82: -2620243100939691890
+      Dwarf-Sorcerer_83: 2080539713278174627
+      Dwarf-Sorcerer_84: -4032576662414507483
+      Dwarf-Sorcerer_85: -8073791960934668193
+      Dwarf-Sorcerer_86: -4393217253470618606
+      Dwarf-Sorcerer_87: 8261512573999478912
+      Dwarf-Sorcerer_88: 413000653965457090
+      Dwarf-Sorcerer_89: 456479921819492026
+      Dwarf-Sorcerer_9: -2000941392100502534
+      Dwarf-Sorcerer_90: 8645651386537495554
+      Dwarf-Sorcerer_91: 2509945108838570616
+      Dwarf-Sorcerer_92: -8004121043551516853
+      Dwarf-Sorcerer_93: -2208850103827473625
+      Dwarf-Sorcerer_94: -7833488451742134781
+      Dwarf-Sorcerer_95: 4300376043731865729
+      Dwarf-Sorcerer_96: 4218007730756557858
+      Dwarf-Sorcerer_97: -6693300382354788280
+      Dwarf-Sorcerer_98: -4916763153842306069
+      Dwarf-Sorcerer_99: 1237438784211592108
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

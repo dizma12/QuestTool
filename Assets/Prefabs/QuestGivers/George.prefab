@@ -27,7 +27,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.5, y: 0.5, z: 1}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 4911857582471412411}
@@ -81,8 +81,8 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_MaskInteraction: 0
-  m_Sprite: {fileID: -9095717837082945937, guid: 207ee8102dd4143d288186ef0be518ee, type: 3}
-  m_Color: {r: 0.88943696, g: 1, b: 0, a: 1}
+  m_Sprite: {fileID: -6214341589848983824, guid: 40e362deeb96cac48b0186d09de8761b, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -138,7 +138,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5940a31090e70764ab96fa0c9ef0301c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: QuestMaker.Runtime::QuestMaker.Runtime.Game.QuestGiver
-  _id: 8fe50eafef6409b4ab4a21f4364e4d66
+  _id: 0b32d0742bd2d944cab7589649ccf3b8
 --- !u!58 &6723128609563324777
 CircleCollider2D:
   m_ObjectHideFlags: 0

@@ -1,0 +1,6162 @@
+fileFormatVersion: 2
+guid: 37a29b0af9c530545b64506ce7738f4d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4076403271536223828
+    second: Dwarf-King_0
+  - first:
+      213: 6836228901174850544
+    second: Dwarf-King_1
+  - first:
+      213: 7729075081054226096
+    second: Dwarf-King_2
+  - first:
+      213: 7207597930668259703
+    second: Dwarf-King_3
+  - first:
+      213: 1733348858327888517
+    second: Dwarf-King_4
+  - first:
+      213: -7519850014169458626
+    second: Dwarf-King_5
+  - first:
+      213: -4447434108990642310
+    second: Dwarf-King_6
+  - first:
+      213: -9196501418291897849
+    second: Dwarf-King_7
+  - first:
+      213: -5466992673882696310
+    second: Dwarf-King_8
+  - first:
+      213: -150558208345723924
+    second: Dwarf-King_9
+  - first:
+      213: -7757815147648013255
+    second: Dwarf-King_10
+  - first:
+      213: -4776394048563049620
+    second: Dwarf-King_11
+  - first:
+      213: -4011389139893114874
+    second: Dwarf-King_12
+  - first:
+      213: -3485906994326530339
+    second: Dwarf-King_13
+  - first:
+      213: 8482245860330581576
+    second: Dwarf-King_14
+  - first:
+      213: -2218271347459053908
+    second: Dwarf-King_15
+  - first:
+      213: -5199900564591621732
+    second: Dwarf-King_16
+  - first:
+      213: -4300274145025747597
+    second: Dwarf-King_17
+  - first:
+      213: -3660274669136624290
+    second: Dwarf-King_18
+  - first:
+      213: -6062881831342131936
+    second: Dwarf-King_19
+  - first:
+      213: -3686357762787185356
+    second: Dwarf-King_20
+  - first:
+      213: 3425358540274181334
+    second: Dwarf-King_21
+  - first:
+      213: 903819049564931209
+    second: Dwarf-King_22
+  - first:
+      213: 138009297649595148
+    second: Dwarf-King_23
+  - first:
+      213: -7015426842024063988
+    second: Dwarf-King_24
+  - first:
+      213: 9219400446416097099
+    second: Dwarf-King_25
+  - first:
+      213: 7344230086211451841
+    second: Dwarf-King_26
+  - first:
+      213: 5776497895894123285
+    second: Dwarf-King_27
+  - first:
+      213: -7585903551851174780
+    second: Dwarf-King_28
+  - first:
+      213: -715403347141552786
+    second: Dwarf-King_29
+  - first:
+      213: 4998707582097802428
+    second: Dwarf-King_30
+  - first:
+      213: -114938019551418221
+    second: Dwarf-King_31
+  - first:
+      213: 4285091953396210171
+    second: Dwarf-King_32
+  - first:
+      213: 1723786800779298510
+    second: Dwarf-King_33
+  - first:
+      213: 4378116467465824611
+    second: Dwarf-King_34
+  - first:
+      213: 7284614804638809179
+    second: Dwarf-King_35
+  - first:
+      213: 7164920250016474401
+    second: Dwarf-King_36
+  - first:
+      213: 8780007387031209078
+    second: Dwarf-King_37
+  - first:
+      213: 8760458622919310421
+    second: Dwarf-King_38
+  - first:
+      213: -5766538605338477003
+    second: Dwarf-King_39
+  - first:
+      213: -3274960297391965674
+    second: Dwarf-King_40
+  - first:
+      213: 2169235221453484565
+    second: Dwarf-King_41
+  - first:
+      213: -4011746585721687506
+    second: Dwarf-King_42
+  - first:
+      213: 6341704787107524273
+    second: Dwarf-King_43
+  - first:
+      213: -5730006793689217052
+    second: Dwarf-King_44
+  - first:
+      213: 4225708609655051085
+    second: Dwarf-King_45
+  - first:
+      213: 4409617029390056715
+    second: Dwarf-King_46
+  - first:
+      213: 2947093810439238167
+    second: Dwarf-King_47
+  - first:
+      213: -6039311564279416009
+    second: Dwarf-King_48
+  - first:
+      213: 6575319945920407069
+    second: Dwarf-King_49
+  - first:
+      213: 6275289950106064786
+    second: Dwarf-King_50
+  - first:
+      213: -9064331636188063421
+    second: Dwarf-King_51
+  - first:
+      213: -2604902057569394034
+    second: Dwarf-King_52
+  - first:
+      213: 8539193970577647406
+    second: Dwarf-King_53
+  - first:
+      213: 2190460415823591857
+    second: Dwarf-King_54
+  - first:
+      213: 2677119404450309102
+    second: Dwarf-King_55
+  - first:
+      213: -1554020426501346940
+    second: Dwarf-King_56
+  - first:
+      213: -3825976795327004860
+    second: Dwarf-King_57
+  - first:
+      213: -2171283099094846134
+    second: Dwarf-King_58
+  - first:
+      213: -241339586615898325
+    second: Dwarf-King_59
+  - first:
+      213: 7448402905263114435
+    second: Dwarf-King_60
+  - first:
+      213: -8247148151849699000
+    second: Dwarf-King_61
+  - first:
+      213: -4801960739872547825
+    second: Dwarf-King_62
+  - first:
+      213: 5472654081656182507
+    second: Dwarf-King_63
+  - first:
+      213: -8197821327015006133
+    second: Dwarf-King_64
+  - first:
+      213: -1072856779152741892
+    second: Dwarf-King_65
+  - first:
+      213: -3644602253023675872
+    second: Dwarf-King_66
+  - first:
+      213: 7237775262400926297
+    second: Dwarf-King_67
+  - first:
+      213: 2883647347138975414
+    second: Dwarf-King_68
+  - first:
+      213: 2405891406349620118
+    second: Dwarf-King_69
+  - first:
+      213: -8886063778403587537
+    second: Dwarf-King_70
+  - first:
+      213: -4925214483909243241
+    second: Dwarf-King_71
+  - first:
+      213: -6386365928567262454
+    second: Dwarf-King_72
+  - first:
+      213: 4808821866345475917
+    second: Dwarf-King_73
+  - first:
+      213: 4917723343758958714
+    second: Dwarf-King_74
+  - first:
+      213: -5969706207044240899
+    second: Dwarf-King_75
+  - first:
+      213: 3177167605264706957
+    second: Dwarf-King_76
+  - first:
+      213: 1724731700165897087
+    second: Dwarf-King_77
+  - first:
+      213: -6503631995960446436
+    second: Dwarf-King_78
+  - first:
+      213: 1469219521014082635
+    second: Dwarf-King_79
+  - first:
+      213: 1033134985196751580
+    second: Dwarf-King_80
+  - first:
+      213: -4238478100483531944
+    second: Dwarf-King_81
+  - first:
+      213: 3251334366057947546
+    second: Dwarf-King_82
+  - first:
+      213: -6053473111797647378
+    second: Dwarf-King_83
+  - first:
+      213: -6416036452249360638
+    second: Dwarf-King_84
+  - first:
+      213: 7027217189643319538
+    second: Dwarf-King_85
+  - first:
+      213: -5654412203893658371
+    second: Dwarf-King_86
+  - first:
+      213: 5756329211692851130
+    second: Dwarf-King_87
+  - first:
+      213: -8486548382704569443
+    second: Dwarf-King_88
+  - first:
+      213: -7461073761005034797
+    second: Dwarf-King_89
+  - first:
+      213: 8380469229975885333
+    second: Dwarf-King_90
+  - first:
+      213: 1323599448144000862
+    second: Dwarf-King_91
+  - first:
+      213: 4039231438192685196
+    second: Dwarf-King_92
+  - first:
+      213: -1226279361331348293
+    second: Dwarf-King_93
+  - first:
+      213: 2318939550218216118
+    second: Dwarf-King_94
+  - first:
+      213: -999430280428642433
+    second: Dwarf-King_95
+  - first:
+      213: 8358034548494767739
+    second: Dwarf-King_96
+  - first:
+      213: 3493794634928680857
+    second: Dwarf-King_97
+  - first:
+      213: -1088288568719586915
+    second: Dwarf-King_98
+  - first:
+      213: -3768579642710290582
+    second: Dwarf-King_99
+  - first:
+      213: -2768993647187973148
+    second: Dwarf-King_100
+  - first:
+      213: -4898087920412849089
+    second: Dwarf-King_101
+  - first:
+      213: 5615011868385181155
+    second: Dwarf-King_102
+  - first:
+      213: 7659439335205410955
+    second: Dwarf-King_103
+  - first:
+      213: 9169753516720492273
+    second: Dwarf-King_104
+  - first:
+      213: -2243883050676408400
+    second: Dwarf-King_105
+  - first:
+      213: -126695220002498648
+    second: Dwarf-King_106
+  - first:
+      213: 4340906515564072853
+    second: Dwarf-King_107
+  - first:
+      213: 2275888118995793481
+    second: Dwarf-King_108
+  - first:
+      213: -6057288160386623807
+    second: Dwarf-King_109
+  - first:
+      213: 2115007849770618069
+    second: Dwarf-King_110
+  - first:
+      213: 6894686792999011322
+    second: Dwarf-King_111
+  - first:
+      213: 7410039861488033280
+    second: Dwarf-King_112
+  - first:
+      213: 1536087497057129359
+    second: Dwarf-King_113
+  - first:
+      213: 4586003934449200567
+    second: Dwarf-King_114
+  - first:
+      213: 2314739300237562850
+    second: Dwarf-King_115
+  - first:
+      213: 5147172258319831692
+    second: Dwarf-King_116
+  - first:
+      213: 7705754473925336249
+    second: Dwarf-King_117
+  - first:
+      213: 492431877136994413
+    second: Dwarf-King_118
+  - first:
+      213: 2053068614394963199
+    second: Dwarf-King_119
+  - first:
+      213: 4069317685586027234
+    second: Dwarf-King_120
+  - first:
+      213: 8583923560123905995
+    second: Dwarf-King_121
+  - first:
+      213: 2720248559415276995
+    second: Dwarf-King_122
+  - first:
+      213: 8211565756031820098
+    second: Dwarf-King_123
+  - first:
+      213: -846652975436276610
+    second: Dwarf-King_124
+  - first:
+      213: -6582044442582001784
+    second: Dwarf-King_125
+  - first:
+      213: -5997873524677415325
+    second: Dwarf-King_126
+  - first:
+      213: -4639188692759738176
+    second: Dwarf-King_127
+  - first:
+      213: -5926017178451924623
+    second: Dwarf-King_128
+  - first:
+      213: 7319216450459566850
+    second: Dwarf-King_129
+  - first:
+      213: -9093729631120711591
+    second: Dwarf-King_130
+  - first:
+      213: 5217565208090071164
+    second: Dwarf-King_131
+  - first:
+      213: 6083134682262122139
+    second: Dwarf-King_132
+  - first:
+      213: 411335438158566048
+    second: Dwarf-King_133
+  - first:
+      213: -7675606481270278487
+    second: Dwarf-King_134
+  - first:
+      213: -7822629148940283330
+    second: Dwarf-King_135
+  - first:
+      213: 2949675592071073747
+    second: Dwarf-King_136
+  - first:
+      213: 4157946437369406347
+    second: Dwarf-King_137
+  - first:
+      213: -1236849525740647355
+    second: Dwarf-King_138
+  - first:
+      213: 1325288545025743467
+    second: Dwarf-King_139
+  - first:
+      213: 3702820694724138436
+    second: Dwarf-King_140
+  - first:
+      213: -5086048924904870129
+    second: Dwarf-King_141
+  - first:
+      213: 6428006210308419060
+    second: Dwarf-King_142
+  - first:
+      213: 7361725630117597000
+    second: Dwarf-King_143
+  - first:
+      213: 5047337705384131496
+    second: Dwarf-King_144
+  - first:
+      213: -3099432994903375385
+    second: Dwarf-King_145
+  - first:
+      213: -1823839054283775752
+    second: Dwarf-King_146
+  - first:
+      213: -7293269667283460366
+    second: Dwarf-King_147
+  - first:
+      213: -8310474739136153367
+    second: Dwarf-King_148
+  - first:
+      213: 3914074967333246583
+    second: Dwarf-King_149
+  - first:
+      213: -189559395696509379
+    second: Dwarf-King_150
+  - first:
+      213: 6123834967341394091
+    second: Dwarf-King_151
+  - first:
+      213: 1073056347209847544
+    second: Dwarf-King_152
+  - first:
+      213: 1410689613206490771
+    second: Dwarf-King_153
+  - first:
+      213: -7359664895681606488
+    second: Dwarf-King_154
+  - first:
+      213: 2509816766354858330
+    second: Dwarf-King_155
+  - first:
+      213: -5482441618954359350
+    second: Dwarf-King_156
+  - first:
+      213: 3993991291416787238
+    second: Dwarf-King_157
+  - first:
+      213: 7609742453310311582
+    second: Dwarf-King_158
+  - first:
+      213: -9193578330505835046
+    second: Dwarf-King_159
+  - first:
+      213: -8002507549464527206
+    second: Dwarf-King_160
+  - first:
+      213: 4190672446685408697
+    second: Dwarf-King_161
+  - first:
+      213: 6789493453730108051
+    second: Dwarf-King_162
+  - first:
+      213: -7487840761842426899
+    second: Dwarf-King_163
+  - first:
+      213: -3384512573867212498
+    second: Dwarf-King_164
+  - first:
+      213: -5236796821374859595
+    second: Dwarf-King_165
+  - first:
+      213: 3416247346441521780
+    second: Dwarf-King_166
+  - first:
+      213: -7083302584393499342
+    second: Dwarf-King_167
+  - first:
+      213: -8736777047202268991
+    second: Dwarf-King_168
+  - first:
+      213: -2926216104541406599
+    second: Dwarf-King_169
+  - first:
+      213: -9195816630411307205
+    second: Dwarf-King_170
+  - first:
+      213: -7833424254148078938
+    second: Dwarf-King_171
+  - first:
+      213: 6635072584733452887
+    second: Dwarf-King_172
+  - first:
+      213: 598074661746876859
+    second: Dwarf-King_173
+  - first:
+      213: -943512538552025298
+    second: Dwarf-King_174
+  - first:
+      213: -2950867312618442571
+    second: Dwarf-King_175
+  - first:
+      213: -5001080923153270207
+    second: Dwarf-King_176
+  - first:
+      213: 2084775084042309311
+    second: Dwarf-King_177
+  - first:
+      213: -2743057742787243839
+    second: Dwarf-King_178
+  - first:
+      213: -1364301965083809554
+    second: Dwarf-King_179
+  - first:
+      213: -6496773082132073576
+    second: Dwarf-King_180
+  - first:
+      213: -1615521989493835492
+    second: Dwarf-King_181
+  - first:
+      213: -4322343051561436210
+    second: Dwarf-King_182
+  - first:
+      213: -8941259029074919733
+    second: Dwarf-King_183
+  - first:
+      213: -2838258420276390070
+    second: Dwarf-King_184
+  - first:
+      213: -1477829049440473110
+    second: Dwarf-King_185
+  - first:
+      213: 4053339794965519739
+    second: Dwarf-King_186
+  - first:
+      213: -2042852238941186994
+    second: Dwarf-King_187
+  - first:
+      213: 1823836634337237108
+    second: Dwarf-King_188
+  - first:
+      213: -6745650324138027817
+    second: Dwarf-King_189
+  - first:
+      213: 4570462903692674881
+    second: Dwarf-King_190
+  - first:
+      213: 252157047197052213
+    second: Dwarf-King_191
+  - first:
+      213: -8183039287947524611
+    second: Dwarf-King_192
+  - first:
+      213: 4302171657776209664
+    second: Dwarf-King_193
+  - first:
+      213: 2115728680218152550
+    second: Dwarf-King_194
+  - first:
+      213: 5469296419593515532
+    second: Dwarf-King_195
+  - first:
+      213: -3585977403300093736
+    second: Dwarf-King_196
+  - first:
+      213: 3681660247575704574
+    second: Dwarf-King_197
+  - first:
+      213: 4729374709389672004
+    second: Dwarf-King_198
+  - first:
+      213: -5462424085426793425
+    second: Dwarf-King_199
+  - first:
+      213: -8259917337726135966
+    second: Dwarf-King_200
+  - first:
+      213: 3511355965434882279
+    second: Dwarf-King_201
+  - first:
+      213: -5751617988625057514
+    second: Dwarf-King_202
+  - first:
+      213: -6484070156044202587
+    second: Dwarf-King_203
+  - first:
+      213: -1077272753803748320
+    second: Dwarf-King_204
+  - first:
+      213: -8604785907170357275
+    second: Dwarf-King_205
+  - first:
+      213: -3943251604679984242
+    second: Dwarf-King_206
+  - first:
+      213: 8947431854724953815
+    second: Dwarf-King_207
+  - first:
+      213: 4389635057301118007
+    second: Dwarf-King_208
+  - first:
+      213: -6599960453197185982
+    second: Dwarf-King_209
+  - first:
+      213: 6632046159878169457
+    second: Dwarf-King_210
+  - first:
+      213: 7684309493718104489
+    second: Dwarf-King_211
+  - first:
+      213: 2466486873919206263
+    second: Dwarf-King_212
+  - first:
+      213: 4589311503433710240
+    second: Dwarf-King_213
+  - first:
+      213: 1123014592161997663
+    second: Dwarf-King_214
+  - first:
+      213: -5490696690726645288
+    second: Dwarf-King_215
+  - first:
+      213: 3027041944264668823
+    second: Dwarf-King_216
+  - first:
+      213: -6310184529377789704
+    second: Dwarf-King_217
+  - first:
+      213: -9008096910234702042
+    second: Dwarf-King_218
+  - first:
+      213: -9078935774866890907
+    second: Dwarf-King_219
+  - first:
+      213: -7883797479333559453
+    second: Dwarf-King_220
+  - first:
+      213: -3438317293321896611
+    second: Dwarf-King_221
+  - first:
+      213: 799088239482867200
+    second: Dwarf-King_222
+  - first:
+      213: 5420725828257971474
+    second: Dwarf-King_223
+  - first:
+      213: -4201455546089956737
+    second: Dwarf-King_224
+  - first:
+      213: 76440376711823074
+    second: Dwarf-King_225
+  - first:
+      213: -5100627303787591667
+    second: Dwarf-King_226
+  - first:
+      213: -8655628012630057137
+    second: Dwarf-King_227
+  - first:
+      213: 7051011814893755219
+    second: Dwarf-King_228
+  - first:
+      213: 2938977517610640886
+    second: Dwarf-King_229
+  - first:
+      213: -4326774648530824277
+    second: Dwarf-King_230
+  - first:
+      213: -2778904190505565668
+    second: Dwarf-King_231
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dwarf-King_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 232
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca9d7de72d4bd67c0800000000000000
+      internalID: -4076403271536223828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 232
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f339c937f92fde50800000000000000
+      internalID: 6836228901174850544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 231
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b68f88f5d0334b60800000000000000
+      internalID: 7729075081054226096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 232
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77972556128860460800000000000000
+      internalID: 7207597930668259703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_4
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 231
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 582767c5a971e0810800000000000000
+      internalID: 1733348858327888517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_5
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 232
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e389635014024a790800000000000000
+      internalID: -7519850014169458626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_6
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 232
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7728abcd3a8742c0800000000000000
+      internalID: -4447434108990642310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_7
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 231
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70ad55a6fa67f5080800000000000000
+      internalID: -9196501418291897849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_8
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 232
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a851f83e0275124b0800000000000000
+      internalID: -5466992673882696310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_9
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 231
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceba8817b1c19edf0800000000000000
+      internalID: -150558208345723924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_10
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 231
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93cab43d934b65490800000000000000
+      internalID: -7757815147648013255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_11
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 231
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6b0c145be6d6bdb0800000000000000
+      internalID: -4776394048563049620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_12
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 232
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 608afcc94dea458c0800000000000000
+      internalID: -4011389139893114874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_13
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 232
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd61e1bce029f9fc0800000000000000
+      internalID: -3485906994326530339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_14
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 232
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84e288a4badf6b570800000000000000
+      internalID: 8482245860330581576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_15
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 228
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca6a64f56fd1731e0800000000000000
+      internalID: -2218271347459053908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_16
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 232
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c99c92c9cfd36d7b0800000000000000
+      internalID: -5199900564591621732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_17
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 232
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37591fce27b5254c0800000000000000
+      internalID: -4300274145025747597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_18
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 232
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5540c5d497143dc0800000000000000
+      internalID: -3660274669136624290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_19
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 232
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 025beafc8115cdba0800000000000000
+      internalID: -6062881831342131936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_20
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 233
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43de01a552d67dcc0800000000000000
+      internalID: -3686357762787185356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_21
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 232
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d4a46da171598f20800000000000000
+      internalID: 3425358540274181334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_22
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 232
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9848c8e03a20b8c00800000000000000
+      internalID: 903819049564931209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_23
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 232
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c03fa1a99be4ae100800000000000000
+      internalID: 138009297649595148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_24
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 232
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0c4a6dd47234ae90800000000000000
+      internalID: -7015426842024063988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_25
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 232
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4f85ba0cd3e1ff70800000000000000
+      internalID: 9219400446416097099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_26
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 231
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cbbe5d1a52fbe560800000000000000
+      internalID: 7344230086211451841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_27
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 231
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5138f8a2b3e3a2050800000000000000
+      internalID: 5776497895894123285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_28
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 235
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 484698359e479b690800000000000000
+      internalID: -7585903551851174780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_29
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 200
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e65908632706216f0800000000000000
+      internalID: -715403347141552786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_30
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 200
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb4cdf6cf0afe5540800000000000000
+      internalID: 4998707582097802428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_31
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 199
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 398637dea78a76ef0800000000000000
+      internalID: -114938019551418221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_32
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 200
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf9d010ad64b77b30800000000000000
+      internalID: 4285091953396210171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_33
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 199
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec605f856fe1ce710800000000000000
+      internalID: 1723786800779298510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_34
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 200
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 369a69c1bb132cc30800000000000000
+      internalID: 4378116467465824611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_35
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 200
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5c3c0cb196281560800000000000000
+      internalID: 7284614804638809179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_36
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 200
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1252c3a8109ee6360800000000000000
+      internalID: 7164920250016474401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_37
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 200
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6740d45333ad8d970800000000000000
+      internalID: 8780007387031209078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_38
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 200
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55cfc90e3b6639970800000000000000
+      internalID: 8760458622919310421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_39
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 199
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53e393dd0b329ffa0800000000000000
+      internalID: -5766538605338477003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_40
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 199
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61ab17406f00d82d0800000000000000
+      internalID: -3274960297391965674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_41
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 200
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5123009d0fbaa1e10800000000000000
+      internalID: 2169235221453484565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_42
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 200
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e223c254cb96358c0800000000000000
+      internalID: -4011746585721687506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_43
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 200
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1be20f177e2420850800000000000000
+      internalID: 6341704787107524273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_44
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 200
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e744951e2dea70b0800000000000000
+      internalID: -5730006793689217052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_45
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 200
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d439cca779bb4aa30800000000000000
+      internalID: 4225708609655051085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_46
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 200
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0dbe48335b123d30800000000000000
+      internalID: 4409617029390056715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_47
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 200
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 712bbfac43e26e820800000000000000
+      internalID: 2947093810439238167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_48
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 200
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73b7733412e003ca0800000000000000
+      internalID: -6039311564279416009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_49
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 201
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d16602d37aa304b50800000000000000
+      internalID: 6575319945920407069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_50
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 200
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29796a236fe461750800000000000000
+      internalID: 6275289950106064786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_51
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 200
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 349dcaad666053280800000000000000
+      internalID: -9064331636188063421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_52
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 199
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8264e7416789dbd0800000000000000
+      internalID: -2604902057569394034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_53
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 199
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2720747caf418670800000000000000
+      internalID: 8539193970577647406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_54
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 200
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b938b38424166e10800000000000000
+      internalID: 2190460415823591857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_55
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 199
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee3e0931ae9072520800000000000000
+      internalID: 2677119404450309102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_56
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 199
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 489afa8d7a20f6ae0800000000000000
+      internalID: -1554020426501346940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_57
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 203
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44f75a3206667eac0800000000000000
+      internalID: -3825976795327004860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_58
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 168
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4574ab768d0ed1e0800000000000000
+      internalID: -2171283099094846134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_59
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 168
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2f0585bce696acf0800000000000000
+      internalID: -241339586615898325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_60
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 167
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c80230aafa0e5760800000000000000
+      internalID: 7448402905263114435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_61
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 168
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 849bafe737e3c8d80800000000000000
+      internalID: -8247148151849699000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_62
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 167
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0c568226220c5db0800000000000000
+      internalID: -4801960739872547825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_63
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 168
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be655b354e5c2fb40800000000000000
+      internalID: 5472654081656182507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_64
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 168
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b40362fdfec7b3e80800000000000000
+      internalID: -8197821327015006133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_65
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 168
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf92bbf81727c11f0800000000000000
+      internalID: -1072856779152741892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_66
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 168
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02a7fe09f85cb6dc0800000000000000
+      internalID: -3644602253023675872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_67
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 168
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9525487f04eb17460800000000000000
+      internalID: 7237775262400926297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_68
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 168
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b657b7ebf5c40820800000000000000
+      internalID: 2883647347138975414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_69
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 168
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69352a3bc71736120800000000000000
+      internalID: 2405891406349620118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_70
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 168
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2ae9cce21c5ea480800000000000000
+      internalID: -8886063778403587537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_71
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 168
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79e0bf3958f16abb0800000000000000
+      internalID: -4925214483909243241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_72
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 168
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a03371e36021f57a0800000000000000
+      internalID: -6386365928567262454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_73
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 168
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4f27ab520e5cb240800000000000000
+      internalID: 4808821866345475917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_74
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 168
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a70266073534f3440800000000000000
+      internalID: 4917723343758958714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_75
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 168
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df9fea365d7572da0800000000000000
+      internalID: -5969706207044240899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_76
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 168
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8d6ea78a11971c20800000000000000
+      internalID: 3177167605264706957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_77
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 168
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7b6e31e75a7fe710800000000000000
+      internalID: 1724731700165897087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_78
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 168
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c12b9ea48257eb5a0800000000000000
+      internalID: -6503631995960446436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_79
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 168
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4c2d1fbe57b36410800000000000000
+      internalID: 1469219521014082635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_80
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 168
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cda4ea59bce665e00800000000000000
+      internalID: 1033134985196751580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_81
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 166
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85b1860cf96ed25c0800000000000000
+      internalID: -4238478100483531944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_82
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 167
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9167ee216f0f1d20800000000000000
+      internalID: 3251334366057947546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_83
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 168
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee73ce9074ebdfba0800000000000000
+      internalID: -6053473111797647378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_84
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 167
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20728bd17d8a5f6a0800000000000000
+      internalID: -6416036452249360638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_85
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 167
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f8753c5dc0b58160800000000000000
+      internalID: 7027217189643319538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_86
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 171
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfce8451f0e7781b0800000000000000
+      internalID: -5654412203893658371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_87
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 136
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abf18217be692ef40800000000000000
+      internalID: 5756329211692851130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_88
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 136
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d937ab7a539b93a80800000000000000
+      internalID: -8486548382704569443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_89
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 135
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d2ae40e1f0f47890800000000000000
+      internalID: -7461073761005034797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_90
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 136
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 516ddcfec586d4470800000000000000
+      internalID: 8380469229975885333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_91
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 135
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e57b6837fae5e5210800000000000000
+      internalID: 1323599448144000862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_92
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 136
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c80b01f979b3e0830800000000000000
+      internalID: 4039231438192685196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_93
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 136
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbcb3700b616bfee0800000000000000
+      internalID: -1226279361331348293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_94
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 136
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b26c521c378e2020800000000000000
+      internalID: 2318939550218216118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_95
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 136
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7f1845847f4122f0800000000000000
+      internalID: -999430280428642433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_96
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 136
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b76197b9324bdf370800000000000000
+      internalID: 8358034548494767739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_97
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 136
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99fe615a5b37c7030800000000000000
+      internalID: 3493794634928680857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_98
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 136
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d99c950105f95e0f0800000000000000
+      internalID: -1088288568719586915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_99
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 136
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6f0c7028c053bbc0800000000000000
+      internalID: -3768579642710290582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_100
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 136
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eb2c0ad2fe8299d0800000000000000
+      internalID: -2768993647187973148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_101
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 136
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3c0921dcfe760cb0800000000000000
+      internalID: -4898087920412849089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_102
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 136
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ed73b07b878ced40800000000000000
+      internalID: 5615011868385181155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_103
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 136
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8892917e7bcb4a60800000000000000
+      internalID: 7659439335205410955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_104
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 136
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fe83027d32814f70800000000000000
+      internalID: 9169753516720492273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_105
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 136
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bfa9e601402cd0e0800000000000000
+      internalID: -2243883050676408400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_106
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 136
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a7d2016e53ed3ef0800000000000000
+      internalID: -126695220002498648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_107
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 135
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59f006f0a7ffd3c30800000000000000
+      internalID: 4340906515564072853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_108
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 136
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 946b641af24959f10800000000000000
+      internalID: 2275888118995793481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_109
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 136
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c6d9f1d28030fba0800000000000000
+      internalID: -6057288160386623807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_110
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 131
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dc8dbefe640a5d10800000000000000
+      internalID: 2115007849770618069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_111
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 132
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af3884ecb19deaf50800000000000000
+      internalID: 6894686792999011322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_112
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 136
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00e9a737effb5d660800000000000000
+      internalID: 7410039861488033280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_113
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 135
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f835206a077415510800000000000000
+      internalID: 1536087497057129359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_114
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 135
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bd636bd742c4af30800000000000000
+      internalID: 4586003934449200567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_115
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 139
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e3db4a212b9f1020800000000000000
+      internalID: 2314739300237562850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_116
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 104
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8216e6e5ed6e6740800000000000000
+      internalID: 5147172258319831692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_117
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 104
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bc52b00ed650fa60800000000000000
+      internalID: 7705754473925336249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_118
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 103
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6054d8ee2875d600800000000000000
+      internalID: 492431877136994413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_119
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 104
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff4e384f607fd7c10800000000000000
+      internalID: 2053068614394963199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_120
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 103
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e2e197ffde197830800000000000000
+      internalID: 4069317685586027234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_121
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 104
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc7ba449ff8302770800000000000000
+      internalID: 8583923560123905995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_122
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 104
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c537bcf6a340c520800000000000000
+      internalID: 2720248559415276995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_123
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 104
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 241e9026c8755f170800000000000000
+      internalID: 8211565756031820098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_124
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 104
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7cd717ca951044f0800000000000000
+      internalID: -846652975436276610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_125
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 104
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 887d010e371e7a4a0800000000000000
+      internalID: -6582044442582001784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_126
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 104
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36ee1e1bec543cca0800000000000000
+      internalID: -5997873524677415325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_127
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 104
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c80c02a67a4e9fb0800000000000000
+      internalID: -4639188692759738176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_128
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 104
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 179a28906ce82cda0800000000000000
+      internalID: -5926017178451924623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_129
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 104
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20386d33594139560800000000000000
+      internalID: 7319216450459566850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_130
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 104
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9502b95c4159cc180800000000000000
+      internalID: -9093729631120711591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_131
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 104
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7055a4b9e3886840800000000000000
+      internalID: 5217565208090071164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_132
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 104
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9ea71183c2ab6450800000000000000
+      internalID: 6083134682262122139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_133
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 104
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a298f2d66b55b500800000000000000
+      internalID: 411335438158566048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_134
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 104
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a6f2388294ca7590800000000000000
+      internalID: -7675606481270278487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_135
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 104
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e325ccf2c30707390800000000000000
+      internalID: -7822629148940283330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_136
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 103
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3df490ca25a5fe820800000000000000
+      internalID: 2949675592071073747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_137
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 104
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b83218a414ef3b930800000000000000
+      internalID: 4157946437369406347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_138
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 104
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54c4e91d8e3d5dee0800000000000000
+      internalID: -1236849525740647355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_139
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 99
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6a5727f8ee546210800000000000000
+      internalID: 1325288545025743467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_140
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 100
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c55fffadcf036330800000000000000
+      internalID: 3702820694724138436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_141
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 104
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0fa9c82379ba69b0800000000000000
+      internalID: -5086048924904870129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_142
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 103
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fd207b579dd43950800000000000000
+      internalID: 6428006210308419060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_143
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 103
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84f4c0dd47a1a2660800000000000000
+      internalID: 7361725630117597000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_144
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 107
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ab3bdea6eebb0640800000000000000
+      internalID: 5047337705384131496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_145
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 72
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e1c8a5dc1a9cf4d0800000000000000
+      internalID: -3099432994903375385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_146
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 72
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f06ee11b0c60b6e0800000000000000
+      internalID: -1823839054283775752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_147
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 71
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fe107601e919ca90800000000000000
+      internalID: -7293269667283460366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_148
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 72
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e8beea61434bac80800000000000000
+      internalID: -8310474739136153367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_149
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 71
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7769524f176915630800000000000000
+      internalID: 3914074967333246583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_150
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 72
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3efba3ebbc8e5df0800000000000000
+      internalID: -189559395696509379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_151
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 72
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba8ef73157b3cf450800000000000000
+      internalID: 6123834967341394091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_152
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 72
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f2db6fff0344ee00800000000000000
+      internalID: 1073056347209847544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_153
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 72
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39e8183aab6c39310800000000000000
+      internalID: 1410689613206490771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_154
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 72
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ac4cf245c73dd990800000000000000
+      internalID: -7359664895681606488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_155
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 72
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a51a6e92d09a4d220800000000000000
+      internalID: 2509816766354858330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_156
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 72
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acd686015647ae3b0800000000000000
+      internalID: -5482441618954359350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_157
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 72
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 629b6e02be18d6730800000000000000
+      internalID: 3993991291416787238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_158
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 72
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9c45c1717c3b9960800000000000000
+      internalID: 7609742453310311582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_159
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 72
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: add8873d739d96080800000000000000
+      internalID: -9193578330505835046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_160
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 72
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9ef8c968c161f090800000000000000
+      internalID: -8002507549464527206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_161
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 72
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bd63ba1362482a30800000000000000
+      internalID: 4190672446685408697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_162
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 72
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3925c6ae250293e50800000000000000
+      internalID: 6789493453730108051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_163
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 72
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deb11b7df78d51890800000000000000
+      internalID: -7487840761842426899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_164
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 72
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e214dc8febbc701d0800000000000000
+      internalID: -3384512573867212498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_165
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 71
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b68e0569092357b0800000000000000
+      internalID: -5236796821374859595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_166
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 72
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47a848d8cd2f86f20800000000000000
+      internalID: 3416247346441521780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_167
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 72
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23d7e9414dd03bd90800000000000000
+      internalID: -7083302584393499342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_168
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 67
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c8f8b3a09bb0c680800000000000000
+      internalID: -8736777047202268991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_169
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 68
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97a38c8e4fdf367d0800000000000000
+      internalID: -2926216104541406599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_170
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 72
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3754b40f75e16080800000000000000
+      internalID: -9195816630411307205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_171
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 71
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a21394e4261a4390800000000000000
+      internalID: -7833424254148078938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_172
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 71
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75a68f79c53841c50800000000000000
+      internalID: 6635072584733452887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_173
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 75
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb1a5927cb9cc4800800000000000000
+      internalID: 598074661746876859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_174
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 40
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2fba7a5858f7e2f0800000000000000
+      internalID: -943512538552025298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_175
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 40
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b0f01440d96c07d0800000000000000
+      internalID: -2950867312618442571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_176
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 39
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14a7772b567989ab0800000000000000
+      internalID: -5001080923153270207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_177
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 40
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbe4de0b4eb9eec10800000000000000
+      internalID: 2084775084042309311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_178
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 39
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c018ca2483bee9d0800000000000000
+      internalID: -2743057742787243839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_179
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 40
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee8efc45796011de0800000000000000
+      internalID: -1364301965083809554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_180
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 40
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 893b23d9d43d6d5a0800000000000000
+      internalID: -6496773082132073576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_181
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 40
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1933695f438499e0800000000000000
+      internalID: -1615521989493835492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_182
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 40
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecb7d4635e3f304c0800000000000000
+      internalID: -4322343051561436210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_183
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 40
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bce3c3f29444ae380800000000000000
+      internalID: -8941259029074919733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_184
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 40
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a471aa6210b7c98d0800000000000000
+      internalID: -2838258420276390070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_185
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 40
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aefe8553f42bd7be0800000000000000
+      internalID: -1477829049440473110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_186
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 40
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7ddfd8611b504830800000000000000
+      internalID: 4053339794965519739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_187
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 40
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e449c4156b456a3e0800000000000000
+      internalID: -2042852238941186994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_188
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 40
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 478d30e71c19f4910800000000000000
+      internalID: 1823836634337237108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_189
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 40
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d411ca25c2a262a0800000000000000
+      internalID: -6745650324138027817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_190
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 40
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 147c3b9abcb8d6f30800000000000000
+      internalID: 4570462903692674881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_191
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 40
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53daac99f77df7300800000000000000
+      internalID: 252157047197052213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_192
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 40
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df582da8f11007e80800000000000000
+      internalID: -8183039287947524611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_193
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 40
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00f1180345264bb30800000000000000
+      internalID: 4302171657776209664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_194
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 40
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66e428966049c5d10800000000000000
+      internalID: 2115728680218152550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_195
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 40
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c02ff25bd18d6eb40800000000000000
+      internalID: 5469296419593515532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_196
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 40
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d068bf0d8c0c3ec0800000000000000
+      internalID: -3585977403300093736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_197
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 38
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef33d682d72e71330800000000000000
+      internalID: 3681660247575704574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_198
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 39
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44e33eaad3d12a140800000000000000
+      internalID: 4729374709389672004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_199
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 40
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2419974c329134b0800000000000000
+      internalID: -5462424085426793425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_200
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 39
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2615ebab1f0ee5d80800000000000000
+      internalID: -8259917337726135966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_201
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 39
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e8e1b785a7dab030800000000000000
+      internalID: 3511355965434882279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_202
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 43
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 619b148a9e52e20b0800000000000000
+      internalID: -5751617988625057514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_203
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 8
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ad06421c84f306a0800000000000000
+      internalID: -6484070156044202587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_204
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 8
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02c12575322cc01f0800000000000000
+      internalID: -1077272753803748320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_205
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 7
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5efc2dabec8a59880800000000000000
+      internalID: -8604785907170357275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_206
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 8
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8b7f0bce81c649c0800000000000000
+      internalID: -3943251604679984242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_207
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 7
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d635e8cdd9ab2c70800000000000000
+      internalID: 8947431854724953815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_208
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 8
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73cd80cc3dd1bec30800000000000000
+      internalID: 4389635057301118007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_209
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 8
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24c3e879fea3864a0800000000000000
+      internalID: -6599960453197185982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_210
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 8
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 173288528d2c90c50800000000000000
+      internalID: 6632046159878169457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_211
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 8
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a9ba3575c624aa60800000000000000
+      internalID: 7684309493718104489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_212
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 8
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7733e1b6eb8ba3220800000000000000
+      internalID: 2466486873919206263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_213
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 7
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aab7c54f7280bf30800000000000000
+      internalID: 4589311503433710240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_214
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 7
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f53656352dfb59f00800000000000000
+      internalID: 1123014592161997663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_215
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 7
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d153d363702dc3b0800000000000000
+      internalID: -5490696690726645288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_216
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 8
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7967a104c96320a20800000000000000
+      internalID: 3027041944264668823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_217
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 8
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f875437a98bd68a0800000000000000
+      internalID: -6310184529377789704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_218
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 7
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62faa2b469fccf280800000000000000
+      internalID: -9008096910234702042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_219
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 8
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56f1978d304210280800000000000000
+      internalID: -9078935774866890907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_220
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 8
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 363043376ff179290800000000000000
+      internalID: -7883797479333559453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_221
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 8
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5d377283a4a840d0800000000000000
+      internalID: -3438317293321896611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_222
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 8
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00e8192258ee61b00800000000000000
+      internalID: 799088239482867200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_223
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 9
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21df91aab694a3b40800000000000000
+      internalID: 5420725828257971474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_224
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 8
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7a96bbe07e61b5c0800000000000000
+      internalID: -4201455546089956737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_225
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 8
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eeb76c1e129f0100800000000000000
+      internalID: 76440376711823074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_226
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 7
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d080512dd7ee639b0800000000000000
+      internalID: -5100627303787591667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_227
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 7
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4fd3479e2801e780800000000000000
+      internalID: -8655628012630057137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_228
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 8
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35b13d543e93ad160800000000000000
+      internalID: 7051011814893755219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_229
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 7
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f5aa0c1b7859c820800000000000000
+      internalID: 2938977517610640886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_230
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 7
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba39723a16534f3c0800000000000000
+      internalID: -4326774648530824277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-King_231
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 11
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c12421cac595f69d0800000000000000
+      internalID: -2778904190505565668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Dwarf-King_0: -4076403271536223828
+      Dwarf-King_1: 6836228901174850544
+      Dwarf-King_10: -7757815147648013255
+      Dwarf-King_100: -2768993647187973148
+      Dwarf-King_101: -4898087920412849089
+      Dwarf-King_102: 5615011868385181155
+      Dwarf-King_103: 7659439335205410955
+      Dwarf-King_104: 9169753516720492273
+      Dwarf-King_105: -2243883050676408400
+      Dwarf-King_106: -126695220002498648
+      Dwarf-King_107: 4340906515564072853
+      Dwarf-King_108: 2275888118995793481
+      Dwarf-King_109: -6057288160386623807
+      Dwarf-King_11: -4776394048563049620
+      Dwarf-King_110: 2115007849770618069
+      Dwarf-King_111: 6894686792999011322
+      Dwarf-King_112: 7410039861488033280
+      Dwarf-King_113: 1536087497057129359
+      Dwarf-King_114: 4586003934449200567
+      Dwarf-King_115: 2314739300237562850
+      Dwarf-King_116: 5147172258319831692
+      Dwarf-King_117: 7705754473925336249
+      Dwarf-King_118: 492431877136994413
+      Dwarf-King_119: 2053068614394963199
+      Dwarf-King_12: -4011389139893114874
+      Dwarf-King_120: 4069317685586027234
+      Dwarf-King_121: 8583923560123905995
+      Dwarf-King_122: 2720248559415276995
+      Dwarf-King_123: 8211565756031820098
+      Dwarf-King_124: -846652975436276610
+      Dwarf-King_125: -6582044442582001784
+      Dwarf-King_126: -5997873524677415325
+      Dwarf-King_127: -4639188692759738176
+      Dwarf-King_128: -5926017178451924623
+      Dwarf-King_129: 7319216450459566850
+      Dwarf-King_13: -3485906994326530339
+      Dwarf-King_130: -9093729631120711591
+      Dwarf-King_131: 5217565208090071164
+      Dwarf-King_132: 6083134682262122139
+      Dwarf-King_133: 411335438158566048
+      Dwarf-King_134: -7675606481270278487
+      Dwarf-King_135: -7822629148940283330
+      Dwarf-King_136: 2949675592071073747
+      Dwarf-King_137: 4157946437369406347
+      Dwarf-King_138: -1236849525740647355
+      Dwarf-King_139: 1325288545025743467
+      Dwarf-King_14: 8482245860330581576
+      Dwarf-King_140: 3702820694724138436
+      Dwarf-King_141: -5086048924904870129
+      Dwarf-King_142: 6428006210308419060
+      Dwarf-King_143: 7361725630117597000
+      Dwarf-King_144: 5047337705384131496
+      Dwarf-King_145: -3099432994903375385
+      Dwarf-King_146: -1823839054283775752
+      Dwarf-King_147: -7293269667283460366
+      Dwarf-King_148: -8310474739136153367
+      Dwarf-King_149: 3914074967333246583
+      Dwarf-King_15: -2218271347459053908
+      Dwarf-King_150: -189559395696509379
+      Dwarf-King_151: 6123834967341394091
+      Dwarf-King_152: 1073056347209847544
+      Dwarf-King_153: 1410689613206490771
+      Dwarf-King_154: -7359664895681606488
+      Dwarf-King_155: 2509816766354858330
+      Dwarf-King_156: -5482441618954359350
+      Dwarf-King_157: 3993991291416787238
+      Dwarf-King_158: 7609742453310311582
+      Dwarf-King_159: -9193578330505835046
+      Dwarf-King_16: -5199900564591621732
+      Dwarf-King_160: -8002507549464527206
+      Dwarf-King_161: 4190672446685408697
+      Dwarf-King_162: 6789493453730108051
+      Dwarf-King_163: -7487840761842426899
+      Dwarf-King_164: -3384512573867212498
+      Dwarf-King_165: -5236796821374859595
+      Dwarf-King_166: 3416247346441521780
+      Dwarf-King_167: -7083302584393499342
+      Dwarf-King_168: -8736777047202268991
+      Dwarf-King_169: -2926216104541406599
+      Dwarf-King_17: -4300274145025747597
+      Dwarf-King_170: -9195816630411307205
+      Dwarf-King_171: -7833424254148078938
+      Dwarf-King_172: 6635072584733452887
+      Dwarf-King_173: 598074661746876859
+      Dwarf-King_174: -943512538552025298
+      Dwarf-King_175: -2950867312618442571
+      Dwarf-King_176: -5001080923153270207
+      Dwarf-King_177: 2084775084042309311
+      Dwarf-King_178: -2743057742787243839
+      Dwarf-King_179: -1364301965083809554
+      Dwarf-King_18: -3660274669136624290
+      Dwarf-King_180: -6496773082132073576
+      Dwarf-King_181: -1615521989493835492
+      Dwarf-King_182: -4322343051561436210
+      Dwarf-King_183: -8941259029074919733
+      Dwarf-King_184: -2838258420276390070
+      Dwarf-King_185: -1477829049440473110
+      Dwarf-King_186: 4053339794965519739
+      Dwarf-King_187: -2042852238941186994
+      Dwarf-King_188: 1823836634337237108
+      Dwarf-King_189: -6745650324138027817
+      Dwarf-King_19: -6062881831342131936
+      Dwarf-King_190: 4570462903692674881
+      Dwarf-King_191: 252157047197052213
+      Dwarf-King_192: -8183039287947524611
+      Dwarf-King_193: 4302171657776209664
+      Dwarf-King_194: 2115728680218152550
+      Dwarf-King_195: 5469296419593515532
+      Dwarf-King_196: -3585977403300093736
+      Dwarf-King_197: 3681660247575704574
+      Dwarf-King_198: 4729374709389672004
+      Dwarf-King_199: -5462424085426793425
+      Dwarf-King_2: 7729075081054226096
+      Dwarf-King_20: -3686357762787185356
+      Dwarf-King_200: -8259917337726135966
+      Dwarf-King_201: 3511355965434882279
+      Dwarf-King_202: -5751617988625057514
+      Dwarf-King_203: -6484070156044202587
+      Dwarf-King_204: -1077272753803748320
+      Dwarf-King_205: -8604785907170357275
+      Dwarf-King_206: -3943251604679984242
+      Dwarf-King_207: 8947431854724953815
+      Dwarf-King_208: 4389635057301118007
+      Dwarf-King_209: -6599960453197185982
+      Dwarf-King_21: 3425358540274181334
+      Dwarf-King_210: 6632046159878169457
+      Dwarf-King_211: 7684309493718104489
+      Dwarf-King_212: 2466486873919206263
+      Dwarf-King_213: 4589311503433710240
+      Dwarf-King_214: 1123014592161997663
+      Dwarf-King_215: -5490696690726645288
+      Dwarf-King_216: 3027041944264668823
+      Dwarf-King_217: -6310184529377789704
+      Dwarf-King_218: -9008096910234702042
+      Dwarf-King_219: -9078935774866890907
+      Dwarf-King_22: 903819049564931209
+      Dwarf-King_220: -7883797479333559453
+      Dwarf-King_221: -3438317293321896611
+      Dwarf-King_222: 799088239482867200
+      Dwarf-King_223: 5420725828257971474
+      Dwarf-King_224: -4201455546089956737
+      Dwarf-King_225: 76440376711823074
+      Dwarf-King_226: -5100627303787591667
+      Dwarf-King_227: -8655628012630057137
+      Dwarf-King_228: 7051011814893755219
+      Dwarf-King_229: 2938977517610640886
+      Dwarf-King_23: 138009297649595148
+      Dwarf-King_230: -4326774648530824277
+      Dwarf-King_231: -2778904190505565668
+      Dwarf-King_24: -7015426842024063988
+      Dwarf-King_25: 9219400446416097099
+      Dwarf-King_26: 7344230086211451841
+      Dwarf-King_27: 5776497895894123285
+      Dwarf-King_28: -7585903551851174780
+      Dwarf-King_29: -715403347141552786
+      Dwarf-King_3: 7207597930668259703
+      Dwarf-King_30: 4998707582097802428
+      Dwarf-King_31: -114938019551418221
+      Dwarf-King_32: 4285091953396210171
+      Dwarf-King_33: 1723786800779298510
+      Dwarf-King_34: 4378116467465824611
+      Dwarf-King_35: 7284614804638809179
+      Dwarf-King_36: 7164920250016474401
+      Dwarf-King_37: 8780007387031209078
+      Dwarf-King_38: 8760458622919310421
+      Dwarf-King_39: -5766538605338477003
+      Dwarf-King_4: 1733348858327888517
+      Dwarf-King_40: -3274960297391965674
+      Dwarf-King_41: 2169235221453484565
+      Dwarf-King_42: -4011746585721687506
+      Dwarf-King_43: 6341704787107524273
+      Dwarf-King_44: -5730006793689217052
+      Dwarf-King_45: 4225708609655051085
+      Dwarf-King_46: 4409617029390056715
+      Dwarf-King_47: 2947093810439238167
+      Dwarf-King_48: -6039311564279416009
+      Dwarf-King_49: 6575319945920407069
+      Dwarf-King_5: -7519850014169458626
+      Dwarf-King_50: 6275289950106064786
+      Dwarf-King_51: -9064331636188063421
+      Dwarf-King_52: -2604902057569394034
+      Dwarf-King_53: 8539193970577647406
+      Dwarf-King_54: 2190460415823591857
+      Dwarf-King_55: 2677119404450309102
+      Dwarf-King_56: -1554020426501346940
+      Dwarf-King_57: -3825976795327004860
+      Dwarf-King_58: -2171283099094846134
+      Dwarf-King_59: -241339586615898325
+      Dwarf-King_6: -4447434108990642310
+      Dwarf-King_60: 7448402905263114435
+      Dwarf-King_61: -8247148151849699000
+      Dwarf-King_62: -4801960739872547825
+      Dwarf-King_63: 5472654081656182507
+      Dwarf-King_64: -8197821327015006133
+      Dwarf-King_65: -1072856779152741892
+      Dwarf-King_66: -3644602253023675872
+      Dwarf-King_67: 7237775262400926297
+      Dwarf-King_68: 2883647347138975414
+      Dwarf-King_69: 2405891406349620118
+      Dwarf-King_7: -9196501418291897849
+      Dwarf-King_70: -8886063778403587537
+      Dwarf-King_71: -4925214483909243241
+      Dwarf-King_72: -6386365928567262454
+      Dwarf-King_73: 4808821866345475917
+      Dwarf-King_74: 4917723343758958714
+      Dwarf-King_75: -5969706207044240899
+      Dwarf-King_76: 3177167605264706957
+      Dwarf-King_77: 1724731700165897087
+      Dwarf-King_78: -6503631995960446436
+      Dwarf-King_79: 1469219521014082635
+      Dwarf-King_8: -5466992673882696310
+      Dwarf-King_80: 1033134985196751580
+      Dwarf-King_81: -4238478100483531944
+      Dwarf-King_82: 3251334366057947546
+      Dwarf-King_83: -6053473111797647378
+      Dwarf-King_84: -6416036452249360638
+      Dwarf-King_85: 7027217189643319538
+      Dwarf-King_86: -5654412203893658371
+      Dwarf-King_87: 5756329211692851130
+      Dwarf-King_88: -8486548382704569443
+      Dwarf-King_89: -7461073761005034797
+      Dwarf-King_9: -150558208345723924
+      Dwarf-King_90: 8380469229975885333
+      Dwarf-King_91: 1323599448144000862
+      Dwarf-King_92: 4039231438192685196
+      Dwarf-King_93: -1226279361331348293
+      Dwarf-King_94: 2318939550218216118
+      Dwarf-King_95: -999430280428642433
+      Dwarf-King_96: 8358034548494767739
+      Dwarf-King_97: 3493794634928680857
+      Dwarf-King_98: -1088288568719586915
+      Dwarf-King_99: -3768579642710290582
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

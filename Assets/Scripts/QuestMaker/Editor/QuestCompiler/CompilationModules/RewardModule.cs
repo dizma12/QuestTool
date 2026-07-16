@@ -1,6 +1,7 @@
 ﻿using QuestMaker.Domain;
 using System;
 using System.Collections.Generic;
+using UnityEngine;
 
 
 namespace QuestMaker.Editor.CompilationModules
@@ -27,14 +28,18 @@ namespace QuestMaker.Editor.CompilationModules
 
         public void SetExp(int amount)
         {
-            if (amount < 1 || _exp >= amount) return;
+            if(amount == 0) amount = 1;
+            else if(amount < 0) amount = Mathf.Abs(amount);
             _exp = amount;
         }
 
         public void SetItem(Item item, int amount = 1)
         {
             if (item == null) throw new NullReferenceException($"[{GetType().Name}] Cannot add Item coz its null");
-            if (amount < 1) return;
+
+            if (amount == 0) amount = 1;
+            else if (amount < 0) amount = Mathf.Abs(amount);
+            _exp = amount;
 
             _items.Add(new(item, amount));
         }

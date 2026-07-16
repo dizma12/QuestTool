@@ -1,0 +1,6164 @@
+fileFormatVersion: 2
+guid: 5fcd828bf7b9e4a4dbf96e67886a435d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5122279249482696434
+    second: Dwarf-Blacksmith_0
+  - first:
+      213: 1707059997368498270
+    second: Dwarf-Blacksmith_1
+  - first:
+      213: -477794340848173652
+    second: Dwarf-Blacksmith_2
+  - first:
+      213: -7480872201684096690
+    second: Dwarf-Blacksmith_3
+  - first:
+      213: -242229386754762524
+    second: Dwarf-Blacksmith_4
+  - first:
+      213: 5159851560076420835
+    second: Dwarf-Blacksmith_5
+  - first:
+      213: 2987523870430459284
+    second: Dwarf-Blacksmith_6
+  - first:
+      213: -7720676815241361320
+    second: Dwarf-Blacksmith_7
+  - first:
+      213: -8855305537286913312
+    second: Dwarf-Blacksmith_8
+  - first:
+      213: 3252533949085912547
+    second: Dwarf-Blacksmith_9
+  - first:
+      213: 8254251064127382019
+    second: Dwarf-Blacksmith_10
+  - first:
+      213: -2712156412528821304
+    second: Dwarf-Blacksmith_11
+  - first:
+      213: 7671722473990378123
+    second: Dwarf-Blacksmith_12
+  - first:
+      213: 402561361109811416
+    second: Dwarf-Blacksmith_13
+  - first:
+      213: 8631042627171059101
+    second: Dwarf-Blacksmith_14
+  - first:
+      213: 6454923395417272573
+    second: Dwarf-Blacksmith_15
+  - first:
+      213: 7696695685165241390
+    second: Dwarf-Blacksmith_16
+  - first:
+      213: -6616165785810851058
+    second: Dwarf-Blacksmith_17
+  - first:
+      213: 3994946876022944159
+    second: Dwarf-Blacksmith_18
+  - first:
+      213: 3665823635195026874
+    second: Dwarf-Blacksmith_19
+  - first:
+      213: -654757857309103052
+    second: Dwarf-Blacksmith_20
+  - first:
+      213: 4693105280469127455
+    second: Dwarf-Blacksmith_21
+  - first:
+      213: -3371259273309330412
+    second: Dwarf-Blacksmith_22
+  - first:
+      213: -5588688731823535250
+    second: Dwarf-Blacksmith_23
+  - first:
+      213: 3387108367399327271
+    second: Dwarf-Blacksmith_24
+  - first:
+      213: -4073130257839668363
+    second: Dwarf-Blacksmith_25
+  - first:
+      213: -5150490476476463458
+    second: Dwarf-Blacksmith_26
+  - first:
+      213: -5027117385660330964
+    second: Dwarf-Blacksmith_27
+  - first:
+      213: -8548264535994549114
+    second: Dwarf-Blacksmith_28
+  - first:
+      213: 1221161592035498741
+    second: Dwarf-Blacksmith_29
+  - first:
+      213: -2705026299128336239
+    second: Dwarf-Blacksmith_30
+  - first:
+      213: 7839632366180425823
+    second: Dwarf-Blacksmith_31
+  - first:
+      213: 3137230338056082625
+    second: Dwarf-Blacksmith_32
+  - first:
+      213: -4057115669604343895
+    second: Dwarf-Blacksmith_33
+  - first:
+      213: -6914506803387331652
+    second: Dwarf-Blacksmith_34
+  - first:
+      213: -14585811350261258
+    second: Dwarf-Blacksmith_35
+  - first:
+      213: -6520474109259628723
+    second: Dwarf-Blacksmith_36
+  - first:
+      213: 3333917306103569131
+    second: Dwarf-Blacksmith_37
+  - first:
+      213: 9168202817536530060
+    second: Dwarf-Blacksmith_38
+  - first:
+      213: 6112971882065693917
+    second: Dwarf-Blacksmith_39
+  - first:
+      213: 6656159388365919334
+    second: Dwarf-Blacksmith_40
+  - first:
+      213: 9153964982772722675
+    second: Dwarf-Blacksmith_41
+  - first:
+      213: 2732962466275080755
+    second: Dwarf-Blacksmith_42
+  - first:
+      213: 9123252679667026360
+    second: Dwarf-Blacksmith_43
+  - first:
+      213: 1804184201054387432
+    second: Dwarf-Blacksmith_44
+  - first:
+      213: -2806303855649312414
+    second: Dwarf-Blacksmith_45
+  - first:
+      213: -7447876170718130969
+    second: Dwarf-Blacksmith_46
+  - first:
+      213: -3886296722560964491
+    second: Dwarf-Blacksmith_47
+  - first:
+      213: -3520040130483058681
+    second: Dwarf-Blacksmith_48
+  - first:
+      213: -7664539990005002552
+    second: Dwarf-Blacksmith_49
+  - first:
+      213: 5028473623143670602
+    second: Dwarf-Blacksmith_50
+  - first:
+      213: 2757345989236807554
+    second: Dwarf-Blacksmith_51
+  - first:
+      213: -6355874696677287746
+    second: Dwarf-Blacksmith_52
+  - first:
+      213: -4564332515391113660
+    second: Dwarf-Blacksmith_53
+  - first:
+      213: -691053639942374282
+    second: Dwarf-Blacksmith_54
+  - first:
+      213: 4789229259753773126
+    second: Dwarf-Blacksmith_55
+  - first:
+      213: 8779520036526015204
+    second: Dwarf-Blacksmith_56
+  - first:
+      213: -8536722102275847470
+    second: Dwarf-Blacksmith_57
+  - first:
+      213: 1108826698697711501
+    second: Dwarf-Blacksmith_58
+  - first:
+      213: 8851947910256258313
+    second: Dwarf-Blacksmith_59
+  - first:
+      213: 7418353476037059719
+    second: Dwarf-Blacksmith_60
+  - first:
+      213: -2185564879438697228
+    second: Dwarf-Blacksmith_61
+  - first:
+      213: -7679048274166087880
+    second: Dwarf-Blacksmith_62
+  - first:
+      213: -4147008752042601551
+    second: Dwarf-Blacksmith_63
+  - first:
+      213: 8269050893843671616
+    second: Dwarf-Blacksmith_64
+  - first:
+      213: -5101607831620928135
+    second: Dwarf-Blacksmith_65
+  - first:
+      213: -3101654259498746310
+    second: Dwarf-Blacksmith_66
+  - first:
+      213: -3517738920310986150
+    second: Dwarf-Blacksmith_67
+  - first:
+      213: 7740413127082868985
+    second: Dwarf-Blacksmith_68
+  - first:
+      213: 3415308514394125700
+    second: Dwarf-Blacksmith_69
+  - first:
+      213: -5090761496877359031
+    second: Dwarf-Blacksmith_70
+  - first:
+      213: 2015511476722693984
+    second: Dwarf-Blacksmith_71
+  - first:
+      213: -2091970314403638830
+    second: Dwarf-Blacksmith_72
+  - first:
+      213: 3240503294866286326
+    second: Dwarf-Blacksmith_73
+  - first:
+      213: -8104464025961565785
+    second: Dwarf-Blacksmith_74
+  - first:
+      213: -7516568101221615719
+    second: Dwarf-Blacksmith_75
+  - first:
+      213: -1479234526206679575
+    second: Dwarf-Blacksmith_76
+  - first:
+      213: 7008955382419685754
+    second: Dwarf-Blacksmith_77
+  - first:
+      213: 2845852085180971650
+    second: Dwarf-Blacksmith_78
+  - first:
+      213: -3556278062912151912
+    second: Dwarf-Blacksmith_79
+  - first:
+      213: -4236224547594392611
+    second: Dwarf-Blacksmith_80
+  - first:
+      213: -5247039279408181968
+    second: Dwarf-Blacksmith_81
+  - first:
+      213: 7162579310149364
+    second: Dwarf-Blacksmith_82
+  - first:
+      213: 1397678165229463280
+    second: Dwarf-Blacksmith_83
+  - first:
+      213: -1784305609762362192
+    second: Dwarf-Blacksmith_84
+  - first:
+      213: 8652033795985452988
+    second: Dwarf-Blacksmith_85
+  - first:
+      213: 3733764145678787422
+    second: Dwarf-Blacksmith_86
+  - first:
+      213: -3808079949985548404
+    second: Dwarf-Blacksmith_87
+  - first:
+      213: -3320465998829377726
+    second: Dwarf-Blacksmith_88
+  - first:
+      213: 2683678873860589084
+    second: Dwarf-Blacksmith_89
+  - first:
+      213: 7561810109665788938
+    second: Dwarf-Blacksmith_90
+  - first:
+      213: -9088078322749238505
+    second: Dwarf-Blacksmith_91
+  - first:
+      213: -447686940584996372
+    second: Dwarf-Blacksmith_92
+  - first:
+      213: 6539884887729140899
+    second: Dwarf-Blacksmith_93
+  - first:
+      213: -5788885667423136713
+    second: Dwarf-Blacksmith_94
+  - first:
+      213: 8420992598273634056
+    second: Dwarf-Blacksmith_95
+  - first:
+      213: 4848907503533577824
+    second: Dwarf-Blacksmith_96
+  - first:
+      213: 2749999280761969029
+    second: Dwarf-Blacksmith_97
+  - first:
+      213: -3519892459491500365
+    second: Dwarf-Blacksmith_98
+  - first:
+      213: -7549319600718767418
+    second: Dwarf-Blacksmith_99
+  - first:
+      213: -6428145911286144404
+    second: Dwarf-Blacksmith_100
+  - first:
+      213: 5018090209509083896
+    second: Dwarf-Blacksmith_101
+  - first:
+      213: -310410197245745850
+    second: Dwarf-Blacksmith_102
+  - first:
+      213: 6558435004722091691
+    second: Dwarf-Blacksmith_103
+  - first:
+      213: 962226158056006056
+    second: Dwarf-Blacksmith_104
+  - first:
+      213: -3060123321695805748
+    second: Dwarf-Blacksmith_105
+  - first:
+      213: -4672351809492951203
+    second: Dwarf-Blacksmith_106
+  - first:
+      213: -6519960766237340876
+    second: Dwarf-Blacksmith_107
+  - first:
+      213: 5918464251396912578
+    second: Dwarf-Blacksmith_108
+  - first:
+      213: -1955444596994348074
+    second: Dwarf-Blacksmith_109
+  - first:
+      213: -8199255674639327843
+    second: Dwarf-Blacksmith_110
+  - first:
+      213: -4359649112871138860
+    second: Dwarf-Blacksmith_111
+  - first:
+      213: 6738047960666281771
+    second: Dwarf-Blacksmith_112
+  - first:
+      213: 3699476240056517288
+    second: Dwarf-Blacksmith_113
+  - first:
+      213: 3996622990291224827
+    second: Dwarf-Blacksmith_114
+  - first:
+      213: 3420375832858894779
+    second: Dwarf-Blacksmith_115
+  - first:
+      213: -7729988175184408912
+    second: Dwarf-Blacksmith_116
+  - first:
+      213: 7715349945122610195
+    second: Dwarf-Blacksmith_117
+  - first:
+      213: -5857156687259841530
+    second: Dwarf-Blacksmith_118
+  - first:
+      213: 8323899805239232136
+    second: Dwarf-Blacksmith_119
+  - first:
+      213: 6119946110180739317
+    second: Dwarf-Blacksmith_120
+  - first:
+      213: -4166313950379248014
+    second: Dwarf-Blacksmith_121
+  - first:
+      213: 8979234021625709189
+    second: Dwarf-Blacksmith_122
+  - first:
+      213: -8420991157201305414
+    second: Dwarf-Blacksmith_123
+  - first:
+      213: 1250058383541319668
+    second: Dwarf-Blacksmith_124
+  - first:
+      213: -1360880688781859236
+    second: Dwarf-Blacksmith_125
+  - first:
+      213: 3462906172653280754
+    second: Dwarf-Blacksmith_126
+  - first:
+      213: 7207948356423761360
+    second: Dwarf-Blacksmith_127
+  - first:
+      213: 5972057089254044677
+    second: Dwarf-Blacksmith_128
+  - first:
+      213: 7314482471241062659
+    second: Dwarf-Blacksmith_129
+  - first:
+      213: 958868475514282228
+    second: Dwarf-Blacksmith_130
+  - first:
+      213: 5458940153044990447
+    second: Dwarf-Blacksmith_131
+  - first:
+      213: -6870806152154724190
+    second: Dwarf-Blacksmith_132
+  - first:
+      213: -9149217746562107851
+    second: Dwarf-Blacksmith_133
+  - first:
+      213: -7238663388508973100
+    second: Dwarf-Blacksmith_134
+  - first:
+      213: 359642320519179483
+    second: Dwarf-Blacksmith_135
+  - first:
+      213: 604152105513419963
+    second: Dwarf-Blacksmith_136
+  - first:
+      213: 7153854019846122195
+    second: Dwarf-Blacksmith_137
+  - first:
+      213: -1854866038439041814
+    second: Dwarf-Blacksmith_138
+  - first:
+      213: 2541537871189263595
+    second: Dwarf-Blacksmith_139
+  - first:
+      213: -4667326680603778358
+    second: Dwarf-Blacksmith_140
+  - first:
+      213: 1685824798723170610
+    second: Dwarf-Blacksmith_141
+  - first:
+      213: -6445028176831576316
+    second: Dwarf-Blacksmith_142
+  - first:
+      213: -269026950308965270
+    second: Dwarf-Blacksmith_143
+  - first:
+      213: -2092781871196457331
+    second: Dwarf-Blacksmith_144
+  - first:
+      213: 8160740250621191736
+    second: Dwarf-Blacksmith_145
+  - first:
+      213: 1896161803424481020
+    second: Dwarf-Blacksmith_146
+  - first:
+      213: 2272179433364780504
+    second: Dwarf-Blacksmith_147
+  - first:
+      213: -3629614340224708559
+    second: Dwarf-Blacksmith_148
+  - first:
+      213: -1753847632959223534
+    second: Dwarf-Blacksmith_149
+  - first:
+      213: -4868712308639371897
+    second: Dwarf-Blacksmith_150
+  - first:
+      213: 4934289085726476353
+    second: Dwarf-Blacksmith_151
+  - first:
+      213: 2553835226652681753
+    second: Dwarf-Blacksmith_152
+  - first:
+      213: -3044485816704839488
+    second: Dwarf-Blacksmith_153
+  - first:
+      213: 5753954630801956539
+    second: Dwarf-Blacksmith_154
+  - first:
+      213: -7263835970267496977
+    second: Dwarf-Blacksmith_155
+  - first:
+      213: 9168357754357783784
+    second: Dwarf-Blacksmith_156
+  - first:
+      213: 1753330411451823939
+    second: Dwarf-Blacksmith_157
+  - first:
+      213: 6767136510608149921
+    second: Dwarf-Blacksmith_158
+  - first:
+      213: 4182087318296514400
+    second: Dwarf-Blacksmith_159
+  - first:
+      213: -6270104135110597856
+    second: Dwarf-Blacksmith_160
+  - first:
+      213: 7336356928211074873
+    second: Dwarf-Blacksmith_161
+  - first:
+      213: -5272372757064237790
+    second: Dwarf-Blacksmith_162
+  - first:
+      213: 179049972934366383
+    second: Dwarf-Blacksmith_163
+  - first:
+      213: -1901760804217387889
+    second: Dwarf-Blacksmith_164
+  - first:
+      213: 7951544293025518834
+    second: Dwarf-Blacksmith_165
+  - first:
+      213: -3436130115301987730
+    second: Dwarf-Blacksmith_166
+  - first:
+      213: 1278567604041317260
+    second: Dwarf-Blacksmith_167
+  - first:
+      213: -6518221033828219156
+    second: Dwarf-Blacksmith_168
+  - first:
+      213: 5249387114623824323
+    second: Dwarf-Blacksmith_169
+  - first:
+      213: -3376101012855893037
+    second: Dwarf-Blacksmith_170
+  - first:
+      213: -2535275592028006117
+    second: Dwarf-Blacksmith_171
+  - first:
+      213: 1890407014098704876
+    second: Dwarf-Blacksmith_172
+  - first:
+      213: -8302604442588619591
+    second: Dwarf-Blacksmith_173
+  - first:
+      213: 6617504406349857411
+    second: Dwarf-Blacksmith_174
+  - first:
+      213: 4100093210487030465
+    second: Dwarf-Blacksmith_175
+  - first:
+      213: 7831861971866589212
+    second: Dwarf-Blacksmith_176
+  - first:
+      213: -6585624528347791911
+    second: Dwarf-Blacksmith_177
+  - first:
+      213: -4867188911661312679
+    second: Dwarf-Blacksmith_178
+  - first:
+      213: -2621980324045722826
+    second: Dwarf-Blacksmith_179
+  - first:
+      213: -6595697678358917317
+    second: Dwarf-Blacksmith_180
+  - first:
+      213: 8763503910627153671
+    second: Dwarf-Blacksmith_181
+  - first:
+      213: 5117829078808643202
+    second: Dwarf-Blacksmith_182
+  - first:
+      213: -7240587743015718063
+    second: Dwarf-Blacksmith_183
+  - first:
+      213: -2986425418652785336
+    second: Dwarf-Blacksmith_184
+  - first:
+      213: 4031332071964434862
+    second: Dwarf-Blacksmith_185
+  - first:
+      213: -873309840698036736
+    second: Dwarf-Blacksmith_186
+  - first:
+      213: -6615580822543827492
+    second: Dwarf-Blacksmith_187
+  - first:
+      213: 2839891647305366970
+    second: Dwarf-Blacksmith_188
+  - first:
+      213: -3233958066977231723
+    second: Dwarf-Blacksmith_189
+  - first:
+      213: 2452632616704725818
+    second: Dwarf-Blacksmith_190
+  - first:
+      213: -3274370989421018133
+    second: Dwarf-Blacksmith_191
+  - first:
+      213: 8114598699330579159
+    second: Dwarf-Blacksmith_192
+  - first:
+      213: -8353541011150832273
+    second: Dwarf-Blacksmith_193
+  - first:
+      213: 6748548352290082299
+    second: Dwarf-Blacksmith_194
+  - first:
+      213: -618355601988171974
+    second: Dwarf-Blacksmith_195
+  - first:
+      213: 1118539663699044523
+    second: Dwarf-Blacksmith_196
+  - first:
+      213: -5911121892573787733
+    second: Dwarf-Blacksmith_197
+  - first:
+      213: 2003909564978706734
+    second: Dwarf-Blacksmith_198
+  - first:
+      213: 210029415642282605
+    second: Dwarf-Blacksmith_199
+  - first:
+      213: -7080788624676376581
+    second: Dwarf-Blacksmith_200
+  - first:
+      213: -7221786955402871518
+    second: Dwarf-Blacksmith_201
+  - first:
+      213: 1064181580158546107
+    second: Dwarf-Blacksmith_202
+  - first:
+      213: -2153837042898889394
+    second: Dwarf-Blacksmith_203
+  - first:
+      213: 3731614879958252330
+    second: Dwarf-Blacksmith_204
+  - first:
+      213: -5980968052233388620
+    second: Dwarf-Blacksmith_205
+  - first:
+      213: 7879981316412599910
+    second: Dwarf-Blacksmith_206
+  - first:
+      213: 193791619693008103
+    second: Dwarf-Blacksmith_207
+  - first:
+      213: -3776486840527171938
+    second: Dwarf-Blacksmith_208
+  - first:
+      213: 3782690040591655895
+    second: Dwarf-Blacksmith_209
+  - first:
+      213: 6926374586202910180
+    second: Dwarf-Blacksmith_210
+  - first:
+      213: 7876511912221543104
+    second: Dwarf-Blacksmith_211
+  - first:
+      213: -3320027520847632148
+    second: Dwarf-Blacksmith_212
+  - first:
+      213: -2458919142238791727
+    second: Dwarf-Blacksmith_213
+  - first:
+      213: 8553376352108646716
+    second: Dwarf-Blacksmith_214
+  - first:
+      213: -4022165302254025651
+    second: Dwarf-Blacksmith_215
+  - first:
+      213: 1714760461221643758
+    second: Dwarf-Blacksmith_216
+  - first:
+      213: -6416184492180175515
+    second: Dwarf-Blacksmith_217
+  - first:
+      213: 8000741699590105733
+    second: Dwarf-Blacksmith_218
+  - first:
+      213: -5078752124660044300
+    second: Dwarf-Blacksmith_219
+  - first:
+      213: 6555977768136852808
+    second: Dwarf-Blacksmith_220
+  - first:
+      213: -4266460598311416777
+    second: Dwarf-Blacksmith_221
+  - first:
+      213: -1477750104355693327
+    second: Dwarf-Blacksmith_222
+  - first:
+      213: -8273542069553527304
+    second: Dwarf-Blacksmith_223
+  - first:
+      213: -1273824831897821240
+    second: Dwarf-Blacksmith_224
+  - first:
+      213: 4751402264743047735
+    second: Dwarf-Blacksmith_225
+  - first:
+      213: 2675300119519403464
+    second: Dwarf-Blacksmith_226
+  - first:
+      213: 4073893726582299741
+    second: Dwarf-Blacksmith_227
+  - first:
+      213: -8548742092255111707
+    second: Dwarf-Blacksmith_228
+  - first:
+      213: -2804757970168061723
+    second: Dwarf-Blacksmith_229
+  - first:
+      213: 4452692682748039862
+    second: Dwarf-Blacksmith_230
+  - first:
+      213: 5411093155315160612
+    second: Dwarf-Blacksmith_231
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f645c1a6ddf51740800000000000000
+      internalID: 5122279249482696434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e58bd61f502b0b710800000000000000
+      internalID: 1707059997368498270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cad7d0614988e59f0800000000000000
+      internalID: -477794340848173652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4966803e5a9e2890800000000000000
+      internalID: -7480872201684096690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e85258f7ad63acf0800000000000000
+      internalID: -242229386754762524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e6a914e7a97b9740800000000000000
+      internalID: 5159851560076420835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 495f10fa121d57920800000000000000
+      internalID: 2987523870430459284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 858c1f9a755aad490800000000000000
+      internalID: -7720676815241361320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e2c6700882ab1580800000000000000
+      internalID: -8855305537286913312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ed0a2fd462532d20800000000000000
+      internalID: 3252533949085912547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 302e3342c9dfc8270800000000000000
+      internalID: 8254251064127382019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cbfbe7cc1c7c5ad0800000000000000
+      internalID: -2712156412528821304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b82d39d81fe677a60800000000000000
+      internalID: 7671722473990378123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_13
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d08f31dc6f269500800000000000000
+      internalID: 402561361109811416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_14
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9509c94a8f97c770800000000000000
+      internalID: 8631042627171059101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_15
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df07434e0ae749950800000000000000
+      internalID: 6454923395417272573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_16
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e245e8262f720da60800000000000000
+      internalID: 7696695685165241390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_17
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0ba6a19548ae24a0800000000000000
+      internalID: -6616165785810851058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_18
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9177e18407e07730800000000000000
+      internalID: 3994946876022944159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_19
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abdd7018c2f9fd230800000000000000
+      internalID: 3665823635195026874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_20
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43ce135a235d9e6f0800000000000000
+      internalID: -654757857309103052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_21
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f115fdf2362412140800000000000000
+      internalID: 4693105280469127455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_22
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 414e7a87d81e631d0800000000000000
+      internalID: -3371259273309330412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_23
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6b0e63653df072b0800000000000000
+      internalID: -5588688731823535250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_24
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 726179e4d1d610f20800000000000000
+      internalID: 3387108367399327271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_25
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57342916c955977c0800000000000000
+      internalID: -4073130257839668363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_26
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e96869a3338c588b0800000000000000
+      internalID: -5150490476476463458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_27
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2c868f5f571c3ab0800000000000000
+      internalID: -5027117385660330964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_28
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68cb9f5f1b67e5980800000000000000
+      internalID: -8548264535994549114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fa50aa7fff62f010800000000000000
+      internalID: 1221161592035498741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_30
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 190bd5ca9e0d57ad0800000000000000
+      internalID: -2705026299128336239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_31
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f50e6d3d918fbcc60800000000000000
+      internalID: 7839632366180425823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_32
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c45966ee5ea98b20800000000000000
+      internalID: 3137230338056082625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_33
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9afdf844bca32b7c0800000000000000
+      internalID: -4057115669604343895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_34
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbb831b62bcba00a0800000000000000
+      internalID: -6914506803387331652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_35
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f1f4b7284e2ccff0800000000000000
+      internalID: -14585811350261258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_36
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4fb276385f9285a0800000000000000
+      internalID: -6520474109259628723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_37
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bea94d44024744e20800000000000000
+      internalID: 3333917306103569131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_38
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c86100823effb3f70800000000000000
+      internalID: 9168202817536530060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_39
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddc0a70f983a5d450800000000000000
+      internalID: 6112971882065693917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_40
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6649ee7a2bd6f5c50800000000000000
+      internalID: 6656159388365919334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_41
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fb688ce6aa690f70800000000000000
+      internalID: 9153964982772722675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_42
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a3dca12ee6de520800000000000000
+      internalID: 2732962466275080755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_43
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b90faf99fd4c9e70800000000000000
+      internalID: 9123252679667026360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_44
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ecf73dc8ffb90910800000000000000
+      internalID: 1804184201054387432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_45
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 261b63003810e09d0800000000000000
+      internalID: -2806303855649312414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_46
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eccf315514d3a890800000000000000
+      internalID: -7447876170718130969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_47
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5782df7a8b9111ac0800000000000000
+      internalID: -3886296722560964491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_48
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 708007bb62e462fc0800000000000000
+      internalID: -3520040130483058681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_49
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cec9f0dc7512a590800000000000000
+      internalID: -7664539990005002552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_50
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4366e54e1ab8c540800000000000000
+      internalID: 5028473623143670602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_51
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 287de43719f044620800000000000000
+      internalID: 2757345989236807554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_52
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb818a363a56bc7a0800000000000000
+      internalID: -6355874696677287746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_53
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 446f85792cb38a0c0800000000000000
+      internalID: -4564332515391113660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_54
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67c7e763062e866f0800000000000000
+      internalID: -691053639942374282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_55
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 648d78723a2c67240800000000000000
+      internalID: 4789229259753773126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_56
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e2ce8315fe17d970800000000000000
+      internalID: 8779520036526015204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_57
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2da4f9b3a78778980800000000000000
+      internalID: -8536722102275847470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8f9855f108536f00800000000000000
+      internalID: 1108826698697711501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_59
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90de51989bf68da70800000000000000
+      internalID: 8851947910256258313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_60
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 784297dae2943f660800000000000000
+      internalID: 7418353476037059719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_61
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fcac7f52505ba1e0800000000000000
+      internalID: -2185564879438697228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_62
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83ff04da74a8e6590800000000000000
+      internalID: -7679048274166087880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_63
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b39016038dd276c0800000000000000
+      internalID: -4147008752042601551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_64
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04aad250af191c270800000000000000
+      internalID: 8269050893843671616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_65
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97d32e4e4b27339b0800000000000000
+      internalID: -5101607831620928135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_66
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3eff7e52e5b4f4d0800000000000000
+      internalID: -3101654259498746310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_67
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5a2c4af61b7e2fc0800000000000000
+      internalID: -3517738920310986150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_68
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f08b868ab87b6b60800000000000000
+      internalID: 7740413127082868985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_69
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48534deaffc956f20800000000000000
+      internalID: 3415308514394125700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_70
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 940a36ef36bf959b0800000000000000
+      internalID: -5090761496877359031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_71
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06777ca620988fb10800000000000000
+      internalID: 2015511476722693984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_72
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d11f413514d7f2e0800000000000000
+      internalID: -2091970314403638830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_73
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f6ecf7e39498fc20800000000000000
+      internalID: 3240503294866286326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_74
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a1f0ad58e8278f80800000000000000
+      internalID: -8104464025961565785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_75
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99737ace229cfa790800000000000000
+      internalID: -7516568101221615719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_76
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e525f52904b87be0800000000000000
+      internalID: -1479234526206679575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_77
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7100b709cfc44160800000000000000
+      internalID: 7008955382419685754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_78
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28a348cb46f7e7720800000000000000
+      internalID: 2845852085180971650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_79
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89e5b9991ff85aec0800000000000000
+      internalID: -3556278062912151912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_80
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddba8dbe738e535c0800000000000000
+      internalID: -4236224547594392611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_81
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03d8a5c4395ce27b0800000000000000
+      internalID: -5247039279408181968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_82
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fef473f352791000800000000000000
+      internalID: 7162579310149364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_83
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f662d4d2ec856310800000000000000
+      internalID: 1397678165229463280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_84
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bca067608fdc37e0800000000000000
+      internalID: -1784305609762362192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_85
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbf2362a5e2321870800000000000000
+      internalID: 8652033795985452988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_86
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e53264a45bef0d330800000000000000
+      internalID: 3733764145678787422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_87
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c87f2d8267bf62bc0800000000000000
+      internalID: -3808079949985548404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_88
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 247230344c55be1d0800000000000000
+      internalID: -3320465998829377726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_89
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c164eaf87b75e3520800000000000000
+      internalID: 2683678873860589084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_90
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0446950b32f0f860800000000000000
+      internalID: 7561810109665788938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_91
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7139a998ae8a0e180800000000000000
+      internalID: -9088078322749238505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_92
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce199d7791f79c9f0800000000000000
+      internalID: -447686940584996372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_93
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a47a05d7a652ca50800000000000000
+      internalID: 6539884887729140899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_94
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 734d4e3082fb9afa0800000000000000
+      internalID: -5788885667423136713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_95
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80f2b4cd6206dd470800000000000000
+      internalID: 8420992598273634056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_96
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06658d01fa7ca4340800000000000000
+      internalID: 4848907503533577824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_97
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 589956696c5f92620800000000000000
+      internalID: 2749999280761969029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_98
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bede601574d62fc0800000000000000
+      internalID: -3519892459491500365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_99
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ca934732dd6b3790800000000000000
+      internalID: -7549319600718767418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_100
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c62e869f953aac6a0800000000000000
+      internalID: -6428145911286144404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_101
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fa87a46576d3a540800000000000000
+      internalID: 5018090209509083896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_102
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 645228af19331bbf0800000000000000
+      internalID: -310410197245745850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_103
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba692f283ed340b50800000000000000
+      internalID: 6558435004722091691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_104
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a16488b7938a5d00800000000000000
+      internalID: 962226158056006056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_105
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccede695d024885d0800000000000000
+      internalID: -3060123321695805748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_106
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5fd481d8c8782fb0800000000000000
+      internalID: -4672351809492951203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_107
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43b80f23a327485a0800000000000000
+      internalID: -6519960766237340876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_108
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c57c5811eb922250800000000000000
+      internalID: 5918464251396912578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_109
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dbe13adf7ddcd4e0800000000000000
+      internalID: -1955444596994348074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_110
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9d548ac764663e80800000000000000
+      internalID: -8199255674639327843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_111
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d908f1fa3a6f73c0800000000000000
+      internalID: -4359649112871138860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_112
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b271f07abea528d50800000000000000
+      internalID: 6738047960666281771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_113
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a201972a0e275330800000000000000
+      internalID: 3699476240056517288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_114
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf8c7754f6bd67730800000000000000
+      internalID: 3996622990291224827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_115
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb1a2e3b2bd977f20800000000000000
+      internalID: 3420375832858894779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_116
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bec92cb5b099b490800000000000000
+      internalID: -7729988175184408912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_117
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31cdcdcb5ed621b60800000000000000
+      internalID: 7715349945122610195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_118
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60cc216860337bea0800000000000000
+      internalID: -5857156687259841530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_119
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8864a3d55ce648370800000000000000
+      internalID: 8323899805239232136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_120
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f84bd5ff8a6ee450800000000000000
+      internalID: 6119946110180739317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_121
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 276f3e449874e26c0800000000000000
+      internalID: -4166313950379248014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_122
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5824a16c4c5ac9c70800000000000000
+      internalID: 8979234021625709189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_123
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab08f4aa821a22b80800000000000000
+      internalID: -8420991157201305414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_124
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f7ba7b0a79195110800000000000000
+      internalID: 1250058383541319668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_125
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c56e77b493e2d1de0800000000000000
+      internalID: -1360880688781859236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_126
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fd918711d6be0030800000000000000
+      internalID: 3462906172653280754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_127
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ddbfff37d6c70460800000000000000
+      internalID: 7207948356423761360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_128
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5043757084201e250800000000000000
+      internalID: 5972057089254044677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_129
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3091526cd03428560800000000000000
+      internalID: 7314482471241062659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_130
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f069555cc59e4d00800000000000000
+      internalID: 958868475514282228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_131
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe9fc50852d02cb40800000000000000
+      internalID: 5458940153044990447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_132
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a8cf3c253ef5a0a0800000000000000
+      internalID: -6870806152154724190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_133
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53637732fe2770180800000000000000
+      internalID: -9149217746562107851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_134
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d71c4f000a1b8b90800000000000000
+      internalID: -7238663388508973100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_135
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdc2eb8f8c4bdf400800000000000000
+      internalID: 359642320519179483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_136
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb48e679321626800800000000000000
+      internalID: 604152105513419963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_137
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3daadeb0458974360800000000000000
+      internalID: 7153854019846122195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_138
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae4a7e06a213246e0800000000000000
+      internalID: -1854866038439041814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_139
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be4407b6a3b554320800000000000000
+      internalID: 2541537871189263595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_140
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac2a8efcc135a3fb0800000000000000
+      internalID: -4667326680603778358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_141
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2316079f8b0456710800000000000000
+      internalID: 1685824798723170610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_142
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40702983509ae86a0800000000000000
+      internalID: -6445028176831576316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_143
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a64d3dff969344cf0800000000000000
+      internalID: -269026950308965270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_144
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8635f6e9f1f4f2e0800000000000000
+      internalID: -2092781871196457331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_145
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 836228e3506c04170800000000000000
+      internalID: 8160740250621191736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_146
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfeb7c92d15805a10800000000000000
+      internalID: 1896161803424481020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_147
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d5f7a7f727688f10800000000000000
+      internalID: 2272179433364780504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_148
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1301e33fcf401adc0800000000000000
+      internalID: -3629614340224708559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_149
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2194e4fbed419a7e0800000000000000
+      internalID: -1753847632959223534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_150
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78d6af963fbde6cb0800000000000000
+      internalID: -4868712308639371897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_151
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14840ddc7cd1a7440800000000000000
+      internalID: 4934289085726476353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_152
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 916238b9b9b017320800000000000000
+      internalID: 2553835226652681753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_153
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c0d793b740dfb5d0800000000000000
+      internalID: -3044485816704839488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_154
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbe1aae30472adf40800000000000000
+      internalID: 5753954630801956539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_155
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fed3085ababa13b90800000000000000
+      internalID: -7263835970267496977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_156
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ec91323dcc8c3f70800000000000000
+      internalID: 9168357754357783784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_157
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 347b97c38b4155810800000000000000
+      internalID: 1753330411451823939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_158
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ad00657dc2b9ed50800000000000000
+      internalID: 6767136510608149921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_159
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06fcab22242c90a30800000000000000
+      internalID: 4182087318296514400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_160
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0236602728d1cf8a0800000000000000
+      internalID: -6270104135110597856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_161
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93f3f7ba1c9ffc560800000000000000
+      internalID: 7336356928211074873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_162
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d3db369e4c4d6b0800000000000000
+      internalID: -5272372757064237790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_163
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa4dbc1700d1c7200800000000000000
+      internalID: 179049972934366383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_164
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f848cd0ef969b95e0800000000000000
+      internalID: -1901760804217387889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_165
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f41299c76f895e60800000000000000
+      internalID: 7951544293025518834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_166
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6a27639dd96050d0800000000000000
+      internalID: -3436130115301987730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_167
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8b743436726eb110800000000000000
+      internalID: 1278567604041317260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_168
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce680373180aa85a0800000000000000
+      internalID: -6518221033828219156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_169
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c17aafa4c199d840800000000000000
+      internalID: 5249387114623824323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_170
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d353e2240ea521d0800000000000000
+      internalID: -3376101012855893037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_171
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b19d3711844e0dcd0800000000000000
+      internalID: -2535275592028006117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_172
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce9924cd9231c3a10800000000000000
+      internalID: 1890407014098704876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_173
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bcdce0af3937cc80800000000000000
+      internalID: -8302604442588619591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_174
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 382c010523916db50800000000000000
+      internalID: 6617504406349857411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_175
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c2021d3d0576e830800000000000000
+      internalID: 4100093210487030465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_176
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c189ffae7fc50bc60800000000000000
+      internalID: 7831861971866589212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_177
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ddfab332692b94a0800000000000000
+      internalID: -6585624528347791911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_178
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95515b9e875447cb0800000000000000
+      internalID: -4867188911661312679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_179
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63be03189cadc9bd0800000000000000
+      internalID: -2621980324045722826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_180
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3f4c8338ef5774a0800000000000000
+      internalID: -6595697678358917317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_181
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7079dac20683e9970800000000000000
+      internalID: 8763503910627153671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_182
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 286cd878e6e260740800000000000000
+      internalID: 5117829078808643202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_183
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 153308c5fc3448b90800000000000000
+      internalID: -7240587743015718063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_184
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 845e00d87e51e86d0800000000000000
+      internalID: -2986425418652785336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_185
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea16419192b22f730800000000000000
+      internalID: 4031332071964434862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_186
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00e275ea35161e3f0800000000000000
+      internalID: -873309840698036736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_187
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdd7361fa4cb034a0800000000000000
+      internalID: -6615580822543827492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_188
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abd3c362862596720800000000000000
+      internalID: 2839891647305366970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_189
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59c2057b54cae13d0800000000000000
+      internalID: -3233958066977231723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_190
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a33d83bce50890220800000000000000
+      internalID: 2452632616704725818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_191
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be347b8fee81f82d0800000000000000
+      internalID: -3274370989421018133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_192
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7da22782688dc9070800000000000000
+      internalID: 8114598699330579159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_193
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6d72b595b2421c80800000000000000
+      internalID: -8353541011150832273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_194
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfd4cc798f8a7ad50800000000000000
+      internalID: 6748548352290082299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_195
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a374f9e2bd82b67f0800000000000000
+      internalID: -618355601988171974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_196
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba867f9d5e9d58f00800000000000000
+      internalID: 1118539663699044523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_197
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba9ca1905f977fda0800000000000000
+      internalID: -5911121892573787733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_198
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e293096d1215fcb10800000000000000
+      internalID: 2003909564978706734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_199
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6abdb704ac2ae200800000000000000
+      internalID: 210029415642282605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_200
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bffa980f24cfbbd90800000000000000
+      internalID: -7080788624676376581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_201
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d79a7d60f07cb90800000000000000
+      internalID: -7221786955402871518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_202
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb03dd5428bb4ce00800000000000000
+      internalID: 1064181580158546107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_203
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e451fe9fe980c12e0800000000000000
+      internalID: -2153837042898889394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_204
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2b397e56fb59c330800000000000000
+      internalID: 3731614879958252330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_205
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bd3ba9be355ffca0800000000000000
+      internalID: -5980968052233388620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_206
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66eec71e1415b5d60800000000000000
+      internalID: 7879981316412599910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_207
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e4df3c837c70b200800000000000000
+      internalID: 193791619693008103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_208
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9ec07b2a39379bc0800000000000000
+      internalID: -3776486840527171938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_209
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d3afd4ec80de7430800000000000000
+      internalID: 3782690040591655895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_210
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4edeae71dfc6f1060800000000000000
+      internalID: 6926374586202910180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_211
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ca09154addfe4d60800000000000000
+      internalID: 7876511912221543104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_212
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce82b5f5f84ece1d0800000000000000
+      internalID: -3320027520847632148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_213
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d7d27b611a20edd0800000000000000
+      internalID: -2458919142238791727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_214
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3199a97972b3b670800000000000000
+      internalID: 8553376352108646716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_215
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d444f3bc7f56e28c0800000000000000
+      internalID: -4022165302254025651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_216
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee54006ed8d0cc710800000000000000
+      internalID: 1714760461221643758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_217
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5650b32e23225f6a0800000000000000
+      internalID: -6416184492180175515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_218
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58a29bf9f28580f60800000000000000
+      internalID: 8000741699590105733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_219
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fda06bd9d5a489b0800000000000000
+      internalID: -5078752124660044300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_220
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 845c7298b038bfa50800000000000000
+      internalID: 6555977768136852808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_221
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73c8275c0bc7ac4c0800000000000000
+      internalID: -4266460598311416777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_222
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fc151b0c1afd7be0800000000000000
+      internalID: -1477750104355693327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_223
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f50306a2597e2d80800000000000000
+      internalID: -8273542069553527304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_224
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cf98ac7017725ee0800000000000000
+      internalID: -1273824831897821240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_225
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 732fefe8f2f50f140800000000000000
+      internalID: 4751402264743047735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_226
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cd938bc843902520800000000000000
+      internalID: 2675300119519403464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_227
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5c51a982c0698830800000000000000
+      internalID: 4073893726582299741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_228
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e554ba3c54cc5980800000000000000
+      internalID: -8548742092255111707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_229
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e0ef238c7f7319d0800000000000000
+      internalID: -2804757970168061723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_230
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b29d2157642bcd30800000000000000
+      internalID: 4452692682748039862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Blacksmith_231
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4269b193e80181b40800000000000000
+      internalID: 5411093155315160612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 3cb9198357c49b341a7947b7bce0b0af
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":32.0,"y":32.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Dwarf-Blacksmith_0: 5122279249482696434
+      Dwarf-Blacksmith_1: 1707059997368498270
+      Dwarf-Blacksmith_10: 8254251064127382019
+      Dwarf-Blacksmith_100: -6428145911286144404
+      Dwarf-Blacksmith_101: 5018090209509083896
+      Dwarf-Blacksmith_102: -310410197245745850
+      Dwarf-Blacksmith_103: 6558435004722091691
+      Dwarf-Blacksmith_104: 962226158056006056
+      Dwarf-Blacksmith_105: -3060123321695805748
+      Dwarf-Blacksmith_106: -4672351809492951203
+      Dwarf-Blacksmith_107: -6519960766237340876
+      Dwarf-Blacksmith_108: 5918464251396912578
+      Dwarf-Blacksmith_109: -1955444596994348074
+      Dwarf-Blacksmith_11: -2712156412528821304
+      Dwarf-Blacksmith_110: -8199255674639327843
+      Dwarf-Blacksmith_111: -4359649112871138860
+      Dwarf-Blacksmith_112: 6738047960666281771
+      Dwarf-Blacksmith_113: 3699476240056517288
+      Dwarf-Blacksmith_114: 3996622990291224827
+      Dwarf-Blacksmith_115: 3420375832858894779
+      Dwarf-Blacksmith_116: -7729988175184408912
+      Dwarf-Blacksmith_117: 7715349945122610195
+      Dwarf-Blacksmith_118: -5857156687259841530
+      Dwarf-Blacksmith_119: 8323899805239232136
+      Dwarf-Blacksmith_12: 7671722473990378123
+      Dwarf-Blacksmith_120: 6119946110180739317
+      Dwarf-Blacksmith_121: -4166313950379248014
+      Dwarf-Blacksmith_122: 8979234021625709189
+      Dwarf-Blacksmith_123: -8420991157201305414
+      Dwarf-Blacksmith_124: 1250058383541319668
+      Dwarf-Blacksmith_125: -1360880688781859236
+      Dwarf-Blacksmith_126: 3462906172653280754
+      Dwarf-Blacksmith_127: 7207948356423761360
+      Dwarf-Blacksmith_128: 5972057089254044677
+      Dwarf-Blacksmith_129: 7314482471241062659
+      Dwarf-Blacksmith_13: 402561361109811416
+      Dwarf-Blacksmith_130: 958868475514282228
+      Dwarf-Blacksmith_131: 5458940153044990447
+      Dwarf-Blacksmith_132: -6870806152154724190
+      Dwarf-Blacksmith_133: -9149217746562107851
+      Dwarf-Blacksmith_134: -7238663388508973100
+      Dwarf-Blacksmith_135: 359642320519179483
+      Dwarf-Blacksmith_136: 604152105513419963
+      Dwarf-Blacksmith_137: 7153854019846122195
+      Dwarf-Blacksmith_138: -1854866038439041814
+      Dwarf-Blacksmith_139: 2541537871189263595
+      Dwarf-Blacksmith_14: 8631042627171059101
+      Dwarf-Blacksmith_140: -4667326680603778358
+      Dwarf-Blacksmith_141: 1685824798723170610
+      Dwarf-Blacksmith_142: -6445028176831576316
+      Dwarf-Blacksmith_143: -269026950308965270
+      Dwarf-Blacksmith_144: -2092781871196457331
+      Dwarf-Blacksmith_145: 8160740250621191736
+      Dwarf-Blacksmith_146: 1896161803424481020
+      Dwarf-Blacksmith_147: 2272179433364780504
+      Dwarf-Blacksmith_148: -3629614340224708559
+      Dwarf-Blacksmith_149: -1753847632959223534
+      Dwarf-Blacksmith_15: 6454923395417272573
+      Dwarf-Blacksmith_150: -4868712308639371897
+      Dwarf-Blacksmith_151: 4934289085726476353
+      Dwarf-Blacksmith_152: 2553835226652681753
+      Dwarf-Blacksmith_153: -3044485816704839488
+      Dwarf-Blacksmith_154: 5753954630801956539
+      Dwarf-Blacksmith_155: -7263835970267496977
+      Dwarf-Blacksmith_156: 9168357754357783784
+      Dwarf-Blacksmith_157: 1753330411451823939
+      Dwarf-Blacksmith_158: 6767136510608149921
+      Dwarf-Blacksmith_159: 4182087318296514400
+      Dwarf-Blacksmith_16: 7696695685165241390
+      Dwarf-Blacksmith_160: -6270104135110597856
+      Dwarf-Blacksmith_161: 7336356928211074873
+      Dwarf-Blacksmith_162: -5272372757064237790
+      Dwarf-Blacksmith_163: 179049972934366383
+      Dwarf-Blacksmith_164: -1901760804217387889
+      Dwarf-Blacksmith_165: 7951544293025518834
+      Dwarf-Blacksmith_166: -3436130115301987730
+      Dwarf-Blacksmith_167: 1278567604041317260
+      Dwarf-Blacksmith_168: -6518221033828219156
+      Dwarf-Blacksmith_169: 5249387114623824323
+      Dwarf-Blacksmith_17: -6616165785810851058
+      Dwarf-Blacksmith_170: -3376101012855893037
+      Dwarf-Blacksmith_171: -2535275592028006117
+      Dwarf-Blacksmith_172: 1890407014098704876
+      Dwarf-Blacksmith_173: -8302604442588619591
+      Dwarf-Blacksmith_174: 6617504406349857411
+      Dwarf-Blacksmith_175: 4100093210487030465
+      Dwarf-Blacksmith_176: 7831861971866589212
+      Dwarf-Blacksmith_177: -6585624528347791911
+      Dwarf-Blacksmith_178: -4867188911661312679
+      Dwarf-Blacksmith_179: -2621980324045722826
+      Dwarf-Blacksmith_18: 3994946876022944159
+      Dwarf-Blacksmith_180: -6595697678358917317
+      Dwarf-Blacksmith_181: 8763503910627153671
+      Dwarf-Blacksmith_182: 5117829078808643202
+      Dwarf-Blacksmith_183: -7240587743015718063
+      Dwarf-Blacksmith_184: -2986425418652785336
+      Dwarf-Blacksmith_185: 4031332071964434862
+      Dwarf-Blacksmith_186: -873309840698036736
+      Dwarf-Blacksmith_187: -6615580822543827492
+      Dwarf-Blacksmith_188: 2839891647305366970
+      Dwarf-Blacksmith_189: -3233958066977231723
+      Dwarf-Blacksmith_19: 3665823635195026874
+      Dwarf-Blacksmith_190: 2452632616704725818
+      Dwarf-Blacksmith_191: -3274370989421018133
+      Dwarf-Blacksmith_192: 8114598699330579159
+      Dwarf-Blacksmith_193: -8353541011150832273
+      Dwarf-Blacksmith_194: 6748548352290082299
+      Dwarf-Blacksmith_195: -618355601988171974
+      Dwarf-Blacksmith_196: 1118539663699044523
+      Dwarf-Blacksmith_197: -5911121892573787733
+      Dwarf-Blacksmith_198: 2003909564978706734
+      Dwarf-Blacksmith_199: 210029415642282605
+      Dwarf-Blacksmith_2: -477794340848173652
+      Dwarf-Blacksmith_20: -654757857309103052
+      Dwarf-Blacksmith_200: -7080788624676376581
+      Dwarf-Blacksmith_201: -7221786955402871518
+      Dwarf-Blacksmith_202: 1064181580158546107
+      Dwarf-Blacksmith_203: -2153837042898889394
+      Dwarf-Blacksmith_204: 3731614879958252330
+      Dwarf-Blacksmith_205: -5980968052233388620
+      Dwarf-Blacksmith_206: 7879981316412599910
+      Dwarf-Blacksmith_207: 193791619693008103
+      Dwarf-Blacksmith_208: -3776486840527171938
+      Dwarf-Blacksmith_209: 3782690040591655895
+      Dwarf-Blacksmith_21: 4693105280469127455
+      Dwarf-Blacksmith_210: 6926374586202910180
+      Dwarf-Blacksmith_211: 7876511912221543104
+      Dwarf-Blacksmith_212: -3320027520847632148
+      Dwarf-Blacksmith_213: -2458919142238791727
+      Dwarf-Blacksmith_214: 8553376352108646716
+      Dwarf-Blacksmith_215: -4022165302254025651
+      Dwarf-Blacksmith_216: 1714760461221643758
+      Dwarf-Blacksmith_217: -6416184492180175515
+      Dwarf-Blacksmith_218: 8000741699590105733
+      Dwarf-Blacksmith_219: -5078752124660044300
+      Dwarf-Blacksmith_22: -3371259273309330412
+      Dwarf-Blacksmith_220: 6555977768136852808
+      Dwarf-Blacksmith_221: -4266460598311416777
+      Dwarf-Blacksmith_222: -1477750104355693327
+      Dwarf-Blacksmith_223: -8273542069553527304
+      Dwarf-Blacksmith_224: -1273824831897821240
+      Dwarf-Blacksmith_225: 4751402264743047735
+      Dwarf-Blacksmith_226: 2675300119519403464
+      Dwarf-Blacksmith_227: 4073893726582299741
+      Dwarf-Blacksmith_228: -8548742092255111707
+      Dwarf-Blacksmith_229: -2804757970168061723
+      Dwarf-Blacksmith_23: -5588688731823535250
+      Dwarf-Blacksmith_230: 4452692682748039862
+      Dwarf-Blacksmith_231: 5411093155315160612
+      Dwarf-Blacksmith_24: 3387108367399327271
+      Dwarf-Blacksmith_25: -4073130257839668363
+      Dwarf-Blacksmith_26: -5150490476476463458
+      Dwarf-Blacksmith_27: -5027117385660330964
+      Dwarf-Blacksmith_28: -8548264535994549114
+      Dwarf-Blacksmith_29: 1221161592035498741
+      Dwarf-Blacksmith_3: -7480872201684096690
+      Dwarf-Blacksmith_30: -2705026299128336239
+      Dwarf-Blacksmith_31: 7839632366180425823
+      Dwarf-Blacksmith_32: 3137230338056082625
+      Dwarf-Blacksmith_33: -4057115669604343895
+      Dwarf-Blacksmith_34: -6914506803387331652
+      Dwarf-Blacksmith_35: -14585811350261258
+      Dwarf-Blacksmith_36: -6520474109259628723
+      Dwarf-Blacksmith_37: 3333917306103569131
+      Dwarf-Blacksmith_38: 9168202817536530060
+      Dwarf-Blacksmith_39: 6112971882065693917
+      Dwarf-Blacksmith_4: -242229386754762524
+      Dwarf-Blacksmith_40: 6656159388365919334
+      Dwarf-Blacksmith_41: 9153964982772722675
+      Dwarf-Blacksmith_42: 2732962466275080755
+      Dwarf-Blacksmith_43: 9123252679667026360
+      Dwarf-Blacksmith_44: 1804184201054387432
+      Dwarf-Blacksmith_45: -2806303855649312414
+      Dwarf-Blacksmith_46: -7447876170718130969
+      Dwarf-Blacksmith_47: -3886296722560964491
+      Dwarf-Blacksmith_48: -3520040130483058681
+      Dwarf-Blacksmith_49: -7664539990005002552
+      Dwarf-Blacksmith_5: 5159851560076420835
+      Dwarf-Blacksmith_50: 5028473623143670602
+      Dwarf-Blacksmith_51: 2757345989236807554
+      Dwarf-Blacksmith_52: -6355874696677287746
+      Dwarf-Blacksmith_53: -4564332515391113660
+      Dwarf-Blacksmith_54: -691053639942374282
+      Dwarf-Blacksmith_55: 4789229259753773126
+      Dwarf-Blacksmith_56: 8779520036526015204
+      Dwarf-Blacksmith_57: -8536722102275847470
+      Dwarf-Blacksmith_58: 1108826698697711501
+      Dwarf-Blacksmith_59: 8851947910256258313
+      Dwarf-Blacksmith_6: 2987523870430459284
+      Dwarf-Blacksmith_60: 7418353476037059719
+      Dwarf-Blacksmith_61: -2185564879438697228
+      Dwarf-Blacksmith_62: -7679048274166087880
+      Dwarf-Blacksmith_63: -4147008752042601551
+      Dwarf-Blacksmith_64: 8269050893843671616
+      Dwarf-Blacksmith_65: -5101607831620928135
+      Dwarf-Blacksmith_66: -3101654259498746310
+      Dwarf-Blacksmith_67: -3517738920310986150
+      Dwarf-Blacksmith_68: 7740413127082868985
+      Dwarf-Blacksmith_69: 3415308514394125700
+      Dwarf-Blacksmith_7: -7720676815241361320
+      Dwarf-Blacksmith_70: -5090761496877359031
+      Dwarf-Blacksmith_71: 2015511476722693984
+      Dwarf-Blacksmith_72: -2091970314403638830
+      Dwarf-Blacksmith_73: 3240503294866286326
+      Dwarf-Blacksmith_74: -8104464025961565785
+      Dwarf-Blacksmith_75: -7516568101221615719
+      Dwarf-Blacksmith_76: -1479234526206679575
+      Dwarf-Blacksmith_77: 7008955382419685754
+      Dwarf-Blacksmith_78: 2845852085180971650
+      Dwarf-Blacksmith_79: -3556278062912151912
+      Dwarf-Blacksmith_8: -8855305537286913312
+      Dwarf-Blacksmith_80: -4236224547594392611
+      Dwarf-Blacksmith_81: -5247039279408181968
+      Dwarf-Blacksmith_82: 7162579310149364
+      Dwarf-Blacksmith_83: 1397678165229463280
+      Dwarf-Blacksmith_84: -1784305609762362192
+      Dwarf-Blacksmith_85: 8652033795985452988
+      Dwarf-Blacksmith_86: 3733764145678787422
+      Dwarf-Blacksmith_87: -3808079949985548404
+      Dwarf-Blacksmith_88: -3320465998829377726
+      Dwarf-Blacksmith_89: 2683678873860589084
+      Dwarf-Blacksmith_9: 3252533949085912547
+      Dwarf-Blacksmith_90: 7561810109665788938
+      Dwarf-Blacksmith_91: -9088078322749238505
+      Dwarf-Blacksmith_92: -447686940584996372
+      Dwarf-Blacksmith_93: 6539884887729140899
+      Dwarf-Blacksmith_94: -5788885667423136713
+      Dwarf-Blacksmith_95: 8420992598273634056
+      Dwarf-Blacksmith_96: 4848907503533577824
+      Dwarf-Blacksmith_97: 2749999280761969029
+      Dwarf-Blacksmith_98: -3519892459491500365
+      Dwarf-Blacksmith_99: -7549319600718767418
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

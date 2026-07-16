@@ -1,0 +1,6162 @@
+fileFormatVersion: 2
+guid: 7b16d75712b939346b0095fe10d4c37f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3249829767153134527
+    second: Dwarf-Brute_0
+  - first:
+      213: 5636486078898516508
+    second: Dwarf-Brute_1
+  - first:
+      213: 746528119171472265
+    second: Dwarf-Brute_2
+  - first:
+      213: 5317144146018519930
+    second: Dwarf-Brute_3
+  - first:
+      213: -2004440791371906813
+    second: Dwarf-Brute_4
+  - first:
+      213: -2656699405583734754
+    second: Dwarf-Brute_5
+  - first:
+      213: -4401256293144297888
+    second: Dwarf-Brute_6
+  - first:
+      213: 6219089943880925350
+    second: Dwarf-Brute_7
+  - first:
+      213: 8534351671021251536
+    second: Dwarf-Brute_8
+  - first:
+      213: -6330756508327253458
+    second: Dwarf-Brute_9
+  - first:
+      213: -3202254635180264049
+    second: Dwarf-Brute_10
+  - first:
+      213: -4219178342428482664
+    second: Dwarf-Brute_11
+  - first:
+      213: -2012212979091948982
+    second: Dwarf-Brute_12
+  - first:
+      213: -9072084239566875295
+    second: Dwarf-Brute_13
+  - first:
+      213: 2198800849974185250
+    second: Dwarf-Brute_14
+  - first:
+      213: 967143797970603039
+    second: Dwarf-Brute_15
+  - first:
+      213: 4115451810045786191
+    second: Dwarf-Brute_16
+  - first:
+      213: 2781986565488526200
+    second: Dwarf-Brute_17
+  - first:
+      213: -430485038981171943
+    second: Dwarf-Brute_18
+  - first:
+      213: 5495702783304642855
+    second: Dwarf-Brute_19
+  - first:
+      213: -1139456529306994402
+    second: Dwarf-Brute_20
+  - first:
+      213: -7099558685233456285
+    second: Dwarf-Brute_21
+  - first:
+      213: -6371176246455352784
+    second: Dwarf-Brute_22
+  - first:
+      213: -6600345563025179524
+    second: Dwarf-Brute_23
+  - first:
+      213: 8429973928774536349
+    second: Dwarf-Brute_24
+  - first:
+      213: 2786546661560808055
+    second: Dwarf-Brute_25
+  - first:
+      213: -6805158157260286197
+    second: Dwarf-Brute_26
+  - first:
+      213: 5744840423802359582
+    second: Dwarf-Brute_27
+  - first:
+      213: -4468840337888225138
+    second: Dwarf-Brute_28
+  - first:
+      213: 500313454441062821
+    second: Dwarf-Brute_29
+  - first:
+      213: 2131342100197064756
+    second: Dwarf-Brute_30
+  - first:
+      213: -3467115695568686822
+    second: Dwarf-Brute_31
+  - first:
+      213: -965091599266909653
+    second: Dwarf-Brute_32
+  - first:
+      213: 6034365708005436259
+    second: Dwarf-Brute_33
+  - first:
+      213: -2141070413286939415
+    second: Dwarf-Brute_34
+  - first:
+      213: -4479233186078483431
+    second: Dwarf-Brute_35
+  - first:
+      213: 3901108144535264679
+    second: Dwarf-Brute_36
+  - first:
+      213: -259411327409468975
+    second: Dwarf-Brute_37
+  - first:
+      213: -7520404832506204390
+    second: Dwarf-Brute_38
+  - first:
+      213: 5304762904258949257
+    second: Dwarf-Brute_39
+  - first:
+      213: -6124690585146228522
+    second: Dwarf-Brute_40
+  - first:
+      213: 7410977079435350828
+    second: Dwarf-Brute_41
+  - first:
+      213: -5713095058391173635
+    second: Dwarf-Brute_42
+  - first:
+      213: -851553852024594217
+    second: Dwarf-Brute_43
+  - first:
+      213: 8570807666109583094
+    second: Dwarf-Brute_44
+  - first:
+      213: 5196314758330970134
+    second: Dwarf-Brute_45
+  - first:
+      213: 1094872925513808694
+    second: Dwarf-Brute_46
+  - first:
+      213: -425547956402665881
+    second: Dwarf-Brute_47
+  - first:
+      213: -8055480276253575654
+    second: Dwarf-Brute_48
+  - first:
+      213: 3300106749479668470
+    second: Dwarf-Brute_49
+  - first:
+      213: -2950682319059461845
+    second: Dwarf-Brute_50
+  - first:
+      213: -754756622549633579
+    second: Dwarf-Brute_51
+  - first:
+      213: -3100978621833405810
+    second: Dwarf-Brute_52
+  - first:
+      213: -5436274198838209873
+    second: Dwarf-Brute_53
+  - first:
+      213: 5315896947310270073
+    second: Dwarf-Brute_54
+  - first:
+      213: -5703023488913549882
+    second: Dwarf-Brute_55
+  - first:
+      213: 5988684706020120839
+    second: Dwarf-Brute_56
+  - first:
+      213: -1434678875336870598
+    second: Dwarf-Brute_57
+  - first:
+      213: 2609587769310009201
+    second: Dwarf-Brute_58
+  - first:
+      213: 2959130471615732627
+    second: Dwarf-Brute_59
+  - first:
+      213: -1859577525503681141
+    second: Dwarf-Brute_60
+  - first:
+      213: 4605066867013146932
+    second: Dwarf-Brute_61
+  - first:
+      213: -5612097890894852012
+    second: Dwarf-Brute_62
+  - first:
+      213: -6807242237233343922
+    second: Dwarf-Brute_63
+  - first:
+      213: 2065231370102322421
+    second: Dwarf-Brute_64
+  - first:
+      213: 1548781359049091727
+    second: Dwarf-Brute_65
+  - first:
+      213: -5515372680696676106
+    second: Dwarf-Brute_66
+  - first:
+      213: -8892106508426009285
+    second: Dwarf-Brute_67
+  - first:
+      213: 41210335708696521
+    second: Dwarf-Brute_68
+  - first:
+      213: 5446486478333490612
+    second: Dwarf-Brute_69
+  - first:
+      213: 8750964768336484690
+    second: Dwarf-Brute_70
+  - first:
+      213: -1816881249038048418
+    second: Dwarf-Brute_71
+  - first:
+      213: 1376066772062205112
+    second: Dwarf-Brute_72
+  - first:
+      213: -7819088987669974794
+    second: Dwarf-Brute_73
+  - first:
+      213: -8192869197826829497
+    second: Dwarf-Brute_74
+  - first:
+      213: 4061138026182976476
+    second: Dwarf-Brute_75
+  - first:
+      213: -158830621511821059
+    second: Dwarf-Brute_76
+  - first:
+      213: 1005710532761103093
+    second: Dwarf-Brute_77
+  - first:
+      213: -3553689257112026793
+    second: Dwarf-Brute_78
+  - first:
+      213: 4516871905550582765
+    second: Dwarf-Brute_79
+  - first:
+      213: -53910726949551877
+    second: Dwarf-Brute_80
+  - first:
+      213: -7698091922932477890
+    second: Dwarf-Brute_81
+  - first:
+      213: -5020769427292644250
+    second: Dwarf-Brute_82
+  - first:
+      213: 5823268940469217580
+    second: Dwarf-Brute_83
+  - first:
+      213: -5282295995601468532
+    second: Dwarf-Brute_84
+  - first:
+      213: 4943970158126771439
+    second: Dwarf-Brute_85
+  - first:
+      213: 8258576455235098283
+    second: Dwarf-Brute_86
+  - first:
+      213: 3810809830694283138
+    second: Dwarf-Brute_87
+  - first:
+      213: -495576053193569865
+    second: Dwarf-Brute_88
+  - first:
+      213: -4820821169632944012
+    second: Dwarf-Brute_89
+  - first:
+      213: 2327492181863641646
+    second: Dwarf-Brute_90
+  - first:
+      213: -1069171841379449357
+    second: Dwarf-Brute_91
+  - first:
+      213: 2717118818082990039
+    second: Dwarf-Brute_92
+  - first:
+      213: 4011520636621262186
+    second: Dwarf-Brute_93
+  - first:
+      213: 4354137761879404840
+    second: Dwarf-Brute_94
+  - first:
+      213: -3688288591010853221
+    second: Dwarf-Brute_95
+  - first:
+      213: 3011348174893584479
+    second: Dwarf-Brute_96
+  - first:
+      213: -8354871123521280038
+    second: Dwarf-Brute_97
+  - first:
+      213: -3158929412600829411
+    second: Dwarf-Brute_98
+  - first:
+      213: 2546631082193221140
+    second: Dwarf-Brute_99
+  - first:
+      213: 2957642659663420642
+    second: Dwarf-Brute_100
+  - first:
+      213: -8008244061709627009
+    second: Dwarf-Brute_101
+  - first:
+      213: -3814821977614075308
+    second: Dwarf-Brute_102
+  - first:
+      213: 7374493420338690615
+    second: Dwarf-Brute_103
+  - first:
+      213: -122859890047043256
+    second: Dwarf-Brute_104
+  - first:
+      213: 8956357957045893918
+    second: Dwarf-Brute_105
+  - first:
+      213: 1368311543036825551
+    second: Dwarf-Brute_106
+  - first:
+      213: 4177276406274431875
+    second: Dwarf-Brute_107
+  - first:
+      213: 4656274429791928834
+    second: Dwarf-Brute_108
+  - first:
+      213: 6341391245738813107
+    second: Dwarf-Brute_109
+  - first:
+      213: 7935959254761830999
+    second: Dwarf-Brute_110
+  - first:
+      213: 8397771606129266554
+    second: Dwarf-Brute_111
+  - first:
+      213: -1146815260286937721
+    second: Dwarf-Brute_112
+  - first:
+      213: 2193952533848801937
+    second: Dwarf-Brute_113
+  - first:
+      213: -5727103336385508544
+    second: Dwarf-Brute_114
+  - first:
+      213: 5815039307837291278
+    second: Dwarf-Brute_115
+  - first:
+      213: -7662675732019950843
+    second: Dwarf-Brute_116
+  - first:
+      213: 5424995279084030876
+    second: Dwarf-Brute_117
+  - first:
+      213: 7187178323599224539
+    second: Dwarf-Brute_118
+  - first:
+      213: 5029750211011338383
+    second: Dwarf-Brute_119
+  - first:
+      213: -5865247665780198784
+    second: Dwarf-Brute_120
+  - first:
+      213: -4223274565052449027
+    second: Dwarf-Brute_121
+  - first:
+      213: 8276364403328324427
+    second: Dwarf-Brute_122
+  - first:
+      213: 3501254629702678280
+    second: Dwarf-Brute_123
+  - first:
+      213: 948586396680959090
+    second: Dwarf-Brute_124
+  - first:
+      213: -2388024718322247134
+    second: Dwarf-Brute_125
+  - first:
+      213: 7721128400989784387
+    second: Dwarf-Brute_126
+  - first:
+      213: -3684956564323578121
+    second: Dwarf-Brute_127
+  - first:
+      213: -1348201165519445014
+    second: Dwarf-Brute_128
+  - first:
+      213: 1269975142433989736
+    second: Dwarf-Brute_129
+  - first:
+      213: 179891626981995150
+    second: Dwarf-Brute_130
+  - first:
+      213: -3312106937359470126
+    second: Dwarf-Brute_131
+  - first:
+      213: -6233861707886036226
+    second: Dwarf-Brute_132
+  - first:
+      213: -559426891411526539
+    second: Dwarf-Brute_133
+  - first:
+      213: -3328074036890463467
+    second: Dwarf-Brute_134
+  - first:
+      213: -3642406702176457705
+    second: Dwarf-Brute_135
+  - first:
+      213: -7492758939347349335
+    second: Dwarf-Brute_136
+  - first:
+      213: 1821214512450498487
+    second: Dwarf-Brute_137
+  - first:
+      213: 6161634986414842138
+    second: Dwarf-Brute_138
+  - first:
+      213: 7598139466481559498
+    second: Dwarf-Brute_139
+  - first:
+      213: 1966027172805100083
+    second: Dwarf-Brute_140
+  - first:
+      213: -6112254617796370148
+    second: Dwarf-Brute_141
+  - first:
+      213: 5681272864355695344
+    second: Dwarf-Brute_142
+  - first:
+      213: -7887440925891021042
+    second: Dwarf-Brute_143
+  - first:
+      213: -1138748280467865112
+    second: Dwarf-Brute_144
+  - first:
+      213: 8959562790061725684
+    second: Dwarf-Brute_145
+  - first:
+      213: -1277474542766045794
+    second: Dwarf-Brute_146
+  - first:
+      213: 6308444720484564306
+    second: Dwarf-Brute_147
+  - first:
+      213: -6365889847007800553
+    second: Dwarf-Brute_148
+  - first:
+      213: -7309772507265146524
+    second: Dwarf-Brute_149
+  - first:
+      213: 3447879326299097514
+    second: Dwarf-Brute_150
+  - first:
+      213: -320926853626201399
+    second: Dwarf-Brute_151
+  - first:
+      213: -801494550247186836
+    second: Dwarf-Brute_152
+  - first:
+      213: 6671025929461511608
+    second: Dwarf-Brute_153
+  - first:
+      213: 7119015465384642239
+    second: Dwarf-Brute_154
+  - first:
+      213: -1487173740536336102
+    second: Dwarf-Brute_155
+  - first:
+      213: -6104036002260344952
+    second: Dwarf-Brute_156
+  - first:
+      213: -3643619623766692211
+    second: Dwarf-Brute_157
+  - first:
+      213: 3717252662913013739
+    second: Dwarf-Brute_158
+  - first:
+      213: 684386477329928892
+    second: Dwarf-Brute_159
+  - first:
+      213: 5386824622285190500
+    second: Dwarf-Brute_160
+  - first:
+      213: 8464880232643243035
+    second: Dwarf-Brute_161
+  - first:
+      213: -5968681989598880618
+    second: Dwarf-Brute_162
+  - first:
+      213: 831164886501641127
+    second: Dwarf-Brute_163
+  - first:
+      213: -7196542365622155105
+    second: Dwarf-Brute_164
+  - first:
+      213: 6796233599767311792
+    second: Dwarf-Brute_165
+  - first:
+      213: -5957941077687447385
+    second: Dwarf-Brute_166
+  - first:
+      213: -1627471577175435719
+    second: Dwarf-Brute_167
+  - first:
+      213: -6418544188424270877
+    second: Dwarf-Brute_168
+  - first:
+      213: 4793484840076396965
+    second: Dwarf-Brute_169
+  - first:
+      213: 4260052096131532320
+    second: Dwarf-Brute_170
+  - first:
+      213: -385922871829118429
+    second: Dwarf-Brute_171
+  - first:
+      213: 6018304119598672062
+    second: Dwarf-Brute_172
+  - first:
+      213: 1477810283433243014
+    second: Dwarf-Brute_173
+  - first:
+      213: 8193453854188254302
+    second: Dwarf-Brute_174
+  - first:
+      213: -1294130223395424120
+    second: Dwarf-Brute_175
+  - first:
+      213: -8858055388907109131
+    second: Dwarf-Brute_176
+  - first:
+      213: -2156778152869767410
+    second: Dwarf-Brute_177
+  - first:
+      213: -1653919285565820589
+    second: Dwarf-Brute_178
+  - first:
+      213: 1248930347804646361
+    second: Dwarf-Brute_179
+  - first:
+      213: 550514106266905328
+    second: Dwarf-Brute_180
+  - first:
+      213: -3116460411247900391
+    second: Dwarf-Brute_181
+  - first:
+      213: 8055248851047232282
+    second: Dwarf-Brute_182
+  - first:
+      213: -5164792161829462040
+    second: Dwarf-Brute_183
+  - first:
+      213: 6891333583267331161
+    second: Dwarf-Brute_184
+  - first:
+      213: -8477739634437744066
+    second: Dwarf-Brute_185
+  - first:
+      213: -3344522703666422406
+    second: Dwarf-Brute_186
+  - first:
+      213: 5781355291304214699
+    second: Dwarf-Brute_187
+  - first:
+      213: 5869988948569016189
+    second: Dwarf-Brute_188
+  - first:
+      213: -8211754081701178784
+    second: Dwarf-Brute_189
+  - first:
+      213: -1937799189218812978
+    second: Dwarf-Brute_190
+  - first:
+      213: -4053388586962847451
+    second: Dwarf-Brute_191
+  - first:
+      213: 8680388585592744022
+    second: Dwarf-Brute_192
+  - first:
+      213: -2031194907944167740
+    second: Dwarf-Brute_193
+  - first:
+      213: -7095981462747854965
+    second: Dwarf-Brute_194
+  - first:
+      213: -8176946235509371773
+    second: Dwarf-Brute_195
+  - first:
+      213: 7921143423317415150
+    second: Dwarf-Brute_196
+  - first:
+      213: 4945133392436853868
+    second: Dwarf-Brute_197
+  - first:
+      213: -8086867400371370557
+    second: Dwarf-Brute_198
+  - first:
+      213: 277068285290825896
+    second: Dwarf-Brute_199
+  - first:
+      213: 3038639781787328769
+    second: Dwarf-Brute_200
+  - first:
+      213: -6689992892327402900
+    second: Dwarf-Brute_201
+  - first:
+      213: 7223408188920467293
+    second: Dwarf-Brute_202
+  - first:
+      213: -712251524296659212
+    second: Dwarf-Brute_203
+  - first:
+      213: -287814007940861779
+    second: Dwarf-Brute_204
+  - first:
+      213: 5041078715480977040
+    second: Dwarf-Brute_205
+  - first:
+      213: 5980543518838195545
+    second: Dwarf-Brute_206
+  - first:
+      213: -4673907693076936283
+    second: Dwarf-Brute_207
+  - first:
+      213: 5786675165416663185
+    second: Dwarf-Brute_208
+  - first:
+      213: 5114824530698938734
+    second: Dwarf-Brute_209
+  - first:
+      213: -4965606782682597633
+    second: Dwarf-Brute_210
+  - first:
+      213: -4483670806401038176
+    second: Dwarf-Brute_211
+  - first:
+      213: 3104806424935799202
+    second: Dwarf-Brute_212
+  - first:
+      213: -1388431963903649100
+    second: Dwarf-Brute_213
+  - first:
+      213: -7921356193435856252
+    second: Dwarf-Brute_214
+  - first:
+      213: 6425045059090993328
+    second: Dwarf-Brute_215
+  - first:
+      213: 1822273318537701879
+    second: Dwarf-Brute_216
+  - first:
+      213: 787152774062061828
+    second: Dwarf-Brute_217
+  - first:
+      213: -1678574295715120210
+    second: Dwarf-Brute_218
+  - first:
+      213: -5619256468611383565
+    second: Dwarf-Brute_219
+  - first:
+      213: 9005984401599773235
+    second: Dwarf-Brute_220
+  - first:
+      213: 1053154990660366911
+    second: Dwarf-Brute_221
+  - first:
+      213: -5012114021687562442
+    second: Dwarf-Brute_222
+  - first:
+      213: -3120235749080198005
+    second: Dwarf-Brute_223
+  - first:
+      213: -6455320350075010957
+    second: Dwarf-Brute_224
+  - first:
+      213: 6211400767146853055
+    second: Dwarf-Brute_225
+  - first:
+      213: 819935291393027197
+    second: Dwarf-Brute_226
+  - first:
+      213: 5580599384097974695
+    second: Dwarf-Brute_227
+  - first:
+      213: 5369977251734958881
+    second: Dwarf-Brute_228
+  - first:
+      213: 8234461237341378089
+    second: Dwarf-Brute_229
+  - first:
+      213: -111584308183971344
+    second: Dwarf-Brute_230
+  - first:
+      213: 2348503317706239274
+    second: Dwarf-Brute_231
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dwarf-Brute_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 232
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbb27a374f6b91d20800000000000000
+      internalID: 3249829767153134527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 232
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c123e22b932d83e40800000000000000
+      internalID: 5636486078898516508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 231
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98b5e0e7e533c5a00800000000000000
+      internalID: 746528119171472265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 232
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7b4bfaed6a4ac940800000000000000
+      internalID: 5317144146018519930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_4
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 231
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30189f068bbce24e0800000000000000
+      internalID: -2004440791371906813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_5
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 232
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e18a03767f1812bd0800000000000000
+      internalID: -2656699405583734754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_6
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 232
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06e7ea168b89be2c0800000000000000
+      internalID: -4401256293144297888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_7
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 231
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a00a339a55ae4650800000000000000
+      internalID: 6219089943880925350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_8
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 232
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dbab7bb0ab107670800000000000000
+      internalID: 8534351671021251536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_9
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 231
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2a69a95f72a428a0800000000000000
+      internalID: -6330756508327253458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_10
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 231
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f857bb5206e4f83d0800000000000000
+      internalID: -3202254635180264049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_11
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 231
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8936787d6a77275c0800000000000000
+      internalID: -4219178342428482664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_12
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 232
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4a3bc8e4fe2314e0800000000000000
+      internalID: -2012212979091948982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_13
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 232
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1655238337b791280800000000000000
+      internalID: -9072084239566875295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_14
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 232
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22dc98a29b5b38e10800000000000000
+      internalID: 2198800849974185250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_15
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 228
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1c82ccf82cfb6d00800000000000000
+      internalID: 967143797970603039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_16
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 232
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f48740cdd950d1930800000000000000
+      internalID: 4115451810045786191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_17
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 232
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8734addaa0a9b9620800000000000000
+      internalID: 2781986565488526200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_18
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 232
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 915386a432c960af0800000000000000
+      internalID: -430485038981171943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_19
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 232
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 721bffd5098a44c40800000000000000
+      internalID: 5495702783304642855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_20
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 233
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1938add256df20f0800000000000000
+      internalID: -1139456529306994402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_21
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 232
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36bde98adfc497d90800000000000000
+      internalID: -7099558685233456285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_22
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 232
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0324f94b5f80597a0800000000000000
+      internalID: -6371176246455352784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_23
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 232
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7cfe093eacd664a0800000000000000
+      internalID: -6600345563025179524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_24
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 232
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9c0962df984df470800000000000000
+      internalID: 8429973928774536349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_25
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 232
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 772f168cc6dcba620800000000000000
+      internalID: 2786546661560808055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_26
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 231
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b07162416b83f81a0800000000000000
+      internalID: -6805158157260286197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_27
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 231
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1f4b009de5c9bf40800000000000000
+      internalID: 5744840423802359582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_28
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 235
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e885c3eb36d7bf1c0800000000000000
+      internalID: -4468840337888225138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_29
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 200
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a1ee40af6871f600800000000000000
+      internalID: 500313454441062821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_30
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 200
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 430c419095c049d10800000000000000
+      internalID: 2131342100197064756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_31
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 199
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a11727af4a452efc0800000000000000
+      internalID: -3467115695568686822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_32
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 200
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b227bf1cd4e4b92f0800000000000000
+      internalID: -965091599266909653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_33
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 199
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36b6676d3af5eb350800000000000000
+      internalID: 6034365708005436259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_34
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 200
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e4eee09dc36942e0800000000000000
+      internalID: -2141070413286939415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_35
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 200
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91c96a5362196d1c0800000000000000
+      internalID: -4479233186078483431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_36
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 200
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ad58614035832630800000000000000
+      internalID: 3901108144535264679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_37
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 200
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d9cb0ba5c2666cf0800000000000000
+      internalID: -259411327409468975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_38
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 200
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1f265f46a722a790800000000000000
+      internalID: -7520404832506204390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_39
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 199
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 980360e61cd4e9940800000000000000
+      internalID: 5304762904258949257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_40
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 199
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d00e21ec5ab00ba0800000000000000
+      internalID: -6124690585146228522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_41
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 200
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c235e42836419d660800000000000000
+      internalID: 7410977079435350828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_42
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 200
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df5fd8c405207b0b0800000000000000
+      internalID: -5713095058391173635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_43
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 200
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d065f6884cae24f0800000000000000
+      internalID: -851553852024594217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_44
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 200
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fe08a88920a1f670800000000000000
+      internalID: 8570807666109583094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_45
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 200
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 610ff6fcdb40d1840800000000000000
+      internalID: 5196314758330970134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_46
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 200
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63b7177ff15c13f00800000000000000
+      internalID: 1094872925513808694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_47
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 200
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 766c9b76366281af0800000000000000
+      internalID: -425547956402665881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_48
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 200
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a167db65e5f253090800000000000000
+      internalID: -8055480276253575654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_49
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 201
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6faca9b9a955ccd20800000000000000
+      internalID: 3300106749479668470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_50
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 200
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b295f6f60121d07d0800000000000000
+      internalID: -2950682319059461845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_51
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 200
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d53e05c9d09685f0800000000000000
+      internalID: -754756622549633579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_52
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 199
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8a1a858f5c17f4d0800000000000000
+      internalID: -3100978621833405810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_53
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 199
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa290a43b697e84b0800000000000000
+      internalID: -5436274198838209873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_54
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 200
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9761307db1cd5c940800000000000000
+      internalID: 5315896947310270073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_55
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 199
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c5599d4a5acad0b0800000000000000
+      internalID: -5703023488913549882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_56
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 199
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 709d42eb2051c1350800000000000000
+      internalID: 5988684706020120839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_57
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 203
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a35f9c40a2ff61ce0800000000000000
+      internalID: -1434678875336870598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_58
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 168
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1775defff3e173420800000000000000
+      internalID: 2609587769310009201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_59
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 168
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39b90bc5c71f01920800000000000000
+      internalID: 2959130471615732627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_60
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 167
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8d9d00d7147136e0800000000000000
+      internalID: -1859577525503681141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_61
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 168
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4395d37baeb78ef30800000000000000
+      internalID: 4605066867013146932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_62
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 167
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4505e70d3b2dd12b0800000000000000
+      internalID: -5612097890894852012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_63
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 168
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e42dba56041d781a0800000000000000
+      internalID: -6807242237233343922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_64
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 168
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f431f13dfc29ac10800000000000000
+      internalID: 2065231370102322421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_65
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 168
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8a2ed4b0706e7510800000000000000
+      internalID: 1548781359049091727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_66
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 168
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f04e23c4c57573b0800000000000000
+      internalID: -5515372680696676106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_67
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 168
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3524543e34e89480800000000000000
+      internalID: -8892106508426009285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_68
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 168
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cfcdfcf498629000800000000000000
+      internalID: 41210335708696521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_69
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 168
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b53907689ec59b40800000000000000
+      internalID: 5446486478333490612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_70
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 168
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25997aa971ca17970800000000000000
+      internalID: 8750964768336484690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_71
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 168
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e53e408512429c6e0800000000000000
+      internalID: -1816881249038048418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_72
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 168
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b47cff3075c81310800000000000000
+      internalID: 1376066772062205112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_73
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 168
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f033c63ef30d7390800000000000000
+      internalID: -7819088987669974794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_74
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 168
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 743da4c4fd41d4e80800000000000000
+      internalID: -8192869197826829497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_75
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 168
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd3a77a948f0c5830800000000000000
+      internalID: 4061138026182976476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_76
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 168
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df855592468bbcdf0800000000000000
+      internalID: -158830621511821059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_77
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 168
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fa281ca66005fd00800000000000000
+      internalID: 1005710532761103093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_78
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 168
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75147bbe272ceaec0800000000000000
+      internalID: -3553689257112026793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_79
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 168
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de3c84211172fae30800000000000000
+      internalID: 4516871905550582765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_80
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 168
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf0c69eba78704ff0800000000000000
+      internalID: -53910726949551877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_81
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 166
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e305e4dae22ea2590800000000000000
+      internalID: -7698091922932477890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_82
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 167
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66c941b9ec4a25ab0800000000000000
+      internalID: -5020769427292644250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_83
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 168
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c29ab349f3860d050800000000000000
+      internalID: 5823268940469217580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_84
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 167
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c83c4bf57c381b6b0800000000000000
+      internalID: -5282295995601468532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_85
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 167
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fec274f1aa28c9440800000000000000
+      internalID: 4943970158126771439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_86
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 171
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba651bcb78b5c9270800000000000000
+      internalID: 8258576455235098283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_87
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 136
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2876919b957b2e430800000000000000
+      internalID: 3810809830694283138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_88
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 136
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b9053e843c5f19f0800000000000000
+      internalID: -495576053193569865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_89
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 135
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 470685220b0091db0800000000000000
+      internalID: -4820821169632944012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_90
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 136
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e223b7dcec9ec4020800000000000000
+      internalID: 2327492181863641646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_91
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 135
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f54abeffd98921f0800000000000000
+      internalID: -1069171841379449357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_92
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 136
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d7ad5c4b2525b520800000000000000
+      internalID: 2717118818082990039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_93
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 136
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6d85fad3c8cba730800000000000000
+      internalID: 4011520636621262186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_94
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 136
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 821bfe7a9310d6c30800000000000000
+      internalID: 4354137761879404840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_95
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 136
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9e0caf511190dcc0800000000000000
+      internalID: -3688288591010853221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_96
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 136
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f509d83d5357ac920800000000000000
+      internalID: 3011348174893584479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_97
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 136
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad7685aaaf88d0c80800000000000000
+      internalID: -8354871123521280038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_98
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 136
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1ae46b9f6a3924d0800000000000000
+      internalID: -3158929412600829411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_99
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 136
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41678140a73775320800000000000000
+      internalID: 2546631082193221140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_100
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 136
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ec97c52458ab0920800000000000000
+      internalID: 2957642659663420642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_101
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 136
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f719a2394700dd090800000000000000
+      internalID: -8008244061709627009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_102
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 136
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45ab5f68f970f0bc0800000000000000
+      internalID: -3814821977614075308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_103
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 136
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73a3ebda1b6775660800000000000000
+      internalID: 7374493420338690615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_104
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 136
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8493a98b4938b4ef0800000000000000
+      internalID: -122859890047043256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_105
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 136
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1bb6feeb106b4c70800000000000000
+      internalID: 8956357957045893918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_106
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 136
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcfc6c849183df210800000000000000
+      internalID: 1368311543036825551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_107
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 135
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38b9b9462caa8f930800000000000000
+      internalID: 4177276406274431875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_108
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 136
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2028b748ce86e9040800000000000000
+      internalID: 4656274429791928834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_109
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 136
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b6a8086db5210850800000000000000
+      internalID: 6341391245738813107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_110
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 132
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75a7d0c45e0322e60800000000000000
+      internalID: 7935959254761830999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_111
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 133
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7f423058c0ea8470800000000000000
+      internalID: 8397771606129266554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_112
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 136
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 785999bc891b510f0800000000000000
+      internalID: -1146815260286937721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_113
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 135
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 192402a943c727e10800000000000000
+      internalID: 2193952533848801937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_114
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 135
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04b89caebdd3580b0800000000000000
+      internalID: -5727103336385508544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_115
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 139
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0b339ae07b23b050800000000000000
+      internalID: 5815039307837291278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_116
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 104
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50bc1f33505b8a590800000000000000
+      internalID: -7662675732019950843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_117
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 104
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9b89f5a674794b40800000000000000
+      internalID: 5424995279084030876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_118
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 103
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdee4832b9cfdb360800000000000000
+      internalID: 7187178323599224539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_119
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 104
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f80e64c0b234dc540800000000000000
+      internalID: 5029750211011338383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_120
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 103
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0827b79c2547a9ea0800000000000000
+      internalID: -5865247665780198784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_121
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 104
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfe3b11b82ae365c0800000000000000
+      internalID: -4223274565052449027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_122
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 104
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b439214239d8bd270800000000000000
+      internalID: 8276364403328324427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_123
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 104
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 807be970984f69030800000000000000
+      internalID: 3501254629702678280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_124
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 104
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 274bfec4d4e0a2d00800000000000000
+      internalID: 948586396680959090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_125
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 104
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22adc85cb280cded0800000000000000
+      internalID: -2388024718322247134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_126
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 104
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3490d265f55f62b60800000000000000
+      internalID: 7721128400989784387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_127
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 104
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fecfba47876cdcc0800000000000000
+      internalID: -3684956564323578121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_128
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 104
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae3227bde2a3a4de0800000000000000
+      internalID: -1348201165519445014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_129
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 104
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 864aa56d9abdf9110800000000000000
+      internalID: 1269975142433989736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_130
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 104
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e82345c4b7a1f7200800000000000000
+      internalID: 179891626981995150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_131
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 104
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d1f49ce9480902d0800000000000000
+      internalID: -3312106937359470126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_132
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 104
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efafa8a1ecfdc79a0800000000000000
+      internalID: -6233861707886036226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_133
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 104
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57c6d9bc4348c38f0800000000000000
+      internalID: -559426891411526539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_134
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 104
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51391fcdb4e40d1d0800000000000000
+      internalID: -3328074036890463467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_135
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 104
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71c25451762937dc0800000000000000
+      internalID: -3642406702176457705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_136
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 103
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a09198617f540890800000000000000
+      internalID: -7492758939347349335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_137
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 104
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bfe56a23f0464910800000000000000
+      internalID: 1821214512450498487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_138
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 104
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1120e8df56828550800000000000000
+      internalID: 6161634986414842138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_139
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 100
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac7628d8693027960800000000000000
+      internalID: 7598139466481559498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_140
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 101
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33240d51c4bb84b10800000000000000
+      internalID: 1966027172805100083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_141
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 104
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c11a1892fc8ec2ba0800000000000000
+      internalID: -6112254617796370148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_142
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 103
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fabcf7c19fe7de40800000000000000
+      internalID: 5681272864355695344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_143
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 103
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e073361744e2a8290800000000000000
+      internalID: -7887440925891021042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_144
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 107
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e14026e87a5230f0800000000000000
+      internalID: -1138748280467865112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_145
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 72
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f7df6443e2c65c70800000000000000
+      internalID: 8959562790061725684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_146
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 72
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9543d4fbaf754ee0800000000000000
+      internalID: -1277474542766045794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_147
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 71
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25dbba9bc091c8750800000000000000
+      internalID: 6308444720484564306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_148
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 72
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71395dd79e0d7a7a0800000000000000
+      internalID: -6365889847007800553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_149
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 71
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4616b8b22a87e8a90800000000000000
+      internalID: -7309772507265146524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_150
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 72
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa98878caf359df20800000000000000
+      internalID: 3447879326299097514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_151
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 72
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9caf9ba1ab6db8bf0800000000000000
+      internalID: -320926853626201399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_152
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 72
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6eda1bf3f480e4f0800000000000000
+      internalID: -801494550247186836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_153
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 72
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b539fcfcbe349c50800000000000000
+      internalID: 6671025929461511608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_154
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 72
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb683ccf8d2dbc260800000000000000
+      internalID: 7119015465384642239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_155
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 72
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a11fa04cc5f7c5be0800000000000000
+      internalID: -1487173740536336102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_156
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 72
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88f9315b89b1a4ba0800000000000000
+      internalID: -6104036002260344952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_157
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 72
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8e6eb4c1434f6dc0800000000000000
+      internalID: -3643619623766692211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_158
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 72
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be71e412a95569330800000000000000
+      internalID: 3717252662913013739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_159
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 72
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb2d45600ed6f7900800000000000000
+      internalID: 684386477329928892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_160
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 72
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 465f2ae0478d1ca40800000000000000
+      internalID: 5386824622285190500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_161
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 72
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1c2de409bb497570800000000000000
+      internalID: 8464880232643243035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_162
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 72
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69cdfa89a5bfa2da0800000000000000
+      internalID: -5968681989598880618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_163
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 72
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ab45b18f04e88b00800000000000000
+      internalID: 831164886501641127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_164
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 72
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f98ca0ee8deb02c90800000000000000
+      internalID: -7196542365622155105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_165
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 71
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b574b47372115e50800000000000000
+      internalID: 6796233599767311792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_166
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 72
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a05bb70824215da0800000000000000
+      internalID: -5957941077687447385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_167
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 72
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 936d968293f0a69e0800000000000000
+      internalID: -1627471577175435719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_168
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 68
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ebc2d94110cce6a0800000000000000
+      internalID: -6418544188424270877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_169
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 69
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a949f8a011e58240800000000000000
+      internalID: 4793484840076396965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_170
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 72
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 026049a8fcebe1b30800000000000000
+      internalID: 4260052096131532320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_171
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 71
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3224de9513de4aaf0800000000000000
+      internalID: -385922871829118429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_172
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 71
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb8e2fed5bf458350800000000000000
+      internalID: 6018304119598672062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_173
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 75
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 681357d7f9c328410800000000000000
+      internalID: 1477810283433243014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_174
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 40
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e54327e9edef4b170800000000000000
+      internalID: 8193453854188254302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_175
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 40
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8883b6d1b635a0ee0800000000000000
+      internalID: -1294130223395424120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_176
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 39
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f405774e8dd11580800000000000000
+      internalID: -8858055388907109131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_177
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 40
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e07dfd272b59112e0800000000000000
+      internalID: -2156778152869767410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_178
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 39
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3517ea03c291c09e0800000000000000
+      internalID: -1653919285565820589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_179
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 40
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dbd912c887155110800000000000000
+      internalID: 1248930347804646361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_180
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 40
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fa61e3b9a1d3a700800000000000000
+      internalID: 550514106266905328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_181
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 40
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 919400784cb10c4d0800000000000000
+      internalID: -3116460411247900391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_182
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 40
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a133b08c62ef9cf60800000000000000
+      internalID: 8055248851047232282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_183
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 40
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8efde6f94e8f258b0800000000000000
+      internalID: -5164792161829462040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_184
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 40
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95c7e53d16fe2af50800000000000000
+      internalID: 6891333583267331161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_185
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 40
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3a961f28b4095a80800000000000000
+      internalID: -8477739634437744066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_186
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 40
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7ddbb0325ed591d0800000000000000
+      internalID: -3344522703666422406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_187
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 40
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba0438aa1008b3050800000000000000
+      internalID: 5781355291304214699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_188
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 40
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d77cce229d3667150800000000000000
+      internalID: 5869988948569016189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_189
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 40
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0625651ab2df90e80800000000000000
+      internalID: -8211754081701178784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_190
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 40
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecb929087ed8b15e0800000000000000
+      internalID: -1937799189218812978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_191
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 40
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 529f4715e887fb7c0800000000000000
+      internalID: -4053388586962847451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_192
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 40
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6586c9c8d6fe67870800000000000000
+      internalID: 8680388585592744022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_193
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 40
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c6d7623efebfc3e0800000000000000
+      internalID: -2031194907944167740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_194
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 40
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b87482ca472068d90800000000000000
+      internalID: -7095981462747854965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_195
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 40
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38c0ffcd8b6a58e80800000000000000
+      internalID: -8176946235509371773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_196
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 40
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee491c9b9fd8ded60800000000000000
+      internalID: 7921143423317415150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_197
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 38
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6cfe17be94a0a440800000000000000
+      internalID: 4945133392436853868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_198
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 39
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c58d2702fca5cf80800000000000000
+      internalID: -8086867400371370557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_199
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 40
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a84943332858d300800000000000000
+      internalID: 277068285290825896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_200
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 39
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 101edc938ca6b2a20800000000000000
+      internalID: 3038639781787328769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_201
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 39
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c62efe6d8ee5823a0800000000000000
+      internalID: -6689992892327402900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_202
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 43
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5f80400a73be3460800000000000000
+      internalID: 7223408188920467293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_203
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 8
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fe219723039d16f0800000000000000
+      internalID: -712251524296659212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_204
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 8
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da0bd474faa710cf0800000000000000
+      internalID: -287814007940861779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_205
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 7
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09ea609026285f540800000000000000
+      internalID: 5041078715480977040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_206
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 8
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9558d14e4a82ff250800000000000000
+      internalID: 5980543518838195545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_207
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 7
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a90f2177b1f22fb0800000000000000
+      internalID: -4673907693076936283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_208
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 8
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1982c3167666e4050800000000000000
+      internalID: 5786675165416663185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_209
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 8
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e69a3c8afc18bf640800000000000000
+      internalID: 5114824530698938734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_210
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 8
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff6fee7a0fe961bb0800000000000000
+      internalID: -4965606782682597633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_211
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 8
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a84da6382dc6c1c0800000000000000
+      internalID: -4483670806401038176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_212
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 8
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a916a65efc761b20800000000000000
+      internalID: 3104806424935799202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_213
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 7
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ba99bc2c7c4bbce0800000000000000
+      internalID: -1388431963903649100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_214
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 7
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4825aeed280b11290800000000000000
+      internalID: -7921356193435856252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_215
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 7
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b05ffc90785a2950800000000000000
+      internalID: 6425045059090993328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_216
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 8
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f9ac1bade30a4910800000000000000
+      internalID: 1822273318537701879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_217
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 8
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 409bee907478cea00800000000000000
+      internalID: 787152774062061828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_218
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 7
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eab7cce429184b8e0800000000000000
+      internalID: -1678574295715120210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_219
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 8
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fe3a9e83046402b0800000000000000
+      internalID: -5619256468611383565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_220
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 8
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a3016f81fabfc70800000000000000
+      internalID: 9005984401599773235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_221
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 8
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f32bdb752ee8d9e00800000000000000
+      internalID: 1053154990660366911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_222
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 8
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63fee834ad4617ab0800000000000000
+      internalID: -5012114021687562442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_223
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 9
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8499903e12b2b4d0800000000000000
+      internalID: -3120235749080198005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_224
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 8
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 370cd66e7581a66a0800000000000000
+      internalID: -6455320350075010957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_225
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 8
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb2806b9614533650800000000000000
+      internalID: 6211400767146853055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_226
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 7
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7ca946adcef06b00800000000000000
+      internalID: 819935291393027197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_227
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 7
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a96ce29295427d40800000000000000
+      internalID: 5580599384097974695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_228
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 8
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 123379debddf58a40800000000000000
+      internalID: 5369977251734958881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_229
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 7
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 926d4780edea64270800000000000000
+      internalID: 8234461237341378089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_230
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 7
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f9cf24b9a2937ef0800000000000000
+      internalID: -111584308183971344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Brute_231
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 11
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2de4b5135f879020800000000000000
+      internalID: 2348503317706239274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Dwarf-Brute_0: 3249829767153134527
+      Dwarf-Brute_1: 5636486078898516508
+      Dwarf-Brute_10: -3202254635180264049
+      Dwarf-Brute_100: 2957642659663420642
+      Dwarf-Brute_101: -8008244061709627009
+      Dwarf-Brute_102: -3814821977614075308
+      Dwarf-Brute_103: 7374493420338690615
+      Dwarf-Brute_104: -122859890047043256
+      Dwarf-Brute_105: 8956357957045893918
+      Dwarf-Brute_106: 1368311543036825551
+      Dwarf-Brute_107: 4177276406274431875
+      Dwarf-Brute_108: 4656274429791928834
+      Dwarf-Brute_109: 6341391245738813107
+      Dwarf-Brute_11: -4219178342428482664
+      Dwarf-Brute_110: 7935959254761830999
+      Dwarf-Brute_111: 8397771606129266554
+      Dwarf-Brute_112: -1146815260286937721
+      Dwarf-Brute_113: 2193952533848801937
+      Dwarf-Brute_114: -5727103336385508544
+      Dwarf-Brute_115: 5815039307837291278
+      Dwarf-Brute_116: -7662675732019950843
+      Dwarf-Brute_117: 5424995279084030876
+      Dwarf-Brute_118: 7187178323599224539
+      Dwarf-Brute_119: 5029750211011338383
+      Dwarf-Brute_12: -2012212979091948982
+      Dwarf-Brute_120: -5865247665780198784
+      Dwarf-Brute_121: -4223274565052449027
+      Dwarf-Brute_122: 8276364403328324427
+      Dwarf-Brute_123: 3501254629702678280
+      Dwarf-Brute_124: 948586396680959090
+      Dwarf-Brute_125: -2388024718322247134
+      Dwarf-Brute_126: 7721128400989784387
+      Dwarf-Brute_127: -3684956564323578121
+      Dwarf-Brute_128: -1348201165519445014
+      Dwarf-Brute_129: 1269975142433989736
+      Dwarf-Brute_13: -9072084239566875295
+      Dwarf-Brute_130: 179891626981995150
+      Dwarf-Brute_131: -3312106937359470126
+      Dwarf-Brute_132: -6233861707886036226
+      Dwarf-Brute_133: -559426891411526539
+      Dwarf-Brute_134: -3328074036890463467
+      Dwarf-Brute_135: -3642406702176457705
+      Dwarf-Brute_136: -7492758939347349335
+      Dwarf-Brute_137: 1821214512450498487
+      Dwarf-Brute_138: 6161634986414842138
+      Dwarf-Brute_139: 7598139466481559498
+      Dwarf-Brute_14: 2198800849974185250
+      Dwarf-Brute_140: 1966027172805100083
+      Dwarf-Brute_141: -6112254617796370148
+      Dwarf-Brute_142: 5681272864355695344
+      Dwarf-Brute_143: -7887440925891021042
+      Dwarf-Brute_144: -1138748280467865112
+      Dwarf-Brute_145: 8959562790061725684
+      Dwarf-Brute_146: -1277474542766045794
+      Dwarf-Brute_147: 6308444720484564306
+      Dwarf-Brute_148: -6365889847007800553
+      Dwarf-Brute_149: -7309772507265146524
+      Dwarf-Brute_15: 967143797970603039
+      Dwarf-Brute_150: 3447879326299097514
+      Dwarf-Brute_151: -320926853626201399
+      Dwarf-Brute_152: -801494550247186836
+      Dwarf-Brute_153: 6671025929461511608
+      Dwarf-Brute_154: 7119015465384642239
+      Dwarf-Brute_155: -1487173740536336102
+      Dwarf-Brute_156: -6104036002260344952
+      Dwarf-Brute_157: -3643619623766692211
+      Dwarf-Brute_158: 3717252662913013739
+      Dwarf-Brute_159: 684386477329928892
+      Dwarf-Brute_16: 4115451810045786191
+      Dwarf-Brute_160: 5386824622285190500
+      Dwarf-Brute_161: 8464880232643243035
+      Dwarf-Brute_162: -5968681989598880618
+      Dwarf-Brute_163: 831164886501641127
+      Dwarf-Brute_164: -7196542365622155105
+      Dwarf-Brute_165: 6796233599767311792
+      Dwarf-Brute_166: -5957941077687447385
+      Dwarf-Brute_167: -1627471577175435719
+      Dwarf-Brute_168: -6418544188424270877
+      Dwarf-Brute_169: 4793484840076396965
+      Dwarf-Brute_17: 2781986565488526200
+      Dwarf-Brute_170: 4260052096131532320
+      Dwarf-Brute_171: -385922871829118429
+      Dwarf-Brute_172: 6018304119598672062
+      Dwarf-Brute_173: 1477810283433243014
+      Dwarf-Brute_174: 8193453854188254302
+      Dwarf-Brute_175: -1294130223395424120
+      Dwarf-Brute_176: -8858055388907109131
+      Dwarf-Brute_177: -2156778152869767410
+      Dwarf-Brute_178: -1653919285565820589
+      Dwarf-Brute_179: 1248930347804646361
+      Dwarf-Brute_18: -430485038981171943
+      Dwarf-Brute_180: 550514106266905328
+      Dwarf-Brute_181: -3116460411247900391
+      Dwarf-Brute_182: 8055248851047232282
+      Dwarf-Brute_183: -5164792161829462040
+      Dwarf-Brute_184: 6891333583267331161
+      Dwarf-Brute_185: -8477739634437744066
+      Dwarf-Brute_186: -3344522703666422406
+      Dwarf-Brute_187: 5781355291304214699
+      Dwarf-Brute_188: 5869988948569016189
+      Dwarf-Brute_189: -8211754081701178784
+      Dwarf-Brute_19: 5495702783304642855
+      Dwarf-Brute_190: -1937799189218812978
+      Dwarf-Brute_191: -4053388586962847451
+      Dwarf-Brute_192: 8680388585592744022
+      Dwarf-Brute_193: -2031194907944167740
+      Dwarf-Brute_194: -7095981462747854965
+      Dwarf-Brute_195: -8176946235509371773
+      Dwarf-Brute_196: 7921143423317415150
+      Dwarf-Brute_197: 4945133392436853868
+      Dwarf-Brute_198: -8086867400371370557
+      Dwarf-Brute_199: 277068285290825896
+      Dwarf-Brute_2: 746528119171472265
+      Dwarf-Brute_20: -1139456529306994402
+      Dwarf-Brute_200: 3038639781787328769
+      Dwarf-Brute_201: -6689992892327402900
+      Dwarf-Brute_202: 7223408188920467293
+      Dwarf-Brute_203: -712251524296659212
+      Dwarf-Brute_204: -287814007940861779
+      Dwarf-Brute_205: 5041078715480977040
+      Dwarf-Brute_206: 5980543518838195545
+      Dwarf-Brute_207: -4673907693076936283
+      Dwarf-Brute_208: 5786675165416663185
+      Dwarf-Brute_209: 5114824530698938734
+      Dwarf-Brute_21: -7099558685233456285
+      Dwarf-Brute_210: -4965606782682597633
+      Dwarf-Brute_211: -4483670806401038176
+      Dwarf-Brute_212: 3104806424935799202
+      Dwarf-Brute_213: -1388431963903649100
+      Dwarf-Brute_214: -7921356193435856252
+      Dwarf-Brute_215: 6425045059090993328
+      Dwarf-Brute_216: 1822273318537701879
+      Dwarf-Brute_217: 787152774062061828
+      Dwarf-Brute_218: -1678574295715120210
+      Dwarf-Brute_219: -5619256468611383565
+      Dwarf-Brute_22: -6371176246455352784
+      Dwarf-Brute_220: 9005984401599773235
+      Dwarf-Brute_221: 1053154990660366911
+      Dwarf-Brute_222: -5012114021687562442
+      Dwarf-Brute_223: -3120235749080198005
+      Dwarf-Brute_224: -6455320350075010957
+      Dwarf-Brute_225: 6211400767146853055
+      Dwarf-Brute_226: 819935291393027197
+      Dwarf-Brute_227: 5580599384097974695
+      Dwarf-Brute_228: 5369977251734958881
+      Dwarf-Brute_229: 8234461237341378089
+      Dwarf-Brute_23: -6600345563025179524
+      Dwarf-Brute_230: -111584308183971344
+      Dwarf-Brute_231: 2348503317706239274
+      Dwarf-Brute_24: 8429973928774536349
+      Dwarf-Brute_25: 2786546661560808055
+      Dwarf-Brute_26: -6805158157260286197
+      Dwarf-Brute_27: 5744840423802359582
+      Dwarf-Brute_28: -4468840337888225138
+      Dwarf-Brute_29: 500313454441062821
+      Dwarf-Brute_3: 5317144146018519930
+      Dwarf-Brute_30: 2131342100197064756
+      Dwarf-Brute_31: -3467115695568686822
+      Dwarf-Brute_32: -965091599266909653
+      Dwarf-Brute_33: 6034365708005436259
+      Dwarf-Brute_34: -2141070413286939415
+      Dwarf-Brute_35: -4479233186078483431
+      Dwarf-Brute_36: 3901108144535264679
+      Dwarf-Brute_37: -259411327409468975
+      Dwarf-Brute_38: -7520404832506204390
+      Dwarf-Brute_39: 5304762904258949257
+      Dwarf-Brute_4: -2004440791371906813
+      Dwarf-Brute_40: -6124690585146228522
+      Dwarf-Brute_41: 7410977079435350828
+      Dwarf-Brute_42: -5713095058391173635
+      Dwarf-Brute_43: -851553852024594217
+      Dwarf-Brute_44: 8570807666109583094
+      Dwarf-Brute_45: 5196314758330970134
+      Dwarf-Brute_46: 1094872925513808694
+      Dwarf-Brute_47: -425547956402665881
+      Dwarf-Brute_48: -8055480276253575654
+      Dwarf-Brute_49: 3300106749479668470
+      Dwarf-Brute_5: -2656699405583734754
+      Dwarf-Brute_50: -2950682319059461845
+      Dwarf-Brute_51: -754756622549633579
+      Dwarf-Brute_52: -3100978621833405810
+      Dwarf-Brute_53: -5436274198838209873
+      Dwarf-Brute_54: 5315896947310270073
+      Dwarf-Brute_55: -5703023488913549882
+      Dwarf-Brute_56: 5988684706020120839
+      Dwarf-Brute_57: -1434678875336870598
+      Dwarf-Brute_58: 2609587769310009201
+      Dwarf-Brute_59: 2959130471615732627
+      Dwarf-Brute_6: -4401256293144297888
+      Dwarf-Brute_60: -1859577525503681141
+      Dwarf-Brute_61: 4605066867013146932
+      Dwarf-Brute_62: -5612097890894852012
+      Dwarf-Brute_63: -6807242237233343922
+      Dwarf-Brute_64: 2065231370102322421
+      Dwarf-Brute_65: 1548781359049091727
+      Dwarf-Brute_66: -5515372680696676106
+      Dwarf-Brute_67: -8892106508426009285
+      Dwarf-Brute_68: 41210335708696521
+      Dwarf-Brute_69: 5446486478333490612
+      Dwarf-Brute_7: 6219089943880925350
+      Dwarf-Brute_70: 8750964768336484690
+      Dwarf-Brute_71: -1816881249038048418
+      Dwarf-Brute_72: 1376066772062205112
+      Dwarf-Brute_73: -7819088987669974794
+      Dwarf-Brute_74: -8192869197826829497
+      Dwarf-Brute_75: 4061138026182976476
+      Dwarf-Brute_76: -158830621511821059
+      Dwarf-Brute_77: 1005710532761103093
+      Dwarf-Brute_78: -3553689257112026793
+      Dwarf-Brute_79: 4516871905550582765
+      Dwarf-Brute_8: 8534351671021251536
+      Dwarf-Brute_80: -53910726949551877
+      Dwarf-Brute_81: -7698091922932477890
+      Dwarf-Brute_82: -5020769427292644250
+      Dwarf-Brute_83: 5823268940469217580
+      Dwarf-Brute_84: -5282295995601468532
+      Dwarf-Brute_85: 4943970158126771439
+      Dwarf-Brute_86: 8258576455235098283
+      Dwarf-Brute_87: 3810809830694283138
+      Dwarf-Brute_88: -495576053193569865
+      Dwarf-Brute_89: -4820821169632944012
+      Dwarf-Brute_9: -6330756508327253458
+      Dwarf-Brute_90: 2327492181863641646
+      Dwarf-Brute_91: -1069171841379449357
+      Dwarf-Brute_92: 2717118818082990039
+      Dwarf-Brute_93: 4011520636621262186
+      Dwarf-Brute_94: 4354137761879404840
+      Dwarf-Brute_95: -3688288591010853221
+      Dwarf-Brute_96: 3011348174893584479
+      Dwarf-Brute_97: -8354871123521280038
+      Dwarf-Brute_98: -3158929412600829411
+      Dwarf-Brute_99: 2546631082193221140
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

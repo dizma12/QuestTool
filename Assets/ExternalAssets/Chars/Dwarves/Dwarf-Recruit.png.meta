@@ -1,0 +1,6162 @@
+fileFormatVersion: 2
+guid: 9db7e35316072694ab8fa2687d27f630
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4022133951264734757
+    second: Dwarf-Recruit_0
+  - first:
+      213: -3143272702612134454
+    second: Dwarf-Recruit_1
+  - first:
+      213: 9087331192031685616
+    second: Dwarf-Recruit_2
+  - first:
+      213: 6410013694294545842
+    second: Dwarf-Recruit_3
+  - first:
+      213: -8717470931397251532
+    second: Dwarf-Recruit_4
+  - first:
+      213: 6561156171747838799
+    second: Dwarf-Recruit_5
+  - first:
+      213: 420220464141797299
+    second: Dwarf-Recruit_6
+  - first:
+      213: 3306864722938814985
+    second: Dwarf-Recruit_7
+  - first:
+      213: 5758145996137474492
+    second: Dwarf-Recruit_8
+  - first:
+      213: 4083896696906768470
+    second: Dwarf-Recruit_9
+  - first:
+      213: -3273816702005212683
+    second: Dwarf-Recruit_10
+  - first:
+      213: -1761245551300069360
+    second: Dwarf-Recruit_11
+  - first:
+      213: 3453344343314296899
+    second: Dwarf-Recruit_12
+  - first:
+      213: 4723641934555687578
+    second: Dwarf-Recruit_13
+  - first:
+      213: 6092240708291118998
+    second: Dwarf-Recruit_14
+  - first:
+      213: 8786539522073589747
+    second: Dwarf-Recruit_15
+  - first:
+      213: 6602955897843773441
+    second: Dwarf-Recruit_16
+  - first:
+      213: 5803396798557876558
+    second: Dwarf-Recruit_17
+  - first:
+      213: -3392367139739458424
+    second: Dwarf-Recruit_18
+  - first:
+      213: 5925937895238781047
+    second: Dwarf-Recruit_19
+  - first:
+      213: 6198654071501133166
+    second: Dwarf-Recruit_20
+  - first:
+      213: 6419479297099812213
+    second: Dwarf-Recruit_21
+  - first:
+      213: -8458442602512943872
+    second: Dwarf-Recruit_22
+  - first:
+      213: -5549818171045791587
+    second: Dwarf-Recruit_23
+  - first:
+      213: -9149195292729155613
+    second: Dwarf-Recruit_24
+  - first:
+      213: 3485780172930212857
+    second: Dwarf-Recruit_25
+  - first:
+      213: 7483435460243593611
+    second: Dwarf-Recruit_26
+  - first:
+      213: 6297929857444001713
+    second: Dwarf-Recruit_27
+  - first:
+      213: -8969241364401238147
+    second: Dwarf-Recruit_28
+  - first:
+      213: -1855961246697983319
+    second: Dwarf-Recruit_29
+  - first:
+      213: 3576232192650470272
+    second: Dwarf-Recruit_30
+  - first:
+      213: 1449765770166384640
+    second: Dwarf-Recruit_31
+  - first:
+      213: 6646498253240525820
+    second: Dwarf-Recruit_32
+  - first:
+      213: -1042085309616050493
+    second: Dwarf-Recruit_33
+  - first:
+      213: 6889585917019967923
+    second: Dwarf-Recruit_34
+  - first:
+      213: 8856877022273050745
+    second: Dwarf-Recruit_35
+  - first:
+      213: -5347112277886431136
+    second: Dwarf-Recruit_36
+  - first:
+      213: -8132540105770306216
+    second: Dwarf-Recruit_37
+  - first:
+      213: 3551437259095414739
+    second: Dwarf-Recruit_38
+  - first:
+      213: 2491794609017692850
+    second: Dwarf-Recruit_39
+  - first:
+      213: 7867822562106991992
+    second: Dwarf-Recruit_40
+  - first:
+      213: -7004130423772029075
+    second: Dwarf-Recruit_41
+  - first:
+      213: -6158124637528528418
+    second: Dwarf-Recruit_42
+  - first:
+      213: 6137700488526681545
+    second: Dwarf-Recruit_43
+  - first:
+      213: -89566978793275187
+    second: Dwarf-Recruit_44
+  - first:
+      213: -689586193498936120
+    second: Dwarf-Recruit_45
+  - first:
+      213: -5739101942022583645
+    second: Dwarf-Recruit_46
+  - first:
+      213: 2327419532287689981
+    second: Dwarf-Recruit_47
+  - first:
+      213: -5761926846794830768
+    second: Dwarf-Recruit_48
+  - first:
+      213: -6541453543764407923
+    second: Dwarf-Recruit_49
+  - first:
+      213: 1770754449260914472
+    second: Dwarf-Recruit_50
+  - first:
+      213: -1389502931444909912
+    second: Dwarf-Recruit_51
+  - first:
+      213: -5006398725154577841
+    second: Dwarf-Recruit_52
+  - first:
+      213: 2915446925303175078
+    second: Dwarf-Recruit_53
+  - first:
+      213: 2241665540582985982
+    second: Dwarf-Recruit_54
+  - first:
+      213: -1499947454324249145
+    second: Dwarf-Recruit_55
+  - first:
+      213: 2595071137145337840
+    second: Dwarf-Recruit_56
+  - first:
+      213: -871620624780435609
+    second: Dwarf-Recruit_57
+  - first:
+      213: -3016598671761608013
+    second: Dwarf-Recruit_58
+  - first:
+      213: -4784939100342055571
+    second: Dwarf-Recruit_59
+  - first:
+      213: 4298754126962828060
+    second: Dwarf-Recruit_60
+  - first:
+      213: 2936478804514785230
+    second: Dwarf-Recruit_61
+  - first:
+      213: -3646194631631007282
+    second: Dwarf-Recruit_62
+  - first:
+      213: 7153043077184420972
+    second: Dwarf-Recruit_63
+  - first:
+      213: -276305204697677717
+    second: Dwarf-Recruit_64
+  - first:
+      213: -6805039527623213476
+    second: Dwarf-Recruit_65
+  - first:
+      213: -3741407696856226470
+    second: Dwarf-Recruit_66
+  - first:
+      213: 4650526453201346234
+    second: Dwarf-Recruit_67
+  - first:
+      213: 3797636267296428346
+    second: Dwarf-Recruit_68
+  - first:
+      213: -5157027744045989382
+    second: Dwarf-Recruit_69
+  - first:
+      213: 4959819944344257230
+    second: Dwarf-Recruit_70
+  - first:
+      213: -4134994810730512257
+    second: Dwarf-Recruit_71
+  - first:
+      213: 4812154341790060702
+    second: Dwarf-Recruit_72
+  - first:
+      213: -2430138610257009166
+    second: Dwarf-Recruit_73
+  - first:
+      213: -7313833412592010372
+    second: Dwarf-Recruit_74
+  - first:
+      213: 620420875509673481
+    second: Dwarf-Recruit_75
+  - first:
+      213: -830181782120501932
+    second: Dwarf-Recruit_76
+  - first:
+      213: 7277884067149383939
+    second: Dwarf-Recruit_77
+  - first:
+      213: -2438841350094849606
+    second: Dwarf-Recruit_78
+  - first:
+      213: -3831984269646628268
+    second: Dwarf-Recruit_79
+  - first:
+      213: 5009210989225888833
+    second: Dwarf-Recruit_80
+  - first:
+      213: -5228642349562035599
+    second: Dwarf-Recruit_81
+  - first:
+      213: 4903094515745294171
+    second: Dwarf-Recruit_82
+  - first:
+      213: 8966476995395929059
+    second: Dwarf-Recruit_83
+  - first:
+      213: 7206989719532372434
+    second: Dwarf-Recruit_84
+  - first:
+      213: -2905394429147539025
+    second: Dwarf-Recruit_85
+  - first:
+      213: 1146356833336990682
+    second: Dwarf-Recruit_86
+  - first:
+      213: 7724236562236409199
+    second: Dwarf-Recruit_87
+  - first:
+      213: -4522753429985002683
+    second: Dwarf-Recruit_88
+  - first:
+      213: -8502107054034661718
+    second: Dwarf-Recruit_89
+  - first:
+      213: 7370336794272079652
+    second: Dwarf-Recruit_90
+  - first:
+      213: 7168870670744747944
+    second: Dwarf-Recruit_91
+  - first:
+      213: 1071636364913636873
+    second: Dwarf-Recruit_92
+  - first:
+      213: -6215050729805962683
+    second: Dwarf-Recruit_93
+  - first:
+      213: 6914543885180183319
+    second: Dwarf-Recruit_94
+  - first:
+      213: -3724895057336320389
+    second: Dwarf-Recruit_95
+  - first:
+      213: 6812613767152972910
+    second: Dwarf-Recruit_96
+  - first:
+      213: 1335690752201855117
+    second: Dwarf-Recruit_97
+  - first:
+      213: 3997702968486946182
+    second: Dwarf-Recruit_98
+  - first:
+      213: -5380936126800107939
+    second: Dwarf-Recruit_99
+  - first:
+      213: -8043215470616728512
+    second: Dwarf-Recruit_100
+  - first:
+      213: -8926192569415511382
+    second: Dwarf-Recruit_101
+  - first:
+      213: -5969489580198209208
+    second: Dwarf-Recruit_102
+  - first:
+      213: -5615880742733306
+    second: Dwarf-Recruit_103
+  - first:
+      213: 8703789026095094481
+    second: Dwarf-Recruit_104
+  - first:
+      213: 7443450001640511994
+    second: Dwarf-Recruit_105
+  - first:
+      213: 6937678443390918889
+    second: Dwarf-Recruit_106
+  - first:
+      213: 5283588544507171415
+    second: Dwarf-Recruit_107
+  - first:
+      213: -2319188732554633720
+    second: Dwarf-Recruit_108
+  - first:
+      213: 4490856191126161765
+    second: Dwarf-Recruit_109
+  - first:
+      213: 6452097620995247435
+    second: Dwarf-Recruit_110
+  - first:
+      213: 1992336655753489603
+    second: Dwarf-Recruit_111
+  - first:
+      213: -7629981447797521360
+    second: Dwarf-Recruit_112
+  - first:
+      213: 232071502623257698
+    second: Dwarf-Recruit_113
+  - first:
+      213: 2895924370207297808
+    second: Dwarf-Recruit_114
+  - first:
+      213: -1516265706215025871
+    second: Dwarf-Recruit_115
+  - first:
+      213: 5671345472684793311
+    second: Dwarf-Recruit_116
+  - first:
+      213: 4282133825691481920
+    second: Dwarf-Recruit_117
+  - first:
+      213: -716457482725464356
+    second: Dwarf-Recruit_118
+  - first:
+      213: -6226877975523153177
+    second: Dwarf-Recruit_119
+  - first:
+      213: 5468940579342289302
+    second: Dwarf-Recruit_120
+  - first:
+      213: 1005944729847179597
+    second: Dwarf-Recruit_121
+  - first:
+      213: 550146279635755865
+    second: Dwarf-Recruit_122
+  - first:
+      213: 4287337360194875372
+    second: Dwarf-Recruit_123
+  - first:
+      213: -1145332215961680185
+    second: Dwarf-Recruit_124
+  - first:
+      213: -5457640936767699849
+    second: Dwarf-Recruit_125
+  - first:
+      213: -8658816789069971184
+    second: Dwarf-Recruit_126
+  - first:
+      213: 4485025465206079351
+    second: Dwarf-Recruit_127
+  - first:
+      213: 6288673902656654645
+    second: Dwarf-Recruit_128
+  - first:
+      213: -6944705156154543566
+    second: Dwarf-Recruit_129
+  - first:
+      213: 6790143133778364017
+    second: Dwarf-Recruit_130
+  - first:
+      213: 674882809499885878
+    second: Dwarf-Recruit_131
+  - first:
+      213: 6521596109241135953
+    second: Dwarf-Recruit_132
+  - first:
+      213: 7708543481595712263
+    second: Dwarf-Recruit_133
+  - first:
+      213: 1966504938363693179
+    second: Dwarf-Recruit_134
+  - first:
+      213: -7468426222972135664
+    second: Dwarf-Recruit_135
+  - first:
+      213: 2050945775940773340
+    second: Dwarf-Recruit_136
+  - first:
+      213: 457892906707829108
+    second: Dwarf-Recruit_137
+  - first:
+      213: 1797287383758458128
+    second: Dwarf-Recruit_138
+  - first:
+      213: -1851919920515196312
+    second: Dwarf-Recruit_139
+  - first:
+      213: 4247206492858301546
+    second: Dwarf-Recruit_140
+  - first:
+      213: -1060042378121641831
+    second: Dwarf-Recruit_141
+  - first:
+      213: 4382801420819889145
+    second: Dwarf-Recruit_142
+  - first:
+      213: -2185740102511496476
+    second: Dwarf-Recruit_143
+  - first:
+      213: 5961312218032693758
+    second: Dwarf-Recruit_144
+  - first:
+      213: 1469132573729012739
+    second: Dwarf-Recruit_145
+  - first:
+      213: 6015951645823684984
+    second: Dwarf-Recruit_146
+  - first:
+      213: 4975354321595297219
+    second: Dwarf-Recruit_147
+  - first:
+      213: -463415037912318313
+    second: Dwarf-Recruit_148
+  - first:
+      213: 5623639065120993859
+    second: Dwarf-Recruit_149
+  - first:
+      213: 1310663756175513564
+    second: Dwarf-Recruit_150
+  - first:
+      213: 2864133907974812562
+    second: Dwarf-Recruit_151
+  - first:
+      213: 1097487300499256539
+    second: Dwarf-Recruit_152
+  - first:
+      213: -2895252879225987111
+    second: Dwarf-Recruit_153
+  - first:
+      213: 9150979683576822783
+    second: Dwarf-Recruit_154
+  - first:
+      213: -4424970667062293647
+    second: Dwarf-Recruit_155
+  - first:
+      213: 8961296293292095426
+    second: Dwarf-Recruit_156
+  - first:
+      213: 1079593419111823335
+    second: Dwarf-Recruit_157
+  - first:
+      213: 9198008980286732182
+    second: Dwarf-Recruit_158
+  - first:
+      213: 3324469043828595905
+    second: Dwarf-Recruit_159
+  - first:
+      213: 6674990994402354165
+    second: Dwarf-Recruit_160
+  - first:
+      213: -3247357912116465494
+    second: Dwarf-Recruit_161
+  - first:
+      213: 727718173589298295
+    second: Dwarf-Recruit_162
+  - first:
+      213: -9204660278466200375
+    second: Dwarf-Recruit_163
+  - first:
+      213: -4761350088795278085
+    second: Dwarf-Recruit_164
+  - first:
+      213: -1762825624803757654
+    second: Dwarf-Recruit_165
+  - first:
+      213: 6830604949107500960
+    second: Dwarf-Recruit_166
+  - first:
+      213: 4693796030626500458
+    second: Dwarf-Recruit_167
+  - first:
+      213: -9046931721303647475
+    second: Dwarf-Recruit_168
+  - first:
+      213: -4599727130085394353
+    second: Dwarf-Recruit_169
+  - first:
+      213: 6758021609090163541
+    second: Dwarf-Recruit_170
+  - first:
+      213: -7247000707689022668
+    second: Dwarf-Recruit_171
+  - first:
+      213: -8992031634846855898
+    second: Dwarf-Recruit_172
+  - first:
+      213: 3003182421365049955
+    second: Dwarf-Recruit_173
+  - first:
+      213: -5860803742769935181
+    second: Dwarf-Recruit_174
+  - first:
+      213: -872879987113773951
+    second: Dwarf-Recruit_175
+  - first:
+      213: 2336351829166215188
+    second: Dwarf-Recruit_176
+  - first:
+      213: -6182972045462693891
+    second: Dwarf-Recruit_177
+  - first:
+      213: -1403024028772854779
+    second: Dwarf-Recruit_178
+  - first:
+      213: -6644474187054610851
+    second: Dwarf-Recruit_179
+  - first:
+      213: 1127041943160617755
+    second: Dwarf-Recruit_180
+  - first:
+      213: -7162455474614825196
+    second: Dwarf-Recruit_181
+  - first:
+      213: 8250996983443652684
+    second: Dwarf-Recruit_182
+  - first:
+      213: -2691812773211865524
+    second: Dwarf-Recruit_183
+  - first:
+      213: -227957716944549439
+    second: Dwarf-Recruit_184
+  - first:
+      213: -8899678851335363027
+    second: Dwarf-Recruit_185
+  - first:
+      213: 6193567780109349215
+    second: Dwarf-Recruit_186
+  - first:
+      213: 8797676350974614047
+    second: Dwarf-Recruit_187
+  - first:
+      213: -5024447086089084725
+    second: Dwarf-Recruit_188
+  - first:
+      213: -4520937927531681443
+    second: Dwarf-Recruit_189
+  - first:
+      213: -858216988355618987
+    second: Dwarf-Recruit_190
+  - first:
+      213: -8971072987073920117
+    second: Dwarf-Recruit_191
+  - first:
+      213: -8760024054112564560
+    second: Dwarf-Recruit_192
+  - first:
+      213: -8530205631415674648
+    second: Dwarf-Recruit_193
+  - first:
+      213: 8431763781373525742
+    second: Dwarf-Recruit_194
+  - first:
+      213: 8663469358418334950
+    second: Dwarf-Recruit_195
+  - first:
+      213: -4684767552758593889
+    second: Dwarf-Recruit_196
+  - first:
+      213: 4646169244412769495
+    second: Dwarf-Recruit_197
+  - first:
+      213: -8783417687833227331
+    second: Dwarf-Recruit_198
+  - first:
+      213: 7568618943387890483
+    second: Dwarf-Recruit_199
+  - first:
+      213: 3724782332239428811
+    second: Dwarf-Recruit_200
+  - first:
+      213: 1707480529985369799
+    second: Dwarf-Recruit_201
+  - first:
+      213: 2930260586459758611
+    second: Dwarf-Recruit_202
+  - first:
+      213: -2154375170845490738
+    second: Dwarf-Recruit_203
+  - first:
+      213: -8932647517937795134
+    second: Dwarf-Recruit_204
+  - first:
+      213: -6139822086067793521
+    second: Dwarf-Recruit_205
+  - first:
+      213: 7425207528947963705
+    second: Dwarf-Recruit_206
+  - first:
+      213: -3697210325116783063
+    second: Dwarf-Recruit_207
+  - first:
+      213: 7854608385124074780
+    second: Dwarf-Recruit_208
+  - first:
+      213: -425773689257120876
+    second: Dwarf-Recruit_209
+  - first:
+      213: -3958819162609300762
+    second: Dwarf-Recruit_210
+  - first:
+      213: 4434777045162828606
+    second: Dwarf-Recruit_211
+  - first:
+      213: -7518586176885733716
+    second: Dwarf-Recruit_212
+  - first:
+      213: -4820697414116476740
+    second: Dwarf-Recruit_213
+  - first:
+      213: -7377969800931680181
+    second: Dwarf-Recruit_214
+  - first:
+      213: 80459836640032038
+    second: Dwarf-Recruit_215
+  - first:
+      213: -3041358093375577873
+    second: Dwarf-Recruit_216
+  - first:
+      213: -7156946914332896018
+    second: Dwarf-Recruit_217
+  - first:
+      213: 1149287241890498819
+    second: Dwarf-Recruit_218
+  - first:
+      213: 6418609090294324266
+    second: Dwarf-Recruit_219
+  - first:
+      213: -4890035595627394980
+    second: Dwarf-Recruit_220
+  - first:
+      213: -7961667506132434919
+    second: Dwarf-Recruit_221
+  - first:
+      213: -6970036142717921657
+    second: Dwarf-Recruit_222
+  - first:
+      213: -3206664335660069354
+    second: Dwarf-Recruit_223
+  - first:
+      213: -1678362678834282991
+    second: Dwarf-Recruit_224
+  - first:
+      213: 5987954546380928500
+    second: Dwarf-Recruit_225
+  - first:
+      213: -5864560929991859330
+    second: Dwarf-Recruit_226
+  - first:
+      213: -7208634186741656695
+    second: Dwarf-Recruit_227
+  - first:
+      213: 3221001649854257406
+    second: Dwarf-Recruit_228
+  - first:
+      213: -3146571504546625429
+    second: Dwarf-Recruit_229
+  - first:
+      213: 8833878758065799451
+    second: Dwarf-Recruit_230
+  - first:
+      213: -7823670075644076978
+    second: Dwarf-Recruit_231
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dwarf-Recruit_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 232
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52e3c2cb48d71d730800000000000000
+      internalID: 4022133951264734757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 232
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac52f98712ad064d0800000000000000
+      internalID: -3143272702612134454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 231
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb2069829fac1e70800000000000000
+      internalID: 9087331192031685616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 232
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b5d0d54e71f4f850800000000000000
+      internalID: 6410013694294545842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_4
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 231
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43ee5420062550780800000000000000
+      internalID: -8717470931397251532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_5
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 232
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4b44e496c8ed0b50800000000000000
+      internalID: 6561156171747838799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_6
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 232
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b78584294ce4d500800000000000000
+      internalID: 420220464141797299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_7
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 231
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 902e90be1f754ed20800000000000000
+      internalID: 3306864722938814985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_8
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 232
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb9ac98864b09ef40800000000000000
+      internalID: 5758145996137474492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_9
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 231
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 650e48e886aeca830800000000000000
+      internalID: 4083896696906768470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_10
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 231
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f90d311e011192d0800000000000000
+      internalID: -3273816702005212683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_11
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 231
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 018b588a08cce87e0800000000000000
+      internalID: -1761245551300069360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_12
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 232
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3407a56326ebcef20800000000000000
+      internalID: 3453344343314296899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_13
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 232
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9aa453005fbd8140800000000000000
+      internalID: 4723641934555687578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_14
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 232
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 697cdd765acfb8450800000000000000
+      internalID: 6092240708291118998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_15
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 228
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f7702a642f00f970800000000000000
+      internalID: 8786539522073589747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_16
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 232
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1007c86b76962ab50800000000000000
+      internalID: 6602955897843773441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_17
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 232
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e417eacf3aec98050800000000000000
+      internalID: 5803396798557876558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_18
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 232
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8842f185f04ebe0d0800000000000000
+      internalID: -3392367139739458424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_19
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 232
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 778cbb66e192d3250800000000000000
+      internalID: 5925937895238781047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_20
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 233
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e659a51490b060650800000000000000
+      internalID: 6198654071501133166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_21
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 232
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57dcb9aa862961950800000000000000
+      internalID: 6419479297099812213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_22
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 232
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0057f2c84439d9a80800000000000000
+      internalID: -8458442602512943872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_23
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 232
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d98bec217c51bf2b0800000000000000
+      internalID: -5549818171045791587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_24
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 232
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3efd3341b57870180800000000000000
+      internalID: -9149195292729155613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_25
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 232
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f3ea9c499aff5030800000000000000
+      internalID: 3485780172930212857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_26
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 231
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b899163f6e08ad760800000000000000
+      internalID: 7483435460243593611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_27
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 231
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b7b64566ddb66750800000000000000
+      internalID: 6297929857444001713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_28
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 235
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7fcf1a008ad68380800000000000000
+      internalID: -8969241364401238147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_29
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 200
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a2fca5541d4e36e0800000000000000
+      internalID: -1855961246697983319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_30
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 200
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0836f354b3451a130800000000000000
+      internalID: 3576232192650470272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_31
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 199
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 008b94a694a9e1410800000000000000
+      internalID: 1449765770166384640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_32
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 200
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf3e7a852fa1d3c50800000000000000
+      internalID: 6646498253240525820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_33
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 199
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ceaeae9ee4c981f0800000000000000
+      internalID: -1042085309616050493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_34
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 200
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b1528193e9bc9f50800000000000000
+      internalID: 6889585917019967923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_35
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 200
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97897ebd9b2f9ea70800000000000000
+      internalID: 8856877022273050745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_36
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 200
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0601376a6bd3bc5b0800000000000000
+      internalID: -5347112277886431136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_37
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 200
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85571f1acd9632f80800000000000000
+      internalID: -8132540105770306216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_38
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 200
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d7187eee5d394130800000000000000
+      internalID: 3551437259095414739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_39
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 199
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b2abbbaef1a49220800000000000000
+      internalID: 2491794609017692850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_40
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 199
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 875e03a4fee103d60800000000000000
+      internalID: 7867822562106991992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_41
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 200
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6fdf823d745cce90800000000000000
+      internalID: -7004130423772029075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_42
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 200
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed9e781f442f98aa0800000000000000
+      internalID: -6158124637528528418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_43
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 200
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c5df5c431e7d2550800000000000000
+      internalID: 6137700488526681545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_44
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 200
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc00c6dae4bc1cef0800000000000000
+      internalID: -89566978793275187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_45
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 200
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cc6b76b2091e66f0800000000000000
+      internalID: -689586193498936120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_46
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 200
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aa4df7d03d9a50b0800000000000000
+      internalID: -5739101942022583645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_47
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 200
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df44051cbb7ac4020800000000000000
+      internalID: 2327419532287689981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_48
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 200
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05ce1039f068900b0800000000000000
+      internalID: -5761926846794830768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_49
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 201
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d89c339f8a61835a0800000000000000
+      internalID: -6541453543764407923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_50
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 200
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 827a3ac2acbf29810800000000000000
+      internalID: 1770754449260914472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_51
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 200
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a8bcdc127e77bce0800000000000000
+      internalID: -1389502931444909912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_52
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 199
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f42613f62e2b58ab0800000000000000
+      internalID: -5006398725154577841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_53
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 199
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a75338288fb57820800000000000000
+      internalID: 2915446925303175078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_54
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 200
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef0deabaeeefb1f10800000000000000
+      internalID: 2241665540582985982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_55
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 199
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cd6043ccbd1f2be0800000000000000
+      internalID: -1499947454324249145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_56
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 199
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f7ba60337b830420800000000000000
+      internalID: 2595071137145337840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_57
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 203
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76fde09e8a167e3f0800000000000000
+      internalID: -871620624780435609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_58
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 168
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b2fbbb9d73e226d0800000000000000
+      internalID: -3016598671761608013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_59
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 168
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6d0c3c6d3b789db0800000000000000
+      internalID: -4784939100342055571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_60
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 167
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c132d5a4a1e38ab30800000000000000
+      internalID: 4298754126962828060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_61
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 168
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec741912ae770c820800000000000000
+      internalID: 2936478804514785230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_62
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 167
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec192b70d4d166dc0800000000000000
+      internalID: -3646194631631007282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_63
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 168
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6cf4aeb7c6b44360800000000000000
+      internalID: 7153043077184420972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_64
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 168
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b60476851ed5a2cf0800000000000000
+      internalID: -276305204697677717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_65
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 168
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5eb681ba94af81a0800000000000000
+      internalID: -6805039527623213476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_66
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 168
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a55e8f4c589d31cc0800000000000000
+      internalID: -3741407696856226470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_67
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 168
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abe9f9d6b2df98040800000000000000
+      internalID: 4650526453201346234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_68
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 168
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a31185a701ae3b430800000000000000
+      internalID: 3797636267296428346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_69
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 168
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af10e43079e8e68b0800000000000000
+      internalID: -5157027744045989382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_70
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 168
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec2898c06f1d4d440800000000000000
+      internalID: 4959819944344257230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_71
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 168
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f700356b02c8d96c0800000000000000
+      internalID: -4134994810730512257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_72
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 168
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9010c2c0e438c240800000000000000
+      internalID: 4812154341790060702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_73
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 168
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f56ba43fc9664ed0800000000000000
+      internalID: -2430138610257009166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_74
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 168
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7bf118f24b008a90800000000000000
+      internalID: -7313833412592010372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_75
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 168
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90eadf7cf7d2c9800800000000000000
+      internalID: 620420875509673481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_76
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 168
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45de4b1511a9a74f0800000000000000
+      internalID: -830181782120501932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_77
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 168
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3090aeacffc300560800000000000000
+      internalID: 7277884067149383939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_78
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 168
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab9ff00b6be772ed0800000000000000
+      internalID: -2438841350094849606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_79
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 168
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45af3d60c9e02dac0800000000000000
+      internalID: -3831984269646628268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_80
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 168
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14ccac1dada448540800000000000000
+      internalID: 5009210989225888833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_81
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 166
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1728ac05c712077b0800000000000000
+      internalID: -5228642349562035599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_82
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 167
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b570a2ffb7a4b0440800000000000000
+      internalID: 4903094515745294171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_83
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 168
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e3494522535f6c70800000000000000
+      internalID: 8966476995395929059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_84
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 167
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d18e9437fe540460800000000000000
+      internalID: 7206989719532372434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_85
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 167
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa9134ef827fda7d0800000000000000
+      internalID: -2905394429147539025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_86
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 171
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adb94ec577da8ef00800000000000000
+      internalID: 1146356833336990682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_87
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 136
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f658f258a30023b60800000000000000
+      internalID: 7724236562236409199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_88
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 136
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54b701fc7b3fb31c0800000000000000
+      internalID: -4522753429985002683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_89
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 135
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaecbe13ea2720a80800000000000000
+      internalID: -8502107054034661718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_90
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 136
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42f1491c342b84660800000000000000
+      internalID: 7370336794272079652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_91
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 135
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aff47a84e1fc7360800000000000000
+      internalID: 7168870670744747944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_92
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 136
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 906711b98973fde00800000000000000
+      internalID: 1071636364913636873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_93
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 136
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54222ec3a44bfb9a0800000000000000
+      internalID: -6215050729805962683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_94
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 136
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 713a30c570565ff50800000000000000
+      internalID: 6914543885180183319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_95
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 136
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7e3cd14ea38e4cc0800000000000000
+      internalID: -3724895057336320389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_96
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 136
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e64b61f50244b8e50800000000000000
+      internalID: 6812613767152972910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_97
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 136
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8014ce89a3598210800000000000000
+      internalID: 1335690752201855117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_98
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 136
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 685603a4ba1ba7730800000000000000
+      internalID: 3997702968486946182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_99
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 136
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5663032a131355b0800000000000000
+      internalID: -5380936126800107939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_100
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 136
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04ca6fde422c06090800000000000000
+      internalID: -8043215470616728512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_101
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 136
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa2d14fa62bcf1480800000000000000
+      internalID: -8926192569415511382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_102
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 136
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 849d3e1cadc182da0800000000000000
+      internalID: -5969489580198209208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_103
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 136
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60a7a3fd26c0ceff0800000000000000
+      internalID: -5615880742733306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_104
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 136
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1da575c21021ac870800000000000000
+      internalID: 8703789026095094481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_105
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 136
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af9d923e6527c4760800000000000000
+      internalID: 7443450001640511994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_106
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 136
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e0633079c5974060800000000000000
+      internalID: 6937678443390918889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_107
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 135
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7525cae99c3135940800000000000000
+      internalID: 5283588544507171415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_108
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 136
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80e1ef4a22690dfd0800000000000000
+      internalID: -2319188732554633720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_109
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 136
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 569407989e9b25e30800000000000000
+      internalID: 4490856191126161765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_110
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 132
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4d80930a947a8950800000000000000
+      internalID: 6452097620995247435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_111
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 133
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cc2d2fe1a336ab10800000000000000
+      internalID: 1992336655753489603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_112
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 136
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03445317c4cdc1690800000000000000
+      internalID: -7629981447797521360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_113
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 135
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 264b9545dcb783300800000000000000
+      internalID: 232071502623257698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_114
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 135
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0115a961fd3603820800000000000000
+      internalID: 2895924370207297808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_115
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 139
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13352fbaf5425fae0800000000000000
+      internalID: -1516265706215025871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_116
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 104
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdd95e9c8aaa4be40800000000000000
+      internalID: 5671345472684793311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_117
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 104
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0477609d6023d6b30800000000000000
+      internalID: 4282133825691481920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_118
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 103
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd66a7527b1ae06f0800000000000000
+      internalID: -716457482725464356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_119
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 104
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ea2d31097fa599a0800000000000000
+      internalID: -6226877975523153177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_120
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 103
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6998a613b7495eb40800000000000000
+      internalID: 5468940579342289302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_121
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 104
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d49a73ee665d5fd00800000000000000
+      internalID: 1005944729847179597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_122
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 104
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9532134602382a700800000000000000
+      internalID: 550146279635755865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_123
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 104
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cef2da22d9eaf7b30800000000000000
+      internalID: 4287337360194875372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_124
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 104
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c60bc5fa66fa10f0800000000000000
+      internalID: -1145332215961680185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_125
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 104
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 774c45cdb709244b0800000000000000
+      internalID: -5457640936767699849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_126
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 104
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 011cb48b104b5d780800000000000000
+      internalID: -8658816789069971184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_127
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 104
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77f703ed5e20e3e30800000000000000
+      internalID: 4485025465206079351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_128
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 104
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53d8e1c789bd54750800000000000000
+      internalID: 6288673902656654645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_129
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 104
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 232b59184737f9f90800000000000000
+      internalID: -6944705156154543566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_130
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 104
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 176cae6543f6b3e50800000000000000
+      internalID: 6790143133778364017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_131
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 104
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 631224de65aad5900800000000000000
+      internalID: 674882809499885878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_132
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 104
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15333e3cb1d518a50800000000000000
+      internalID: 6521596109241135953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_133
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 104
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7035a24747f3afa60800000000000000
+      internalID: 7708543481595712263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_134
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 104
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b78283c82dd6a4b10800000000000000
+      internalID: 1966504938363693179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_135
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 104
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 017988c6be1da5890800000000000000
+      internalID: -7468426222972135664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_136
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 103
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd5a98c115c667c10800000000000000
+      internalID: 2050945775940773340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_137
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 104
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 471cd713c23ca5600800000000000000
+      internalID: 457892906707829108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_138
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 104
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01dc6346a5f31f810800000000000000
+      internalID: 1797287383758458128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_139
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 100
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86ad839e4a8ac46e0800000000000000
+      internalID: -1851919920515196312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_140
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 101
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6c3d867dcb11fa30800000000000000
+      internalID: 4247206492858301546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_141
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 104
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 990033dc219f941f0800000000000000
+      internalID: -1060042378121641831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_142
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 103
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fbfb01dba6d2dc30800000000000000
+      internalID: 4382801420819889145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_143
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 103
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e2f97215f0baa1e0800000000000000
+      internalID: -2185740102511496476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_144
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 107
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef1e80fb0e5dab250800000000000000
+      internalID: 5961312218032693758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_145
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 72
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30cb211ca48636410800000000000000
+      internalID: 1469132573729012739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_146
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 72
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8715f33e524fc7350800000000000000
+      internalID: 6015951645823684984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_147
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 71
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cd646a15620c0540800000000000000
+      internalID: 4975354321595297219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_148
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 72
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79e79a17a7e9199f0800000000000000
+      internalID: -463415037912318313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_149
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 71
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 342fb853fed2b0e40800000000000000
+      internalID: 5623639065120993859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_150
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 72
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd712d6fdb9603210800000000000000
+      internalID: 1310663756175513564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_151
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 72
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2937dfd4d927fb720800000000000000
+      internalID: 2864133907974812562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_152
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 72
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd4b2c392ee0b3f00800000000000000
+      internalID: 1097487300499256539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_153
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 72
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dfdec698def1d7d0800000000000000
+      internalID: -2895252879225987111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_154
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 72
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffbb96ac98fcefe70800000000000000
+      internalID: 9150979683576822783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_155
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 72
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17b8a307f985792c0800000000000000
+      internalID: -4424970667062293647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_156
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 72
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c733b0ff7bec5c70800000000000000
+      internalID: 8961296293292095426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_157
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 72
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e77208ae7c7bfe00800000000000000
+      internalID: 1079593419111823335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_158
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 72
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 697f7d63f64e5af70800000000000000
+      internalID: 9198008980286732182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_159
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 72
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cc9f284bf2e22e20800000000000000
+      internalID: 3324469043828595905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_160
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 72
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f3a84c91f452ac50800000000000000
+      internalID: 6674990994402354165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_161
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 72
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa07eb52f211fe2d0800000000000000
+      internalID: -3247357912116465494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_162
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 72
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77cd261c2df591a00800000000000000
+      internalID: 727718173589298295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_163
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 72
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ccbfdfbe3a724080800000000000000
+      internalID: -9204660278466200375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_164
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 72
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf4351a22594cedb0800000000000000
+      internalID: -4761350088795278085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_165
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 71
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa1bd902f6f2987e0800000000000000
+      internalID: -1762825624803757654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_166
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 72
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a7e398d20f2bce50800000000000000
+      internalID: 6830604949107500960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_167
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 72
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6f81adfe96b32140800000000000000
+      internalID: 4693796030626500458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_168
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 68
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b9b7c3887d27280800000000000000
+      internalID: -9046931721303647475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_169
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 69
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f48788bab8c7a20c0800000000000000
+      internalID: -4599727130085394353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_170
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 72
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 553ab3219d059cd50800000000000000
+      internalID: 6758021609090163541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_171
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 71
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43bf03ba04b7d6b90800000000000000
+      internalID: -7247000707689022668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_172
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 71
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62dc0e3bed2e53380800000000000000
+      internalID: -8992031634846855898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_173
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 75
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36a492d20827da920800000000000000
+      internalID: 3003182421365049955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_174
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 40
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bc0bed3c0e3aaea0800000000000000
+      internalID: -5860803742769935181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_175
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 40
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1843984c648e2e3f0800000000000000
+      internalID: -872879987113773951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_176
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 39
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41059cf2c936c6020800000000000000
+      internalID: 2336351829166215188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_177
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 40
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df79606feaba13aa0800000000000000
+      internalID: -6182972045462693891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_178
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 39
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50418a15415778ce0800000000000000
+      internalID: -1403024028772854779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_179
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 40
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d568b594ee51ac3a0800000000000000
+      internalID: -6644474187054610851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_180
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 40
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1bfd0d0dae04af00800000000000000
+      internalID: 1127041943160617755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_181
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 40
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41f0804b1b8d99c90800000000000000
+      internalID: -7162455474614825196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_182
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 40
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c408af07a0e618270800000000000000
+      internalID: 8250996983443652684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_183
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 40
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4ef8da6b82c4aad0800000000000000
+      internalID: -2691812773211865524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_184
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 40
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c906b90aa126dcf0800000000000000
+      internalID: -227957716944549439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_185
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 40
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d26691bbc3dfd7480800000000000000
+      internalID: -8899678851335363027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_186
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 40
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f51f8b1c419f3f550800000000000000
+      internalID: 6193567780109349215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_187
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 40
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1a52b47700a71a70800000000000000
+      internalID: 8797676350974614047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_188
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 40
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc0e9e0fef3954ab0800000000000000
+      internalID: -5024447086089084725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_189
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 40
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5922e968e66241c0800000000000000
+      internalID: -4520937927531681443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_190
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 40
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5579bd432300714f0800000000000000
+      internalID: -858216988355618987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_191
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 40
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b834b5726a8508380800000000000000
+      internalID: -8971072987073920117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_192
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 40
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ba4ebe09842e6680800000000000000
+      internalID: -8760024054112564560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_193
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 40
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e89e665c2f9e9980800000000000000
+      internalID: -8530205631415674648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_194
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 40
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeef5ca5c74a30570800000000000000
+      internalID: 8431763781373525742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_195
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 40
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e4910ffa73da3870800000000000000
+      internalID: 8663469358418334950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_196
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 40
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f964c825bbc5cfeb0800000000000000
+      internalID: -4684767552758593889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_197
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 38
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d47193bf428a7040800000000000000
+      internalID: 4646169244412769495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_198
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 39
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbf41d246280b1680800000000000000
+      internalID: -8783417687833227331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_199
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 40
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3337de824d2290960800000000000000
+      internalID: 7568618943387890483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_200
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 39
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcc38c2ebc511b330800000000000000
+      internalID: 3724782332239428811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_201
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 39
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c67ca2de7032b710800000000000000
+      internalID: 1707480529985369799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_202
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 43
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 310034b6a706aa820800000000000000
+      internalID: 2930260586459758611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_203
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 8
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec145dc423f1a12e0800000000000000
+      internalID: -2154375170845490738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_204
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 8
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cffa8dd86cd80480800000000000000
+      internalID: -8932647517937795134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_205
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 7
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f81d4d7c758facaa0800000000000000
+      internalID: -6139822086067793521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_206
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 8
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 937df7a38e2ab0760800000000000000
+      internalID: 7425207528947963705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_207
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 7
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 926f1874cced0bcc0800000000000000
+      internalID: -3697210325116783063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_208
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 8
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c150025f5bc210d60800000000000000
+      internalID: 7854608385124074780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_209
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 8
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49b2f11e519571af0800000000000000
+      internalID: -425773689257120876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_210
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 8
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eac9a242f27f09c0800000000000000
+      internalID: -3958819162609300762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_211
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 8
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e33acf2e93e7b8d30800000000000000
+      internalID: 4434777045162828606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_212
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 8
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca6409115bd98a790800000000000000
+      internalID: -7518586176885733716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_213
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 7
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb871f53e31791db0800000000000000
+      internalID: -4820697414116476740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_214
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 7
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4068e36e8f2c9990800000000000000
+      internalID: -7377969800931680181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_215
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 7
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6257d9d8bc9dd1100800000000000000
+      internalID: 80459836640032038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_216
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 8
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe0e6998deceac5d0800000000000000
+      internalID: -3041358093375577873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_217
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 8
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee41cd653ba6dac90800000000000000
+      internalID: -7156946914332896018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_218
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 7
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30985c548a613ff00800000000000000
+      internalID: 1149287241890498819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_219
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 8
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2c161bd5fa731950800000000000000
+      internalID: 6418609090294324266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_220
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 8
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c580d97c88a132cb0800000000000000
+      internalID: -4890035595627394980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_221
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 8
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 910c43df599728190800000000000000
+      internalID: -7961667506132434919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_222
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 8
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7861aa99e05754f90800000000000000
+      internalID: -6970036142717921657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_223
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 9
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61e411fb6c3af73d0800000000000000
+      internalID: -3206664335660069354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_224
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 8
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11e3fc3390245b8e0800000000000000
+      internalID: -1678362678834282991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_225
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 8
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f578343fec791350800000000000000
+      internalID: 5987954546380928500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_226
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 7
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e73633ce7e4ec9ea0800000000000000
+      internalID: -5864560929991859330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_227
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 7
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 983d68f6669c5fb90800000000000000
+      internalID: -7208634186741656695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_228
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 8
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef892885feb43bc20800000000000000
+      internalID: 3221001649854257406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_229
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 7
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b68c12b43e12554d0800000000000000
+      internalID: -3146571504546625429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_230
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 7
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1181633ded389a70800000000000000
+      internalID: 8833878758065799451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf-Recruit_231
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 11
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4c916d848dbc6390800000000000000
+      internalID: -7823670075644076978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Dwarf-Recruit_0: 4022133951264734757
+      Dwarf-Recruit_1: -3143272702612134454
+      Dwarf-Recruit_10: -3273816702005212683
+      Dwarf-Recruit_100: -8043215470616728512
+      Dwarf-Recruit_101: -8926192569415511382
+      Dwarf-Recruit_102: -5969489580198209208
+      Dwarf-Recruit_103: -5615880742733306
+      Dwarf-Recruit_104: 8703789026095094481
+      Dwarf-Recruit_105: 7443450001640511994
+      Dwarf-Recruit_106: 6937678443390918889
+      Dwarf-Recruit_107: 5283588544507171415
+      Dwarf-Recruit_108: -2319188732554633720
+      Dwarf-Recruit_109: 4490856191126161765
+      Dwarf-Recruit_11: -1761245551300069360
+      Dwarf-Recruit_110: 6452097620995247435
+      Dwarf-Recruit_111: 1992336655753489603
+      Dwarf-Recruit_112: -7629981447797521360
+      Dwarf-Recruit_113: 232071502623257698
+      Dwarf-Recruit_114: 2895924370207297808
+      Dwarf-Recruit_115: -1516265706215025871
+      Dwarf-Recruit_116: 5671345472684793311
+      Dwarf-Recruit_117: 4282133825691481920
+      Dwarf-Recruit_118: -716457482725464356
+      Dwarf-Recruit_119: -6226877975523153177
+      Dwarf-Recruit_12: 3453344343314296899
+      Dwarf-Recruit_120: 5468940579342289302
+      Dwarf-Recruit_121: 1005944729847179597
+      Dwarf-Recruit_122: 550146279635755865
+      Dwarf-Recruit_123: 4287337360194875372
+      Dwarf-Recruit_124: -1145332215961680185
+      Dwarf-Recruit_125: -5457640936767699849
+      Dwarf-Recruit_126: -8658816789069971184
+      Dwarf-Recruit_127: 4485025465206079351
+      Dwarf-Recruit_128: 6288673902656654645
+      Dwarf-Recruit_129: -6944705156154543566
+      Dwarf-Recruit_13: 4723641934555687578
+      Dwarf-Recruit_130: 6790143133778364017
+      Dwarf-Recruit_131: 674882809499885878
+      Dwarf-Recruit_132: 6521596109241135953
+      Dwarf-Recruit_133: 7708543481595712263
+      Dwarf-Recruit_134: 1966504938363693179
+      Dwarf-Recruit_135: -7468426222972135664
+      Dwarf-Recruit_136: 2050945775940773340
+      Dwarf-Recruit_137: 457892906707829108
+      Dwarf-Recruit_138: 1797287383758458128
+      Dwarf-Recruit_139: -1851919920515196312
+      Dwarf-Recruit_14: 6092240708291118998
+      Dwarf-Recruit_140: 4247206492858301546
+      Dwarf-Recruit_141: -1060042378121641831
+      Dwarf-Recruit_142: 4382801420819889145
+      Dwarf-Recruit_143: -2185740102511496476
+      Dwarf-Recruit_144: 5961312218032693758
+      Dwarf-Recruit_145: 1469132573729012739
+      Dwarf-Recruit_146: 6015951645823684984
+      Dwarf-Recruit_147: 4975354321595297219
+      Dwarf-Recruit_148: -463415037912318313
+      Dwarf-Recruit_149: 5623639065120993859
+      Dwarf-Recruit_15: 8786539522073589747
+      Dwarf-Recruit_150: 1310663756175513564
+      Dwarf-Recruit_151: 2864133907974812562
+      Dwarf-Recruit_152: 1097487300499256539
+      Dwarf-Recruit_153: -2895252879225987111
+      Dwarf-Recruit_154: 9150979683576822783
+      Dwarf-Recruit_155: -4424970667062293647
+      Dwarf-Recruit_156: 8961296293292095426
+      Dwarf-Recruit_157: 1079593419111823335
+      Dwarf-Recruit_158: 9198008980286732182
+      Dwarf-Recruit_159: 3324469043828595905
+      Dwarf-Recruit_16: 6602955897843773441
+      Dwarf-Recruit_160: 6674990994402354165
+      Dwarf-Recruit_161: -3247357912116465494
+      Dwarf-Recruit_162: 727718173589298295
+      Dwarf-Recruit_163: -9204660278466200375
+      Dwarf-Recruit_164: -4761350088795278085
+      Dwarf-Recruit_165: -1762825624803757654
+      Dwarf-Recruit_166: 6830604949107500960
+      Dwarf-Recruit_167: 4693796030626500458
+      Dwarf-Recruit_168: -9046931721303647475
+      Dwarf-Recruit_169: -4599727130085394353
+      Dwarf-Recruit_17: 5803396798557876558
+      Dwarf-Recruit_170: 6758021609090163541
+      Dwarf-Recruit_171: -7247000707689022668
+      Dwarf-Recruit_172: -8992031634846855898
+      Dwarf-Recruit_173: 3003182421365049955
+      Dwarf-Recruit_174: -5860803742769935181
+      Dwarf-Recruit_175: -872879987113773951
+      Dwarf-Recruit_176: 2336351829166215188
+      Dwarf-Recruit_177: -6182972045462693891
+      Dwarf-Recruit_178: -1403024028772854779
+      Dwarf-Recruit_179: -6644474187054610851
+      Dwarf-Recruit_18: -3392367139739458424
+      Dwarf-Recruit_180: 1127041943160617755
+      Dwarf-Recruit_181: -7162455474614825196
+      Dwarf-Recruit_182: 8250996983443652684
+      Dwarf-Recruit_183: -2691812773211865524
+      Dwarf-Recruit_184: -227957716944549439
+      Dwarf-Recruit_185: -8899678851335363027
+      Dwarf-Recruit_186: 6193567780109349215
+      Dwarf-Recruit_187: 8797676350974614047
+      Dwarf-Recruit_188: -5024447086089084725
+      Dwarf-Recruit_189: -4520937927531681443
+      Dwarf-Recruit_19: 5925937895238781047
+      Dwarf-Recruit_190: -858216988355618987
+      Dwarf-Recruit_191: -8971072987073920117
+      Dwarf-Recruit_192: -8760024054112564560
+      Dwarf-Recruit_193: -8530205631415674648
+      Dwarf-Recruit_194: 8431763781373525742
+      Dwarf-Recruit_195: 8663469358418334950
+      Dwarf-Recruit_196: -4684767552758593889
+      Dwarf-Recruit_197: 4646169244412769495
+      Dwarf-Recruit_198: -8783417687833227331
+      Dwarf-Recruit_199: 7568618943387890483
+      Dwarf-Recruit_2: 9087331192031685616
+      Dwarf-Recruit_20: 6198654071501133166
+      Dwarf-Recruit_200: 3724782332239428811
+      Dwarf-Recruit_201: 1707480529985369799
+      Dwarf-Recruit_202: 2930260586459758611
+      Dwarf-Recruit_203: -2154375170845490738
+      Dwarf-Recruit_204: -8932647517937795134
+      Dwarf-Recruit_205: -6139822086067793521
+      Dwarf-Recruit_206: 7425207528947963705
+      Dwarf-Recruit_207: -3697210325116783063
+      Dwarf-Recruit_208: 7854608385124074780
+      Dwarf-Recruit_209: -425773689257120876
+      Dwarf-Recruit_21: 6419479297099812213
+      Dwarf-Recruit_210: -3958819162609300762
+      Dwarf-Recruit_211: 4434777045162828606
+      Dwarf-Recruit_212: -7518586176885733716
+      Dwarf-Recruit_213: -4820697414116476740
+      Dwarf-Recruit_214: -7377969800931680181
+      Dwarf-Recruit_215: 80459836640032038
+      Dwarf-Recruit_216: -3041358093375577873
+      Dwarf-Recruit_217: -7156946914332896018
+      Dwarf-Recruit_218: 1149287241890498819
+      Dwarf-Recruit_219: 6418609090294324266
+      Dwarf-Recruit_22: -8458442602512943872
+      Dwarf-Recruit_220: -4890035595627394980
+      Dwarf-Recruit_221: -7961667506132434919
+      Dwarf-Recruit_222: -6970036142717921657
+      Dwarf-Recruit_223: -3206664335660069354
+      Dwarf-Recruit_224: -1678362678834282991
+      Dwarf-Recruit_225: 5987954546380928500
+      Dwarf-Recruit_226: -5864560929991859330
+      Dwarf-Recruit_227: -7208634186741656695
+      Dwarf-Recruit_228: 3221001649854257406
+      Dwarf-Recruit_229: -3146571504546625429
+      Dwarf-Recruit_23: -5549818171045791587
+      Dwarf-Recruit_230: 8833878758065799451
+      Dwarf-Recruit_231: -7823670075644076978
+      Dwarf-Recruit_24: -9149195292729155613
+      Dwarf-Recruit_25: 3485780172930212857
+      Dwarf-Recruit_26: 7483435460243593611
+      Dwarf-Recruit_27: 6297929857444001713
+      Dwarf-Recruit_28: -8969241364401238147
+      Dwarf-Recruit_29: -1855961246697983319
+      Dwarf-Recruit_3: 6410013694294545842
+      Dwarf-Recruit_30: 3576232192650470272
+      Dwarf-Recruit_31: 1449765770166384640
+      Dwarf-Recruit_32: 6646498253240525820
+      Dwarf-Recruit_33: -1042085309616050493
+      Dwarf-Recruit_34: 6889585917019967923
+      Dwarf-Recruit_35: 8856877022273050745
+      Dwarf-Recruit_36: -5347112277886431136
+      Dwarf-Recruit_37: -8132540105770306216
+      Dwarf-Recruit_38: 3551437259095414739
+      Dwarf-Recruit_39: 2491794609017692850
+      Dwarf-Recruit_4: -8717470931397251532
+      Dwarf-Recruit_40: 7867822562106991992
+      Dwarf-Recruit_41: -7004130423772029075
+      Dwarf-Recruit_42: -6158124637528528418
+      Dwarf-Recruit_43: 6137700488526681545
+      Dwarf-Recruit_44: -89566978793275187
+      Dwarf-Recruit_45: -689586193498936120
+      Dwarf-Recruit_46: -5739101942022583645
+      Dwarf-Recruit_47: 2327419532287689981
+      Dwarf-Recruit_48: -5761926846794830768
+      Dwarf-Recruit_49: -6541453543764407923
+      Dwarf-Recruit_5: 6561156171747838799
+      Dwarf-Recruit_50: 1770754449260914472
+      Dwarf-Recruit_51: -1389502931444909912
+      Dwarf-Recruit_52: -5006398725154577841
+      Dwarf-Recruit_53: 2915446925303175078
+      Dwarf-Recruit_54: 2241665540582985982
+      Dwarf-Recruit_55: -1499947454324249145
+      Dwarf-Recruit_56: 2595071137145337840
+      Dwarf-Recruit_57: -871620624780435609
+      Dwarf-Recruit_58: -3016598671761608013
+      Dwarf-Recruit_59: -4784939100342055571
+      Dwarf-Recruit_6: 420220464141797299
+      Dwarf-Recruit_60: 4298754126962828060
+      Dwarf-Recruit_61: 2936478804514785230
+      Dwarf-Recruit_62: -3646194631631007282
+      Dwarf-Recruit_63: 7153043077184420972
+      Dwarf-Recruit_64: -276305204697677717
+      Dwarf-Recruit_65: -6805039527623213476
+      Dwarf-Recruit_66: -3741407696856226470
+      Dwarf-Recruit_67: 4650526453201346234
+      Dwarf-Recruit_68: 3797636267296428346
+      Dwarf-Recruit_69: -5157027744045989382
+      Dwarf-Recruit_7: 3306864722938814985
+      Dwarf-Recruit_70: 4959819944344257230
+      Dwarf-Recruit_71: -4134994810730512257
+      Dwarf-Recruit_72: 4812154341790060702
+      Dwarf-Recruit_73: -2430138610257009166
+      Dwarf-Recruit_74: -7313833412592010372
+      Dwarf-Recruit_75: 620420875509673481
+      Dwarf-Recruit_76: -830181782120501932
+      Dwarf-Recruit_77: 7277884067149383939
+      Dwarf-Recruit_78: -2438841350094849606
+      Dwarf-Recruit_79: -3831984269646628268
+      Dwarf-Recruit_8: 5758145996137474492
+      Dwarf-Recruit_80: 5009210989225888833
+      Dwarf-Recruit_81: -5228642349562035599
+      Dwarf-Recruit_82: 4903094515745294171
+      Dwarf-Recruit_83: 8966476995395929059
+      Dwarf-Recruit_84: 7206989719532372434
+      Dwarf-Recruit_85: -2905394429147539025
+      Dwarf-Recruit_86: 1146356833336990682
+      Dwarf-Recruit_87: 7724236562236409199
+      Dwarf-Recruit_88: -4522753429985002683
+      Dwarf-Recruit_89: -8502107054034661718
+      Dwarf-Recruit_9: 4083896696906768470
+      Dwarf-Recruit_90: 7370336794272079652
+      Dwarf-Recruit_91: 7168870670744747944
+      Dwarf-Recruit_92: 1071636364913636873
+      Dwarf-Recruit_93: -6215050729805962683
+      Dwarf-Recruit_94: 6914543885180183319
+      Dwarf-Recruit_95: -3724895057336320389
+      Dwarf-Recruit_96: 6812613767152972910
+      Dwarf-Recruit_97: 1335690752201855117
+      Dwarf-Recruit_98: 3997702968486946182
+      Dwarf-Recruit_99: -5380936126800107939
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
