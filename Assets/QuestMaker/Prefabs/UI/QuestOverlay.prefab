@@ -58,7 +58,7 @@ MonoBehaviour:
   m_Spacing: 0
   m_ChildForceExpandWidth: 1
   m_ChildForceExpandHeight: 1
-  m_ChildControlWidth: 1
+  m_ChildControlWidth: 0
   m_ChildControlHeight: 0
   m_ChildScaleWidth: 0
   m_ChildScaleHeight: 1
@@ -75,3 +75,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 53198fd46cf5c0644b593b806be286b4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: QuestMaker.Runtime::QuestMaker.Runtime.QuestOverlay
+  _tmp_pref: {fileID: 0}

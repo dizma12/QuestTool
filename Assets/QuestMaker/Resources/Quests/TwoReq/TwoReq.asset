@@ -10,54 +10,69 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ca184911a1cf05c41a8bccbc419e7cf6, type: 3}
-  m_Name: TwoPrereqs
+  m_Name: TwoReq
   m_EditorClassIdentifier: QuestMaker.Domain::QuestMaker.Domain.QuestSO
   _objectives:
-  - rid: 2370604684028674217
+  - rid: 2370604689943167245
+  - rid: 2370604689943167246
   _qType: 0
   _prerequisites:
-    rid: 2370604684028674218
+    rid: 2370604689943167247
   _rewards:
-    rid: 2370604684028674219
+    rid: 2370604689943167248
   _specialEvent:
     rid: -2
   _handInGiverGuid: 0b32d0742bd2d944cab7589649ccf3b8
-  _turnInGiverGuid: 028598315bb02434c9c5cce8db34da64
+  _turnInGiverGuid: 0b32d0742bd2d944cab7589649ccf3b8
   references:
     version: 2
     RefIds:
     - rid: -2
       type: {class: , ns: , asm: }
-    - rid: 2370604684028674217
+    - rid: 2370604689943167245
       type: {class: ObjectiveData, ns: QuestMaker.Domain.Objectives, asm: QuestMaker.Domain}
       data:
         id: Collect_1
-        desc: adf
+        desc: 
         _steps:
-        - rid: 2370604684028674220
-    - rid: 2370604684028674218
+        - rid: 2370604689943167249
+    - rid: 2370604689943167246
+      type: {class: ObjectiveData, ns: QuestMaker.Domain.Objectives, asm: QuestMaker.Domain}
+      data:
+        id: Collect_1
+        desc: 
+        _steps:
+        - rid: 2370604689943167250
+    - rid: 2370604689943167247
       type: {class: PrerequisiteData, ns: QuestMaker.Domain, asm: QuestMaker.Domain}
       data:
         _level: 1
         _items: []
         _reps: []
         _quests:
-        - Auto
-        - AutoNext
+        - MyFirstQuest
+        - MySecondQuest
         _inGameTimeConstraint: 0
-    - rid: 2370604684028674219
+    - rid: 2370604689943167248
       type: {class: RewardData, ns: QuestMaker.Domain, asm: QuestMaker.Domain}
       data:
-        _exp: 0
+        _exp: 50000
         _items:
         - _item: {fileID: 11400000, guid: 4c49f9a07d6b1ae43871c76721bd5521, type: 2}
-          _amount: 1
+          _amount: 3
         _abilities: []
         _reps: []
-    - rid: 2370604684028674220
+    - rid: 2370604689943167249
       type: {class: CollectStepData, ns: QuestMaker.Domain.Steps, asm: QuestMaker.Domain}
       data:
-        _stepId: Collect_[Collectable_RedCoin]_5
+        _stepId: Collect_[Collectable_RedCoin]_8
         _collectable:
           _item: {fileID: 11400000, guid: 19884ee631746f740a07d71d670f96e1, type: 2}
-          _amount: 5
+          _amount: 8
+    - rid: 2370604689943167250
+      type: {class: CollectStepData, ns: QuestMaker.Domain.Steps, asm: QuestMaker.Domain}
+      data:
+        _stepId: Collect_[Collectable_Ring]_7
+        _collectable:
+          _item: {fileID: 11400000, guid: 1106ae74209db0c41bcac20046adb984, type: 2}
+          _amount: 7

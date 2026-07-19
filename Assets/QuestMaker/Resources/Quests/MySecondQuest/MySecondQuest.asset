@@ -10,41 +10,50 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ca184911a1cf05c41a8bccbc419e7cf6, type: 3}
-  m_Name: Auto
+  m_Name: MySecondQuest
   m_EditorClassIdentifier: QuestMaker.Domain::QuestMaker.Domain.QuestSO
   _objectives:
-  - rid: 2370604684028674136
+  - rid: 2370604689943167180
   _qType: 0
   _prerequisites:
-    rid: -2
+    rid: 2370604689943167181
   _rewards:
-    rid: 2370604684028674137
+    rid: 2370604689943167182
   _specialEvent:
     rid: -2
-  _handInGiverGuid: 
+  _handInGiverGuid: 028598315bb02434c9c5cce8db34da64
   _turnInGiverGuid: 
   references:
     version: 2
     RefIds:
     - rid: -2
       type: {class: , ns: , asm: }
-    - rid: 2370604684028674136
+    - rid: 2370604689943167180
       type: {class: ObjectiveData, ns: QuestMaker.Domain.Objectives, asm: QuestMaker.Domain}
       data:
-        id: Slay_1
-        desc: Kill
+        id: Collect_1
+        desc: 
         _steps:
-        - rid: 2370604684028674138
-    - rid: 2370604684028674137
+        - rid: 2370604689943167183
+    - rid: 2370604689943167181
+      type: {class: PrerequisiteData, ns: QuestMaker.Domain, asm: QuestMaker.Domain}
+      data:
+        _level: 5
+        _items: []
+        _reps: []
+        _quests: []
+        _inGameTimeConstraint: 0
+    - rid: 2370604689943167182
       type: {class: RewardData, ns: QuestMaker.Domain, asm: QuestMaker.Domain}
       data:
         _exp: 50000
         _items: []
         _abilities: []
         _reps: []
-    - rid: 2370604684028674138
-      type: {class: SlayStepData, ns: QuestMaker.Domain.Steps, asm: QuestMaker.Domain}
+    - rid: 2370604689943167183
+      type: {class: CollectStepData, ns: QuestMaker.Domain.Steps, asm: QuestMaker.Domain}
       data:
-        stepId: Slay_[mrrlggs]_15
-        enemyID: mrrlggs
-        amount: 15
+        _stepId: Collect_[Collectable_Coin]_15
+        _collectable:
+          _item: {fileID: 11400000, guid: a20254c12603c2347b4ae926a1dce73c, type: 2}
+          _amount: 15

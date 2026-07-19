@@ -17,7 +17,7 @@ namespace QuestMaker.Runtime.Game
         private QuestEventBus _questBus = null;
         private int _spawnIndex = 0;
 
-        private void Start()
+        private void OnEnable()
         {
             if (_spawns == null || _spawns.Count == 0)
             {
@@ -33,6 +33,7 @@ namespace QuestMaker.Runtime.Game
             _questBus.OnQuestObjectiveChanged += HandleObjectiveChanged;
         }
 
+
         private void OnDisable()
         {
             if (_questBus != null)
@@ -41,6 +42,7 @@ namespace QuestMaker.Runtime.Game
 
         private void HandleObjectiveChanged(Quest quest)
         {
+            ConsoleLogger.Log(this, $"Found collectable step in quest {quest.ID}");
             foreach (CollectStepData step in quest.GetCurrentStepsOfType<CollectStepData>())
             {
                 SpawnCollectables(step.CollectableItem);
