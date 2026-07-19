@@ -11,16 +11,15 @@ namespace QuestMaker.Runtime
 {
     public class InventoryPanel : MonoBehaviour
     {
-        private const int MAX_INVENTORY_SLOTS = 24;
+
         [SerializeField] private GameObject _inventoryPanel = null;
         [SerializeField] private GameObject _inventorySlotPrefab = null;
-        [SerializeField] private InventorySlot[] _slots = new InventorySlot[MAX_INVENTORY_SLOTS];
+        [SerializeField] private InventorySlot[] _slots = new InventorySlot[RuntimeSettings.MAX_INVENTORY_CAPACITY];
 
         private Inventory _inventory = null;
         private int _activeSlots = 0;
         private bool _isPanelOpen = false;
-        private GameEventBus _gameEventbus = null;
-        private QuestEventBus _questEventBus = null;
+
 
         // Start is called once before the first execution of Update after the MonoBehaviour is created
         void Start()
@@ -42,24 +41,16 @@ namespace QuestMaker.Runtime
 
             _inventory = ReferenceManager.Instance.RequestReference<InventoryManager>().Inventory;
 
-            SubscribeToEvents();
+            if(SubscribeToEvents())
+                InitializePanel();
+            else
+                gameObject.SetActive(false);
+
             CloseInventoryPanel();
         }
         private void OnDisable()
         {
             UnsubscribeToEvents();
-        }
-
-        private void HandleQuestCompleted(Quest quest)
-        {
-            if(_isPanelOpen)
-                BuildInventoryPanel();
-        }
-
-        private void HandleItemCollected(ItemStack stack)
-        {
-            if (_isPanelOpen)
-                BuildInventoryPanel();
         }
 
         private void Update()
@@ -104,10 +95,11 @@ namespace QuestMaker.Runtime
         private void BuildInventoryPanel()
         {
             _inventoryPanel.SetActive(true);
+
             ItemStack[] inv = _inventory.RetrieveAll();
             if (inv.Length == 0) return;
 
-            int repeats = Mathf.Min(inv.Length, MAX_INVENTORY_SLOTS);
+            int repeats = Mathf.Min(inv.Length, RuntimeSettings.MAX_INVENTORY_CAPACITY);
 
             for (int i = 0; i < repeats; i++)
             {
@@ -126,42 +118,23 @@ namespace QuestMaker.Runtime
 
         }
 
-        private void SubscribeToEvents()
+        private bool SubscribeToEvents()
         {
-            if(ReferenceManager.Instance == null)  return;
+            if(ReferenceManager.Instance == null)  return false;
 
             GameEventManager mngr = ReferenceManager.Instance.RequestReference<GameEventManager>();
 
-            if( mngr == null) return;
+            if (mngr == null) return false;
 
-            _gameEventbus = mngr.RequestBus<GameEventBus>();
+            mngr.RequestBus<GameEventBus>().OnInventoryChanged += HandleInventoryChanged;
+            return true;
 
-            if (_gameEventbus == null)
-            {
-                ConsoleLogger.LogError(this, "Inventory Slot prefab cannot be null. Please assign it on InventoryPanel!");
-                gameObject.SetActive(false);
-                return;
-            }
-            else
-            {
-                _gameEventbus.OnItemCollected += HandleItemCollected;
-            }
+        }
 
-
-
-            _questEventBus = mngr.RequestBus<QuestEventBus>();
-            if (_questEventBus == null)
-            {
-                ConsoleLogger.LogError(this, "Inventory Slot prefab cannot be null. Please assign it on InventoryPanel!");
-                gameObject.SetActive(false);
-                return;
-            }
-            else
-            {
-                _questEventBus.OnQuestCompleted += HandleQuestCompleted;
-
-                InitializePanel();
-            }
+        private void HandleInventoryChanged()
+        {
+            if (_isPanelOpen)
+                BuildInventoryPanel();
         }
 
         private void UnsubscribeToEvents()
@@ -171,9 +144,8 @@ namespace QuestMaker.Runtime
             GameEventManager mngr = ReferenceManager.Instance.RequestReference<GameEventManager>();
 
             if (mngr == null) return;
-
-            mngr.RequestBus<GameEventBus>().OnItemCollected -= HandleItemCollected;
-            mngr.RequestBus<QuestEventBus>().OnQuestCompleted -= HandleQuestCompleted;
+            
+            mngr.RequestBus<GameEventBus>().OnInventoryChanged -= HandleInventoryChanged;
         }
     }
 }

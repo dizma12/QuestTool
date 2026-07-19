@@ -12,7 +12,7 @@ namespace QuestMaker.Runtime.Events
         public event Action<string> OnAreaEntered;
         public event Action<ItemStack> OnItemDelivered;
         public event Action<string> OnNpcTalked;
-
+        public event Action OnInventoryChanged;
         public void FireEnemyKilled(string enemyID) => OnEnemyKilled?.Invoke(enemyID);
 
         public void FireItemCollected(ItemStack stack)
@@ -36,5 +36,7 @@ namespace QuestMaker.Runtime.Events
         }
 
         public void FireNpcTalked(string npcID) => OnNpcTalked?.Invoke(npcID);
+
+        public void FireInventoryChanged() => OnInventoryChanged?.Invoke();
     }
 }

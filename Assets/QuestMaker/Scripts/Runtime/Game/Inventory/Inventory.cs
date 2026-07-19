@@ -1,4 +1,5 @@
 ﻿using QuestMaker.Domain;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 
@@ -7,7 +8,37 @@ namespace QuestMaker.Runtime.Game
 {
     public class Inventory : IInventoryReader
     {
-        private readonly Dictionary<Item, int> _items = new(50);
+        private readonly Dictionary<Item, int> _items = null; 
+        private readonly Action _inventoryChanged = null;
+        public Inventory(Action callback, Dictionary<Item, int> premadeInventory = null)
+        {
+            if (callback != null)
+                _inventoryChanged = callback;
+
+            if (premadeInventory == null || !ValidateInventory(premadeInventory))
+            {
+                _items = new(RuntimeSettings.MAX_INVENTORY_CAPACITY);
+                return;
+            }
+            else
+                _items = premadeInventory;
+        }
+
+        private bool ValidateInventory(Dictionary<Item, int> premadeInventory)
+        {
+            if (premadeInventory.Count > RuntimeSettings.MAX_INVENTORY_CAPACITY)
+            {
+                ConsoleLogger.LogError(this, $"Provided inventory exceeds the maximum capacity of: {RuntimeSettings.MAX_INVENTORY_CAPACITY}");
+                return false;
+            }
+
+            foreach( var item in premadeInventory.Keys )
+            {
+                if(item == null || premadeInventory[item] <= 0)
+                    return false;
+            }
+            return true;
+        }
 
         /// <summary>
         /// Adds new Item to inventory. If u want to add a stack use AddItemStack.
@@ -16,6 +47,11 @@ namespace QuestMaker.Runtime.Game
         /// <param name="amount">The amount of item stacks</param>
         public void AddItem(Item item, int amount)
         {
+            if(_items.Count >= RuntimeSettings.MAX_INVENTORY_CAPACITY)
+            {
+                ConsoleLogger.LogWarning(this, $"Inventory is at max capacity ({RuntimeSettings.MAX_INVENTORY_CAPACITY}) cannot add more.");
+                return;
+            }
             if (item == null || amount <= 0)
             {
                 ConsoleLogger.LogError(this, $"Item to Add cant be null or amount <= 0");
@@ -26,6 +62,7 @@ namespace QuestMaker.Runtime.Game
             {
                 _items.Add(item, amount);
                 ConsoleLogger.Log(this, $"Added Item: {item.Name} with amount: {amount}");
+                _inventoryChanged?.Invoke();
             }
             else
                 ConsoleLogger.LogError(this, $"Inventory already contains item {item.Name}, to add stack use AddItemStack");
@@ -54,7 +91,7 @@ namespace QuestMaker.Runtime.Game
 
             currentStacks += amountToAdd;
             _items[item] = currentStacks;
-
+            _inventoryChanged?.Invoke();
             ConsoleLogger.Log(this, $"Succesfuly added stacks for item {item}. New amount= {currentStacks}");
 
         }
@@ -77,6 +114,7 @@ namespace QuestMaker.Runtime.Game
                 return;
             }
             _items.Remove(item);
+            _inventoryChanged?.Invoke();
         }
 
         /// <summary>
@@ -109,6 +147,7 @@ namespace QuestMaker.Runtime.Game
             else
             {
                 _items[item] = currentStacks;
+                _inventoryChanged?.Invoke();
                 ConsoleLogger.Log(this, $"Succesfuly removed {amountToRemove} stacks from item {item.name}");
             }
         }

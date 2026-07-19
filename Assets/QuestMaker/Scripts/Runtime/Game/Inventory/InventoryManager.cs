@@ -9,7 +9,7 @@ namespace QuestMaker.Runtime.Game
     [DefaultExecutionOrder(-17)]
     public class InventoryManager : MonoBehaviour, IGameReference
     {
-        public Inventory Inventory { get; } = new();
+        public Inventory Inventory { get; private set; } = null;
 
         private GameEventBus _gameEventBus = null;
         private QuestEventBus _questEventBus = null;
@@ -18,6 +18,8 @@ namespace QuestMaker.Runtime.Game
         {
             if (!SubscribeSelf())
                 ConsoleLogger.LogError(this, "Failed to Subscribe self on ReferenceManager");
+
+            
         }
 
         private void Start()
@@ -29,6 +31,8 @@ namespace QuestMaker.Runtime.Game
                 return;
             }
             _gameEventBus = mng.RequestBus<GameEventBus>();
+
+            Inventory = new(_gameEventBus.FireInventoryChanged);
 
             _gameEventBus.OnItemCollected += HandleItemGained;
             _gameEventBus.OnItemCrafted += HandleItemGained;
