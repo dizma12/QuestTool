@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca184911a1cf05c41a8bccbc419e7cf6, type: 3}
+  m_Name: Auto
+  m_EditorClassIdentifier: QuestMaker.Domain::QuestMaker.Domain.QuestSO
+  _objectives:
+  - rid: 2370604684028674136
+  _qType: 0
+  _prerequisites:
+    rid: -2
+  _rewards:
+    rid: 2370604684028674137
+  _specialEvent:
+    rid: -2
+  _handInGiverGuid: 
+  _turnInGiverGuid: 
+  references:
+    version: 2
+    RefIds:
+    - rid: -2
+      type: {class: , ns: , asm: }
+    - rid: 2370604684028674136
+      type: {class: ObjectiveData, ns: QuestMaker.Domain.Objectives, asm: QuestMaker.Domain}
+      data:
+        id: Slay_1
+        desc: Kill
+        _steps:
+        - rid: 2370604684028674138
+    - rid: 2370604684028674137
+      type: {class: RewardData, ns: QuestMaker.Domain, asm: QuestMaker.Domain}
+      data:
+        _exp: 50000
+        _items: []
+        _abilities: []
+        _reps: []
+    - rid: 2370604684028674138
+      type: {class: SlayStepData, ns: QuestMaker.Domain.Steps, asm: QuestMaker.Domain}
+      data:
+        stepId: Slay_[mrrlggs]_15
+        enemyID: mrrlggs
+        amount: 15
