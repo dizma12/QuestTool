@@ -11,19 +11,19 @@ namespace QuestMaker.Runtime.Game
     internal class Player : MonoBehaviour, IGameReference
     {
         //consts
-        public const ushort MAX_LEVEL = 60;
-        private const float _nextLevelModifier = 1.5f;
+
+        private const float _nextLevelModifier = RuntimeSettings.NEXT_LEVEL_MODIFIER;
 
         //public getters
-        public uint Level => _level;
+        public ushort Level => _level;
         public string ExpProgress => $"{_currentExp}/{_expToNextLevel}";
         //inspector
         [SerializeField, ReadOnlyInspector]
-        private uint _level = 1;
+        private ushort _level = 1;
         [SerializeField, ReadOnlyInspector]
         private uint _currentExp = 0;
         [SerializeField, ReadOnlyInspector]
-        private uint _expToNextLevel = 200;
+        private uint _expToNextLevel = RuntimeSettings.STARTING_NEXT_LEVEL_EXP;
 
 
         //private
@@ -48,7 +48,7 @@ namespace QuestMaker.Runtime.Game
         {
             uint positiveExpToAdd = Convert.ToUInt32(Mathf.Abs(expToAdd));
 
-            if (_level == MAX_LEVEL)
+            if (_level == RuntimeSettings.MAX_PLAYER_LEVEL)
             {
                 if (_currentExp < _expToNextLevel)
                     _currentExp = _expToNextLevel;
@@ -68,7 +68,7 @@ namespace QuestMaker.Runtime.Game
 
                 _level++;
 
-                if (_level == MAX_LEVEL)
+                if (_level == RuntimeSettings.MAX_PLAYER_LEVEL)
                 {
                     _currentExp = _expToNextLevel;
                     return;

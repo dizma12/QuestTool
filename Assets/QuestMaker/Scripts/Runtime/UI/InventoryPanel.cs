@@ -97,7 +97,7 @@ namespace QuestMaker.Runtime
             _inventoryPanel.SetActive(true);
 
             ItemStack[] inv = _inventory.RetrieveAll();
-            if (inv.Length == 0) return;
+
 
             int repeats = Mathf.Min(inv.Length, RuntimeSettings.MAX_INVENTORY_CAPACITY);
 

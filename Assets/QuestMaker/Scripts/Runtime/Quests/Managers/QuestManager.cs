@@ -257,7 +257,6 @@ namespace QuestMaker.Runtime
             {
                 CheckQuestPrerequisites(quest);
             }
-            _questEventBus.FirePrerequisitesChanged();
         }
 
         /// <summary>
@@ -282,9 +281,9 @@ namespace QuestMaker.Runtime
             if (PrereqsMet(quest))
             {
                 quest.SetQuestStatus(QuestStatus.CAN_START);
-
+                _questEventBus.FirePrerequisitesChanged();
                 //if for some reason givers were not set auto-start quest
-                if(string.IsNullOrEmpty(quest.HandInGiverGuid))
+                if (string.IsNullOrEmpty(quest.HandInGiverGuid))
                     TryStartQuest(quest.ID);
 
                 return true;
